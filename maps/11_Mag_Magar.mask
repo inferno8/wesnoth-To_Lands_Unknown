@@ -1,0 +1,12 @@
+border_size=0
+usage=mask
+
+_f          , _f          , _f          , Xv          , _f          , Xv          , _f          , _f          , _f
+_f          , _f          , _f          , Xv          , Xv          , Xv          , Xv          , Xv          , _f
+_f          , _f          , _f          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv
+_f          , _f          , _f          , Xv          , Xv          , Xv          , Xv          , Xv          , _f
+_f          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , _f
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , 3 Xv        , _f
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv
+_f          , Xv          , Xv          , Xv          , _f          , _f          , Xv          , _f          , _f
+_f          , _f          , _f          , _f          , Xv          , _f          , _f          , _f          , _f

@@ -1,0 +1,474 @@
+To Lands Unknown - ChangeLog
+* * * * * * * * * * * * * * 
+
+Version 2.2.0c
+- General
+	* various 1.13 compatibility fixes 
+	* moved sounds and images to "To Lands Unknown - Resources" add-on
+
+Version 2.2.0b
+- Scenario 04 - Southern Nations
+	* fixed wrong unit id 
+
+Version 2.2
+- Scenarios
+	* added a new training mission 'Skydock' between scenario 19 and old scenario 20 (renamed further scenarios' numbers accordingly)
+	* various dialogue improvements
+	> scenario 04 - Southern Nations
+		* replaced one of salamanders with its yellow variant
+	> scenario 05 - Fire Canyon
+		* when rescuing lizards, all of them are rescued at the same time
+		* the prisoners are now actual units instead of images
+	> scenario 07 - Ka-Gatta
+		* added glow effects to lying artifacts
+		* made climibing on the sword statue smoother by adding some road tiles
+	> scenario 18 - The Last Summoner
+		* added fancy teleport animations for portals
+	
+- Units
+	* added meditation amla for Mehir (grants +1 exp per turn when resting)
+	* as a compensation, Mehir gets 80 experience points for each of the mentioned AMLAs he obtained (instead of 60)
+	* Living Gate: increased max hp by 8, decreased phys. resistances by 15%, increased arcane resistances by 10%
+	* True Rashti: decreased dimensional vortex attack damage to 20 (-3)
+	
+- Graphics
+	* implemented special movie borders to distinguish animated cutscenes from the rest of the screen
+
+- Music
+	* added a new track for the Summoners intro
+	
+- Translations
+	* added the French translation
+	* updated the Polish translation
+	* updated the raw translation file for translators
+
+Version 2.1.0a
+- Scenarios
+	> scenario 11 - Mag-Magar
+		* fixed a bug causing vanishing of recall list at the end of the scenario
+
+Version 2.1
+- Scenarios
+	* replaced the morning schedule in TLU in the desert scenarios with a custom one
+	> scenario 01 - al-Kamija
+		* the mage castle has a fancy glow effect around it
+	> scenario 03 - East of Sud-Affar
+		* enemy waves are team-colored
+	> scenario 07 - Ka-Gatta
+		* when the ghost summons a unit, then the unit uses it's recruit animation
+	> scenario 08 - Bridge of Light
+		* the mage castle has a fancy glow effect around it
+	> scenario 10 - Message
+		* dialogue improvements
+	> scenario 11 - Mag-Magar
+		* when Malib joins the player, all of his remaining troops (except LG, and DG2s) join the player until the end of the scenario 
+		* the Living Gate avoids large groups of enemies now
+		* dialogue improvements
+		* code cleanup
+	> scenario 13 - Tar-Tabar
+		* dialogue improvements
+	> scenario 14 - The Great Desert
+		* when the player moves one of his units closer to Reficul, the enemy leader creates a forcefield around himself increasing his resistances decently
+		* made Reficul able to summon fire elementals in his 'boss fight' stage (either 1 fire avatar, or 2 fire elementals) every 2 turns, as well as 2 fire elementals appearing when Reficul activates his shield
+		* when Reficul convinces blue beings to join him, he convinces 4 at a time, instead of 1
+		* when Reficul dies, he drops a pickable 'sphere' artifact which increases all (except secret) resistances by 15% 
+		* dialogue improvements
+	> scenario 16 - Gates of Kharos
+		* fixed the bug that prevented players from firing the moveto event if they already moved Rashti to the hex before
+		* dialogue improvements
+	> scenario 18 - The Last Summoner
+		* added escort to the Sky Guardian, code improvements
+	> scenario 21 - Ruins
+		* the turn limit is now dynamic and dependant on the circle completion
+		* added additional waves of enemies in case players decide to face them (not recommended)
+
+- Units
+	* fixed missing Rashti hero overlay
+	* fixed Rashti still costing full upkeep after being reunited
+	* added an animation for when Rashti levels up into True Rashti
+	* Rashti no longer gets the ability to recruit after transforming into her true form
+	* removed canrecruit=yes from Rashti
+	* reduced Living Gate's hp to 60
+
+- Translations
+	* updated the Polish translation
+	* updated the raw translation file for translators
+
+Version 2.0.6
+- Scenarios
+	> scenario 09 - Chaos
+		* at certain point Rashti gets a temporary skirmisher ability and additional moves
+	> scenario 10 - Message
+		* dialogue improvements
+	> scenario 11 - Mag-Magar
+		* Malib is controllable by players now
+	> scenario 15 - Far North
+		* changed allied AI behavior
+		* added more gold to enemy
+		
+- Units
+	* Mehir (Last Summoner variant) has a 'spawns gates' AMLA, and his hp AMLA increases hp by 8 instead of 5, and doesn't increase max XP
+	* Mehir (Last Summoner variant) has a recruiting animations (using either of his 3 magic animations, depending on what type of unit is recruited/recalled (red circle glow for efreeti and dharmarhamis, yellow circle glow for rhami'datus,DG2s, and Mystical Jinns, and blue circle glow is for anything else))
+	* The Living Gate has a new attack icon, and has the TLU textdomain
+	* Mehir now gets 60 exp for every aura AMLA he chose as a Summons Master at the start of Deep Freeze (after the starting dialog) as a compensation
+
+- Code
+	* fixed artifact descriptions being not translatable
+
+- Translations
+	* updated the Polish translation
+	* updated the raw translation file for translators
+
+Version 2.0.5
+- Scenarios
+	> scenario 03 - East of Sud-Affar
+		* added some facial expressions for Mehir
+	> scenario 04 - Southern Nations
+		* added flag variant for Barbarians
+	> scenario 05 - Fire Canyon
+		* added flag variant for Barbarians
+	> scenario 07 - Ka-Gatta
+		* added some graves of the first summoners
+	> scenario 08 - Bridge of Light
+		* small dialogue improvement
+	> scenario 15 - Far North
+		* added flag variant for Tharis
+		* changed enemy income and gold values
+		* added flames to villages in the north-west corner of the map; the fire stops after a few turns
+		* enemy captures surrounding villages at the start
+	> scenario 16 - Gates of Kharos
+		* added flag variant for Tharis
+- Units
+	* further tweaked Mehir's AMLA
+- General
+	* Amulet of Metamorph right-click menu has custom icons for different elements
+	* Spear of Rhami grant additional 10% of magical resistance
+	* modified item macro structure and bufixing; extracted artifact descriptions to a new file
+- Translations
+	* updated the Polish translation
+	* updated the raw translation file for translators
+
+Version 2.0.4
+- Scenarios
+	> scenario 21 - Ruins
+		* fixed victory condition not firing in some cases
+		* players gain control over side 3 at certain point
+		* increased turn limit to 14 (+2 turns)
+		* added some missing sounds
+
+- Units
+	* Rashti is loyal upon recall
+
+- Translations
+	* updated the polish translation
+	* udpated the raw translation file for translators
+
+Version 2.0.3
+- Scenarios
+	> scenario 03 - East of Sud-Affar
+		* fixed missing portrait of enemy leader
+	> scenario 06 - Dome of Elements
+		* moveto event restores Mehir's full mp now
+	> scenario 07 - Ka-Gatta
+		* added a new artifact - the Banishment Staff
+		* items can now be picked up for later use, even if the player has units that are able to use the item
+		* the ancient scimitar artifact's damage buff now also apllies to Summons Masters, also, it gives the unit's scimitar attack the same icon as Summons Master's
+		* added a warning for players that the ancient scimitar overwrites existing weapon specials
+	> scneario 11 - Mag-Magar
+		* reduced Living Gate's hp to 80, and made the attacker/defender hit events trigger 'attack end' ones
+		* improved some dialogues
+
+- Units
+	* if Mehir gets the magic AMLA before advancing to commander, the bonus damage to circle of destruction damage bonus will be activated when Mehir becomes a Grand Summoner
+	* made the mp AMLA reduce hp by 10%, instead of 10, to make it feel more like it's worth it
+	* added a hammer AMLA, since it's rather weird that Mehir can get a scimitar AMLA, but not a hammer one
+	* made damage AMLAs for Mehir increase max xp by 15% instead of 10%
+	* decreased Mehir's max xp (to 70 for lvl2, to 110 for lvl3, to 140 for lvl4, and to 180 for lvl5)
+	* the scimitar strikes AMLA now increases max exp by 25%, instead of 30%
+	* Last Summoner has a +5 hp AMLA, instead of the default +3
+	* added AMLAs to the leader variant of Mehir
+	* heavily decreased the amount of damage/strike AMLAs Mehir can get (up to 3 for melee damage AMLAs, and up to 2 for scimitar strike amlas).
+
+- General
+	* fixed a serious bug causing Grand Summoners still being unable to advance to lvl4 when unlocked
+	* fixed some typos
+
+- Translations
+	* updated the polish translation
+	* udpated the raw translation file for translators
+
+Version 2.0.2
+- Scenarios
+	> scenario 20 Deep Freeze
+		* Mehir no longer looses his experience
+	> scenario 21 Ruins
+		* Allied leader moves closer to the center of the map when appears
+-Units
+	Rashti and all her variants have 50% flat defense and 6 movepoints
+- General
+	* fixed some typos
+	* fixed some graphical glitches
+-Translations
+	* added clean translation file for translators
+	* updated Polish translation
+
+Version 2.0.1
+- Scenarios
+	> scenario 03 - East of Sud-Affar
+		* added a technical note to warn players about possible rendering issues and instruct how to fix them
+		* Mehir warns players not to rush on the enemy and hints about incoming waves of hostile units
+	> scenario 04 - Southern Nations
+		* removed impassable hexes
+		* Salamander warns Mehir about hostile flying reinforcements which are about to appear soon
+		* changed income of allies
+		* fixed wrong gold amount of enemies on hard
+		* allies get additional gold instead of set
+		* enemy gets additional gold which amount is difficulty based now
+	> scenario 05 - Fire Canyon
+		* fixed victory and defeat conditions not executing sometimes
+	> scenario 06 - Dome of Elements
+		* Mehir no longer looses his experience
+		* fixed Mehir-looses-his-elementals bug
+	> scenario 07 - Ka-Gatta
+		* fixed the item applier macro adding items to wrong units
+		* Mehir comments on the presence of Earth Elementals
+		* The Ghost summons once per 2 turns
+	> scenario 08 - Bridge of Light
+		* removed Cosmic Eye from enemy recruitment list
+	> scenario 09 - Chaos
+		* removed Cosmic Eye from enemy recruitment list
+	> scenario 11 - Mag-Magar
+		* Allied leader moves and attacks now
+		* fixed Malib's wrong portrait at the end of the mission
+		* Living Gate triggers appropriate die events of Matriarchs
+		* fixed a graphical glitch when the tower falls
+	> scenario 12 - A New Leader
+		* Mehir no longer looses his experience
+	> scenario 13 - Tar-Tabar
+		* fixed Mehir-looses-his-elementals bug
+		* fixed a bug making Mehir not able to summon anything
+	> scenario 15 - Gates of Kharos
+		* removed 'turns run out' warning since there is no longer a turn limit
+
+-Units
+	* added description for Elder
+	* increased Living Gate's hitpoints to 100
+	* removed deprecated ablitilty description format of Mehir's lvl4 custom advancements
+- General
+	* fixed some typos
+
+Version 2.0
+
+- Scenarios
+	> scenario 01 - al-Kamija
+		* added a prologue for TLU explaining basic facts about the world the campaing takes place
+		* Aerius releases an Avatar of Air when moving to the palace, if the player is strong
+		* added dialogue for a Jinn
+		* caprets arrive earlier
+		* there is a boss fight at the end of the scenario
+	> scenario 02 - Abyss - renamed to Central Palace
+		* new animation solution for the Nomolas' Hand
+	> scenario 03 - East of Sud-Affar
+		* added workers painting the Mega-Cricle
+		* Bakha (npc heavy camel rider) is no longer required to die as a bait
+		* Rhaxiz is a Mystic not a Clan Leader
+	> scenario 04 - Southern Nations
+		* changed the events at the very beginning of the mission
+		* added information about Efreeti being only temporary aid
+		* when Jaffar sleeps Mehir takes ownership of his villages
+		* changed impassable terrain to unwalkable
+		* gave Mehir one village at the start, as well as more starting gold
+		* placed a few villages closer to the center of the battle, but next to unwalkable terrain
+		* after Mehir recieves more gold, he moves automatically to Jaffar's keep
+		* changed income pattern of enemy
+		* removed some of the swamp between Mehir's and Jaffar's camps.
+	> scenario 05 - Fire Canyon
+		* changed types of imprisoned npcs
+		* made imprison npcs loyal and very weak
+		* fixed cage throw event
+		* better recruitment pattern of enemies
+		* added some enemies to different locations on the map
+		* added more starting gold and increased income for Mehir and enemy
+	> scenario 06 - NEW - Dome of Elements
+		* added new training mission between scenario 5 and old scenario 6 (renamed further scenarios' numbers accordingly
+	> scenario 07 - Ka-Gatta
+		* added some magical guardians and one boss
+		* added some villages across the map
+		* relics descriptions are shown before picking them up, not after
+		* Desert Cloak can be picked up by Camel Masters too
+		* removed the carpet artifact's skirmisher bonus, because it is no longer useful, since Carpet Master already has skirmisher
+		* the amulet of metamorph has cooldown of 1 turn and changes max hitpoints depending on a special formula
+		* increased income as well as starting gold
+		* reduced number of bats
+		* added custom ToD
+	> scenario 08 - Bridge of Light
+		* changed enemy leader type, new Rashti vs Golems animation
+		* changed starting gold and income
+		* changed recruitment pattern of enemies
+		* made Rashti loyal
+	> scenario 09 - Chaos
+		* added Shadow Mage assassin
+		* when the portal opens it spawns some magical enemies
+		* changed starting gold and income
+		* added custom ToD
+	> scenario 10 - Message
+		* changed the scenery
+		* added guards
+		* changed Witch to Dark Witch
+		* changed objectives
+	> scenario 11 - Mag-Magar
+		* improved story a bit
+		* introduced one of the ultimate beings
+		* changed enemy income
+		* replaced villages with wells to preserve scale of the scenery
+		* removed the illusion part
+	> scenario 13 - NEW - Tar-Tabar
+		* added new training mission between scenario 11 and old scenario 12 (renamed further scenarios' numbers accordingly)
+	> scenario 14 - Great Desert
+		* Reficul summons additional enemies when he starts loosing
+		* changed Reficul's army structure
+		* enlarged starting keep
+		* changed starting gold and income
+	> scenario 15 - Far North
+		* allowed undo
+		* modified hydras spawning algorithm
+		* made Atiros loyal
+		* changed Mehir's income
+		* added bonus gold for enemy when condition is met
+		* added a few lines of dialogue to the enemy leader
+		* made rain effect less noisy
+		* better rain sound fx
+	> scenario 16 - Gates of Kharos
+		* resized keeps
+		* increased income
+		* improved multihex scenery and animations
+		* changed behaviour of Tharis leader
+		* changed bonus gold values for enemies
+	> scenario 17 - The City of Light
+		* improved dialogues
+	> scenario 18 - The Last Summoner
+		* changed starting gold amount for all sides
+		* added progressive income system for enemies
+		* replaced old teleport code with tunnel tags
+		* changed recruitment patter of enemies
+		* prevented lvl0s and lvl1s from being auto-recalled
+		* changed Mehir's income
+	> scenario 20 - Deep Freeze
+		* made Mehir and Rashti have better movement on snow
+		* created additional waves of enemies
+		* reinforced guardians
+		* changed income
+	> scenario 21 - Ruins
+		* changed enemy types in each wave as well as their numbers
+		* introduced a new character
+		* increased the difficulty of the scenario
+	> scenario 22 - Home
+		* changed some lines of dialogue
+		* fixed Ums going to the Abyss
+
+- Code
+	* all "locked" grand summoners with AMLAS receive a promotion when unlocked and advance automatically upon recall
+	* added a warning message about Grand Summoners not being able to advance too early in the campaign
+	* added special messages warning players about usage of Jinns too early in game
+	* added 'Jinn's advice' in late game
+	* added face icons for all major characters
+
+- Structure
+	* changed file names
+	* removed unused files
+	
+- Misc
+	* Code cleanup
+
+Version 1.7.1
+Language and Translations
+    * Updated translations: Polish
+	* Added missing textdomain binding in messages.cfg
+
+- Scenarios
+    * Fixed list of recruits in scenario 5
+	* Updated AI to match the 1.12 standard in scenario 1 and 4
+
+- Misc
+	* Added the [feedback] tag in the .pbl file
+
+Version 1.7.0
+
+Language and Translations
+    * Updated translations: Polish
+    * New translation: Italian
+
+- Scenarios
+    * New scenarios: Deep Freeze and Ruins
+    * Removed scenarios: Gates to the Past, Sun Dome
+    * Revised multiple scenarios in terms of story telling and balancing
+	
+- Maps
+    * Improved maps for scenarios 6, 7, 12, 13
+
+- Units
+    * Fixed Rashti's missing sounds
+    * Fixed Jaffar's idle animation
+
+- Misc
+    * Added special sound effects for illusion in scenario 10
+
+Version 1.6.0
+
+- Dependencies
+    * Moved all images with no translatable content into a separate add-on
+      called To Lands Unknown: Images
+    * Requires Era of Magic 1.0.0
+
+- Language and Translations
+    * New translations: German, Hungarian
+    * Updated translation: Polish
+
+- Scenarios
+    * Converted instances of Ggf to Gg^Efm in scenario 14
+
+
+Version 1.5.6
+
+- Units
+    * Stop using AMLA_EXPERIENCE
+
+Version 1.5.5
+
+- Units
+    * Made units conform to 1.9.10's AMLA XP standards
+    * Made it so that all non-EoMa units' help topics are hidden
+
+Version 1.5.4
+
+- Language and Translations
+    * New translation: Polish
+
+- Other
+    * Got rid of portal-end.png again
+    * Tiled the jungle terrain
+    * Tiled castle/villages in Fire Canyon
+    * Made rain match rain from Wesnoth 1.8
+    * Removed a compatability hack, thus dropping support for 1.9.4 and below
+
+Version 1.5.3
+
+- Language and Translations
+    * Converted all straight quotation marks and apostrophes to proper form
+    * Converted all fake dashes to proper form
+
+- Scenarios
+    * Added a warning about rain damage in scenario 14
+
+- Other
+    * Added missing image: portal-end.png
+    * Code improvements preventing Neutral Summoners from summoning jinns too early in-game
+    * Fixed broken UTF-8 in various files
+
+Version 1.5.2
+
+- Scenarios
+    * Fixed a broken reference to scenario five
+
+- Other
+    * Began to keep a changelog
