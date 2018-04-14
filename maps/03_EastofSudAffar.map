@@ -1,17 +1,14 @@
-border_size=1
-usage=map
-
 Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
 Dd, Dd, Dd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd, Dd^Vdt, Dd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Yyyy, Dd
 Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Ce, Ce, Ce, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd
 Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Vdt, Ce, Ke, Ce, Dd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd
 Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Vdt, Dd, Dd, Ce, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd
 Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd
-Hd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd, Dd, Dd, Dd
-Dd, Md, Md, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd, Dd, Dd, Dd^Esd, Dd
-Dd, Dd, Dd, Md, Md, Hd, Hd, Hd, Hd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd, Dd, Dd, Dd, Dd, Dd
-Dd, Dd, Dd, Dd, Dd, Md, Md, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
-Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, 1 Dd, Dd, Dd^Edpp, Dd^Ftd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd
+Mdd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd, Dd, Dd, Dd
+Mdd, Mdd, Mdd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd^Qov, Dd^Qov, Dd^Qov, Dd, Dd, Dd, Dd^Esd, Dd
+Dd, Mdd, Mdd, Mdd, Mdd, Hd, Mdd, Hd, Hd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Qov, Dd, Dd, Dd, Dd, Dd, Dd
+Dd, Dd, Dd, Mdd, Mdd, Mdd, Mdd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
+Dd, Dd, Hd, Dd, Dd, Mdd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, 1 Dd, Dd, Dd^Edpp, Dd^Ftd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd
 Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Do, Dd^Ftd, Dd^Edpp, Dd, Dd, Dd, Dd, Dd, Dd
 Dd, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd
 Dd, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd^Edpp, Dd^Esd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd

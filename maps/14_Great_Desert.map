@@ -1,8 +1,5 @@
-border_size=1
-usage=map
-
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Hd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv
+Xv, Xv^Yyyy, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Qxu, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Xv
 Xv, Xv, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Qxu, Qxu, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Xv
 Xv, Xv, Dd, Dd, Dd, Dd, Dd, Dd, Qxu, Qxu, Qxu, Qxu, Qxu, Qxu, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Xv
@@ -31,5 +28,5 @@ Xv, Xv, Dd, Dd, Dd, Dd, Dd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, 
 Xv, Xv, Dd, Ce, Ce, Dd^Vdt, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Dd, Xv
 Xv, Xv, Dd^Vdt, Ce, 1 Ke, Ce, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Hd, Xv
 Xv, Xv, Dd, Ce, Ce, Ce, Dd^Vdt, Hd, Hd, Hd, Hd, Hd, Hd, Hd, Hd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Xv
-Xv, Xv, Dd, Dd, Dd, Ce, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Hd, Hd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Xv
+Xv, Xv, Xv, Dd, Xv, Ce, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Hd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Dd, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv

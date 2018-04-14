@@ -1,6 +1,3 @@
-border_size=1
-usage=map
-
 Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Gg, Gs^Qov, Gg, Gg^Fjty, Ss^Fjty, Ss, Ss, Ss, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
 Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Yyyy, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Gs^Fjty, Gg^Fjty, Gg^Fjty, Gg^Fjty, Gg^Fjty, Gg^Fjty, Gs^Fjty, Ss, Gg, Gs, Gg, Gg, Gg, Gg, Gs, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
 Ss^Fjty, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Gg^Fjty, Gs, Ss^Fjty, Gs^Fjty, Gg^Fjty, Gg, Gg, Gg, Gs, Re^Vct, Dd^Vdt, 4 Ss, Gs, Gg, Gg, Gs, Gg^Yyyy, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Ss
@@ -20,11 +17,11 @@ Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Gs^Qov, Gs^Qov, 
 Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Gs^Qov, Gs^Qov, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Wwf, Dd, Dd, Dd, Dd, Dd, Gs^Vht, Ss, Ss, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Fjty
 Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Gs^Qov, Gs^Qov, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, 2 Dd, Dd, Wwf, Dd, Ss, Ss^Fjty, Dd^Fjty, Dd, Ss, Ss, Ss, Ss, Ss^Qov, Ss, Ss^Qov, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty
 Gs, Gs^Qov, Gs^Qov, Gs^Qov, Re^Vct, Dd, Dd, Dd^Do, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Ww, Ss, Dd, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss, Ss, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty
-Dd, Dd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Ww, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss, Ss, Ss, Cud, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty
-Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Wwf, Ww, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss, Ss, Ss, Ss, Cud, Ss, Cud, Ss, Cud, Ss, Ss
-Dd, Dd, Dd^Vdt, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Do, Dd, Dd, Dd, Dd, Dd, Gs^Vht, Rd^Qov, Ww, Ww, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Cud, Ss, Cud, Kud, Cud, Ss, Cud, Ss
-Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Re^Vct, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Dd, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ww, Ww, Ww, Ww, Ss, Ww, Ss, Ss, Ss, Ss, Cud, Cud, Cud, Ss, Ss, Ss
-Dd, Dd, Ce, Ce, Ce, Dd, Dd, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss, Ww, Ss^Vm, Ww, Ss, Ww, Ww^Bw/, Ss, Ss, Ss, Cud, Ss, Ss, Ss, Ss
+Dd, Dd, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Ww, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss, Ss, Ss, Cte, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Dd, Dd^Esd, Dd, Dd, Dd, Dd, Wwf, Ww, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ss, Ss, Ss, Ss, Ss, Cte, Ss, Cte, Ss, Cte, Ss, Ss
+Dd, Dd, Dd^Vdt, Dd^Vdt, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd^Do, Dd, Dd, Dd, Dd, Dd, Gs^Vht, Rd^Qov, Ww, Ww, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Ss, Cte, Ss, Cte, Kte, Cte, Ss, Cte, Ss
+Dd, Dd, Dd, Dd, Dd, Dd, Dd, Dd, Re^Vct, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Dd, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ww, Ww, Ww, Ww, Ss, Ww, Ss, Ss, Ss, Ss, Cte, Cte, Cte, Ss, Ss, Ss
+Dd, Dd, Ce, Ce, Ce, Dd, Dd, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss, Ww, Ss^Vm, Ww, Ss, Ww, Ww^Bw/, Ss, Ss, Ss, Cte, Ss, Ss, Ss, Ss
 Dd, Dd, Ce, 3 Ke, Ce, Ce, Dd, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss, Ss, Ss, Ss^Fjty, Ss, Ww, Ss^Vhs, Ss, Ss, Ss, Ss, Ss, Ss^Vm, Ss
 Dd, Dd, Dd, Ce, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss, Ss, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ww, Ww, Ss, Ss, Ss, Ww^Bw/, Ss, Ss
 Dd, Dd, Dd, Dd, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Rd^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss^Qov, Ss, Ss^Vhs, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss^Fjty, Ss, Ww, Ww, Ww, Ss^Fjty, Ww, Ww^Fjty

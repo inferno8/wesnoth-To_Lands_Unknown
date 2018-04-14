@@ -1,14 +1,133 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
-Version 2.2.0c
+Version 3.0
+- Scenarios
+	* added two new scenarios: 'Morning in al-Kamija' and 'Jungle of Life'
+	* revamped more than 90% of all dialog strings (this applies to all scenarios, even if not specified)
+	* replaced the old carryover system with the one used in mainline campaigns
+	* improved objectives, added carryover information and notes
+	* adjusted gold and income amount to achieve better balance
+	* greatly revamped ai behavior
+	> scenario 01 - Highest Tiers (renamed)
+		* greatly improved the multi-hex terrain
+		* added various turn limits depending on the difficulty level
+		* on easy Mehir starts with the intelligent trait
+		* Mehir now appears at the bottom of the map first
+		* Aerius arrives from a slightly different direction
+		* Mehir's men have fixed traits now
+		* added citizens to the streets
+		* Elder tries to reach the gate by himself
+		* added miscellaneous dialogs in various places		
+	> scenario 02 - Central Palace (renamed)
+		* completely changed the look of the map
+		* replaced old Nomolas animation with a new one
+	> scenario 03 - Near the Jungle (renamed)
+		* improved the map
+	> scenario 04 - Southern Nations
+		* reduced chest's gold to 750
+		* on hard Rocs' leader is lvl2
+	> scenario 05 - Fire Canyon
+		* on hard enemy has additional troops
+		* Roc Riders may appear on the battle field under certain circumstances		
+	> scenario 06 - Dome of Elements
+		* reduced the number of units on the map
+	> scenario 07 - Ka-Gatta
+		* added time areas for dark corners
+		* replaced scorpions with spiders
+		* the spear guardian is a boss creature now
+		* cave guardians have a custom ai behavior (roaming around when there are no enemies in sight)
+		* added statues
+		* moving on the empty keeps now gives a bit of gold
+		* on normal/hard difficulty, the Ghost of Summons Master spawns additional bodyguards when appearing
+		* there is a time limit/time over event now
+	> scenario 08 - Goddess of all Rhamis (renamed)
+		* enemy has different composition of troops depending on the difficulty level
+		* Rashti is unrenamable now
+	> scenario 09 - Chaos
+		* Aerius can recruit air elementals now
+	> scenario 10 - Message
+		* Elders try to run away from the invaders
+		* there is a time limit/time over event now
+	> scenario 11 - Siege of Mag-Magar (renamed)
+		* added citizens
+	> scenario 12 - A New Leader
+		* better positioned units for the ceremony
+		* added more variety (with the units having different team colors instead of just brown)
+	> scenario 13 - Tar-Tabar
+		* the instructor has a name now
+		* Jaffar has an interesting sequence involving his servants now
+		* added miscellaneous dialogs in various places	
+	> scenario 14 - Abyssal Rebellion (renamed)
+		* greatly improved the dialogs
+		* changed the composition of Reficul's troops
+		* corrupted Rashti considers only summoners as her targets, an is ignored by Reficul's troops
+		* fixed the sphere of reficul artifact not being dropped
+	> scenario 15 - Defense of Saffaros (renamed)
+		* fixed the weather schedule bug
+		* improved the map
+		* replaced bats with black orbs on enemy's recruit list
+	> scenario 16 - Siege of Kharos (renamed)
+		* replaced bats with black orbs on enemy's recruit list
+		* Dharma'rashti is now more challenging (with fire elementals, tharis orbs, and Dedylos's men not trying to kill her)
+		* enemy leaders have last breath speeches now
+	> scenario 17 - The City of Light
+		* completely changed the look of the map
+	> scenario 18 - Sky Kingdom (renamed)
+		* added teleport effects
+	> scenario 20 - Skydock
+		* added more units to the map
+	> scenario 20 - North Pole (renamed)
+		* enemy tries to protect the entrance to the bunker
+		* the screen slowly changes color as the scenario progresses
+		* there is a time limit/time over event now
+	> scenario 21 - Ruins
+		* blue orbs heal 12 hp instead of the full amount
+		* some Mehir's troops are automatically recalled at the beginning of the scenario
+	> scenario 22 - Epilogue (renamed)
+		* the scenario is now dialog-only, with the player not having an option to skip the turn
+		* during the ceremony only player's veterans are recalled
+
 - General
-	* various 1.13 compatibility fixes 
-	* moved sounds and images to "To Lands Unknown - Resources" add-on
+	* improved artifact descriptions
+	* improved item macro
+	* improved the Spear of Rhami artifact stats: it increases the attack by 25% and increases magic resistance by 10%
+	* Dharma'Rashti spawns hostile fire elementals now to delay Ho'Rashti
+	* added various last breath messages for Mehir
+	* improved last breath messages of various npcs
+	* improved multiple maps
+
+- Graphics
+	* revamped many multi-hex terrains and animations
+	* added various 24fps animations for the Last Summoner
+	* added various 24fps animations for Rashti
+	* improved the look of the Living Gate
+	* improved the look of the Ghost of Summons Master
+	* replaced some scenery animations with animhacks
+
+- Units
+	* DharmaRhashti: renamed to Dharma'rashti; hp to 58 (+8); reduced attack damage by 1; changed alignment to neutral; improved her description
+	* HoRhashti: renamed to Ho'rashti; improved her description
+	* Elder: replaced the heal ability with the leadership lvl2 ability; added 10% fire and cold resistances; added weak melee attack
+	* Ghost of Summons Master: hp to 64 (+2); changed phystical resistances to 90% (instead of 99%), changed cold resistance to 70% (instead of 50) and arcane to 40% (instead of 50); removed the regeneration ability; changed melee damage type to cold, replaced magical weapon special with skilled, added drain weapon special
+	* Jaffar: fixed "always sleepeing" bug
+	* The Last Summoner: improved description; removed the scroll attack; fixed the mobile keep bug
+	* added new campaign-specific units: Merchant, Enchanter, Citizens, Carpet Ferryman
+	
+
+- Structure
+	* replaced old dependecies references (Images, Cutscenes) with new ones (Resources)
+	* moved images and sounds to the external dependency add-ons (left only translatable images)
+	* moved the Last Summoner's recruit animations to a separate file
+	* moved Mehir's variations to a separate file
+	
+- Misc
+	* removed custom cave terrain definition
 
 Version 2.2.0b
 - Scenario 04 - Southern Nations
 	* fixed wrong unit id 
+
 
 Version 2.2
 - Scenarios
