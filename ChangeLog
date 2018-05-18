@@ -1,6 +1,20 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.0.1
+- Scenarios
+	> scenario 00 - Prologue
+		* made Wonderful Jinni dialog accessible only once
+	> scenario 22 - Ruins
+		* fixed missing unit id error
+- Graphics
+	* resized the Transition cutscene
+	* improved timing of the title cutscene
+- General
+	* added an option to skip cutscenes
+	* implemented safe mode for game-crashing cutscenes
+	* implemented special cutscene theme
+
 Version 3.0
 - Scenarios
 	* added two new scenarios: 'Morning in al-Kamija' and 'Jungle of Life'
@@ -77,14 +91,14 @@ Version 3.0
 		* added teleport effects
 	> scenario 20 - Skydock
 		* added more units to the map
-	> scenario 20 - North Pole (renamed)
+	> scenario 21 - North Pole (renamed)
 		* enemy tries to protect the entrance to the bunker
 		* the screen slowly changes color as the scenario progresses
 		* there is a time limit/time over event now
-	> scenario 21 - Ruins
+	> scenario 22 - Ruins
 		* blue orbs heal 12 hp instead of the full amount
 		* some Mehir's troops are automatically recalled at the beginning of the scenario
-	> scenario 22 - Epilogue (renamed)
+	> scenario 23 - Epilogue (renamed)
 		* the scenario is now dialog-only, with the player not having an option to skip the turn
 		* during the ceremony only player's veterans are recalled
 
