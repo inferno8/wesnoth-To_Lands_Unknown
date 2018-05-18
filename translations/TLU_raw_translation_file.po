@@ -9689,6 +9689,18 @@ msgstr ""
 msgid "team_name^cutscene"
 msgstr ""
 
+msgid "Do you want to play the cutscene?"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Play (safe mode - may be slow)"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
 #. ( in macro definition: TLU_CITIZEN_BASE )
 #: add-ons/C:\Users\Łukasz\Documents\My Games\Wesnoth1.13\data\add-ons\To_Lands_Unknownn/units/citizens.cfg: 19
 msgid ""
