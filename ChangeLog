@@ -1,6 +1,23 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.1
+- General
+	* added a new gameplay mode - the Badass Mode with the alternative story, dialogs and events
+	* improved dialogs
+	* fixed typos
+	* changed play/stop buttons for cutscenes
+	* removed unused code fragments
+	* renames files and ids to match scenario names
+	* bugfixing
+- Translations
+	* updated the raw translation file for translators
+	* updated the Polish translation
+	
+- Scenarios
+	> scenario 00 
+		* made Wonderful Jinni dialog accessible only once
+
 Version 3.0.1
 - Scenarios
 	> scenario 00 - Prologue
