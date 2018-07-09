@@ -5145,7 +5145,7 @@ msgstr ""
 
 #. [message]: speaker = SpearGuardian; 
 #: To_Lands_Unknown/scenarios/08_Ka-gatta.cfg: 1321
-msgid "(with an excitement in her voice) Really? Thank you so much! Since I am free now, can I join you?"
+msgid "(with excitement in her voice) Really? Thank you so much! Since I am free now, can I join you?"
 msgstr ""
 
 #. [message]: speaker = Mehir; 
