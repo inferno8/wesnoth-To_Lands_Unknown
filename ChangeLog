@@ -1,6 +1,31 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.1.1
+- Scenarios
+	> scenario 01 - Highiest Tiers:
+		* fixed incorrect Mehir's movepoints in badass mode
+		* fixed advanced units upkeep cost
+	> scenario 03 - Near the Jungle:
+		* improved objectives
+	> scenario 04 - Southern Nations:
+		* Jaffar's troops try to not block Mehir's keep
+		* made the great circle unwalkable
+	> scenario 06 - Fire Canyon:
+		* put friendly units on the bridge (if any) to the recall list
+	> scenario 08 - Ka-Gatta:
+		* fixed Spear Guardian trying to block access to the Spear in badass mode
+		* fixed incorrect speaker inside scimitar event
+	> scenario 16 - Defense of Saffaros:
+		* added healers (lvl1) to Dedylos' side to spice things up
+
+- General
+	* fixed side issues for Dharma'rashti in badass mode (she can be weakened by player now)
+
+- Translations
+	* updated the raw translation file for translators
+	* updated the Polish translation
+
 Version 3.1
 - General
 	* added a new gameplay mode - the Badass Mode with the alternative story, dialogs and events
