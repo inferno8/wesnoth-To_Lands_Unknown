@@ -2860,7 +2860,7 @@ msgstr ""
 #. {ALTERNATIVE_OBJECTIVE ...}:
 #: To_Lands_Unknown/scenarios/03_Near_the_Jungle.cfg: 411
 #: To_Lands_Unknown/scenarios/03_Near_the_Jungle.cfg: 716
-msgid "Survive until turns run out."
+msgid "Survive until turns run out"
 msgstr ""
 
 #. [message]: speaker = Mehir; 
@@ -5645,11 +5645,6 @@ msgstr ""
 #. [message]: speaker = Mehir; 
 #: To_Lands_Unknown/scenarios/10_Chaos.cfg: 499
 msgid "Do whatever you have to do, your Highness. My troops will cover you!"
-msgstr ""
-
-#. [objective]: condition = win; 
-#: To_Lands_Unknown/scenarios/10_Chaos.cfg: 507
-msgid "Survive until turns run out"
 msgstr ""
 
 #. [message]: (unit) type = EoMa_Mystic_Warrior; 
