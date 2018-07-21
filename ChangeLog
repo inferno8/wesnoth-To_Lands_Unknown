@@ -1,6 +1,47 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.1.2
+- Scenarios
+	> scenario 08 - Ka-Gatta:
+		* enemies no longer spawn near the Golden Carpet
+		* Mehir comments on the Ghost's monolith inscription only if the Ghost is defeated
+		* added a note about Dimensional Gates in case players acquired them during the scenario
+		* improved artifact descriptions (added a note that advancing a unit via an artifact works only for units below their max level)
+	> scenario 09 - Goddess of all Rhamis:
+		* tweaked a piece of dialog
+	> scenario 10 - Chaos:
+		* player's turn is no longer skipped on gate activation
+	> scenario 12 - Siege of Mag-Magar:
+		* fixed Ho'Rhamis being duplicated on scenario start
+		* changed Living Gate's AI to make it more active on the battlefield
+	> scenario 16 - Defense of Saffaros:
+		* fixed incorrect gold carryover percentage
+	> scenario 17 - Siege of Kharos:
+		* removed one of enemy villages
+		* Great Warlocks can no longer advance normally
+	> scenario 19 - Sky Kingdom:
+		* Cosmic Eyes spawn further from player
+		* player's troops arrive in packs of 4 instead of 3
+		* fixed missing crater image
+	> scenario 22 - North Pole:
+		* reimplemented the freezing effect on living troops (as it was missing for some unknown reason)
+	> scenario 23 - Ruins:
+		* simplified a piece of dialog
+		* made Rashti halves rejoin in the final stage of the battle and made resulting True Rashti invincible
+	> scenario 24 - Epilogue:
+		* added a missing piece of dialog
+
+- General
+	* fixed typos
+
+- Code
+	* removed Krog unit type
+
+- Translations
+	* updated the raw translation file for translators
+	* updated the Polish translation
+
 Version 3.1.1
 - Scenarios
 	> scenario 01 - Highiest Tiers:
