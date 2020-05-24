@@ -1,6 +1,10 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.1.3a
+- Code
+	* replaced MENU_IMG_TXT with image and label keys
+
 Version 3.1.3
 - Scenarios
 	> scenario 10 - Chaos:
