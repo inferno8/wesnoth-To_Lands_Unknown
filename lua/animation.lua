@@ -113,7 +113,7 @@ local function get_image_name_with_offset(hex_x, hex_y, x, y, image)
     -- requires a 72 pixel border around the image to work properly
     x = x*2
     y = y*2
-    local w, h = wesnoth.get_image_size(image)
+    local w, h = filesystem.image_size(image)
 
     w = w-math.abs(x)
 	local w2 = math.floor(w)
@@ -376,7 +376,7 @@ function interpolation_methods.cubic_spline( x_locs, y_locs, num_locs )
 end
 
 function wesnoth.wml_actions.animate_path(cfg)
-    if wesnoth.get_image_size == nil then
+    if filesystem.image_size == nil then
         wesnoth.message("Animation skipped. To see the animation, upgrade to Battle for Wesnoth version 1.9.4 or later")
         return
     end
@@ -436,12 +436,12 @@ function wesnoth.wml_actions.animate_path(cfg)
         end
         target_hex_x, target_hex_y, x, y = calc_image_hex_offset(hex_x,hex_y,x,y)
         image_name = get_image_name_with_offset( target_hex_x, target_hex_y, x, y, images[i%num_images])
-        wesnoth.add_tile_overlay(target_hex_x, target_hex_y, {x = target_hex_x, y = target_hex_y, halo = image_name})
-        wesnoth.delay(delay)
-        wesnoth.remove_tile_overlay(target_hex_x, target_hex_y, image_name)
+        wesnoth.interface.add_hex_overlay(target_hex_x, target_hex_y, {x = target_hex_x, y = target_hex_y, halo = image_name})
+        wesnoth.interface.delay(delay)
+        wesnoth.interface.remove_hex_overlay(target_hex_x, target_hex_y, image_name)
     end
     if linger then
-        items.place_halo(target_hex_x, target_hex_y, image_name)
+        wesnoth.interface.add_item_halo(target_hex_x, target_hex_y, image_name)
     end
 end
 
