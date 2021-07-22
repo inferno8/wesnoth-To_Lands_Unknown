@@ -1,6 +1,82 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.2 Beta 1
+- Scenarios
+	> scenario 00 - Prologue:
+		* made the intro animation work for 1.15+
+		* improved terrain visuals
+	> scenario 01 - Highies Tiers:
+		* forced reinforcements to ignore animhacks
+		* disabled the recall animation of Water Elemental from previous scenario
+		* removed a small piece of Aerius' dialog
+	> scenario 06 - Fire Canyon:
+		* improved terrain visuals
+	> scenario 09 - Goddess of All Rhamis:
+		* fixed incorrect event trigger in badass mode
+		* improved terrain visuals
+	> scenario 12 - Siege of Mag-Maggar:
+		* the tower falling animation sequence uses [animate_path] now
+		* fixed some impassable hexes locations after the tower incident
+		* changed music after victory
+		* improved terrain visuals
+	> scenario 14 - Tar-Tabar:
+		* fixed incorrect handling of Mehir's attacks
+		* fixed leader duplication bug at the end of the scenario
+	> scenario 15 - Abyssal Rebellion:
+		* changed music after victory
+	> scenario 17 - Defense of Saffaros:
+		* improved terrain visuals
+	> scenario 17 - Siege of Kharos:
+		* enabled simple_targeting for Dedylos troops
+		* Kharos troops behind the gate no longer count as Dedylos troops
+		* improved terrain visuals
+	> scenario 20 - Enlightment:
+		* changed music
+	> scenario 21 - Skydock:
+		* removed Heavy Camel Rider and Carpet Master from the list of Mehir's recruits
+	> scenario 22 - North Pole:
+		* reduced starting gold amount
+		* adjusted screen color
+		* added a message for the first encountered Nightmare to show the unit's portrait
+		* added new terrain features to the map
+		* disabled the carryover report
+		* improved terrain visuals
+	> scenario 23 - Ruins:
+		* reduced starting gold amount
+		* implemented a special fire elemental limit for the scenario
+		* simplified code responsible for unit recalling at the beginning of the scenario
+		* added sound effects for the teleportation circle
+		* adjusted screen color
+		* slightly changed Sky Kingdom map layout
+		* improved terrain visuals
+- General
+	* added icon overlays for all artifacts
+
+- Code
+	* removed all occurrences of {SPECIAL_NOTES} macros
+	* replaced {MISSILE_FRAME_FIREBALL} with {MISSILE_FRAME_FIREBALL_XY}
+	* replaced {FOREACH} and {NEXT} macros with proper tags
+	* replaced the deprecated special= weapon filter with special_id= and special_type=
+	* replaced placement=map_passable with placement=map passable=yes
+	* changed placement=map_overwrite to placement,overwrite=map,yes
+	* replaced placement=map_passable with placement,passable=map,yes
+	* removed the version= key in [campaign]
+	* replaced name=none with name= in [effect] apply_to=variation
+	* fixed incorrect animation timing for Enchanter
+	* updated animation.lua code for BfW 1.16
+	* simplified the moving castle ability of the ultimate circle
+	* used map_file= instead of map= in [replace_map]
+	* fixed invalid pango markup in various places
+	* fixed the unknown conditional bug caused by the rpg check in EoMa
+
+- Structure
+	* removed the dist folder
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.1.3a
 - Code
 	* replaced MENU_IMG_TXT with image and label keys
