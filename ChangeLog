@@ -1,6 +1,41 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.2 Beta 2
+- Scenarios
+	> scenario 01 - Highest Tiers:
+		* Aerius puts air elementals right behind him (instead of in front of him), when escaping
+		* if player manages to catch Aerius on his way to the palace doors, force chance to hit to 0
+	> scenario 04 - Southern Nations:
+		* tweaked ai to prevent side 2 from attacking summoners
+		* temporarily disabled the jinni check message after getting Efreet
+		* badass mode: Jaffar's troops actively protect the circle (removed the guardian status)
+	> scenario 06 - Fire Canyon:
+		* fire elementals (all lvls) trigger the enemy alarm now
+	> scenario 08 - Ka-Gatta:
+		* fixed halos still being visible for taken items
+	> scenario 17 - Siege of Kharos:
+		* reduced ai lag by turning some unimportant units into images
+		* time over results in a defeat
+		* decreased gold for all sides to lower the number of units on the map
+		* added more gold to enemy if player or ally gets too close
+		* made enemy ignore Rashti halves
+	> scenario 20 - Enlightment:
+		* improved one of Mehir's lines of dialogue
+	> scenario - 19 Sky Kingdom:
+		* increased turn limit by 5 on easy difficulty
+		* slightly reduced enemy gold amount on easy difficulty
+
+- General
+	* undoing recall is now possible (except for the last two playable scenarios)
+	* improved the meditation ability description
+	* minor improvements to maps
+	* fixed typos
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.2 Beta 1
 - Scenarios
 	> scenario 00 - Prologue:
@@ -50,6 +85,7 @@ Version 3.2 Beta 1
 		* adjusted screen color
 		* slightly changed Sky Kingdom map layout
 		* improved terrain visuals
+
 - General
 	* added icon overlays for all artifacts
 
