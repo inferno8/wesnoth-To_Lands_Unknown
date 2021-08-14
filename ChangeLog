@@ -1,6 +1,19 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.2 Beta 3
+- General
+	* added the new world map; removed the old one
+	* implemented the special system of interactive map elements reflecting players' achievements
+
+- Scenarios
+	> scenario 01 - Highest Tiers:
+		* units cost no upkeep even after leveling up
+
+- Code
+	* fixed incorrect image names
+	* removed a redundant quickfix for the unknown conditional bug
+
 Version 3.2 Beta 2
 - Scenarios
 	> scenario 01 - Highest Tiers:
