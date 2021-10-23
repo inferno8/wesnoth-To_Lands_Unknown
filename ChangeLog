@@ -1,6 +1,73 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.3
+- General
+	* replaced old 4:3 story images with brand new 16:9 images
+	* the world map show borders of nations with their emblems now
+	* overhauled mulithex terrain graphics for scenarios: 08, 17, 19
+	* added portraits for collectible artifacts
+	* added the collar recall visual counter displaying number of charges left in form of an overlay
+	* added a campaign background image
+	* added portrait for the narrator
+	* changed story music in some places
+	* improved dialogs in various places
+
+- Scenarios
+	> scenario 00 - Prologue:
+		* gave the Gate Guardian a name
+		* improved the gameplay mode selection message
+	> scenario 04 - Southern Nations:
+		* improved terrain visuals
+		* improved the gold carryover information
+	> scenario 07 - Dome of Elementents:
+		* when Instructor describes Ultimate Beings, they are shown on screen
+	> scenario 08 - Ka-gatta:
+		* information about Dimensional Gates appears after aquiring one, not after leveling it up
+	> scenario 09 - Goddess of All Rhamis:
+		* improved terrain visuals
+		* disabled the Spear Guardian recall animation
+	> scenario 10 - Chaos:
+		* added abyssal sound effects when the portal is active
+		* added missing objectives
+	> scenario 17 - Siege of Kharos:
+		* re-enabled advancements for Great Warlocks
+		* massively reduced gold for all sides
+	> scenario 18 - City of Light:
+		* improved terrain visuals
+	> scenario 16 - Defense of Saffaros:
+		* removed the main badass event
+	> scenario 19 - Sky Kingdom:
+		* improved terrain visuals
+		* added 4 Golden Mages protecting the portals
+		* changed terrain layout to match new multihex image
+		* massively reduced player's income
+	> scenario 20 - Skydock:
+		* when Guru teaches Mehir the teleportation spell the screen fades to black for a moment
+	> scenario 23 - Ruins:
+		* improved terrain visuals
+		* improved Jinni advice
+
+- Units
+	* added new portraits for Rashti
+	* added new portraits for True Rashti
+	* added new portraits for Almathis
+	* added new portraits for Dedylos
+	* improved Rashti's description
+	* added a flash when Rashti halves merge with each other
+	* Rashti is healed when her halves merge with each other
+	* removed Mehir's damaging aura and slowing aura AMLAs
+
+- Code
+	* fixed incorrect unit id preventing Rhami'Kais from advancing when equipping the Spear of Rhami artifact upon recall
+	* removed incorrect unit modification utilizing 'overlays' key
+	* replaced deprecated ai code
+	* removed a deprecated key in [about]
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+	
 Version 3.2 Beta 3
 - General
 	* added the new world map; removed the old one
