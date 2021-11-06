@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-10-23 13:59 UTC\n"
+"POT-Creation-Date: 2021-11-06 08:27 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -737,11 +737,11 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1082
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1086
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1088
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:782
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1006
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1430
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1523
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1700
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:795
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1019
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1443
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1536
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1713
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:241
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:820
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1186
@@ -2152,7 +2152,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\11_Message.cfg:133
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:391
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:697
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:458
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:462
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:579
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:550
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1202
@@ -4612,7 +4612,7 @@ msgstr ""
 #. [message]
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:577
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:433
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:437
 msgid "Good idea."
 msgstr ""
 
@@ -5379,7 +5379,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\11_Message.cfg:137
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:395
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:701
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:462
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:466
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:583
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:554
 msgid "Death of Rashti"
@@ -7009,12 +7009,12 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:358
-msgid "There they are! Sticking out like blots on the landscape! What are these deserters going in this deserted part of the desert!"
+msgid "There they are! Sticking out like blots on the landscape! What are these deserters doing in this deserted part of the desert!"
 msgstr ""
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:362
-msgid "Well, well, well, so the mighty Mehir of Tar-Tabar finally noticed our existence? Here to snuff out the spark of rebellion, aren't you?"
+msgid "Well, well, well, so the mighty Mehir of Tar-Tabar finally noticed our existence? Here to snuff out the spark of rebellion, I assume?"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -7024,7 +7024,7 @@ msgstr ""
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:370
-msgid "Deportation, as usual, for YOUR sake, not ours. I am sick of living under your anthopocratic rule. You force us to serve you, barely give us any rights, and banish any magical being who disobeys you!..."
+msgid "Deportation, as usual, for YOUR sake, not ours. I am sick of living under your anthopocratic rule. You force us to serve you, barely give us any rights, and banish any magical being who dares to disobey you!"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -7034,76 +7034,81 @@ msgstr ""
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:378
-msgid "...And the worst thing is, as if living under your reign wasn't unbearable already, we'll soon even have to endure it in the Abyss, our very homeland, thanks to the construction of the damned 'Great Circle'! I must stop this madness, or at least delay it, and the latter can be achieved with the *ahem* permanent disappearance of a city leader. You see where I'm going?"
+msgid "Believe me, under different circumstances being deported and having my memories of this damned world wiped is an offer I'd gladly accept..."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:382
+msgid "...but as if living under your reign here wasn't unbearable enough already, we'll soon even have to endure it even in the Abyss, our very homeland, thanks to the construction of the damned 'Great Circle'! I must stop this madness at all costs! If I cannot convince your kind to cease the construction, then I have no choice but to stop it by force!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:382
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:386
 msgid "Seems like there's no negotiating now. (to Samir) Got any advice?"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:386
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:390
 msgid "My, my, I've seen quite a few abyssal diehards in my time as a banisher, but this is one is a real pleasure to my eyes... such strength, such extraordinary charisma and rhetoric... I'm not surprised at all that he managed to persuade so many beings to follow him!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:390
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:394
 msgid "Wait, are you under his spell too? This was supposed to be easy... My first mission as a leader, and the personification of destruction on the horizon! It's dawning on me now why Sharif hasn't attended to the matter himself... You think that super-efreet will let me enmegacircle him? I better summon an army of jinn!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:394
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:398
 msgid "I strongly advise you, my liege, not to summon them. They can fall to efreeti's will and join him, although there is a small chance that it won’t happen. From my experience, I know that some beings are always loyal to their masters, but we shouldn’t risk it, especially considering your jinn are unaccustomed to you. Also, do not use red entities at all, because they are rebellious by nature and near this Efreet, they will surely revolt against us. Of course this is only advice. You can do whatever you want, my liege, as long as you keep in mind the consequences."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:398
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:402
 msgid "What about Rashti? She’s half-good..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:402
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:406
 msgid "...but also half-evil. Her blue half should be immune to the efreeti's persuasion, but I can’t guarantee that..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:407
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:411
 msgid "Wait, wait, wait! Why didn’t you tell me about this earlier?! I could’ve left her in my palace!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:411
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:415
 msgid "You didn’t ask, my liege."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:416
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:420
 msgid "You fool! She’s one of the ultimate beings! If she turns against us, we're be doomed! You’d better tell me how we should defeat that damn efreeti before it gets a chance to turn Rashti against us!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:420
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:424
 msgid "My liege, use elementals. They are unable to think, and thus impossible to delude. You can also use powerful blue beings, such as Ho’Rhamis or Wonderful Jinn — they would never betray us. Do not summon any intelligent magical beings except them. Make sure to use as many dispellers and banishers as you can. Also, stay close to your troops in the back, and use the power of your megacircle to strengthen and heal them."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:425
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:429
 msgid "No jinn, no red entities, no oasis, no varied terrain and an army of rhami'datus and efreet in front of us. This is going to be interesting..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:429
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:433
 msgid "By the way, the sheer amount of rogue efreet is an excellent opportunity to stock up on dimensional gates."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:440
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:444
 msgid "My brethren, time to give the tyrants a lesson they shall never forget! FOR FREEDOM!!!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:445
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:449
 msgid ""
 "You can level up your Grand Summoners to Summons Masters now.\n"
 "\n"
@@ -7113,547 +7118,557 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:454
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:458
 msgid "Defeat Reficul"
 msgstr ""
 
 #. [objectives]
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:470
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:474
 msgid "You won't be able to recall Samir after this scenario, as he will remain in Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:485
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:569
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:602
-msgid "Join me, I'll allow you to do what you truly want, to DESTROY, to KILL!"
-msgstr ""
-
-#. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:489
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:573
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:606
+msgid "Join me, I'll allow you to do what you truly want, to DESTROY, to KILL those who enslaved you!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:493
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:577
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:610
 msgid "Yes... YES!!! FINALLY!!! TIME FOR THE MORTALS TO DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:511
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:515
 msgid "My liege! <b>What have I told you?!!</b>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:515
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:519
 msgid "Damn! I forgot!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:547
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:551
 msgid "Be careful, my liege. Lesser blue beings could end up being swayed by the efreeti when we least expect it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:551
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:555
 msgid "Don't worry, I know what I'm doing."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:555
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:559
 msgid "If you say so..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:635
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:639
 msgid "Looks like I'm now starting to grow a dimensional gate collection of my own..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:639
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:643
 msgid "Indeed. However, be aware, my liege: do not transform the gate into a jinni or a rhami in front of this Great Efreeti - he could easily turn them against us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:660
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:664
 msgid "Huh? Rashti, where are you going?!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:665
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:669
 msgid "Leave this to me! I’ll get rid of that nonsense-spewer myself!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:670
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:674
 msgid "Then I'm sure as hell coming with you. Time to kick his red butt!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:675
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:679
 msgid "Now you speak like a man!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:683
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:687
 msgid "*ahem* Listen up, fellow evil beings. Tired of Reficul talking crap for hours? Join me, and you can kick some butts today!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:687
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:691
 msgid "*sigh* Such primitivity... You truly need to work on your rhetoric if you truly wish to sway the plebian masses."
 msgstr ""
 
 #. [message]: id=$traitors[0].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:706
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:710
 msgid "(to another comrade) Hey look, finally the queen of the Red Abyss is living up to her name! What do you say about switching sides?"
 msgstr ""
 
 #. [message]: id=$traitors[1].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:710
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:714
 msgid "You know what, that's a great idea!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:717
-msgid "Traitors! Have you truly forgotten what you're fighting for?! Why do you let yourselves be brainwashed by the hypocritical anthropocracy?!"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:721
+msgid "Traitors! Have you truly forgotten what you're fighting for?! Why do you let yourselves be brainwashed by that anthropocratic hypocrite?!"
 msgstr ""
 
 #. [message]: id=$traitors[3].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:721
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:725
 msgid "There's only so much of your ideological crap we can tolerate, bookworm! Time to show you what destruction truly means!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:726
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:730
 msgid "A few enemy units are on your side now but only for the duration of this mission. Keep this in mind."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:732
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:736
 msgid "Against a whole army you're only going to get yourself killed! I order to you to remain in the rear!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:737
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:741
 msgid "Shut up and cover me!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:741
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:745
 msgid "Dear Nomolas... It seems Rashti is no longer under our control!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:746
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:750
 msgid "Damn it! Even though she is an ultimate being, she won’t stand a chance against an entire army of red beings! Protect her at all costs! We can't risk her dying!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:755
-msgid "My, my, who do we have here? Isn't that the 'holy' Rashti'rhami herself? You like to call yourself a goddess, but last time I checked the dictionary, the word wasn't quite synonymous with 'slave'. No authority whatsoever..."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:759
+msgid "My, my, who do we have here? Isn't that the 'holy' Rashti'rhami herself? You like to call yourself a goddess, but last time I checked the dictionary, the word wasn't exactly synonymous with 'slave'. No authority whatsoever..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:760
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:764
 msgid "Authority?! <b>I am the Goddess of all Rhamis AND the Queen of the Red Abyss, for crying out loud!!!</b>"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:764
-msgid "In the Abyss, yes, but face it, in this dimension, your 'subjects' really obey the summoners, not you. The latter do try to give you a thin-veiled illusion of authority, but their acting is certainly not the finest. You are nothing more than just a puppet. Tell me, why do you even serve the humans in the first place?"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:768
+msgid "In the Abyss, yes, but face it, in this dimension, your 'subjects' really obey the summoners, not you. As much as the latter try to give you an illusion of authority, their acting is rather subpar. Face it - you are nothing more than just a puppet. Tell me, why do you even serve the humans in the first place?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:769
-msgid "Nomolas obeyed them, and if someone as mighty as he does, so must the rest of us."
-msgstr ""
-
-#. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:773
-msgid "Ah, you forgetting something, Nomolas is one of the Abyss's greatest minds. He is a philosopher, one with the power to put his theories into practice, I might add. When the humans accidentally summoned him, he was utterly fascinated by the mortal world's concepts, which were completely alien to the Abyss. One might say he became utterly obsessed."
+msgid "Nomolas obeyed them, and if someone as wise as he does, so must we. As summoned beings, it is our duty, Reficul."
 msgstr ""
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:777
-msgid "It reached the point that he slowly started shaping the Abyss to resemble the mortal world, and introducing the mortal world to the Abyss. al-Kamija was his experiment, of sorts, to see what a civilization uplifted with abyssal magic would be like. And the part about serving the humans? It is merely to make the humans comfortable with his presence, as the servant he presented himself as is far easier to talk to than the godlike being he is. Alas, as much as I respect him, I have no intention of being a part of his equations."
+msgid "Ask yourself, my dogmatic foe - why would The First Jinni stoop so low as to obey the whims of mortals to begin with?"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:782
+msgid "What would a mere efreeti know about Nomolas's goals? He is much more intelligent than any being in the Abyss. Our goals are not for us to know or question."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:814
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:786
+msgid "What would I know, you ask? More than you'd think. I admired him, listened to his each and every word, read and reread all that he has written dozens of times. He is indeed one of the Abyss's greatest minds. Above all, he is a philosopher, one with the power to put any of his theories into practice. When the humans accidentally summoned him, he was utterly fascinated by the mortal world's concepts, which were completely alien to the Abyss. One might say he became utterly obsessed."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:790
+msgid "It reached the point that he slowly started shaping the Abyss to resemble the mortal world, and introducing the mortal world to the Abyss. I suspect his servant act was little more than a way to make the humans comfortable with his presence, as the servant he presented himself as is far easier to talk to than the godlike being he truly is. As for al-Kamija, I suspect it was one of his many experiments, perhaps to see what a civilization uplifted with abyssal magic would be like. Alas, as much as I respect him, I have no intention of being just some insignificant variable in his experiment, and neither should you."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:827
 msgid "Itshar’Imahr!"
 msgstr ""
 
 #. [message]: role=traitor
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:824
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:837
 msgid "Must... kill... the humans..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:829
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:842
 msgid "Dear Nomolas, What the hell is this?! Is that efreeti possessing our magical beings?!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:833
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:846
 msgid "I... I honestly have no idea."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:903
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:916
 msgid "Hey, look! Their forces are beginning to thin out! We might just be starting to win!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:907
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:920
 msgid "The defeat of my comrades is not enough to destroy my cause! O slumbering guardians of fire, heed my call for aid!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:949
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:962
 msgid "He can summon?! Just who the hell is this efreet?! As if convincing an entire mob of red beings to join him wasn't astonishing enough..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:975
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:988
 msgid "Back in the Abyss, you used to be a powerful figure, one that many kneeled at sight of. But now, you have become little more than a pathetic shadow of your former self. You could have easily been the puppeteer, yet you chose to be the puppet..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:980
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:993
 msgid "*panting* When...will...<b>you</b>..JUST...<b>DIE</b>!!!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:984
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:997
 msgid "Someday, perhaps..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:992
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1005
 msgid "I know your red half very well, what she truly wants. I know just how badly she misses the days of her glory, when she was truly the Queen of the Red Abyss. To some extent, she is similar to us. What if I told you I can... release her from your constraints, to give her the choice she never had?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:997
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1010
 msgid "No no no..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1010
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1023
 msgid "Rashti! Is everything alright?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1015
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1028
 msgid "I HATE YOU!!! I WILL BURN YOU ALIVE, AND CUT YOU INTO THIN PIECES!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1020
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1033
 msgid "No, stop! What is happening to me?! Mehir, I don’t want..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1025
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1038
 msgid "...TO SEE YOU ALIVE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1030
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1043
 msgid "I didn’t say that! It’s her."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1039
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1052
 msgid "It happened... Rashti has lost her balance. We must kill this Efreeti as soon as possible. This will save her."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1045
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1058
 msgid "We need to quickly kill this Efreet. Maybe there is a chance..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1051
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1064
 msgid "Whatever happens, do not attack Rashti! This is an order!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1061
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1074
 msgid "I'LL KILL YOU, MEHIR!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1066
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1079
 msgid "Don’t listen to her!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1071
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1084
 msgid "Soldiers, hurry up! We must stop this madness!"
 msgstr ""
 
 #. [message]: role=minion
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1087
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1100
 msgid "Hey, Reficul, so what should we do about the so-called 'Goddess of all Rhamis' now?"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1091
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1104
 msgid "Let her be. After all, she's far too busy fighting with herself to pose any real threat."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1101
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1114
 msgid "I won't let you never harm our master!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1106
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1119
 msgid "I DARE YOU, YOU STUPID HUMAN-LOVER!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1119
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1132
 msgid "My Master! KILL! I’m losing DIE! control. The Abyss KILL! is in danger. DIE!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1128
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1141
 msgid "Help... me... YOU PIECE OF... I am DIE!!! ...ing..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1197
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1210
 msgid "I AM NO LONGER YOUR SERVANT, HUMANS! DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1202
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1215
 msgid "STOP!!! I won't let your harm any summoner!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1210
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1223
 msgid "I SHALL RESTORE MY REIGN, BY BLOOD!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1215
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1228
 msgid "No! *starts fighting with her second half*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1223
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1236
 msgid "DIE!!! DIE!!! DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1228
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1241
 msgid "Enough! *smacks her other half with her spear*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1233
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1246
 msgid "AAAARGH!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1266
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1279
 msgid "DIE, REBEL SCUM!!!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1284
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1297
 msgid "You may have defeated my army, but I shall fight to the last!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1320
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1333
 msgid "Wait, did he just create a circle of resistance around himself?"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1324
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1337
 msgid "Certainly seems like it. I believe he came up with a design that channels the magic in his body to form the protective sphere. He just can't stop surprising us, it seems..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1387
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1400
 msgid "Death to the anthropocrats!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1399
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1412
 msgid "What a shame, I wish the Abyss would open and swallow me up..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1410
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1423
 msgid "Damn it! Now I'll have to find a new man for his position... The Master of Banishers is going to be very pissed off..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1422
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1435
 msgid "The Abyss be damned! I wanted to give them freedom, and yet they fell for your shallow promises... *sigh* I severely overestimated the intellect of my followers..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1426
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1439
 msgid "Just die already, will you? I am late for my pedicure."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1435
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1448
 msgid "You may have won the battle, but the seeds of rebellion have long since been planted... enjoy your peace while it lasts, for we will meet again in the Abyss..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1439
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1452
 msgid "It's time for me to return to the Grand Red Dream, while it's still free from your presence, to prepare for the inevitable..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1446
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1459
 msgid "Did... did he just banish himself?!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1450
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1463
 msgid "This is just... mind-blowing! I believe he used an altered formula of banishment on himself, one that doesn't wipe his mind! If what he said is true, we will have to deal with a far, far larger resistance once we get in the Abyss..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1484
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1497
 msgid "Look, with their leader gone, the remaining traitors are scattering!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1499
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1512
 msgid "Good job, Mehir! I like your style!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1503
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1516
 msgid "The pleasure's mine."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1507
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1542
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1520
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1555
 msgid "In accordance to the regulations the local guild will confiscate magical beings that have betrayed their masters. They will be sent back to the Abyss, to having their minds cleared."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1519
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1532
 msgid "Rashti, are you alright?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1528
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1541
 msgid "That was close... he... he somehow... disconnected me and my red half. She started trying to kill you, and rambling about some nonsense..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1532
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1545
 msgid "Thank Nomolas! You’re back! It was a mistake bringing you here. Now everything’s back to normal, we can finally go home."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1536
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1549
 msgid "If you don't mind, my liege, the Banishment Guild would like to place Rashti'rhami under surveillance. After all, there might be a 17.314% chance of her murdering you in your sleep after this incident."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1554
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1567
 msgid "Good idea. By the way, for your plentiful assistance, I'll give you some of my luxuries."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1558
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1571
 msgid "Oh, my liege! I am extremely honored! Let’s return to the city!"
 msgstr ""
 
 #. [message]: speaker=messenger
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1572
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1585
 msgid "Sir, we searched the rebel camp, and we found some belongings of their leader that you might want to have a look at."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1576
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1589
 msgid "Alright, let's see... Wow, for an efreet, the guy sure loves reading, looks we're got: 'The Basics of Summoning: A Guide for Beginners','A Summoning Guide for Jinn','al-Kamija's political flaws','The Immorality of Dimensional Gates' and 'De-constructing Banishment'..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1581
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1594
 msgid "Hey, look! It's the very sphere he used to protect himself! We might be able to use it too."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1586
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1599
 msgid "The sphere can be given to a unit upon recall, like the artifacts from Ka-Gatta. It provides the bearer with an increase of 15% to all resistances."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1600
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1613
 msgid "...I sense something approaching... I am catching the sound of heavy breathing... it's a human!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1605
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1618
 msgid "Who in the right mind would be wandering the desert alone?! Send the camel riders to investigate, fast!"
 msgstr ""
 
 #. [event]: id=Unknown
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1613
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1626
 msgid "???"
 msgstr ""
 
 #. [message]: speaker=Unknown
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1616
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1629
 msgid "*heavy breathing* ...I...finally...found...you..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1625
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1638
 msgid "He must’ve fainted! Quick, give the man some water! We need to bring him to Tar-Tabar immediately!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1655
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1668
 msgid "Unfortunately, this the last dispeller I brought. We don't have any more available."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1660
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1673
 msgid "Only five?! You've got to be kidding me! I thought Tar-Tabar had more!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1664
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1677
 msgid "*sigh* You see, Tashkar stinted our guild. Forgive me, my liege, but due to his policies, weren't allowed to train more dispellers."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1669
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1682
 msgid "Excellent, we’re fighting against an entire army of red beings, and I've got only five dispellers to work with... If we survive this madness, I will make sure to remove these absurd limitations! Why the hell did he even make them in the first place?..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1673
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1686
 msgid "Indeed..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1682
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1695
 msgid "<i>*to himself* This is taking far too long. The enemy is far too inactive, suspiciously inactive, mind you. I need to flee while they're still preparing whatever devious plan they have in store...</i>"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1691
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1704
 msgid "Uhh... I need to use the bathroom, see you!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1695
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1708
 msgid "Hell no! Get back here!"
 msgstr ""
 
