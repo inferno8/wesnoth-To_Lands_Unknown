@@ -1,6 +1,18 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.3.1
+- General
+	* replaced tif images with jpg and png file formats to improve compatibility
+
+- Scenarios
+	> scenario 15 - Abyssal Rebellion:
+		* improved dialog
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.3
 - General
 	* replaced old 4:3 story images with brand new 16:9 images
