@@ -1,6 +1,31 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.4
+- General
+	* improved dialog for scenarios: 00, 01, 05, 10, 13, 14, 17, 18, 19, 20, 23, 24
+
+- Scenarios
+	> scenario 05 - Jungle of Life:
+		* Keeper uses a special portrait during the badass mode sequence
+	> scenario 06 - Fire Canyon:
+		* Cyclops Chief uses a special portrait during the badass mode sequence
+	> scenario 10 - Chaos:
+		* complete overhaul of the scenario (a new map, dialogs and fx)
+	> scenario 19 - Enlightenment:
+		* replaced the image of the Palace of Omniscience with a new one
+	> scenario 20 - Enlightenment:
+		* complete overhaul of the scenario (a new map, npcs, dialogs and events)
+	> scenario 24 - Epilouge:
+		* complete overhaul of the scenario (a new map, npcs, dialogs and events)
+	
+- Code
+	* added ids for "moving castle" events
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.3.1
 - General
 	* replaced tif images with jpg and png file formats to improve compatibility
