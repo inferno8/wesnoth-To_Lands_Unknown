@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-12-10 11:31 UTC\n"
+"POT-Creation-Date: 2021-12-11 18:30 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -869,7 +869,7 @@ msgstr ""
 #: To_Lands_Unknown\macros\storytxt.cfg:307
 msgid ""
 "At first, the Ancestors believed the Abyss to be a place of primitive chaos — that is, until they summoned the first magical being, a true dweller of that different world. It was Nomolas, the First Jinni.\n"
-"Unrestrained by imagination, this entity is the most powerful being we know to this day. He was godlike, able to bend the laws of nature to at a whim, but preferring to observe things the way they are.\n"
+"Unrestrained by imagination, this entity is the most powerful being we know to this day. He was godlike, able to bend the laws of nature at a whim, but preferring to observe things the way they are.\n"
 "\n"
 "He understood our language, and turned out to be obedient, like all magical entities summoned afterwards. We still don't know why exactly he decided to obey us, but we're certainly glad he did."
 msgstr ""
@@ -885,7 +885,7 @@ msgstr ""
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:320
 msgid ""
-"Relying on it for so long, we have learned quite a lot about this outlandish dimension we had discovered, but haven’t been able to enter it. Maybe because no one in that place can summon us... However, in the last few years, our great minds came up with a design for a special magic circle that should be able to take us to that unreal world. Our tests were an astounding success, but to this day we cannot summon previously sent items back to our world. As a result of this, though it may sound crazy, we decided the entirety of our land into the Abyss, hoping that we will find the solution on the other side. But even if we find it, we may not be able to use it...\n"
+"Relying on it for so long, we have learned quite a lot about this outlandish dimension we had discovered, but haven’t been able to enter it. Maybe because no one in that place can summon us... However, in the last few years, our great minds came up with a design for a special magic circle that should be able to take us to that unreal world. Our tests were an astounding success, but to this day we cannot summon previously sent items back to our world. As a result of this, though it may sound crazy, we decided to send the entirety of our land into the Abyss, hoping that we will find the solution on the other side. But even if we find it, we may not be able to use it...\n"
 "\n"
 "It should be stressed that we believe we will find in the Abyss the ultimate sense of our life and intend to stay there forever."
 msgstr ""
@@ -1615,7 +1615,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:513
-msgid "May I ask what is a Wonderful Jinni going here in the midtiers? Oh, and why are you alone? Where is your master?"
+msgid "May I ask what is a Wonderful Jinni doing here in the midtiers? Oh, and why are you alone? Where is your master?"
 msgstr ""
 
 #. [message]: speaker=wjinn
@@ -2370,7 +2370,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:760
-msgid "Everyone, Brace yourselves! We may not live to see the next day, but it is our duty to protect the palace at all costs, no matter what unknown threat we face!"
+msgid "Everyone, brace yourselves! We may not live to see the next day, but it is our duty to protect the palace at all costs, no matter what unknown threat we face!"
 msgstr ""
 
 #. [message]: speaker=Mehir
