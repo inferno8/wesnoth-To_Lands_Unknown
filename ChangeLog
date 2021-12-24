@@ -1,6 +1,37 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5
+- General
+	* added 18 custom music tracks
+	* improved dialog for scenarios: 00,01,02,03,04,05,06,07,08,09,11,12,13,14,16,17,18,20,21
+
+- Scenarios
+	> scenario 00 - Prologue:
+		* prevent Ferryman from loosing hp
+	> scenario 01 - Highiest Tiers:
+		* reduce income to 0
+	> scenario 04 - Southern Nations:
+		* killing a lizard results in a defeat
+		* recruiting a fire elemental results in a defeat
+		* improved objectives
+		* carryover is now 10% 
+	> scenario 06 - Fire Canyon:
+		* improved objectives
+		* replaced bridge terrain type to wooden bridge terrain
+		* fire elementals have their summoning animation reenabled
+	> scenario 12 - Siege of Mag-Magar:
+		* complete overhaul of the scenario (a new map, dialogs and fx)
+	> scenario 13 - A New Leader:
+		* improved badass mode sequence
+
+-Code
+	* implemented smooth music transition lua script by ForestDragon
+	* use type_adv_tree parameter for pickable items in Ka-Gatta
+
+- Translations
+	* updated the raw translation file
+
 Version 3.4.0a
 - General
 	* replays are now created for cutscenes
