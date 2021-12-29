@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-12-24 13:20 UTC\n"
+"POT-Creation-Date: 2021-12-29 11:45 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -753,7 +753,7 @@ msgstr ""
 #. [message]: speaker=Master
 #. [message]: speaker=Mastermage
 #. [message]: role=guardian
-#. [message]: speaker=Sculptor
+#. [message]: speaker=Void
 #. [message]: speaker=Guru
 #. [message]: speaker=destroyer1
 #. [message]: speaker=unit
@@ -762,6 +762,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:742
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:760
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1031
+#: To_Lands_Unknown\scenarios\11_Message.cfg:292
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:814
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:829
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1110
@@ -783,9 +784,9 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:723
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:731
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:739
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:178
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:692
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:747
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:184
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:781
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:839
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:393
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:837
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1818
@@ -1834,6 +1835,7 @@ msgstr ""
 #. [side]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:811
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:310
+#: To_Lands_Unknown\scenarios\11_Message.cfg:113
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:73
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:55
 msgid "."
@@ -2242,7 +2244,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\09_Goddess_of_All_Rhamis.cfg:250
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:334
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:669
-#: To_Lands_Unknown\scenarios\11_Message.cfg:133
+#: To_Lands_Unknown\scenarios\11_Message.cfg:164
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:375
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:602
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:462
@@ -2474,9 +2476,9 @@ msgstr ""
 #. [unit_type]: id=TLU_Elder, race=eoma_summoner
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:1005
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:183
-#: To_Lands_Unknown\scenarios\11_Message.cfg:73
-#: To_Lands_Unknown\scenarios\11_Message.cfg:83
-#: To_Lands_Unknown\scenarios\11_Message.cfg:93
+#: To_Lands_Unknown\scenarios\11_Message.cfg:227
+#: To_Lands_Unknown\scenarios\11_Message.cfg:238
+#: To_Lands_Unknown\scenarios\11_Message.cfg:250
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:64
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:73
 #: To_Lands_Unknown\units\Elder.cfg:4
@@ -2499,7 +2501,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #. [message]: id=Mehir
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:1066
-#: To_Lands_Unknown\scenarios\11_Message.cfg:371
+#: To_Lands_Unknown\scenarios\11_Message.cfg:568
 msgid "Yes, sir!"
 msgstr ""
 
@@ -2677,7 +2679,7 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:275
-msgid "So this whole thing was a failure. Guru will be furious..."
+msgid "So the main plan didn't work, quite disappointing... <i>*to himself* at least plan B has been set in motion, Guru will be pleased, hehe...</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -2973,7 +2975,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:542
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:496
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:798
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:890
 msgid "Two hours later..."
 msgstr ""
 
@@ -3560,7 +3562,7 @@ msgstr ""
 #. [message]: speaker=Mehir
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1216
-#: To_Lands_Unknown\scenarios\11_Message.cfg:258
+#: To_Lands_Unknown\scenarios\11_Message.cfg:455
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:635
 msgid "!!!"
 msgstr ""
@@ -4775,7 +4777,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\07_Dome_of_Elements.cfg:621
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:700
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:789
 msgid "Sure..."
 msgstr ""
 
@@ -5540,7 +5542,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\09_Goddess_of_All_Rhamis.cfg:254
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:338
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:673
-#: To_Lands_Unknown\scenarios\11_Message.cfg:137
+#: To_Lands_Unknown\scenarios\11_Message.cfg:168
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:379
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:606
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:466
@@ -5647,7 +5649,7 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:243
-msgid "Ah, welcome, summoner, you look familiar. It appears my little visit to al-Kamija helped you get a promotion... heh, you can thank me later. Let me quess, you have come for one of your leaders, right? He is... well, how do I put it... not exactly here anymore."
+msgid "Ah, welcome, summoner, you look familiar. It appears my little visit to al-Kamija helped you get a promotion... heh, you can thank me later. Let me guess, you have come for one of your leaders, right? He is... well, how do I put it... not exactly here anymore."
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -5878,12 +5880,12 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:796
-msgid "*to himself* <i>Meh... that was too easy. I love naïveté of abyssmal beings. I can barely believe that she just fell for the oldest trick in the book...</i>"
+msgid "*to himself* <i>Meh... that was too easy. I love naïveté of abysmal beings. I can barely believe that she just fell for the oldest trick in the book...</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:801
-msgid "Rashti, What have you done?! It’s pulling us in!!!"
+msgid "Rashti, what have you done?! It’s pulling us in!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
@@ -5967,89 +5969,89 @@ msgid "I used that scumbag's soul to close the gate, to ensure he won't return e
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1052
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1053
 msgid "And now..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1057
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1058
 msgid "KILL THE REST!!! SHOW NO MERCY TO THESE SCUM!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1124
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1125
 msgid "The portal has been closed! Let’s defeat the rest!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1162
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1163
 msgid "That’s the last of them. We must bring the sad news to al-Kamija. Tashkar has been killed..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1167
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1168
 msgid "Mehir... please... be my new master."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1172
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1173
 msgid "What?! Me?! But..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1176
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1177
 msgid "You are worthy."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1181
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1182
 msgid "Finally a female abysmal likes me! But..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1186
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1187
 msgid "I... I think that is up to the High Council to decide. Besides, I’m not one of three city leaders. They are the only ones that are allowed to have Ultimate Beings as servants, you know."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1190
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1191
 msgid "So be it. Let the High Council decide."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1255
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1256
 msgid "Oh no... The dwellers of the Red Abyss are flooding into our realm! If we do not close the portal soon, this will be the end of the world!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1272
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1273
 msgid "A world of MORTALS! How nice! It's time to lay it to RUIN!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1280
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1281
 msgid "Well well, yet another pathetic rebellion in the Red Abyss? Seems it is time for me to take out the trash yet again."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1284
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1285
 msgid "You sound... calmer than usual for your half, Your Highness."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1289
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1290
 msgid "Hehe, I gotta set a good example in front of my subjects, you know, even if they are unruly thugs like these."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1294
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1295
 msgid "Anyway, formal politeness aside, I WILL SHRED YOU INTO TINY BITS AND TURN YOU INSIDE OUT YOU, PATHETIC REBEL SCUM!!!"
 msgstr ""
 
 #. [message]: speaker=unit
 #. [message]: speaker=second_unit
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1313
-#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1332
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1314
+#: To_Lands_Unknown\scenarios\10_Chaos.cfg:1333
 msgid "Ah, look who it is. The tyrant queen and bootlicker of humans, Rashti'rhami herself! Everyone, now's our chance, she is weaker in the mortal world! Get her!"
 msgstr ""
 
@@ -6072,128 +6074,208 @@ msgid "team_name^Unknown"
 msgstr ""
 
 #. [side]
-#: To_Lands_Unknown\scenarios\11_Message.cfg:51
+#: To_Lands_Unknown\scenarios\11_Message.cfg:68
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:48
 msgid "team_name^High Council"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\11_Message.cfg:129
+#: To_Lands_Unknown\scenarios\11_Message.cfg:160
 msgid "Defeat the intruders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\11_Message.cfg:142
+#: To_Lands_Unknown\scenarios\11_Message.cfg:173
+msgid "Death of more than three Council members"
+msgstr ""
+
+#. [objective]: condition=lose
+#: To_Lands_Unknown\scenarios\11_Message.cfg:179
 msgid "Death of more than two Council members"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\11_Message.cfg:148
-msgid "Death of more than one Council members"
+#: To_Lands_Unknown\scenarios\11_Message.cfg:185
+msgid "Death of more than one Council member"
 msgstr ""
 
-#. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\11_Message.cfg:154
-msgid "Death of any Council member"
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\11_Message.cfg:212
+msgid "The elders should be in that building. Let's get going."
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:216
+msgid "V-very well... *visibly nervous*"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:174
+#: To_Lands_Unknown\scenarios\11_Message.cfg:288
+msgid "Ah, Mehir, welcome back! We were on our way to Mag-Magar when you arrived. I see you have brought the holy Rashti'rhami with you, but where is Tashkar?"
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\11_Message.cfg:296
+msgid "Well, it's a long story, let me explain..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: To_Lands_Unknown\scenarios\11_Message.cfg:302
+msgid "One explanation later..."
+msgstr ""
+
+#. [message]: speaker=Elder
+#: To_Lands_Unknown\scenarios\11_Message.cfg:307
 msgid "We shouldn’t blame Rashti for Tashkar’s death. Being naïve is a characteristic of the Abyssals. Luckily, the true guilty party got what they deserved. Though I do wonder, who were they?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\11_Message.cfg:178
-msgid "The very flying human who attempted to steal Nomolas's lamp a while ago. He was not alone, being part of some kind of foreign expedition."
+#: To_Lands_Unknown\scenarios\11_Message.cfg:311
+msgid "It was the very flying human who attempted to steal Nomolas's lamp a while ago. He was not alone, being part of some kind of foreign expedition."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:182
-msgid "This certainly raises way more questions than answers: Who are they? What do they want? Do they have hostile intention towards us, or is this just a large misunderstanding? Anyway, now we have a more urgent matter; Tar-Tabar has no leader. The High Council must choose Tashkar’s successor as soon as possible if we want to finish the circle on the given schedule."
+#: To_Lands_Unknown\scenarios\11_Message.cfg:315
+msgid "This certainly raises way more questions than answers: Who are they? What do they want? Do they have hostile intention towards us, or is this just a large misunderstanding?"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:320
+msgid "MISUNDERSTANDING?! These SCUM must PAY for what they've done. We must mobilize ALL of our armies to find where their foul kind lives and KILL. EVERY. SINGLE. ONE. OF. THEM!!!"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:325
+msgid "Erm, *ahem*, I mean, we should be extremely cautious when dealing with them. Their behavior could hardly be described as one of a peaceful nation, to say the least."
+msgstr ""
+
+#. [message]: speaker=Elder
+#: To_Lands_Unknown\scenarios\11_Message.cfg:329
+msgid "Erm, point taken... Anyway, now we have a more urgent matter; Tar-Tabar has no leader. The High Council must choose Tashkar’s successor as soon as possible if we want to finish the circle on the given schedule."
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:334
+msgid "<i>*to herself* Damn it, whether or not I can get Mehir to be my master depends on these old farts...</i>"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:339
+msgid "<i>*to herself* Believe me, I share your concern, but for the love of Nomolas don't say your thoughts out loud now, I beg you, and let me do the talking.</i>"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:344
+msgid "<i>*to herself* Fine...</i>"
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown\scenarios\11_Message.cfg:186
+#: To_Lands_Unknown\scenarios\11_Message.cfg:348
 msgid "I don’t think there is anyone who has sufficient charisma and authority."
 msgstr ""
 
 #. [message]: speaker=Elder3
-#: To_Lands_Unknown\scenarios\11_Message.cfg:190
+#: To_Lands_Unknown\scenarios\11_Message.cfg:352
 msgid "Maybe we should ask the Master of Banishers?"
 msgstr ""
 
-#. [message]: role=horhami
-#: To_Lands_Unknown\scenarios\11_Message.cfg:198
-msgid "To be honest, while being an expert of his craft, he's not exactly the most charismatic man in al-Kamija, nor does he have good leadership skills either."
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:357
+msgid "<i>*to herself* They want that incompetent gate-collector to be my master?! Dammit, dammit, I need to do something fast...</i>"
 msgstr ""
 
-#. [message]: role=horhami
-#: To_Lands_Unknown\scenarios\11_Message.cfg:202
-msgid "And besides, I doubt he would even want this position anyway. He's already among the richest men alive, so being a city leader would grant him no major benefit, and it would disrupt his lifestyle of doing basically nothing besides lying on his couch, listening to his jinn' monologues, and admiring his collection of dimensional gates."
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:362
+msgid "<i>*to herself* Calm down, I have an idea.</i>"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:367
+msgid "*gestures to the two Ho'rhami bodyguards, and whispers something*"
+msgstr ""
+
+#. [message]: speaker=guardian1
+#: To_Lands_Unknown\scenarios\11_Message.cfg:371
+msgid "*silently nods*"
+msgstr ""
+
+#. [message]: speaker=guardian1
+#: To_Lands_Unknown\scenarios\11_Message.cfg:375
+msgid "(to the Elder) *ahem* To be honest, while being an expert of his craft, he's not exactly the most charismatic man in al-Kamija, nor does he have good leadership skills either."
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:380
+msgid "I agree with her about that. Besides, I doubt the Master of Banishment would even want this position anyway. He's already among the richest men alive, so being a city leader would grant him no major benefit, and it would disrupt his lifestyle of lying on his couch, listening to his jinn' monologues, and admiring his collection of dimensional gates."
+msgstr ""
+
+#. [message]: speaker=guardian2
+#: To_Lands_Unknown\scenarios\11_Message.cfg:384
+msgid "Her Highness does make a good point. At the moment, there aren't really any good potential candidates amoung the elite. Perhaps it would be a better idea to have you temporarily elect one of your own as the city's regent until someone suitable to be Rashti'rhami's master is found."
 msgstr ""
 
 #. [message]: speaker=Elder3
-#: To_Lands_Unknown\scenarios\11_Message.cfg:206
-msgid "You’re right..."
+#: To_Lands_Unknown\scenarios\11_Message.cfg:388
+msgid "Hmmmm... you know what, that is a good idea."
 msgstr ""
 
-#. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:210
-msgid "As long as we do not make the decision, I suggest electing one of us a temporary leader of Tar-Tabar."
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\11_Message.cfg:392
+msgid "<i>*to herself* Whew, bought myself some time...</i>"
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown\scenarios\11_Message.cfg:214
-msgid "It’s a good idea. Let’s vote. Mehir, leave the roo..."
+#: To_Lands_Unknown\scenarios\11_Message.cfg:396
+msgid "Alright the, let’s vote. Mehir, leave us for..."
 msgstr ""
 
 #. [message]: type=EoMa_Novice_Summoner
-#: To_Lands_Unknown\scenarios\11_Message.cfg:236
+#: To_Lands_Unknown\scenarios\11_Message.cfg:433
 msgid "Mag-Magar is under at..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:292
+#: To_Lands_Unknown\scenarios\11_Message.cfg:487
 msgid "Aaaaaaah! We're under attack! Somebody help!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\11_Message.cfg:306
+#: To_Lands_Unknown\scenarios\11_Message.cfg:502
 msgid "No!!!"
 msgstr ""
 
 #. [message]: type=TLU_Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:366
+#: To_Lands_Unknown\scenarios\11_Message.cfg:563
 msgid "Those beings must have invaded Mag-Magar! Let's not waste time! Mehir, take Rashti and your men with you. Maybe it’s not too late. As soon as you teleport there, we will send all of the armies of the Trinity to help you."
 msgstr ""
 
 #. [message]: id=Mehir
-#: To_Lands_Unknown\scenarios\11_Message.cfg:388
+#: To_Lands_Unknown\scenarios\11_Message.cfg:585
 msgid "Azagath Mag-Magar Arath!"
 msgstr ""
 
 #. [unit]: id=mjinn, type=EoMa_Mystical_Jinn
-#: To_Lands_Unknown\scenarios\11_Message.cfg:409
+#: To_Lands_Unknown\scenarios\11_Message.cfg:606
 msgid "Mystical Jinn"
 msgstr ""
 
 #. [message]: id=mjinn
-#: To_Lands_Unknown\scenarios\11_Message.cfg:418
+#: To_Lands_Unknown\scenarios\11_Message.cfg:615
 msgid "May I inquire why is there such noise around here?"
 msgstr ""
 
 #. [message]: type=TLU_Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:422
+#: To_Lands_Unknown\scenarios\11_Message.cfg:619
 msgid "Noise?! Foreigners are trying to murder us for crying out loud! Do something about it!"
 msgstr ""
 
 #. [message]: id=mjinn
-#: To_Lands_Unknown\scenarios\11_Message.cfg:426
+#: To_Lands_Unknown\scenarios\11_Message.cfg:623
 msgid "Very well."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\11_Message.cfg:474
+#: To_Lands_Unknown\scenarios\11_Message.cfg:671
 msgid "Hey! Come back, you coward!"
 msgstr ""
 
@@ -9499,7 +9581,7 @@ msgstr ""
 
 #. [message]: speaker=Mastermage
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1187
-msgid "Our scholars devoted millennia to find the answer for one such question. Because you are quite a unique guest, a being from a different dimension, we are quite curious to see if you can solve it faster. Are you ready to hear it and provide us with the answer in less than 24 hours?"
+msgid "Our ancestors devoted millennia to find the answer for one such question. Because you are quite a unique guest, a being from a different dimension, we are quite curious to see if you can solve it faster. Are you ready to hear it and provide us with the answer in less than 24 hours?"
 msgstr ""
 
 #. [message]: speaker=Rashti
@@ -10355,508 +10437,603 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:112
-msgid "Err... pardon, but I don't quite get what do you mean."
+msgid "Pardon, but I don't quite get what do you mean."
 msgstr ""
 
 #. [message]: speaker=Void
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:116
-msgid "Oh, you wouldn't understand the specifics. We just need to upgrade your primitive megacircle, so that it can actually be suitable for your journey, instead of being little more than the portable lamp with summoning properties."
+msgid "Oh, you wouldn't understand the specifics. We just need to upgrade your primitive megacircle, so that it can actually be suitable for your journey. Honestly, right now it is little more than the portable lamp with summoning properties."
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:121
+msgid "<i>*to herself* Hmph, pompous know-it-alls just like the rest...</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:120
-msgid "No need to be rude about it. It's one of the most advanced constructs our civilization ever created, you know. But since you are capable of tweaking it further, I'll gladly accept your help."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:125
+msgid "No need to be rude about it. It's one of the most advanced constructs our civilization ever created, you know. But since you are capable of improving it further, I'll gladly accept your help."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:124
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:129
 msgid "Is there something wrong with my ears, or did he just say <b>this</b> was one of the most advanced things they created?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:128
-msgid "I am afraid the latter is correct."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:133
+msgid "I am afraid it is the latter..."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:132
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:137
 msgid "Oh, boy... I guess we'd better start working."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:138
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:144
 msgid "Do I have to step out of the circle?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:142
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:148
 msgid "This will not be necessary. Although presence of a living body inside the circle during its quasi-modulation could lead to creation of a micro-black hole with a 0.02467% chance..."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:146
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:152
 msgid "...we are professionals, trust me."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:150
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:156
 msgid "If this is a trap and my master dies, I'll turn both of you into smoldering piles of ash, and send your souls to the Red Abyss for eternal torment!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:154
-msgid "*smirks, unimpressed* Do not worry, abysmal creature. We've easily handled tasks far more complex than this one, and killing your master wouldn't really provide us any benefit, short-term or long-term."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:160
+msgid "*smirks, unimpressed* Do not worry, abysmal creature. We've easily handled tasks far more complex than this one, and killing your master would be of no benefit to us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:158
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:164
 msgid "Can I ask you a few questions while you are working on the circle?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:162
-msgid "I believe it would be a wiser idea to save them for when I'm done, since a mistake with the process can result in the destruction of all space-time continuum, which is, you know, a pretty big deal."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:168
+msgid "I believe it would be a wiser idea to save them for when I'm done, since a mistake with the process can have quite... disastrous consequences."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:166
-msgid "Oh.. I understand. I guess I'll ask later."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:172
+msgid "Oh... I understand. I guess I'll ask later."
 msgstr ""
 
-#. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:170
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:176
 msgid "Alright, let's get this started."
 msgstr ""
 
-#. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:174
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:180
 msgid "Whatever you say, boss."
 msgstr ""
 
-#. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:184
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:190
 msgid "...just two more symbols to connect, and we are good to go..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:275
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:281
 msgid "Whoa! All these strange energies flowing through my body... it feels so... refreshing!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:279
-msgid "We have enhanced your circle with our magic. Before we start explaining what does what, I'd like to clarify some basic facts to you."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:286
+msgid "We have enhanced your circle with our magic. Before we start explaining what does what, I'd like to clarify some basic facts to you. What you people call 'magic' isn't really even magic, merely an imitation thereof."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:283
-msgid "What you people call 'magic' isn't really even magic. Honestly, you Summoners do not know magic at all, nor you can learn how to use it."
-msgstr ""
-
-#. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:287
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:290
 msgid "But you are lucky to have a stable access to the Abyss. That place, and it's inhabitants, compensate for your weakness. The energy which comes from that dimension is not 'magic', though it does have some similar properties. Real magic is something entirely different."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:291
-msgid "You see, true magic users like us are not bound to magical circles nor are dependant on abyssal beings. We just use our minds to bend the laws of this world to our needs. Magic is an unbelievable power, with theoretically infinite potential, but according to what we currently know, it's exclusive to this dimension."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:294
+msgid "You see, true magic users like us are not bound to scrolls and magical circles, nor are dependant on abyssal beings. A magic user can bend the laws of this world with nothing but his own mind. Magic is an unbelievable power, with theoretically infinite potential, but as far as we are aware it is currently exclusive to this dimension."
 msgstr ""
 
-#. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:295
-msgid "Therefore your new magical circle won't work when you reach the Abyss. But you probably won't need it there anyway."
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:299
+msgid "Well, I can cast spells with my mind too, but those rely on abyssal energy instead of the one native to this world, so I suppose that doesn't quite count..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:299
-msgid "That's right. Summoners are not in search of magic, we are seeking the ultimate truth, you know. Answers to existential questions, about the meaning of life, for example. It's your Guru who thinks that I'd be better off with this powerful circle. I wonder why... We're just to get him some battery. Anyway, what new properties does this circle have compared to my old one?"
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:303
+msgid "I see. But if proper mages can cast with just their mind, why do nearly half of the foreign mages I encountered use staves? Goblin shamans, kharosian priestesses, tharis warlocks, and even some of your kind as well use them, why is that?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:303
-msgid "*rolls eyes* It has many, but I'll simplify it for you, since you aren't exactly the brightest individual I've ever met: first of all, its power output is far higher than that of the megacircle, meaning the spells cast using this circle are far more potent."
-msgstr ""
-
-#. [message]: speaker=Sculptor
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:307
-msgid "Speaking of tools of destruction, it has quite a few, the first one being the 'damaging aura'."
+msgid "Seems you are more astute than you seem at first glance. Well, there are several reasons for why a wand or staff is sometimes used. A staff can be enchanted in many ways to make spellcasting more convenient."
 msgstr ""
 
 #. [message]: speaker=Void
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:311
+msgid "For example, among many other things, you can have a staff passively accumulate magical energy for later use, calculate the trajectory of projectile spells and assist with your aim, or even automatically cast spells for you if you just shout an abbreviation of the spell."
+msgstr ""
+
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:315
+msgid "And if an enemy gets close enough to you that you don't have time to cast a spell, unless you have a touch spell, bashing them with a staff is much better than trying to fight with your bare hands."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:319
+msgid "I see. Seems staves are more useful than I thought... In that case, now I have the opposite question: if staves are so good, why do so many of you choose to cast spells without them?"
+msgstr ""
+
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:323
+msgid "Our society values knowledge and skill above all else, so being able to cast powerful spells without having to rely on external mediums will earn you more respect from your colleagues."
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:327
+msgid "For that reason, the use of such automatically-casting wands here is frowned upon for adults, but they are very popular toys for children in our nation who are too young to know how to cast spells the proper way. Just take a stick and enchant it with a few harmless spells, like sprinkling water or summoning a floating light, and you have the perfect birthday gift."
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:331
+msgid "My kids absolutely love these things. When they aren't busy with school they are usually having 'magic duels' with these wands."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:335
+msgid "Ah, I see. By the way, since you have a staff, what kind is it?"
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:339
+msgid "I mainly use it for complex calculations. Stuff like your new circle would be too dangerous to just eyeball it. Speaking of which, as I explained earlier, magic seems to only exist in this dimension, so the circle won't work when you reach the Abyss."
+msgstr ""
+
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:343
+msgid "But you probably won't need it there anyway, and might be able to channel its energy directly, like Jinn and other sentient abyssal beings can."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:347
+msgid "That's alright. We Summoners are not in search of magic, we are seeking the ultimate truth, you know. Answers to existential questions, about the meaning of life, for example. Anyway, what new properties does this circle have compared to my old one?"
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:351
+msgid "*rolls eyes* For many of what your kind considers 'existential questions' we already have existential answers. You aren't impressing anyone here with that speech of yours."
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:355
+msgid "Anyway, to answer your question, the circle has many properties, but I'll keep it simple: first of all, its power output is far higher than that of the megacircle, meaning the spells cast using this circle are far more potent."
+msgstr ""
+
+#. [message]: speaker=Sculptor
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:359
+msgid "Speaking of tools of destruction, it has quite a few, the first one being the 'damaging aura'."
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:363
 msgid "That's right. The ultimate circle you are wearing right now automatically blasts nearby enemies with magical energies, harming and slowing them. Let me demonstrate this feature to you, but we'll need to make some space first."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:321
-msgid "How about trying it on six Magical Eyes? I'll summon them to demonstrate the effects of the spell."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:373
+msgid "I'll summon six Magical Eyes, so you have some targets to practice the spell on."
 msgstr ""
 
-#. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:326
-msgid "Good. Now, look at these eyes, you see fierce foes, willing to do anything in their power to take your life, and the lives of your men, think it, believe it..."
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:378
+msgid "Good. (to Mehir) Now, look at these eyes, you see fierce foes, willing to do anything in their power to take your life, and the lives of your men, think it, believe it..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:338
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:390
 msgid "Wow, this is amazing!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:342
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:394
 msgid "Fascinating, isn't it? This feature of the circle scans your brain, and targets objects you perceive as foes. Just be careful with your anger, or it might hit something you don't want it to."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:346
-msgid "You can't seem to stop impressing me..."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:399
+msgid "My my, you always keep finding a new way to impress me..."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:350
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:403
 msgid "Let's finish off these Magical Eyes. They are already almost falling apart. Just a few more strikes..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:361
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:414
 msgid "Man, how did I even live without all this..."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:365
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:418
 msgid "There is another, even better feature that needs explanation. Are you ready to listen?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:370
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:423
 msgid "Of course! I would love to learn more about this masterpiece!"
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:374
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:427
 msgid "As you already know, magical circles can be used to summon creatures from the Abyss. This one can do more than that."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:378
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:431
 msgid "What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:382
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:435
 msgid "You see, this ultimate megacircle can act like a mobile castle! It can bring your troops to you in an instant."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:387
-msgid "You mean I can summon my men? Not only abysmal beings? But why? Can't my men just stay with me?"
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:440
+msgid "You mean I can summon my men? Not only abysmal beings? That's certainly great, but why is that necessary for the mission? Can't my men just stay with me?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:391
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:444
 msgid "No, there isn't enough room on your means of transportation. Your troops will await your call on our teleports connected directly to your circle. When you need a specific unit, your circle will establish a small portal and bring this unit to you directly from our kingdom!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:396
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:449
 msgid "So it's is going to act like city portals in my country, but mobile! Unbelievable..."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:400
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:453
 msgid "Indeed. Do you want to test this ability? We already gathered all your men at the teleport site on the other side of the island. It would be good to bring one of them here, for science."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:404
-msgid "Yes, I want to see it in action!"
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:458
+msgid "Of course, I want to see it in action!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:408
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:462
 msgid "Good. I hope I used proper magical symbols to make this work. Otherwise a recalled unit of your choosing will transform into a supernova and our entire solar system will vaporize."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:412
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:466
 msgid "*gives him a cold stare*"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:416
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:470
 msgid "But we are professionals, right? Let's verify our theories. Think about recruiting or recalling a specific troop or abysmal being. It should arrive momentarily, I hope..."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:432
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:486
 msgid "Recruit or recall something"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:535
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:589
 msgid "Yes! We are all alive! Hahaha, that was close! The teleport works as expected, and should work no matter the distance."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:540
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:594
 msgid "Excellent! This is exactly what I wanted! I can bring my army with me anywhere I want without worrying about logistics! You are absolute geniuses!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:544
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:598
 msgid "Haha, of course we are!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:548
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:602
 msgid "Does it still summon... people taking a bath?"
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:552
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:606
 msgid "Err... what?!"
 msgstr ""
 
 #. [message]: speaker=Rashti
 #. [message]: speaker=mage2
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:557
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:666
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:611
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:755
 msgid "*facepalm*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:561
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:615
 msgid "Nevermind, Jaffar's already in the Abyss. It is good as it is. So what's next?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:565
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:619
 msgid "If I remember correctly, you wanted to ask some questions about our civilization. Now would be a pretty good time for that."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:569
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:623
 msgid "Indeed. I mostly just want to know the history of your nation, and maybe some things about its culture. You seem so different from others I have seen during my journey."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:573
-msgid "This is a very long story. Well, you could just go to our Library of Enlightenment and read about us, but there are 78732 volumes covering the story of both civilizations of Magi. I am afraid you don't have a sufficient amount of spare time for reading all of them, even if you dedicated your entire life to doing so."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:628
+msgid "This is a very long story. Well, you could just go to our Library of Enlightenment and read about us, but there are 78732 volumes covering the story of both civilizations of Magi. I am afraid you don't have a sufficient amount of spare time for reading all of them without mind augmentation and extended lifespan, even if you dedicated your entire life to doing so."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:577
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:632
 msgid "Both civilizations? What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:581
-msgid "It's is little complicated. What you see around you is something we call our 'second civilization'. It is quite young compared to the first one, and much smaller, but at the same time more advanced than ever before. I guess you wouldn't find anyone else on this planet who could raise a billion tons of rock into the sky and build a kingdom on it."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:636
+msgid "It's is bit complicated. What you see around you is something we call our 'second civilization'. It is quite young compared to the first one, and much smaller, but at the same time more advanced than ever before. I guess you wouldn't find anyone else on this planet who could raise a billion tons of rock into the sky and build a kingdom on it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:585
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:640
 msgid "So, since the nation is called the 'Sky Kingdom', who exactly is the king here?"
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:589
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:644
 msgid "Well, we've got the Council of Masters, who make most of the minor decisions, but it is the Guru who sets long term goals. It was he who came up with the idea of moving our society above clouds. He could theoretically be considered a formal ruler, but he generally cooperates with the Council."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:593
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:648
 msgid "I see. This Council of yours appears to be similar to our High Council of Elders, but we do not have any Gurus. Are there any conflicts in your society? Who writes the law here?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:597
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:652
 msgid "Conflicts? Been centuries since we had any. We are all free, and work together to achieve everything we desire. If there is a complex issue, the Council of Masters tries to find a solution with the aid of Guru."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:601
-msgid "Quite fascinating that you managed to actually sustain such a system. Anyway, you mentioned something about the first civilization of Magi. Could you tell us more about it?"
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:656
+msgid "Quite fascinating that you managed to actually sustain such a system. Though I wonder, were there other Gurus before the current one?"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:605
-msgid "Oh, did I mention it?"
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:660
+msgid "Well, no. He has always been our leader since the nation's founding."
 msgstr ""
 
-#. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:609
-msgid "Yes you did."
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:664
+msgid "Huh, your nation must be quite young then."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:613
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:668
+msgid "Y-yes, exactly. <i>*to himself* good thing I didn't tell him how long the second civilization has been around...</i>"
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:672
+msgid "Anyway, you mentioned something about the first civilization of Magi. Could you tell us more about it?"
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:676
 msgid "Well, the First Civilization existed a long time ago. Our roots are truly ancient, dating back thousands of years. In fact, all of us are descendants of that civilization."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:617
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:680
 msgid "During the reign of the first Magi, our ancestors tried to win their place in a harsh environment, where many factions fought for things as banal as the right to live. At that time they weren't capable of creating floating islands, but they managed to build a huge empire, and were able to defend themselves from their rivals."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:621
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:684
 msgid "At some point, they became one of the most powerful nations on the planet. That period in history is known as the Golden Age of Magi. Unfortunately a terrible world-wide cataclysm happened, leading to the fall of the First Civilization. Only a few survived. It took them millenia to rebuild the mage society. But they succeeded, as you can see."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:625
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:688
 msgid "It looks like I have just summarized most of the 78732 volumes of records about the history of our nation. Frankly, it's ridiculously oversimplified; there are 78732 entire volumes for a reason, you know. Quite a shame that you don't have the time for reading, each volume is worth your time."
 msgstr ""
 
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:694
+msgid "I wonder, did this first civilization happen to live around the area that is now the Great Desert?"
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:698
+msgid "...Yes, how did you know?"
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:702
+msgid "A while ago, I spoke with the Darkblooded, as they call themselves. Their leader spoke about of an ancient human civilization, who accidentally caused some kind of disaster that wiped out nearly all of their territory. Your story seems to match unusually well with his..."
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:706
+msgid "<i>*to himself* I really hope The Keeper didn't tell him about the Eye of Darkness...</i>"
+msgstr ""
+
+#. [message]: speaker=Void
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:710
+msgid "*sigh* To tell the truth, alas, the cataclysm was indeed caused by one of our ancestors' failed experiments. <i>*to himself* I need someone to switch the topic, fast...</i>"
+msgstr ""
+
 #. [message]: speaker=mage2
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:635
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:723
 msgid "Hey, look, I think I just saw Mehir over there!"
 msgstr ""
 
 #. [message]: speaker=mage1
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:639
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:727
 msgid "Really? I must meet him!"
 msgstr ""
 
 #. [message]: speaker=mage2
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:643
-msgid "Sure, I guess. But don't get carried away, or we may end up being late for the next lecture."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:731
+msgid "Sure, but don't get carried away, or we may end up being late for the next lecture."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:650
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:738
 msgid "Uhh... what do the two of you want?"
 msgstr ""
 
 #. [message]: speaker=mage1
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:654
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:742
 msgid "Mehir! By the Sun, I always wanted to meet you! You're an absolute legend!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:658
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:747
 msgid "'By the Sun'? Wait a second, are you... Kharosian?"
 msgstr ""
 
 #. [message]: speaker=mage1
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:662
-msgid "Of course I am! After all, the priesthood sends their children here for higher education as part of the alliance between two nations..."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:751
+msgid "Of course I am! After all, the priesthood and nobility sends their children here for higher education as part of the alliance between two nations..."
 msgstr ""
 
 #. [message]: speaker=mage1
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:670
-msgid "...and the main reason Anthi sent you here is because of an agreement with Guru."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:759
+msgid "...oh, and the main reason Anthi sent you here is because of an agreement with Guru."
 msgstr ""
 
 #. [message]: speaker=mage2
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:674
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:763
 msgid "*facepalm intensifies*"
 msgstr ""
 
 #. [message]: speaker=mage1
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:678
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:767
 msgid "Should I not have mentioned that? Uhh... Well, this is awkward. I guess I better get going."
 msgstr ""
 
 #. [message]: speaker=Sculptor
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:696
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:785
 msgid "Uhh... let's pretend you didn't hear anything, alright?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:714
-msgid "Master Umbrez, are you done? Ah, yes. I see you know your subject. *to Mehir* Now, to fulfill the other part of my promise..."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:806
+msgid "Master Umbrez, are you done? *looks at the circle* Ah, quite impressive work there. *to Mehir* Now, to fulfill the other part of my promise..."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:718
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:810
 msgid "MUS!! To heel! Look sharp!"
 msgstr ""
 
 #. [message]: speaker=Mu
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:726
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:818
 msgid "You called uz, Master?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:730
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:822
 msgid "Yes, you will now serve this man over here, understood?"
 msgstr ""
 
 #. [message]: speaker=Mu
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:734
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:826
 msgid "We promeeez."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:739
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:831
 msgid "THESE are the powerful beings you mentioned?! I've easily beaten them by the dozens!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:743
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:835
 msgid "True, they're rather weak in this form, but don't worry, I'll turn them into Ums now. Watch this."
 msgstr ""
 
 #. [message]: speaker=Mu
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:767
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:859
 msgid "Calibration complete. Body enhancement circuits operational, power output nominal, weapons charged. Reporting for duty."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:772
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:864
 msgid "What the... how did they...? These things are colossal now! *looks the Ums with awe*"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:776
-msgid "Behold our greatest feat of biological augmentation, the Um! Taking the goblin DNA, and shaping it into whatever we want. Why goblins, you might ask? Because they make for great test subjects. The ones you're granted are combat models; possessing extraordinary physical strength and advanced weaponry, but rather lacking in intellect, similarly to the Mus."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:868
+msgid "Behold our greatest feat of biological augmentation, the Um! Taking the goblin DNA, and shaping it into whatever we want. Like I told you earlier, they make for great test subjects. The ones you're granted are combat models; possessing extraordinary physical strength and advanced weaponry, but rather lacking in intellect, similarly to the Mus."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:780
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:872
 msgid "Any Mu can be transformed into a such a powerful being, but the process is quite long and expensive, requiring lots and lots of magical augmentation, genetic modification, and nutrition. You wouldn't believe how many years of experimenting we spent to finally achieve this."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:784
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:876
 msgid "Neither version is particularly bright, but their combat potential is certainly not to be underestimated."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:788
-msgid "Right. They are free to batter those mechanical creations you warned me about, and the hulks can haul the battery."
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:880
+msgid "Right. Hopefully they'll easily crush the mechanical creations you warned me about, and the hulks can haul the battery."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:792
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:884
 msgid "Err... that won't be necessary. Listen carefully now, I'm going to teach you a special magic spell that will allow you to instantly return here with your men AND the battery!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:803
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:895
 msgid "Finally you took it in... a bit slow on the uptake, eh? Anything else? No more questions? Really? Well, then, you are all set up now. The skyship will take you to the destination. Traveling there by sea would take months."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:808
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:900
 msgid "A flying ship? *looks uneasy at the heavyweight ums*... Perhaps you could transform them back into their smaller version..."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:812
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:904
 msgid "Don't wet your pants, the skyship can handle the weight, it just has little room. Good luck - you will need it back on earth again."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:885
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:977
 msgid "No need to hurry up, it would be wiser to fully test the circle before heading off."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\21_Skydock.cfg:889
+#: To_Lands_Unknown\scenarios\21_Skydock.cfg:981
 msgid "Sure."
 msgstr ""
 
@@ -11768,7 +11945,7 @@ msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:245
-msgid "Do not worry, Summoner. This is not the first time, we created a wormhole to a different dimension. It is still a rather rare event given the fact it requires incredible amounts of energy to make it work, but we attempted something like that several times in our history and never failed."
+msgid "Do not worry, Summoner. This is not the first time we created a wormhole to a different dimension. It is still a rather rare event given the fact it requires incredible amounts of energy to make it work, but we've attempted something like that several times in our history and never failed."
 msgstr ""
 
 #. [message]: speaker=Mu
@@ -11788,7 +11965,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:271
-msgid "And he heard me calling him midget... Now we are screwed. *gulp*"
+msgid "And he heard me calling him midget AND dumb... Now we are screwed. *gulp*"
 msgstr ""
 
 #. [message]: speaker=Guru
@@ -11812,228 +11989,233 @@ msgid "Rashti! Is the passage safe? I'd like to be sure the magi aren't screwing
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:346
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:347
 msgid "Don't worry, the gate is fully stable, as long as it's not cut off from its energy source."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:350
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:351
 msgid "Hmmm... Go first, soldiers..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:380
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:381
 msgid "It is your turn, Rashti."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:386
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:388
 msgid "*stares into the Abyss* The wind in my hair... it feels different now."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:390
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:393
 msgid "I am not the same entity that I used to be, when entering your mortal world several hundred years ago."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:394
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:398
 msgid "When I took my form at that time, I was torn between reason and passion - to reflect two eternal forces struggling in human minds and hearts. But now I am finally united."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:398
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:403
 msgid "This makes me wonder... Is the Abyss still the same place now?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:402
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:407
 msgid "There is only one way to find out. The Abyss itself is already a divided place full of chaos, both creative and destructive in nature. This will not change anytime soon."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:406
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:411
 msgid "You have achieved harmony, something most humans can only dream of. You can use the knowledge from the mortal world to do great things as a ruler of your dimension."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:410
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:416
 msgid "I have seen so much during my presence in this realm: deserts, mountains, sky, rain, my old masters dying and new ones being elected. In the end, I chose Mehir as my final master. I learned so much during the time with him - more than I could ever imagine. I even perished for a moment only to be born again. Now I am eternal, and I regret nothing."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:414
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:420
 msgid "Standing here by his side I see my Home... and I know I am finally back."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:424
-msgid "I have never thought I would come this far. If I told my past self that he'll fight your men, befriend lizards wanting to cook Jaffar alive, become the leader of Tar-Tabar and almost end up stuck here forever after aiding distant relatives of our kind, he would probably tell me to see a doctor..."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:431
+msgid "I have never thought I would come this far. If I told my past self that he'll fight your men, befriend lizards who wanted to cook Jaffar alive, become the leader of Tar-Tabar and almost end up stuck here forever after aiding distant relatives of our kind, he would probably ask me what I'm smoking, and where can he get some of it."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:436
+msgid "I have never thought I would come this far. If I told my past self that he'll fight your men, befriend lizards who wanted to cook Jaffar alive, become the leader of Tar-Tabar and almost end up stuck here forever after aiding distant relatives of our kind, he would probably tell me to see a doctor..."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:428
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:441
 msgid "Well, fate can certainly turn out in bizarre ways. Well, it was certainly worth it: you could've easily been just another generic person <i>*to himself* had it not been for my interference...</i> yet you're a walking a legend!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:433
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:446
 msgid "Maybe you are right, but you know what? ...I am staying here with you!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:437
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:450
 msgid "Erm... Pardon?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:441
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:454
 msgid "You see, nothing in al-Kamija is as good as this! Those Ums, my ultimate circle, cruises in the sky, your crap food... I don't want to live without it again!"
 msgstr ""
 
 #. [message]: speaker=Sorcerer
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:445
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:458
 msgid "Indeed, life is good here."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:449
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:462
 msgid "But..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:453
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:466
 msgid "I know I am the leader of one of our cities and the owner of Rashti, but I'm sure she will be fine - she's now at home after all. And I have my deputy Jaffar's to govern the city as usual."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:457
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:470
 msgid "<i>*to himself* That was... quite an unforeseen turn of events. I must do something immediately, else the plan would be ruined...</i> (to Mehir) Look, you must go to the Abyss. Really."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:461
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:474
 msgid "But why? Can't I stay with you? This place is perfect!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:465
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:478
 msgid "I know but what about the philosophy of your nation? Don't you people believe that you will find the ultimate sense of your lives out there? <i>*to himself* A belief that is among the biggest nonsense I have heard in years...</i> (to Mehir) Are you not curious what lies there?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:469
-msgid "Maybe a little, but I am afraid that living in a place full of abyssmals, who are almost impossible to date, could be frustrating in the long run."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:482
+msgid "Maybe a little, but I am afraid that living in a place full of abyssmals who are almost impossible to date, could be frustrating in the long run."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:473
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:486
 msgid "You may be right about this part, but I still believe you should go there. Your people need you."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:477
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:490
 msgid "Didn't I just say Jaffar will be govern the city? They will be fine, I hope."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:481
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:494
 msgid "<i>*to himself* This is far harder than I hoped it would be...</i> (to Mehir) Look, I did not want to tell you this, but I am afraid disastrous things are going to happen in the Abyss soon if you don't do something about it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:485
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:498
 msgid "Wait, what do you mean?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:489
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:502
 msgid "We are still not sure if our predictions are correct, but it seems the abyssmal balance may be at risk in the next few weeks or months. A certain red being going under the name of Reficul is attempting to turn the abyssals against your civilization. While he may not be much in terms of raw strength, but the ideas he spreads are very, very dangerous for your civilization."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:493
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:506
 msgid "I see. Well, that changes everything. I am still responsible for my people, more or less. Also, it would be nice to kick his red butt once and for all this time. In this case, I'd better get going, but once I finish my job, I am going to return here!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:497
-msgid "Good. <i>*to himself* We even count on the last part...</i> (to Mehir) You should hurry. The portal is going to collapse anytime soon."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:510
+msgid "Good. <i>*to himself* We even count on the last part...</i> (to Mehir) You should hurry. The portal might to collapse anytime soon."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:502
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:515
 msgid "Yeah, all the stories I could tell... By the way, I wonder, if you know how to get to the Abyss, then why not do that?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:506
-msgid "Ah, summoner, there is still an enormous amount of knowledge left in this world to learn, and thus we have no intention of going to other dimensions yet. And besides, as magic doesn't work in the Abyss, so even if we get there, we would lack the ways to sufficiently research it. We might consider delving into other dimensions eventually, but first we'd need to exhaust everything this one has to offer, which is a no easy task..."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:519
+msgid "Ah, summoner, there is still an enormous amount of knowledge left in this world to learn, and thus we have no intention of going to other dimensions yet. And besides, as magic doesn't work in the Abyss, so even if we get there, we would lack ways to sufficiently research it. We might consider delving into other dimensions eventually, but first we'd need to exhaust everything this one has to offer, which is a no easy task to say the least..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:511
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:524
 msgid "I understand. Anyway, thank you for your help."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:520
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:533
 msgid "Enter the Abyss"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:590
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:601
 msgid "That was close..."
 msgstr ""
 
-#. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:595
-msgid "You have arrived too early, Mehir."
-msgstr ""
-
-#. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:599
-msgid "But when the time is right, you will return..."
-msgstr ""
-
-#. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:603
-msgid "...and fulfill our dream..."
-msgstr ""
-
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:610
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:607
 msgid "(to Antiquarius) I still wonder, why did we bother with all the effort to get this particular summoner here?"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:614
-msgid "If you want my opinion, it's entirely worth it. Him bringing Glomin here is the best thing to happen to my department in centuries! Now I can thoroughly research the Runemasters! All my incomplete tomes shall soon be complete!"
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:611
+msgid "Well, if you ask me, it's entirely worth it. Mehir bringing Glomin here is the best thing to happen to my department in centuries! Now I can thoroughly research the Runemasters! All my incomplete tomes shall soon be complete!"
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:618
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:615
 msgid "I appreciate your enthusiasm for your research, Antiquarius, but look at the bigger picture. Wasn't the goal supposed to be Nomolas? I can't help but feel the plan got rather... sidetracked."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:622
-msgid "*turns to the two magi* To answer your question, Umbrez, Nomolas is still the goal. But as I assume someone as skilled in dealing with abyssal energy as you knows, magic is of little use in the Abyss, getting to the First Jinni would be virtually impossible if the Summoners hate us. With them no longer viewing us as enemies, and being busy battling the native red beings, we might catch a glimpse of an opportunity to reach him."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:619
+msgid "*turns to the two magi* To answer your question, Umbrez, Nomolas is still the goal. But since magic is of no use in the Abyss, getting to the First Jinni would be virtually impossible if the Summoners hate us. Now that they no longer view us as enemies, and are busy battling the native red beings, after having waited for centuries, we might catch a glimpse of an opportunity to reach him."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:626
-msgid "Don't forget that only he has the power to achieve what the First Civilization of Magi always dreamed of and failed to execute. Though I must admit, I have a rather uneasy feeling about him. As much as I studied him, even I can't fully figure out his motives. He could either be our key to sucess, or the biggest threat since the Cataclysm... Either way, we must keep him in our sights."
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:623
+msgid "Though I must admit, I have a rather uneasy feeling about him. As much as I studied him, even I can't fully figure out his motives. He could either be our key to achieving what the First Civilization failed to do, or the biggest threat since the Cataclysm... Either way, we must keep him in our sights."
 msgstr ""
 
 #. [message]: speaker=Void
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:630
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:627
 msgid "Understood."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:634
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:631
 msgid "And that is all for today, the meeting is officially over. You may leave, gentlemen."
+msgstr ""
+
+#. [message]: speaker=Guru
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:651
+msgid "You have arrived too early, Mehir."
+msgstr ""
+
+#. [message]: speaker=Guru
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:655
+msgid "But when the time is right, you will return..."
+msgstr ""
+
+#. [message]: speaker=Guru
+#: To_Lands_Unknown\scenarios\24_Epilogue.cfg:659
+msgid "...and fulfill our dream..."
 msgstr ""
 
 #. [scenario]: id=TLU_cutscene
