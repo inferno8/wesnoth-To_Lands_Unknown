@@ -1,27 +1,24 @@
-border_size=1
-usage=map
-
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv^Yyyy, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Xv, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, 2 Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, 3 Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, 1 Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Xv, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Urb, Xv, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Urb, Xv, Urb, Xv, Urb, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
-Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Xv, Rr, Xv, Rr, Xv, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Xv, Rr, Xv, Rr, Xv, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Xv, Xv, Rr, Xv, Rr, Xv, Rr, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, 2 Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, 3 Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Wwt, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Xv, Rr, Wwt, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, 1 Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Xv, Rr, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Xv, Rr, Rr, Xv, Xv, Rr, Rr, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Wwt, Wwt, Wwt, Wwt, Wwt, Xv, Xv, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv
+Xv, Xv, Xv, Xv, Rr, Wwt, Wwt, Wwt, Wwt, Xv, Xv, Xv, Xv, Rr, Xv, Xv, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Xv, Xv, Xv
+Xv, Xv, Xv, Rr, Rr, Wwt, Xv, Wwt, Xv, Xv, Rr, Xv, Xv, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Rr, Rr, Xv
+Xv, Xv, Xv, Xv, Wwt, Xv, Wwt, Xv, Wwt, Wwt, Wwt, Rr, Rr, Xv, Xv, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Rr, Rr, Xv
+Xv, Xv, Xv, Xv, Xv, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Wwt, Rr, Rr, Rr, Xv, Xv, Rr, Rr, Rr, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Rr, Rr, Xv
 Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv, Xv
