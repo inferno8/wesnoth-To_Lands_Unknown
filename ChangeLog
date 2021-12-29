@@ -1,6 +1,23 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.1
+- General
+	* improved dialog for scenarios: 02,19,21,24
+
+- Scenarios
+	> scenario 07 - Dome of Elements:
+		* set starting gold amount to 13g
+	> scenario 10 - Chaos:
+		* the red portal doesn't move dimensional gates
+		* healing circles work once per turn
+	> scenario 11 - Message:
+		* complete overhaul of the scenario (a new map, dialogs and fx)
+		* decreased the limit of Elders required to survive by 1 for all difficulties
+
+- Translations
+	* updated the raw translation file
+
 Version 3.5
 - General
 	* added 18 custom music tracks
@@ -8,7 +25,7 @@ Version 3.5
 
 - Scenarios
 	> scenario 00 - Prologue:
-		* prevent Ferryman from loosing hp
+		* prevent Ferryman from losing hp
 	> scenario 01 - Highiest Tiers:
 		* reduce income to 0
 	> scenario 04 - Southern Nations:
