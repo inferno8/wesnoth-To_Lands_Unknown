@@ -1,6 +1,23 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.2
+- General
+	* improved dialog for scenarios: 11,12,19,21
+
+- Scenarios
+	> scenario 12 - Siege of Mag-Magar:
+		* the Living Gate is no longer controlled by AI (but all Dimensional Gates spawned by it are still AI-controlled)
+		* slightly reduced enemy gold on hard difficulty
+		* added a warning about scenario having no villages, so players can adjust their tactics
+		* fixed a bug where some units were able to survive a scenario-specific incident
+		* hexes adjacent to burning parts of the map are now illuminated
+	> scenario 15 - Abyssal Rebellion:
+		* slightly reduced enemy gold on hard difficulty
+
+- Translations
+	* updated the raw translation file
+
 Version 3.5.1
 - General
 	* improved dialog for scenarios: 02,19,21,24
