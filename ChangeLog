@@ -1,6 +1,26 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.3
+	
+- Scenarios
+	> scenario 12 - Siege of Mag-Magar:
+		* allied units cannot walk onto the stationary Living Gate
+	> scenario 13 - A New Leader:
+		* Malib retains his stats from the previous scenario
+		* fixed Malib's location in the Central Palace
+		* added some civilians to the swimming pool
+	> scenario 15 - Abyssal Rebellion:
+		* improved dialogs
+		* restored previous (pre 3.5.2) enemy gold amount on hard difficulty
+
+- Code
+	* removed deprecated code from smooth_music_transition.lua
+	* removed the now deprecated attack_depth ai parameter from all scenarios
+
+- Translations
+	* updated the raw translation file
+
 Version 3.5.2a
 - Scenarios
 	> scenario 12 - Siege of Mag-Magar:
