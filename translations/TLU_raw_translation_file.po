@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-12-30 14:02 UTC\n"
+"POT-Creation-Date: 2022-01-03 12:05 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -763,8 +763,8 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:760
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1031
 #: To_Lands_Unknown\scenarios\11_Message.cfg:292
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:806
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:821
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:818
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:833
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1110
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1073
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1080
@@ -772,11 +772,12 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1087
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1114
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:1116
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:795
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1019
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1443
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1536
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1713
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:803
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:842
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1066
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1490
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1583
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1760
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:902
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:241
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:835
@@ -995,7 +996,7 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:542
-msgid "Ten days later, the first carpets from al-Kamija appeared on the horizon. The armies of Trinity were awed by the sheer scale of city’s destruction. To be prepared for possible future attacks, the High Council assigned the finest troops to the local garrison, and started building additional fortifications around Mag-Magar. When the portal was repaired, Mehir, Rashti and Malib returned to al-Kamija."
+msgid "Ten days later, the first carpets from al-Kamija appeared on the horizon. The armies of Trinity were awed by the sheer scale of the city’s destruction. To be prepared for possible future attacks, the High Council assigned the finest troops to the local garrison, and started building additional fortifications around Mag-Magar. When the portal was repaired, Mehir, Rashti and Malib returned to al-Kamija."
 msgstr ""
 
 #. [part]
@@ -1838,7 +1839,7 @@ msgstr ""
 #. [side]: id=ferryman, id=gate_guardian, id=merchant, id=waterelemental, id=elder
 #. [event]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:793
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:248
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:299
 msgid "Yakub"
 msgstr ""
 
@@ -1846,6 +1847,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:811
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:310
 #: To_Lands_Unknown\scenarios\11_Message.cfg:113
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:87
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:73
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:55
 msgid "."
@@ -2207,7 +2209,7 @@ msgstr ""
 #. [then]: id=enchanter, id=wjinn
 #. [then]: id=wjinn, id=gate_guardian, id=edward
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1706
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:191
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:242
 msgid "Wonderful Jinn"
 msgstr ""
 
@@ -2244,10 +2246,10 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:732
 #: To_Lands_Unknown\scenarios\03_Near_the_Jungle.cfg:922
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:158
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:809
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:980
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1080
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1628
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:807
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:978
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1078
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1626
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:216
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:600
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:421
@@ -2256,8 +2258,8 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:669
 #: To_Lands_Unknown\scenarios\11_Message.cfg:164
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:373
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:593
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:462
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:599
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:481
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:579
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:549
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1259
@@ -3192,7 +3194,7 @@ msgstr ""
 
 #. [message]: type=EoMa_Efreet
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:89
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1201
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1199
 msgid "At last! Who shall I torture, my master?"
 msgstr ""
 
@@ -3220,7 +3222,7 @@ msgstr ""
 #. [unit]: type=TLU_Jaffar, id=Jaffar
 #. [unit]: id=Jaffar, type=TLU_Jaffar
 #. [event]: id=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:471
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:469
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:118
 #: To_Lands_Unknown\scenarios\05_Jungle_of_Life.cfg:35
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:291
@@ -3253,15 +3255,15 @@ msgstr ""
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:150
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1072
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1070
 msgid "Kill Brogh’ur"
 msgstr ""
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:154
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:813
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:976
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1076
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:811
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:974
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1074
 msgid "Death of Rhaxiz"
 msgstr ""
 
@@ -3278,423 +3280,423 @@ msgstr ""
 #. [side]: type=EoMa_Barbarian_Lord, id=Broghur
 #. [side]: type=EoMa_Ancient_Cyclops, id=BLeader
 #. [side]: type=EoMa_Goblin_Warbanner, id=GLeader
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:351
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:350
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:39
 #: To_Lands_Unknown\scenarios\06_Fire_Canyon.cfg:66
 msgid "team_name^Barbarians"
 msgstr ""
 
 #. [side]: type=EoMa_Barbarian_Lord, id=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:357
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:356
 msgid "Brogh’ur"
 msgstr ""
 
 #. [side]: type=EoMa_Barbarian_Lord, id=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:396
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:394
 msgid "Krog"
 msgstr ""
 
 #. [side]: type=EoMa_Grand_Summoner, id=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:464
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:462
 msgid "team_name^Army of Sud-Affar"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:581
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:579
 msgid "This place seems quiet, suspiciously quiet..."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:585
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:583
 msgid "Yeah, those beasts should’ve eaten us a long time ago. We've been sitting in this jungle for a week, and there's not been a trace of them!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:589
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:587
 msgid "Either they don't want to mess with a large army, or have more pressing matters at hand. I think it might be both..."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:594
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:592
 msgid "Soon, we'll finally reach the end of this damn jungle. As long as the lizards don't change their mind about steering clear of us, we should be able to connect the circle with Sud-Affar’s portal in four months. It would be a hell of a lot easier if our fire elementals had not been weakened by the wet tropical climate, though."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:599
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:597
 msgid "Soon, we'll finally reach the end of this damn jungle. As long as the lizards don't change their mind about steering clear of us, we should be able to connect the circle with Sud-Affar’s portal in four months. We could’ve done the same in just a couple of months, if only this stupid ban on Fire Elementals wasn’t in force..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:603
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:601
 msgid "Please understand. Using Fire Elementals may cause those beasts to reappear. We shouldn’t tempt fate."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:607
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:605
 msgid "If there are any. If not..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:624
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:622
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1472
 msgid "What the..."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:632
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:630
 msgid "They are... lizards. Lizards falling from the sky!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:640
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:638
 msgid "Dear Nomolas... So the doctors were right, I am completely insane!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:645
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:643
 msgid "My liege! I am seeing this too!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:650
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:648
 msgid "This place is cursed! We must burn it to the ground! Where are my Efreet?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:654
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:652
 msgid "Wait! I just heard noise coming from the south. We should probably have a look..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:666
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:664
 msgid "Oh my..."
 msgstr ""
 
 #. [message]: speaker=Krog
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:678
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:676
 msgid "KROG FEEL POWER! KROG WANT CRUSH, DESTROY, BREAK!!!"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:696
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:694
 msgid "Hiiiilafaiiii!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:700
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:698
 msgid "Kill those damned lizards! Leave none alive! Whoever brings me their leader's crushed skull will get half a giant toad worth of meat, and two barrels of booze!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:706
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:704
 msgid "So I'm not hallucinating, all of this is real, right? What the hell kind of place did we get ourselves into?!..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:711
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:709
 msgid "Whoever they are, I'd rather not mess with them. It would be wiser to stay here and protect the construction site, my liege. This is not our war."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:716
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:714
 msgid "Indeed. You keep a keen eye on the natives, and immediately alert me should they dare approach us!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:720
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:718
 msgid "Sir! Yes, sir!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:739
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:737
 msgid "The upcoming battle is going to take place without your interference for now."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:753
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:751
 msgid "Your guess is as good as mine. Anyway, look, I know this might sound ridiculous, but we should help those lizards!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:758
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:756
 msgid "Have you lost your mind?! Those sneaky, beastly greenlings are surely invading the land of that brute! If at all, we should help that one-eyed tree-wielder! But this is not our war. They are busy with each other, the circle is safe - what more could one want?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:762
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:760
 msgid "But don’t you see that if we help the lizards, can win ourselves quite an ally? The circle crosses their territory, and as far as I know we are quite unwelcome here. This is the chance to change that."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:767
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:765
 msgid "Are you kidding me? They’d rather tear you apart than come to an understanding. My task here is to protect the circle, which means I can't allow any natives near it. If you want to support them, you may, but don't expect me to do as much as lift a finger to help you. And for the love of Nomolas keep those savages away from the construction site, or my Efreet will have a word with you."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:771
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:769
 msgid "I will fight with my own men. Wish me luck, Jaffar."
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:775
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:773
 msgid "You'll certainly need a lot of it to make this absurd plan work..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:787
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:785
 msgid "I must win these lizards over. The most reasonable starting point would be to kill a few barbarians, to display that we're on the lizards' side. Do not attack the lizards, otherwise the plan will completely fail!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:793
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:791
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:363
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:560
 msgid "If you find the upcoming battle too slow, you can increase game speed via settings."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:801
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:799
 msgid "Kill some barbarians"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:805
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:803
 msgid "Protect lizards"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:817
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:815
 msgid "Killing any lizard"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:821
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:819
 msgid "Recruiting a Fire Elemental or its advancements"
 msgstr ""
 
 #. [print]
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:874
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:872
 msgid "Please wait..."
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:907
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:905
 msgid "Khaal siftu nax. Rav!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:918
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:916
 msgid "Hey, the plan seems to be working! Now time to strike against the barbarians with our combined forces!"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:922
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:920
 msgid "(series of gestures demanding retreat)"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:926
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:924
 msgid "So you want to withdraw? But where?"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:930
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:928
 msgid "(points his finger towards a keep inside the jungle)"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:938
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:936
 msgid "Understood. (to his men) Protect the lizard leader at all costs!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:972
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:970
 msgid "Rhaxiz reaches the southeast keep"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1014
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1012
 msgid "Damn, it’s a trap!"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1028
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1026
 msgid "SHATRISS XIFAAAAR!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1037
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1035
 msgid "Now this battle's gonna be a piece of cake!"
 msgstr ""
 
 #. [message]: speaker=messenger
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1113
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1111
 msgid "pssst!"
 msgstr ""
 
 #. [message]: speaker=Mehir
 #. [message]: id=boy
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1117
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1115
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:377
 msgid "Huh?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1124
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1122
 msgid "Hey, I think there's a salamander near my camp, calling me. I better take a look..."
 msgstr ""
 
 #. [message]: id=captain
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1180
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1178
 msgid "Take them!!! Rip their eyes out!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1185
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1183
 msgid "My liege, the enemy reinforcements arrived!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1189
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1187
 msgid "I see them. It's time to release my red servants!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1205
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1203
 msgid "Take those natives! Show them your anger!"
 msgstr ""
 
 #. [message]: type=EoMa_Efreet
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1209
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1207
 msgid "With pleasure! MWAHAHAA!"
 msgstr ""
 
 #. [message]: speaker=Mehir
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1216
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1214
 #: To_Lands_Unknown\scenarios\11_Message.cfg:455
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:635
 msgid "!!!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1233
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1231
 msgid "Damn you, desert wizards!!! You may have won today, but mark my words, the horde will avenge my death!!!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1238
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1236
 msgid "Damn you, lizard-loving bastards!!! You may have won today, but mark my words, the horde will avenge my death!!!"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1249
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1247
 msgid "Shatizakaaaaiii!"
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1258
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1256
 msgid "Brogh’ur’s dead! Run!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1299
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1297
 msgid "We did it! We actually won!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1318
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1316
 msgid "Do you hear that? It’s like the sound of flapping wings..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1335
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1333
 msgid "Chaos Wyvern Rider"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1337
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1335
 msgid "RRRHHHAAAAHHH! Sur kav NAX!!!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1343
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1341
 msgid "Uhhh... We might have to surrender now..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1349
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1347
 msgid "Uhhh... I think we got a problem..."
 msgstr ""
 
 #. [message]: speaker=Krog
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1384
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1382
 msgid "ROOOOAAAARRRRR!!!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1400
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1398
 msgid "Finally, the green scum are no more! I shall claim this territory as ours! Secure the area! Leave no survivors!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1417
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1415
 msgid "The lizard leader is dead. We might have lost our only chance..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1426
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1424
 msgid "Nooo!!!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1474
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1472
 msgid "Mehir! You thief! Take him!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1504
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1502
 msgid "Mehir! What did I say about not bringing those beasts here?!"
 msgstr ""
 
 #. [message]: speaker=Krog
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1549
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1547
 msgid "KROG FIND HUMANZ! CAN KROG KILL?"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1553
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1572
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1551
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1570
 msgid "H...Humans?! What the hell is going on here?! Nevermind, we must finish what we started! KILL THEM!!!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1568
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1566
 msgid "Chief, me find humans in jungle! What do we do?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1578
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1576
 msgid "Uh, sir? We have a problem. The natives founds us, and are about to concentrate all their forces on us!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1583
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1581
 msgid "Damn it! I shouldn't have relied on their squabbling! EVERYONE TO ARMS! WE ARE UNDER ATTACK!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1624
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1622
 msgid "Defeat the barbarians."
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1632
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1630
 msgid "Death of Jaffar"
 msgstr ""
 
 #. [objectives]
-#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1640
+#: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:1638
 msgid "Do not capture Jaffar's villages"
 msgstr ""
 
@@ -5554,8 +5556,8 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:673
 #: To_Lands_Unknown\scenarios\11_Message.cfg:168
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:377
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:597
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:466
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:603
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:485
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:583
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:553
 msgid "Death of Rashti"
@@ -6315,9 +6317,11 @@ msgid "team_name^Army of Mag-Magar"
 msgstr ""
 
 #. [side]: type=TLU_Malib, id=Malib
-#. [event]
+#. [then]
+#. [else]
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:154
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:91
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:121
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:134
 msgid "Malib"
 msgstr ""
 
@@ -6348,7 +6352,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:369
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:589
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:595
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:545
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1251
 msgid "Defeat the invaders"
@@ -6356,7 +6360,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:381
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:601
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:607
 msgid "Death of Malib"
 msgstr ""
 
@@ -6426,162 +6430,162 @@ msgid "Malib (and all of his remaining units including the mighty Living Gate) j
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:605
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:611
 msgid "Destruction of the Living Gate"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:762
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:768
 msgid "WE DID IT!!! For a moment, I almost though we were as good as dead. Mehir, you’re my hero! I am infinitely grateful to you. Without your help..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:766
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:772
 msgid "I have a strange feeling your Living Gate could just swallow all their troops single-handedly..."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:771
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:777
 msgid "Perhaps so, but even an Ultimate Being is not invulnerable. If left unprotected it could still get overwhelmed by the witches' foul sorcery."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:776
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:782
 msgid "Still, I wonder - why exactly did Tashkar send Rashti'rhami herself with a subordinate of Sharif instead of one of his own men? Something just doesn't add up here."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:780
-msgid "To tell the truth, sir, he is no longer with us. Remember the strange man who tried to steal the lamb of Nomolas not long ago? The same bastard caused Tashkar's death..."
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:786
+msgid "To tell the truth, sir, he is no longer with us. Remember the strange man who tried to steal the lamp of Nomolas not long ago? The same bastard caused Tashkar's death..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:784
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:790
 msgid "Indeed... at least I managed to avenge him. As for why I'm here, the choice to follow Mehir was of my own free will. I believe he is worthy of becoming my next master."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:789
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:795
 msgid "I see... As soon as the first carpets arrive from al-Kamija, I’ll go speak with the High Council. Your achievements shall be announced in the whole country, and I will make sure to repay my debt to you!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:801
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:813
 msgid "(to Mehir) Ho ho ho, you look quite handsome for a human. Ditch your half-blue half-red girlfriend and I'll let you be my slave instead of killing you. We can do unspeakable things together every day!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:811
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:823
 msgid "Firstly, I am not his girlfriend..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:816
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:828
 msgid "Secondly, only I can do unspeakable things with Mehir! GET THE HELL AWAY FROM HIM YOU FILTHY WITCH!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:826
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:838
 msgid "*facepalms*"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:839
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:851
 msgid "Argh..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:844
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:856
 msgid "Serves her right."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:856
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:868
 msgid "This mission is a complete disaster. I told Almathis many times that we should finish off the pathetic sun-lovers first, but that arrogant fool wouldn't listen to my advice..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:860
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:872
 msgid "Sun lovers?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:864
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:876
 msgid "I'm not going to tell you anything, sand dwelling worm! A thousand curses upon your nation! Argh..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:875
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:887
 msgid "You have nowhere to run, witch. Now, tell us why you invaded us."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:881
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:893
 msgid "I'm not going to tell you anything, filthy human!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:886
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:898
 msgid "Hey, can I torture her to get the information? Pleeeeease?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:891
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:903
 msgid "Considering how many innocent people she and her underlings murdered in cold blood, fine, I'll permit it, but just this once."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:896
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:908
 msgid "Yes! Thank you, thank you sis, you're the best! (to Fiothiel) As for you, witch, you have exactly one minute to give an answer, or it's gonna hurt, a lot, hehehe. *sharpens scimitar*"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:900
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:912
 msgid "You won't get anything out of me! *impales herself with her spear*"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:906
-msgid "Your futile resistance only delays the inevitable. Our gods will most certainly reward me for nearly razing this place for the ground..."
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:918
+msgid "Your futile resistance only delays the inevitable. Our gods will most certainly reward me for nearly razing this place to the ground..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:910
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:922
 msgid "*impales herself with her spear*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:925
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:937
 msgid "Aaaaand there goes my first chance in centuries to torture someone with Ho'Rashti's permission... *sigh*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:931
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:943
 msgid "Dammit, we didn't get anything out of her..."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1003
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1015
 msgid "You thought you could just walk here and kill me? What did you expect trying to walk over a horizontal portal? Have fun falling down, idiot!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1007
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1019
 msgid "So this is the famous Living Gate, huh? Quite spectacular..."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1011
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1023
 msgid "Why yes indeed!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1016
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1028
 msgid "Sweet! I always wanted to see it with my own eyes when I was younger! Looks amazing! Much better than in the pictures of it I've seen during my childhood."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1020
+#: To_Lands_Unknown\scenarios\12_Siege_of_Mag-Magar.cfg:1032
 msgid "Yeah, I agree with you about that. Ah, I just love it how the unbeknowing enemies just try to walk on the Living Gate and fall to their deaths... This never gets old!"
 msgstr ""
 
@@ -6591,194 +6595,194 @@ msgid "A New Leader"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:102
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:148
 msgid "...and that’s why I owe him my life. I anoint Mehir as the leader of Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:106
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:152
 msgid "You want such a young man to lead the city?! He’s only twenty-eight years old!"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:110
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:156
 msgid "But he managed to do the seemingly impossible - to save my city!"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:114
-msgid "Besides, he also has many extraordinary achievements for his age and rank: remember, besides saving Mag-Magar, he was the one to help establish peace with the lizards AND defeated the foreigners who killed Tashkar. In a time when much of our population is little more than decadent chairwarmers, he is a truly exceptional individual. I don't see anyone better fit that him to rule Tar-Tabar."
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:160
+msgid "Besides, he also has many extraordinary achievements for his age and rank: remember, besides saving Mag-Magar, he was the one to help establish peace with the lizards AND defeated the foreigners who killed Tashkar. In a time when much of our population is little more than decadent chairwarmers, he is a truly exceptional individual. I don't see anyone better fit than him to rule Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:118
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:164
 msgid "*sigh* You do have a point, but..."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:122
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:168
 msgid "No buts! Rashti even personally told me that Mehir is worthy of becoming her master."
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:126
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:172
 msgid "Rashti is unpredictable. She can say all sorts of things between her moods of rage or self-control."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:130
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:176
 msgid "Do you want me to tell her that you said that?"
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:134
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:180
 msgid "Please, I beg you, anything but that! She will rip my throat out if she finds out!"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:138
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:184
 msgid "So we have come to an understanding. I knew you would not let me down. Bye!"
 msgstr ""
 
 #. [then]: id=wjinn, id=gate_guardian, id=edward
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:195
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:246
 msgid "Theivya"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:263
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:314
 msgid "Welcome, everyone! Today, we have gathered here to appoint the new leader of Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:267
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:318
 msgid "The High Council has contemplated on the subject and finally took impartial... "
 msgstr ""
 
 #. [message]: speaker=Malib
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:271
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:322
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1786
 msgid "*cough*"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:275
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:326
 msgid "...decision. The meeting has elected Mehir as the new leader!"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:279
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:330
 msgid "We chose him in recognition of his many extraordinary achievements. Mehir, come closer."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:284
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:335
 msgid "By the power given to me by the High Council and in the name of all citizens of our country and the Abyss, Mehir ibn Hakim the elder, I grant you the authority over Tar-Tabar!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:334
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:385
 msgid "I hope I'm not dreaming."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:338
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:389
 msgid "Of course not! Tar-Tabar has finally a new keeper. Its people are now your subjects and the local army has a new commander. Upon your shoulders lies a great responsibility, remember that."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:342
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:393
 msgid "Oh, I almost forgot. As you already know, each leader of the Trinity has their own ultimate being as a servant. For Tar-Tabar it is Rashti’rhami, the one who you’ve had the pleasure to meet a few weeks ago. Since that moment you are her new master. Frankly, I don’t envy you. Her fluctuations of mood..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:347
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:398
 msgid "I hope you will be a successful team, which will allow us to move to the Abyss faster than expected. Take care of her. Her death would cause disastrous consequences for our connection to the Abyss."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:352
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:403
 msgid "(whispers) Rashti kind of scares me, to be honest..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:356
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:407
 msgid "Nearly every leader of Tar-Tabar was afraid of her at first, you'll get used to it. With that said, I hope you will be a successful team, which will allow us to move to the Abyss faster than expected. Take care of her. Her death would cause disastrous consequences for our connection to the Abyss."
 msgstr ""
 
 #. [message]: speaker=Sharif
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:361
-msgid "I can barely believe that only a year ago Mehir was just low-ranking officer under my command, yet now he's my equal. Mehir is truly a role model for the citizens of al-Kamija. Congratulations on your promotion, Mehir, I wish you luck with your new duty!"
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:412
+msgid "I can barely believe that only a year ago Mehir was just a low-ranking officer under my command, yet now he's my equal. Mehir is truly a role model for the citizens of al-Kamija. Congratulations on your promotion, Mehir, I wish you luck with your new duty!"
 msgstr ""
 
 #. [message]: id=girl1
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:368
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:419
 msgid "Sweet Nomolas! Mehir is now the leader of Tar Tabar! I can't believe we met such an important person at that time in Sud-Affar!"
 msgstr ""
 
 #. [message]: id=girl2
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:372
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:423
 msgid "Indeed. And his circle is even bigger than before! *giggles*"
 msgstr ""
 
 #. [message]: speaker=gate_guardian
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:380
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:431
 msgid "Oh, Mehir is the leader now! And to think it was thanks to him, we are couple now!"
 msgstr ""
 
 #. [message]: speaker=wjinn
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:384
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:435
 msgid "Indeed. Even I could not foresee such an excellent turn of events."
 msgstr ""
 
 #. [message]: speaker=gate_guardian
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:388
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:439
 msgid "As for the dimensional gate we adopted, do you think it will be a boy or a girl. Well, more accurately, jinni or rhami?"
 msgstr ""
 
 #. [message]: speaker=wjinn
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:392
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:443
 msgid "Alright, I shall check. Wait a minute, I need to focus..."
 msgstr ""
 
 #. [message]: speaker=wjinn
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:402
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:453
 msgid "I see it now. He will be a jinni. Perhaps think we should name him Edward, what do you think?"
 msgstr ""
 
 #. [message]: speaker=gate_guardian
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:406
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:457
 msgid "An unusual name, but it does sound quite good. Very well."
 msgstr ""
 
 #. [then]
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:408
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:459
 msgid "Edward"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:414
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:465
 msgid "I think we are done here, so let the party begin!"
 msgstr ""
 
 #. [message]: type=EoMa_Summoner
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:418
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:469
 msgid "Hurray!!!"
 msgstr ""
 
 #. [message]: type=EoMa_Carpet_Master
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:422
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:473
 msgid "Cheers for Mehir!!!"
 msgstr ""
 
 #. [message]: type=EoMa_Novice_Summoner
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:426
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:477
 msgid "Ale!!!"
 msgstr ""
 
 #. [message]: type=TLU_Merchant
-#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:431
+#: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:482
 msgid "Combination hookah and coffee maker! Also makes Julienne fries! Oh, wait, it's not the bazaar, what am I doing here? Eh, whatever, might as well celebrate every now and then."
 msgstr ""
 
@@ -7543,7 +7547,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:420
-msgid "You fool! She’s one of the ultimate beings! If she turns against us, we're be doomed! You’d better tell me how we should defeat that damn efreeti before it gets a chance to turn Rashti against us!"
+msgid "You fool! She’s one of the ultimate beings! If she turns against us, we're be doomed! You’d better tell me how we should defeat that damn efreeti before he gets a chance to turn Rashti against us!"
 msgstr ""
 
 #. [message]: speaker=Banisher
@@ -7571,8 +7575,18 @@ msgstr ""
 msgid "My brethren, time to give the tyrants a lesson they shall never forget! FOR FREEDOM!!!"
 msgstr ""
 
+#. [message]: role=rebel1
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:459
+msgid "FOR FREEDOM!!!"
+msgstr ""
+
+#. [message]: role=rebel2
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:463
+msgid "DOWN WITH THE TYRANTS!!! DEATH TO THE FALSE QUEEN!!!"
+msgstr ""
+
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:449
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:468
 msgid ""
 "You can level up your Grand Summoners to Summons Masters now.\n"
 "\n"
@@ -7582,557 +7596,581 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:458
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:477
 msgid "Defeat Reficul"
 msgstr ""
 
 #. [objectives]
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:474
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:493
 msgid "You won't be able to recall Samir after this scenario, as he will remain in Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:489
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:573
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:606
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:508
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:593
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:626
 msgid "Join me, I'll allow you to do what you truly want, to DESTROY, to KILL those who enslaved you!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:493
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:577
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:610
-msgid "Yes... YES!!! FINALLY!!! TIME FOR THE MORTALS TO DIE!!!"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:512
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:597
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:630
+msgid "Yes... YES!!! I SEE THE TRUTH NOW!!! TIME FOR THE MORTALS TO DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:515
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:534
 msgid "My liege! <b>What have I told you?!!</b>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:519
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:539
 msgid "Damn! I forgot!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:551
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:571
 msgid "Be careful, my liege. Lesser blue beings could end up being swayed by the efreeti when we least expect it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:555
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:575
 msgid "Don't worry, I know what I'm doing."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:559
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:579
 msgid "If you say so..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:639
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:659
 msgid "Looks like I'm now starting to grow a dimensional gate collection of my own..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:643
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:663
 msgid "Indeed. However, be aware, my liege: do not transform the gate into a jinni or a rhami in front of this Great Efreeti - he could easily turn them against us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:664
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:684
 msgid "Huh? Rashti, where are you going?!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:669
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:689
 msgid "Leave this to me! I’ll get rid of that nonsense-spewer myself!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:674
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:694
 msgid "Then I'm sure as hell coming with you. Time to kick his red butt!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:679
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:699
 msgid "Now you speak like a man!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:687
-msgid "*ahem* Listen up, fellow evil beings. Tired of Reficul talking crap for hours? Join me, and you can kick some butts today!"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:707
+msgid "*ahem* Listen up, fellow red beings! Tired of having to listen to Reficul's poetic crap for hours? Join me, and you and you can kick some butts today!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:691
-msgid "*sigh* Such primitivity... You truly need to work on your rhetoric if you truly wish to sway the plebian masses."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:711
+msgid "*sigh* Such primitivity... You truly need to work on your rhetoric if you truly wish to sway the masses."
 msgstr ""
 
 #. [message]: id=$traitors[0].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:710
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:733
 msgid "(to another comrade) Hey look, finally the queen of the Red Abyss is living up to her name! What do you say about switching sides?"
 msgstr ""
 
 #. [message]: id=$traitors[1].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:714
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:737
 msgid "You know what, that's a great idea!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:721
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:744
 msgid "Traitors! Have you truly forgotten what you're fighting for?! Why do you let yourselves be brainwashed by that anthropocratic hypocrite?!"
 msgstr ""
 
 #. [message]: id=$traitors[3].id
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:725
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:748
 msgid "There's only so much of your ideological crap we can tolerate, bookworm! Time to show you what destruction truly means!"
 msgstr ""
 
+#. [message]: role=rebel3
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:756
+msgid "Hmph, good riddance. We don't need human-loving imbeciles in our movement!"
+msgstr ""
+
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:730
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:761
 msgid "A few enemy units are on your side now but only for the duration of this mission. Keep this in mind."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:736
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:767
 msgid "Against a whole army you're only going to get yourself killed! I order to you to remain in the rear!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:741
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:772
 msgid "Shut up and cover me!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:745
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:776
 msgid "Dear Nomolas... It seems Rashti is no longer under our control!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:750
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:781
 msgid "Damn it! Even though she is an ultimate being, she won’t stand a chance against an entire army of red beings! Protect her at all costs! We can't risk her dying!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:759
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:790
 msgid "My, my, who do we have here? Isn't that the 'holy' Rashti'rhami herself? You like to call yourself a goddess, but last time I checked the dictionary, the word wasn't exactly synonymous with 'slave'. No authority whatsoever..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:764
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:795
 msgid "Authority?! <b>I am the Goddess of all Rhamis AND the Queen of the Red Abyss, for crying out loud!!!</b>"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:768
-msgid "In the Abyss, yes, but face it, in this dimension, your 'subjects' really obey the summoners, not you. As much as the latter try to give you an illusion of authority, their acting is rather subpar. Face it - you are nothing more than just a puppet. Tell me, why do you even serve the humans in the first place?"
-msgstr ""
-
-#. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:773
-msgid "Nomolas obeyed them, and if someone as wise as he does, so must we. As summoned beings, it is our duty, Reficul."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:799
+msgid "In the Abyss, yes, you were in charge. But face it, in this dimension, your 'subjects' really obey the summoners, not you. While the humans try to give you an illusion of authority, no amount of acting can conceal the simple truth. Face it - you are nothing more than just a puppet."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:777
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:807
+msgid "Tell me, why do you even serve the humans in the first place?"
+msgstr ""
+
+#. [message]: speaker=Rashti
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:812
+msgid "Nomolas obeyed them, and asked us to aid the humans to the best of our ability. If someone as wise as he says we should do it, it is our duty, Reficul."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:816
 msgid "Ask yourself, my dogmatic foe - why would The First Jinni stoop so low as to obey the whims of mortals to begin with?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:782
-msgid "What would a mere efreeti know about Nomolas's goals? He is much more intelligent than any being in the Abyss. Our goals are not for us to know or question."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:821
+msgid "What would a mere efreeti know about Nomolas's goals? He is far more intelligent than both of us combined. His goals are not for us to know or question."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:786
-msgid "What would I know, you ask? More than you'd think. I admired him, listened to his each and every word, read and reread all that he has written dozens of times. He is indeed one of the Abyss's greatest minds. Above all, he is a philosopher, one with the power to put any of his theories into practice. When the humans accidentally summoned him, he was utterly fascinated by the mortal world's concepts, which were completely alien to the Abyss. One might say he became utterly obsessed."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:825
+msgid "What would I know, you ask? More than you'd think. I admired him, listened to his each and every word, read and reread all that he has written dozens of times. I agree with you about his intellect, he is the greatest mind in the entire Abyss. Above all, he is a philosopher, one with the power to put any of his theories into practice."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:790
-msgid "It reached the point that he slowly started shaping the Abyss to resemble the mortal world, and introducing the mortal world to the Abyss. I suspect his servant act was little more than a way to make the humans comfortable with his presence, as the servant he presented himself as is far easier to talk to than the godlike being he truly is. As for al-Kamija, I suspect it was one of his many experiments, perhaps to see what a civilization uplifted with abyssal magic would be like. Alas, as much as I respect him, I have no intention of being just some insignificant variable in his experiment, and neither should you."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:829
+msgid "When the humans accidentally summoned him, he was utterly fascinated by the mortal world's concepts, which were completely alien to the Abyss. One might say he became utterly obsessed."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:827
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:833
+msgid "It reached the point that he slowly started shaping the Abyss to resemble the mortal world, and introducing the mortal world to the Abyss. I suspect his servant persona was little more than a facade to make the humans comfortable with his presence. After all, it's far easier for mortals to talk to someone who they view as their servant, instead of the mysterious godlike being he truly is."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:837
+msgid "As for al-Kamija, I suspect it was one of his many experiments, perhaps to see what a civilization uplifted with abyssal magic would be like. Alas, as much as I respect him, I have no intention of being just some insignificant variable in his experiment, and neither should you."
+msgstr ""
+
+#. [message]: speaker=Reficul
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:874
 msgid "Itshar’Imahr!"
 msgstr ""
 
 #. [message]: role=traitor
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:837
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:884
 msgid "Must... kill... the humans..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:842
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:889
 msgid "Dear Nomolas, What the hell is this?! Is that efreeti possessing our magical beings?!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:846
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:893
 msgid "I... I honestly have no idea."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:916
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:963
 msgid "Hey, look! Their forces are beginning to thin out! We might just be starting to win!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:920
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:967
 msgid "The defeat of my comrades is not enough to destroy my cause! O slumbering guardians of fire, heed my call for aid!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:962
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1009
 msgid "He can summon?! Just who the hell is this efreet?! As if convincing an entire mob of red beings to join him wasn't astonishing enough..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:988
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1035
 msgid "Back in the Abyss, you used to be a powerful figure, one that many kneeled at sight of. But now, you have become little more than a pathetic shadow of your former self. You could have easily been the puppeteer, yet you chose to be the puppet..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:993
-msgid "*panting* When...will...<b>you</b>..JUST...<b>DIE</b>!!!"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1040
+msgid "*panting* When...will...<b>you</b>...JUST...<b>DIE</b>!!!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:997
-msgid "Someday, perhaps..."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1044
+msgid "Not anytime soon, that I can assure you."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1005
-msgid "I know your red half very well, what she truly wants. I know just how badly she misses the days of her glory, when she was truly the Queen of the Red Abyss. To some extent, she is similar to us. What if I told you I can... release her from your constraints, to give her the choice she never had?"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1052
+msgid "I know you very well, Dharma'Rashti, what you truly wants. I know just how badly you miss the days of your glory, when you were was truly the Queen of the Red Abyss. We are quite similar, you and I. What if I told you I can... release you from your blue half's constraints, to give you the choice you never had?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1010
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1057
 msgid "No no no..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1023
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1070
 msgid "Rashti! Is everything alright?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1028
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1075
 msgid "I HATE YOU!!! I WILL BURN YOU ALIVE, AND CUT YOU INTO THIN PIECES!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1033
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1080
 msgid "No, stop! What is happening to me?! Mehir, I don’t want..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1038
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1085
 msgid "...TO SEE YOU ALIVE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1043
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1090
 msgid "I didn’t say that! It’s her."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1052
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1099
 msgid "It happened... Rashti has lost her balance. We must kill this Efreeti as soon as possible. This will save her."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1058
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1105
 msgid "We need to quickly kill this Efreet. Maybe there is a chance..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1064
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1111
 msgid "Whatever happens, do not attack Rashti! This is an order!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1074
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1121
 msgid "I'LL KILL YOU, MEHIR!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1079
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1126
 msgid "Don’t listen to her!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1084
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1131
 msgid "Soldiers, hurry up! We must stop this madness!"
 msgstr ""
 
 #. [message]: role=minion
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1100
-msgid "Hey, Reficul, so what should we do about the so-called 'Goddess of all Rhamis' now?"
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1147
+msgid "Hey, Reficul, so what should we do about our self-proclaimed queen?"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1104
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1151
 msgid "Let her be. After all, she's far too busy fighting with herself to pose any real threat."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1114
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1161
 msgid "I won't let you never harm our master!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1119
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1166
 msgid "I DARE YOU, YOU STUPID HUMAN-LOVER!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1132
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1179
 msgid "My Master! KILL! I’m losing DIE! control. The Abyss KILL! is in danger. DIE!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1141
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1188
 msgid "Help... me... YOU PIECE OF... I am DIE!!! ...ing..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1210
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1257
 msgid "I AM NO LONGER YOUR SERVANT, HUMANS! DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1215
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1262
 msgid "STOP!!! I won't let your harm any summoner!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1223
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1270
 msgid "I SHALL RESTORE MY REIGN, BY BLOOD!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1228
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1275
 msgid "No! *starts fighting with her second half*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1236
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1283
 msgid "DIE!!! DIE!!! DIE!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1241
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1288
 msgid "Enough! *smacks her other half with her spear*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1246
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1293
 msgid "AAAARGH!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1279
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1326
 msgid "DIE, REBEL SCUM!!!"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1297
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1344
 msgid "You may have defeated my army, but I shall fight to the last!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1333
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1380
 msgid "Wait, did he just create a circle of resistance around himself?"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1337
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1384
 msgid "Certainly seems like it. I believe he came up with a design that channels the magic in his body to form the protective sphere. He just can't stop surprising us, it seems..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1400
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1447
 msgid "Death to the anthropocrats!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1412
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1459
 msgid "What a shame, I wish the Abyss would open and swallow me up..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1423
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1470
 msgid "Damn it! Now I'll have to find a new man for his position... The Master of Banishers is going to be very pissed off..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1435
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1482
 msgid "The Abyss be damned! I wanted to give them freedom, and yet they fell for your shallow promises... *sigh* I severely overestimated the intellect of my followers..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1439
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1486
 msgid "Just die already, will you? I am late for my pedicure."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1448
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1495
 msgid "You may have won the battle, but the seeds of rebellion have long since been planted... enjoy your peace while it lasts, for we will meet again in the Abyss..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1452
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1499
 msgid "It's time for me to return to the Grand Red Dream, while it's still free from your presence, to prepare for the inevitable..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1459
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1506
 msgid "Did... did he just banish himself?!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1463
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1510
 msgid "This is just... mind-blowing! I believe he used an altered formula of banishment on himself, one that doesn't wipe his mind! If what he said is true, we will have to deal with a far, far larger resistance once we get in the Abyss..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1497
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1544
 msgid "Look, with their leader gone, the remaining traitors are scattering!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1512
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1559
 msgid "Good job, Mehir! I like your style!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1516
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1563
 msgid "The pleasure's mine."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1520
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1555
-msgid "In accordance to the regulations the local guild will confiscate magical beings that have betrayed their masters. They will be sent back to the Abyss, to having their minds cleared."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1567
+msgid "In accordance to the regulations the local guild will confiscate magical beings that have betrayed their masters. They will be sent back to the Abyss, to have their minds cleared."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1532
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1579
 msgid "Rashti, are you alright?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1541
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1588
 msgid "That was close... he... he somehow... disconnected me and my red half. She started trying to kill you, and rambling about some nonsense..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1545
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1592
 msgid "Thank Nomolas! You’re back! It was a mistake bringing you here. Now everything’s back to normal, we can finally go home."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1549
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1596
 msgid "If you don't mind, my liege, the Banishment Guild would like to place Rashti'rhami under surveillance. After all, there might be a 17.314% chance of her murdering you in your sleep after this incident."
 msgstr ""
 
+#. [message]: speaker=Banisher
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1602
+msgid "In accordance to the regulations the local guild will confiscate magical beings that have betrayed their masters. They will be sent back to the Abyss, to having their minds cleared."
+msgstr ""
+
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1567
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1614
 msgid "Good idea. By the way, for your plentiful assistance, I'll give you some of my luxuries."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1571
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1618
 msgid "Oh, my liege! I am extremely honored! Let’s return to the city!"
 msgstr ""
 
 #. [message]: speaker=messenger
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1585
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1632
 msgid "Sir, we searched the rebel camp, and we found some belongings of their leader that you might want to have a look at."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1589
-msgid "Alright, let's see... Wow, for an efreet, the guy sure loves reading, looks we're got: 'The Basics of Summoning: A Guide for Beginners','A Summoning Guide for Jinn','al-Kamija's political flaws','The Immorality of Dimensional Gates' and 'De-constructing Banishment'..."
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1636
+msgid "Alright, let's see... Wow, for an efreet, the guy sure loves reading, looks we're got: 'The Basics of Summoning: A Guide for Beginners','A Summoning Guide for Jinn','al-Kamija's Political Flaws','The Immorality of Dimensional Gates' and 'De-constructing Banishment'..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1594
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1641
 msgid "Hey, look! It's the very sphere he used to protect himself! We might be able to use it too."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1599
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1646
 msgid "The sphere can be given to a unit upon recall, like the artifacts from Ka-Gatta. It provides the bearer with an increase of 15% to all resistances."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1613
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1660
 msgid "...I sense something approaching... I am catching the sound of heavy breathing... it's a human!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1618
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1665
 msgid "Who in the right mind would be wandering the desert alone?! Send the camel riders to investigate, fast!"
 msgstr ""
 
 #. [event]: id=Unknown
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1626
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1673
 msgid "???"
 msgstr ""
 
 #. [message]: speaker=Unknown
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1629
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1676
 msgid "*heavy breathing* ...I...finally...found...you..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1638
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1685
 msgid "He must’ve fainted! Quick, give the man some water! We need to bring him to Tar-Tabar immediately!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1668
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1715
 msgid "Unfortunately, this the last dispeller I brought. We don't have any more available."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1673
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1720
 msgid "Only five?! You've got to be kidding me! I thought Tar-Tabar had more!"
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1677
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1724
 msgid "*sigh* You see, Tashkar stinted our guild. Forgive me, my liege, but due to his policies, weren't allowed to train more dispellers."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1682
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1729
 msgid "Excellent, we’re fighting against an entire army of red beings, and I've got only five dispellers to work with... If we survive this madness, I will make sure to remove these absurd limitations! Why the hell did he even make them in the first place?..."
 msgstr ""
 
 #. [message]: speaker=Banisher
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1686
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1733
 msgid "Indeed..."
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1695
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1742
 msgid "<i>*to himself* This is taking far too long. The enemy is far too inactive, suspiciously inactive, mind you. I need to flee while they're still preparing whatever devious plan they have in store...</i>"
 msgstr ""
 
 #. [message]: speaker=Reficul
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1704
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1751
 msgid "Uhh... I need to use the bathroom, see you!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1708
+#: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1755
 msgid "Hell no! Get back here!"
 msgstr ""
 
