@@ -1,6 +1,27 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.4
+	
+- Scenarios
+	> scenario 00 - Prologue:
+		* made the carpet ride scene 'badass mode'-exclusive
+	> scenario 14 - Tar-Tabar:
+		* made the bathtub scene 'badass mode'- exclusive
+		* fixed typos
+	> scenario 15 - Abyssal Rebellion
+		* improved dialog
+	> scenario 19 - Sky Kingdom:
+		* fixed invalid pango markup
+	> scenario 23 - Ruins
+		* fixed a bug where Mehir's max move points were reset to 5 at the begining of the scenario
+
+- Code
+	* smooth music transition macro uses wml instead of WML (fixes a bug with the game being unresponsive at times)
+		
+- Translations
+	* updated the raw translation file
+
 Version 3.5.3
 	
 - Scenarios
