@@ -1,6 +1,60 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.5
+
+- General
+	* Ho'rhashti can now summon elementals like her sister
+	* elementals spawned by Rashti's halves are placed on passable terrain only
+	* nation borders for Tharis and Kharos no longer disappear
+	* Grand Summoners who are automatically transformed into Summon Masters retain their xp
+	* made Grand Summoner's coin visible on the map screen even if player has only Summons Masters in their army
+	* Mehir's Dimensional Gates summoned with his AMLA ability do not cost upkeep
+	* Mehir's AMLAs can be taken only once (max_time=1) (excluding HP AMLA)
+	* various dialog tweaks
+	* fixed typos
+	
+- Scenarios
+	> scenario 14 - Tar-Tabar:
+		* Samir the Instructor is now properly carried to the next scenario
+	> scenario 15 - Abyssal Rebellion:
+		* Great Jinn and Rhami'kais are now safe to use against Reficul
+		* Dimensional Gates can no longer be successfully used against Reficul
+	> scenario 17 - Siege of Kharos:
+		* enemy gets additional gold for both L/R sides at the same time instead of once per side when player is close
+		* allowed undo and redo for the enemy gold event
+		* added a note about Dimensional Gates
+		* removed 4 lazy Kharos soldiers behind the wall
+		* improved objectives
+	> scenario 18 - The City of Light:
+		* made summoned Jinni fly away once he is no longer needed
+	> scenario 19 - Sky Kingdom:
+		* improved the auto-recall event (recall high-level units first)
+		* added visual effects for the auto-recall event
+	> scenario 22 - North Pole:
+		* improved balance
+		* added an option to advance remaining Dimensional Gates for a price
+		* improved Mehir's troops defense on frozen terrain
+		* made the first wave of Destroyers stronger
+		* if Mehir is fast, spawn Destroyers' waves earlier
+		* changed the composition of Destroyers' waves based on difficulty levels
+		* Destroyers ignore Rashti if they find out about her immortality		
+	> scenario 23 - Ruins:
+		* improved balance
+		* set a hard turn limit to 15 turns
+		* adjusted the circle completion time to match turn limit
+		* changed the composition of guardians' waves based on difficulty levels
+		* mechanical guardians no longer spawn if Glomin joins player
+		* Dharma'rashti summons Efreet and Rhami'datus instead of Fire Elementals
+		* improved Rashti's merging event
+		* added the 'ultimate focus' for Rashti after her halves successfully merge in the second stage of the scenario
+		* splitted Glomin's event into two events
+		* simplified fire elementals limit (max 3 fire elementals can be present on the map during the scenario)
+
+- Code
+	* add utils.cfg file with MIRROR AI helper macros (early implementation)
+	* temporary variables in the smooth music transition macro are now cleared
+
 Version 3.5.4
 	
 - Scenarios
@@ -14,7 +68,7 @@ Version 3.5.4
 	> scenario 19 - Sky Kingdom:
 		* fixed invalid pango markup
 	> scenario 23 - Ruins
-		* fixed a bug where Mehir's max move points were reset to 5 at the begining of the scenario
+		* fixed a bug where Mehir's max move points would be reset to 5 at the beginning of the scenario
 
 - Code
 	* smooth music transition macro uses wml instead of WML (fixes a bug with the game being unresponsive at times)
@@ -89,7 +143,7 @@ Version 3.5
 - Scenarios
 	> scenario 00 - Prologue:
 		* prevent Ferryman from losing hp
-	> scenario 01 - Highiest Tiers:
+	> scenario 01 - Highest Tiers:
 		* reduce income to 0
 	> scenario 04 - Southern Nations:
 		* killing a lizard results in a defeat
@@ -180,7 +234,7 @@ Version 3.3
 	> scenario 07 - Dome of Elementents:
 		* when Instructor describes Ultimate Beings, they are shown on screen
 	> scenario 08 - Ka-gatta:
-		* information about Dimensional Gates appears after aquiring one, not after leveling it up
+		* information about Dimensional Gates appears after acquiring one, not after leveling it up
 	> scenario 09 - Goddess of All Rhamis:
 		* improved terrain visuals
 		* disabled the Spear Guardian recall animation
@@ -257,7 +311,7 @@ Version 3.2 Beta 2
 		* decreased gold for all sides to lower the number of units on the map
 		* added more gold to enemy if player or ally gets too close
 		* made enemy ignore Rashti halves
-	> scenario 20 - Enlightment:
+	> scenario 20 - Enlightenment:
 		* improved one of Mehir's lines of dialogue
 	> scenario - 19 Sky Kingdom:
 		* increased turn limit by 5 on easy difficulty
@@ -278,7 +332,7 @@ Version 3.2 Beta 1
 	> scenario 00 - Prologue:
 		* made the intro animation work for 1.15+
 		* improved terrain visuals
-	> scenario 01 - Highies Tiers:
+	> scenario 01 - Highest Tiers:
 		* forced reinforcements to ignore animhacks
 		* disabled the recall animation of Water Elemental from previous scenario
 		* removed a small piece of Aerius' dialog
@@ -303,7 +357,7 @@ Version 3.2 Beta 1
 		* enabled simple_targeting for Dedylos troops
 		* Kharos troops behind the gate no longer count as Dedylos troops
 		* improved terrain visuals
-	> scenario 20 - Enlightment:
+	> scenario 20 - Enlightenment:
 		* changed music
 	> scenario 21 - Skydock:
 		* removed Heavy Camel Rider and Carpet Master from the list of Mehir's recruits
@@ -582,14 +636,14 @@ Version 3.0
 	* DharmaRhashti: renamed to Dharma'rashti; hp to 58 (+8); reduced attack damage by 1; changed alignment to neutral; improved her description
 	* HoRhashti: renamed to Ho'rashti; improved her description
 	* Elder: replaced the heal ability with the leadership lvl2 ability; added 10% fire and cold resistances; added weak melee attack
-	* Ghost of Summons Master: hp to 64 (+2); changed phystical resistances to 90% (instead of 99%), changed cold resistance to 70% (instead of 50) and arcane to 40% (instead of 50); removed the regeneration ability; changed melee damage type to cold, replaced magical weapon special with skilled, added drain weapon special
-	* Jaffar: fixed "always sleepeing" bug
+	* Ghost of Summons Master: hp to 64 (+2); changed physical resistances to 90% (instead of 99%), changed cold resistance to 70% (instead of 50) and arcane to 40% (instead of 50); removed the regeneration ability; changed melee damage type to cold, replaced magical weapon special with skilled, added drain weapon special
+	* Jaffar: fixed "always sleeping" bug
 	* The Last Summoner: improved description; removed the scroll attack; fixed the mobile keep bug
 	* added new campaign-specific units: Merchant, Enchanter, Citizens, Carpet Ferryman
 	
 
 - Structure
-	* replaced old dependecies references (Images, Cutscenes) with new ones (Resources)
+	* replaced old dependencies references (Images, Cutscenes) with new ones (Resources)
 	* moved images and sounds to the external dependency add-ons (left only translatable images)
 	* moved the Last Summoner's recruit animations to a separate file
 	* moved Mehir's variations to a separate file
@@ -618,7 +672,7 @@ Version 2.2
 		* added fancy teleport animations for portals
 	
 - Units
-	* added meditation amla for Mehir (grants +1 exp per turn when resting)
+	* added meditation AMLA for Mehir (grants +1 exp per turn when resting)
 	* as a compensation, Mehir gets 80 experience points for each of the mentioned AMLAs he obtained (instead of 60)
 	* Living Gate: increased max hp by 8, decreased phys. resistances by 15%, increased arcane resistances by 10%
 	* True Rashti: decreased dimensional vortex attack damage to 20 (-3)
@@ -764,7 +818,7 @@ Version 2.0.3
 	> scenario 07 - Ka-Gatta
 		* added a new artifact - the Banishment Staff
 		* items can now be picked up for later use, even if the player has units that are able to use the item
-		* the ancient scimitar artifact's damage buff now also apllies to Summons Masters, also, it gives the unit's scimitar attack the same icon as Summons Master's
+		* the ancient scimitar artifact's damage buff now also applies to Summons Masters, also, it gives the unit's scimitar attack the same icon as Summons Master's
 		* added a warning for players that the ancient scimitar overwrites existing weapon specials
 	> scneario 11 - Mag-Magar
 		* reduced Living Gate's hp to 80, and made the attacker/defender hit events trigger 'attack end' ones
@@ -845,7 +899,7 @@ Version 2.0.1
 -Units
 	* added description for Elder
 	* increased Living Gate's hitpoints to 100
-	* removed deprecated ablitilty description format of Mehir's lvl4 custom advancements
+	* removed deprecated ability description format of Mehir's lvl4 custom advancements
 - General
 	* fixed some typos
 
@@ -853,10 +907,10 @@ Version 2.0
 
 - Scenarios
 	> scenario 01 - al-Kamija
-		* added a prologue for TLU explaining basic facts about the world the campaing takes place
+		* added a prologue for TLU explaining basic facts about the world the campaign takes place
 		* Aerius releases an Avatar of Air when moving to the palace, if the player is strong
 		* added dialogue for a Jinn
-		* caprets arrive earlier
+		* carpets arrive earlier
 		* there is a boss fight at the end of the scenario
 	> scenario 02 - Abyss - renamed to Central Palace
 		* new animation solution for the Nomolas' Hand
@@ -871,7 +925,7 @@ Version 2.0
 		* changed impassable terrain to unwalkable
 		* gave Mehir one village at the start, as well as more starting gold
 		* placed a few villages closer to the center of the battle, but next to unwalkable terrain
-		* after Mehir recieves more gold, he moves automatically to Jaffar's keep
+		* after Mehir receives more gold, he moves automatically to Jaffar's keep
 		* changed income pattern of enemy
 		* removed some of the swamp between Mehir's and Jaffar's camps.
 	> scenario 05 - Fire Canyon
@@ -1041,7 +1095,7 @@ Version 1.5.4
     * Tiled the jungle terrain
     * Tiled castle/villages in Fire Canyon
     * Made rain match rain from Wesnoth 1.8
-    * Removed a compatability hack, thus dropping support for 1.9.4 and below
+    * Removed a compatibility hack, thus dropping support for 1.9.4 and below
 
 Version 1.5.3
 
