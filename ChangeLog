@@ -1,10 +1,30 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.6
+
+- General
+	* fixed typos
+
+- Scenarios
+	> scenario 22 - North Pole:
+		* changed obstacles to be unwalkable instead of impassable
+		* Destroyers' movement on snow is now modified as soon as they spawn
+		* units summoned via Dimensional Gate auto-advance feature are now loyal
+		
+	> scenario 23 - Ruins:
+		* improved Glomin's accent
+		* changed player's income to be the same as in the previous scenario
+		* fixed upkeep issues
+		* changed the opening scene to show how player's troops got into the corridor
+		* disallow end turn on turn 1
+		* reduced cth of the welcoming robot to 30%
+		* enabled the Dimensional Gate auto-advance feature for the scenario
+
 Version 3.5.5
 
 - General
-	* Ho'rhashti can now summon elementals like her sister
+	* Ho'rashti can now summon elementals like her sister
 	* elementals spawned by Rashti's halves are placed on passable terrain only
 	* nation borders for Tharis and Kharos no longer disappear
 	* Grand Summoners who are automatically transformed into Summon Masters retain their xp
