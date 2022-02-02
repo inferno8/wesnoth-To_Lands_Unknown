@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-01-20 11:30 UTC\n"
+"POT-Creation-Date: 2022-02-02 15:35 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 #. [value]: id=metamorph
 #: To_Lands_Unknown\macros\abilities.cfg:7
 #: To_Lands_Unknown\macros\items.cfg:745
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1554
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1555
 msgid "metamorph"
 msgstr ""
 
@@ -23,29 +23,29 @@ msgstr ""
 msgid "This elemental can turn into another type of elemental."
 msgstr ""
 
-#: To_Lands_Unknown\macros\abilities.cfg:135
+#: To_Lands_Unknown\macros\abilities.cfg:136
 msgid "Turn into fire"
 msgstr ""
 
-#: To_Lands_Unknown\macros\abilities.cfg:136
+#: To_Lands_Unknown\macros\abilities.cfg:137
 msgid "Turn into water"
 msgstr ""
 
-#: To_Lands_Unknown\macros\abilities.cfg:137
+#: To_Lands_Unknown\macros\abilities.cfg:138
 msgid "Turn into air"
 msgstr ""
 
-#: To_Lands_Unknown\macros\abilities.cfg:138
+#: To_Lands_Unknown\macros\abilities.cfg:139
 msgid "Turn into earth"
 msgstr ""
 
 #. [dummy]: id=meditation
-#: To_Lands_Unknown\macros\abilities.cfg:145
+#: To_Lands_Unknown\macros\abilities.cfg:146
 msgid "meditation"
 msgstr ""
 
 #. [dummy]: id=meditation
-#: To_Lands_Unknown\macros\abilities.cfg:146
+#: To_Lands_Unknown\macros\abilities.cfg:147
 msgid "This unit gains 1 point of experience at the start of his side's turn if he wasn't moving on the previous turn."
 msgstr ""
 
@@ -303,13 +303,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: To_Lands_Unknown\macros\items.cfg:625
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1435
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1436
 msgid "collar^Take it"
 msgstr ""
 
 #. [object]
 #: To_Lands_Unknown\macros\items.cfg:629
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1437
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1438
 msgid "Collar of Recall"
 msgstr ""
 
@@ -324,7 +324,7 @@ msgstr ""
 
 #. [value]: id=collar
 #: To_Lands_Unknown\macros\items.cfg:647
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1466
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1467
 msgid "collar"
 msgstr ""
 
@@ -341,13 +341,13 @@ msgstr ""
 #. [option]
 #. [scenario]: id=08_Ka-gatta
 #: To_Lands_Unknown\macros\items.cfg:711
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1504
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1505
 msgid "amulet^Take it"
 msgstr ""
 
 #. [object]
 #: To_Lands_Unknown\macros\items.cfg:715
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1506
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1507
 msgid "Amulet of Metamorph"
 msgstr ""
 
@@ -361,34 +361,35 @@ msgstr ""
 
 #. [value]: id=metamorph
 #: To_Lands_Unknown\macros\items.cfg:746
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1555
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1556
 msgid ""
 "This elemental wears the Amulet of Metamorph.\n"
 "\n"
 "Effects:\n"
-"The elemental unit can turn into another elemental (use right-click on the unit to activate)"
+"The elemental unit can turn into another elemental (use right-click on the unit to activate).\n"
+"The unit becomes loyal."
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:787
+#: To_Lands_Unknown\macros\items.cfg:789
 msgid "amulet^Leave it for another unit"
 msgstr ""
 
 #. [option]
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\macros\items.cfg:823
+#: To_Lands_Unknown\macros\items.cfg:825
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1206
 msgid "armor^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:827
+#: To_Lands_Unknown\macros\items.cfg:829
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1208
 msgid "Cuirass of the Ancients"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:830
+#: To_Lands_Unknown\macros\items.cfg:832
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols: this must be the legendary armor of Ka-Gattans.\n"
 "\n"
@@ -398,26 +399,26 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:877
+#: To_Lands_Unknown\macros\items.cfg:879
 msgid "armor^Leave it for another unit"
 msgstr ""
 
 #. [option]
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\macros\items.cfg:913
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1567
+#: To_Lands_Unknown\macros\items.cfg:915
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1570
 msgid "staff^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:917
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1569
+#: To_Lands_Unknown\macros\items.cfg:919
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1572
 msgid "Banishment Staff"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:920
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1572
+#: To_Lands_Unknown\macros\items.cfg:922
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1575
 msgid ""
 "- Advances the unit (unless the unit is already at maximum level)\n"
 "- the banishment attack never misses\n"
@@ -426,14 +427,14 @@ msgid ""
 msgstr ""
 
 #. [value]: id=staffbanisher
-#: To_Lands_Unknown\macros\items.cfg:980
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1636
+#: To_Lands_Unknown\macros\items.cfg:982
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1639
 msgid "banishment staff"
 msgstr ""
 
 #. [value]: id=staffbanisher
-#: To_Lands_Unknown\macros\items.cfg:981
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1637
+#: To_Lands_Unknown\macros\items.cfg:983
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1640
 msgid ""
 "This unit is holding a powerful staff which once belonging to the first Master of Banishers.\n"
 "\n"
@@ -444,38 +445,38 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:1008
+#: To_Lands_Unknown\macros\items.cfg:1010
 msgid "staff^Leave it for another unit"
 msgstr ""
 
 #. [option]
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\macros\items.cfg:1044
+#: To_Lands_Unknown\macros\items.cfg:1046
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:775
 msgid "ring^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1048
+#: To_Lands_Unknown\macros\items.cfg:1050
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:777
 msgid "Ring of Regeneration"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1051
+#: To_Lands_Unknown\macros\items.cfg:1053
 msgid ""
 "This mysterius ring is richly decorated with magical symbols making it somehow connected to the Abyss. The bearer of this relic may benefit from strange energies flowing into his body, healing him effectively.\n"
 "- Grants regeneration"
 msgstr ""
 
 #. [value]: id=regenring
-#: To_Lands_Unknown\macros\items.cfg:1076
+#: To_Lands_Unknown\macros\items.cfg:1078
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:810
 msgid "ring of regeneration"
 msgstr ""
 
 #. [value]: id=regenring
-#: To_Lands_Unknown\macros\items.cfg:1077
+#: To_Lands_Unknown\macros\items.cfg:1079
 msgid ""
 "This unit wears the Ring of Regeneration.\n"
 "\n"
@@ -484,25 +485,25 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:1101
+#: To_Lands_Unknown\macros\items.cfg:1103
 msgid "ring^Leave it for another unit"
 msgstr ""
 
 #. [option]
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\macros\items.cfg:1137
+#: To_Lands_Unknown\macros\items.cfg:1139
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:886
 msgid "cap^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1141
+#: To_Lands_Unknown\macros\items.cfg:1143
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:888
 msgid "Cap of Power"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1144
+#: To_Lands_Unknown\macros\items.cfg:1146
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:891
 msgid ""
 "Increases magical power by 20%\n"
@@ -510,13 +511,13 @@ msgid ""
 msgstr ""
 
 #. [value]: id=capofpower
-#: To_Lands_Unknown\macros\items.cfg:1197
+#: To_Lands_Unknown\macros\items.cfg:1199
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:944
 msgid "cap of power"
 msgstr ""
 
 #. [value]: id=capofpower
-#: To_Lands_Unknown\macros\items.cfg:1198
+#: To_Lands_Unknown\macros\items.cfg:1200
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:945
 msgid ""
 "This unit wears a magical cap, which enhances its magical power.\n"
@@ -527,32 +528,32 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:1223
+#: To_Lands_Unknown\macros\items.cfg:1225
 msgid "cap^Leave it for another unit"
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:1258
+#: To_Lands_Unknown\macros\items.cfg:1260
 msgid "sphere^Take it"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1262
+#: To_Lands_Unknown\macros\items.cfg:1264
 msgid "Reficul's sphere"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\macros\items.cfg:1265
+#: To_Lands_Unknown\macros\items.cfg:1267
 msgid "Increases magical and physical resistances by 15%"
 msgstr ""
 
 #. [value]: id=sphereofreficul
-#: To_Lands_Unknown\macros\items.cfg:1298
+#: To_Lands_Unknown\macros\items.cfg:1300
 msgid "reficul's sphere"
 msgstr ""
 
 #. [value]: id=sphereofreficul
-#: To_Lands_Unknown\macros\items.cfg:1299
+#: To_Lands_Unknown\macros\items.cfg:1301
 msgid ""
 "This unit wears a sphere once belonging to Reficul.\n"
 "\n"
@@ -561,7 +562,7 @@ msgid ""
 msgstr ""
 
 #. [option]
-#: To_Lands_Unknown\macros\items.cfg:1323
+#: To_Lands_Unknown\macros\items.cfg:1325
 msgid "sphere^Leave it for another unit"
 msgstr ""
 
@@ -790,8 +791,8 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\21_Skydock.cfg:873
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:547
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:1054
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2071
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2471
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2083
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2483
 msgid "..."
 msgstr ""
 
@@ -2123,7 +2124,7 @@ msgstr ""
 #. [option]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1456
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:392
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2769
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2780
 msgid "Yes"
 msgstr ""
 
@@ -2279,10 +2280,10 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1308
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:254
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:504
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:961
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1199
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1290
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1858
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:962
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1200
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1291
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1861
 msgid "Death of Mehir"
 msgstr ""
 
@@ -3353,7 +3354,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\04_Southern_Nations.cfg:622
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1681
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1682
 msgid "What the..."
 msgstr ""
 
@@ -5343,22 +5344,22 @@ msgid "Alright men, you heard her. Time to earn ourselves a legendary spear!"
 msgstr ""
 
 #. [message]: speaker=SpearGuardian
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1426
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1427
 msgid "She was right, you are worthy..."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1435
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1436
 msgid "collar^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1435
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1436
 msgid "Only a magical entity can use this item!"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1440
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1441
 msgid ""
 "The unit is recalled back to the leader when dies\n"
 "After each recall the unit becomes stronger\n"
@@ -5366,70 +5367,70 @@ msgid ""
 msgstr ""
 
 #. [value]: id=collar
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1467
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1468
 msgid "After death the unit is recalled back to the leader. Activates only 3 times."
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1504
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1505
 msgid "amulet^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1504
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1505
 msgid "Only the elemental entity can use this item!"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1509
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1510
 msgid "The elemental unit can turn into another elemental (use right-click on the unit to activate)"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1567
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1570
 msgid "staff^Leave it"
 msgstr ""
 
 #. [scenario]: id=08_Ka-gatta
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1567
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1570
 msgid "Only a Novice Summoner, Dispeller or Banisher can use this item!"
 msgstr ""
 
 #. [message]: race=eoma_summoner
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1664
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1733
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1667
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1736
 msgid "Sir, there's some kind of lever here..."
 msgstr ""
 
 #. [message]: type=EoMa_Rhami,EoMa_RhamiDatu,EoMa_RhamiKai,EoMa_HoRhami,EoMa_DharmaRhami
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1669
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1703
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1738
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1672
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1706
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1741
 msgid "Master, I found some kind of lever..."
 msgstr ""
 
 #. [message]: race=eoma_summoner
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1698
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1701
 msgid "There's some kind of lever here, sir..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1830
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1833
 msgid "We unlocked them! Maybe we should check the tunnels located near those levers? I heard some kind of quakes nearby. Maybe these levers do more than just closing gates..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1844
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:1847
 msgid "It seems Tashkar and his troops left this area. Still, I wonder what was the point of his whole expedition..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2052
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2055
 msgid "These must be the ancient guardians of this place. They were awakened by Tashkar, but why? This is not good. But the worst thing is, they won't listen to us. I fear we will have to fight our way through..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2084
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2087
 msgid ""
 "You have managed to acquire a 'Dimensional Gate'. These special units can be transformed into real magical beings by consuming souls of living creatures. You will learn more about the usage of Dimensional Gates later in the story.\n"
 "\n"
@@ -5437,7 +5438,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2099
+#: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:2102
 msgid "Aaaaah! The caves are collapsing!"
 msgstr ""
 
@@ -6675,7 +6676,7 @@ msgstr ""
 #. [message]: speaker=Malib
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:322
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2039
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2051
 msgid "*cough*"
 msgstr ""
 
@@ -9115,7 +9116,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1767
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1602
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:1028
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2444
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2456
 msgid "Wonderful Jinni! Give me some advice!"
 msgstr ""
 
@@ -9123,7 +9124,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:1773
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:1608
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:1034
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2450
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2462
 msgid "Mystical Jinni! Give me some advice!"
 msgstr ""
 
@@ -9996,7 +9997,7 @@ msgstr ""
 #. [scenario]: id=20_Enlightenment
 #. [event]
 #: To_Lands_Unknown\scenarios\20_Enlightenment.cfg:303
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1970
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1978
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:152
 msgid "Augurius"
 msgstr ""
@@ -11335,13 +11336,13 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:389
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2766
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2778
 msgid "Do you want to spend 6g to instantly level up the Dimensional Gate?"
 msgstr ""
 
 #. [option]
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:420
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2797
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2831
 msgid "No"
 msgstr ""
 
@@ -11417,20 +11418,20 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:662
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2203
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2215
 msgid "Target acquired. Scanning... Destroyer encountered. Threat level: extremely dangerous. Executing pacification protocols."
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:667
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2208
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2220
 msgid "A 'Destroyer'?! Wait a minute, so the Tharis were worshiping these creatures?! What the hell have I signed up for?!"
 msgstr ""
 
 #. [modify_side]
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:675
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:311
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2216
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2228
 msgid "Destroyers"
 msgstr ""
 
@@ -11531,7 +11532,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:106
-msgid "When standing in the blue orbs, your units recover 12 hitpoints per turn (does not cancel the healing provided by other factors, such regeneration, rest, etc.)."
+msgid "When standing in the blue orbs, your units recover 12 hitpoints per turn (does not cancel the healing provided by other factors, such as regeneration, rest, etc.)."
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -11615,87 +11616,87 @@ msgid "Oh, a gate. Let’s open it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:723
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:724
 msgid "Wow..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:734
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:735
 msgid "Rashti, you go first."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:780
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:781
 msgid "So this must be the battery we‘re looking for... my goodness, this thing is huge..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:792
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:793
 msgid "What was that?!"
 msgstr ""
 
 #. [message]: role=machine
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:804
-msgid "<i>Life signatures detected. Initiating first contact protocols</i>"
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:805
+msgid "<i>Life signatures detected. Initiating first contact protocols.</i>"
 msgstr ""
 
 #. [message]: role=machine
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:809
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:810
 msgid "(playing pre-recorded message) Greetings, intelligent organisms. It is certainly quite a pleasure to meet you. This combat model is merely a humble representative of our technologically advanced civilization. May it have the honor of speaking with your leader?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:814
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:815
 msgid "My, my, this thing speaks our language! And in quite a classy manner too! *smirks*"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:819
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:820
 msgid "It doesn't. Your ultimate circle translates its voice for you."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:824
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:825
 msgid "Amazing! The Magi really did an incredible job with this. I hope it translates my speech too."
 msgstr ""
 
 #. [message]: role=machine
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:828
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:829
 msgid "(switching to another pre-recorded message) Can you understand our language?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:832
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:833
 msgid "Yes, *ahem* Alright, so, allow me to introduce myself, I am Mehir, formerly the leader of Tar-Tabar. We are Summoners, a nation hailing from the Great Desert, with al-Kamija being the capital. Although we are clearly far behind from your civilization technologically, we have abysmal beings as servants, who can fulfill each and any of our desires."
 msgstr ""
 
 #. [message]: role=machine
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:836
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:837
 msgid "*recorded message* So, now that we both introduced ourselves, may I inquire the reason of your entry into this bunker?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:840
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:841
 msgid "Well, I came here for the huge battery in the middle of the room. Hopefully it isn't too important to you, since I AM going to take it."
 msgstr ""
 
 #. [message]: role=machine
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:850
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:851
 msgid "*eyes become red* <i>Hostile intentions detected. Initiating defense protocols. Sending activation signal to other combat models.</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:893
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:894
 msgid "That’s... wonderful... We’ve just faced horrors from the worst nightmares and now this..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:920
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:921
 msgid "These guardians aren’t joking; there‘s no time to talk. If I remember correctly, the teleportation circle requires five parts of the spell to be casted in this pattern..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:937
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:938
 msgid ""
 "Keep in mind that each time Mehir stands on the position to cast the spell, he will lose all his moves and will be unable to attack. He will still be able to recruit units, though.\n"
 "\n"
@@ -11703,466 +11704,466 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:944
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:945
 msgid "After completing the circle, you will need to gather all your living troops and Rashti inside the circle. You cannot leave your men behind."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:953
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:954
 msgid "Create the teleportation circle"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:957
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:958
 msgid "Defend your position"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1182
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1183
 msgid "We did it! Now we just have to wait until the circle finishes itself."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1195
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1854
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1196
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1857
 msgid "Wait until the circle finishes itself"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1265
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1266
 msgid "Finally!!! Time to get the hell out of here!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1281
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1282
 msgid "I must call Rashti, my men and Glomin to me inside the circle before casting the activation spell! Whew, I'd never forgive myself, if someone was left behind."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1286
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1287
 msgid "Gather all your human units, Rashti and Glomin inside the circle"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1294
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1862
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1295
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1865
 msgid "Death of Glomin (he blows up the battery before dying)"
 msgstr ""
 
 #. [message]: type=TLU_HoRashti
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1328
-msgid "Sister! Hear the voice of reason! These are the final moments of this last battle. It is not the good time for our quarrels. We MUST join together."
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1329
+msgid "Sister! Hear the voice of reason! These are the final moments of this last battle. It is not a good time for our quarrels. We MUST join together."
 msgstr ""
 
 #. [message]: type=TLU_DharmaRashti
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1332
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1333
 msgid "Maybe you are right... In our true form nothing can oppose us, even these things. I'll join you, for now... but one day I am going to return!"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1361
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1362
 msgid "Rashti's ultimate focus allows her to ignore enemy ZoC, and her movement is increased by 1. Also, she cannot be destabilized again (this bonus only lasts until the end of the scenario)"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1433
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1434
 msgid "Now everyone is in place. It’s about time we got out of here!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1642
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1643
 msgid "Huh? Where's all that darn noise comin' from? Can't an old dwarf just have some rest fer goodness's sake?! I hadn't slept in days!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1647
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1648
 msgid "(looks at the battlefield, eyes wider) My wrench be damned! What is goin' on here?!"
 msgstr ""
 
 #. [message]: type=EoMa_Steam_Berserker,EoMa_Red_Ulfserker,EoMa_Steam_Turboserker
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1651
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1652
 msgid "Reporting: unidentified group invaded bunker, intention: steal battery. Attempts at elimination failed. Their leader can speak our language. Communication possible."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1655
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1656
 msgid "*to Mehir* Hey, you! Finally, someone that ain't one of 'em spawns o' darkness lurking 'round here! But why the hell do ye need my precious battery?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1659
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1660
 msgid "You see, well, my troops and I got separated from our nation and our families in the Abyss, so we need the battery's energy to be able to make a portal to it, to follow the rest of my people there. We're trapped in this world for now."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1663
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1664
 msgid "Look mate, tis' beauty powers the steam berserkers and plenty of other essential machinery. She and my burnin' desire to avenge the slaughter of my kind are the only two things keepin' me alive 'ere. If ya take 'er from me, I'm as good as dead."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1687
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1688
 msgid "Don’t tell me it’s..."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1705
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1706
 msgid "You...YOU! NOT AGAIN!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1725
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1726
 msgid "Damn it, they’ve found us!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1730
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1731
 msgid "Ye brought these abominations 'ere, outsider!!! Now ye doomed us both!!!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1749
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1750
 msgid "Argh, bloody hell, stuck 'tween a hammer and an anvil... if the abominations win, we all die, if I let the outsiders take the battery, I have nothing left to keep me alive 'ere and die as well..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1754
-msgid "Dwarf, whatever is your name, I know that we may be in conflict, but we have to put out differences aside for now. Otherwise those monsters are going to easily wipe us out while we are busy being at each other's throats."
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1755
+msgid "Dwarf, whatever is your name, I know that we may be in conflict, but we have to put out our differences aside for now. Otherwise those monsters are going to easily wipe us out while we are busy being at each other's throats."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1759
-msgid "I've little left to lose, human, everyone I knew and loved is long dead, I'm but a dusty relic of tha past with hardly any meanin' in life, might as well blow up the battery and bring the abominations down with me *grabs remote*"
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1760
+msgid "I've little left to lose, human, everyone I knew and loved is long dead, I'm but a dusty relic of tha past with hardly any meanin' in life, might as well blow up the battery and bring the abominations down with me *grabs the remote*"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1765
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1766
 msgid "NO!!! WAIT!!!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1770
-msgid "What could ye possibly offer in return for tha only thing I held hear?"
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1771
+msgid "What could ye possibly offer in return for tha only thing I held dear?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1775
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1776
 msgid "Look, you said you can't give away the battery because you wouldn't be able to survive without it here. What if I bring you with me and have you live with my... let's just say allies."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1780
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1781
 msgid "And who are these mysterious 'allies' ye speak of? I still don't fully trust ya."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1785
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1786
 msgid "Well... they're basically uhh... arrogant mage scientists."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1790
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1791
 msgid "Arrogant scientific magi? Wait... don't tell me... the Magi civilization actually survived the cataclysm?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1795
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1796
 msgid "Well, it's too long to explain, just step onto the platform around the battery, I am preparing a teleportation circle around it, which should teleport us to the Sky Kingdom."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1800
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1801
 msgid "Fine, we have a deal, can't be worse than dyin' here. All these millenia of bein' trapped here and constantly hidin' from those horrors 'ave made me a complete wreck! But if ya leave me to die here, I'll blow up battery. I've still got the self-destruct remote, to ensure ye don't dump me here. And I am dead serious, I was seconds away from pressin' it 'fore you convinced me to change my mind."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1805
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1806
 msgid "Alas, I'm runnin' out of machines: yer men smashed many beyond repair! Now gimme some hands, we'll make a combined effort to fend 'em off and save my battery!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1810
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1811
 msgid "Anyway, my apologies for not introducin' myself earlier. Name's Glomin, son of Glamthasil. And now, my steam children, time for yer last stand against our mortal enemy! Ignore the others, they are allies!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1838
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1839
 msgid "We better stay inside the circle. I cannot leave my men, Rashti or Glomin behind. Abysmal beings except Rashti do not matter."
 msgstr ""
 
 #. [message]: type=EoMa_Wonderful_Jinn,EoMa_Mystical_Jinn
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1843
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1844
 msgid "Hey!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1889
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1892
 msgid "There are more of them!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1893
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1896
 msgid "Fear not, Mehir. Just don't get yourself killed. There are so many things I want to show you in the Abyss once we get there."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1904
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1907
 msgid "Nu Kajarr En Hassam!"
 msgstr ""
 
 #. [event]
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1974
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:1982
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:144
 msgid "Antiquarius"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2024
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2036
 msgid "Oh, you have returned. How nice! We are having dinner in a moment. Mind joining us?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2029
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2041
 msgid "Yeah, why not? I am starving after slaying nightmarish beasts, defeating and allying with an army of mechanical monsters as well as bringing this battery along with parts and one inhabitant of that accursed place. Do you have a menu with you?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2035
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2047
 msgid "I have slain nightmarish beasts, encountered an army of mechanical monsters, brought this damn battery along with parts..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2044
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2056
 msgid "...and one inhabitant of that accursed place back here, and the first thing you do is offer me dinner?!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2049
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2061
 msgid "Why, of course! Today we are serving a delicious kind of crab from the western cliffs of Kharos. They call it ‘Holy Crab’. And indeed, its taste is simply divine! You will adore it!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2055
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2067
 msgid "Ah, I've been longing for some crab since I read about it in your library. The battery may be important, but a good meal is even more so. Lead the way!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2059
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2071
 msgid "Spoken like a true gourmet! Excellent!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2066
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2078
 msgid "What about the battery?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2078
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2090
 msgid "But... the battery?"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2083
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2095
 msgid "The battery can wait; the crab cannot. Believe me."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2088
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2100
 msgid "Then lead the way!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2093
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2105
 msgid "*sigh* Fine, I will eat this... crab of yours..."
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2098
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2110
 msgid "Excellent!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2105
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2117
 msgid "What 'bout me? I ain't gonna to eat that grub!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2109
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2121
 msgid "*looks at Glomin, then at Mehir* You brought a <b>dwarf</b> here?!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2113
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2125
 msgid "What for? You shouldn't have bothered! But yeah, it's still a nice bonus."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2117
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2129
 msgid "“shouldn't have bothered“?! “nice bonus“?! Ye wanna taste me wrench, do ya? I'll smash yer gob straight through yer teeth! Ye can shove that crab right up yer arse!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2121
-msgid "*shrinks back* Uhh... I mean... Uhh... it's a stroke of luck to be visited by a representative of a dead - err... of a species presumed long extinct! How the did you even survive so long though?"
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2133
+msgid "*shrinks back* Uhh... I mean... Uhh... it's a stroke of luck to be visited by a representative of a dead - err... of a species presumed long extinct! How did you even manage to survive for so long though?"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2125
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2137
 msgid "My apologies for my colleague's previous rude remarks. He doesn't appreciate history nearly as much as I do. I am honored to be able to speak to a surviving member of a civilization previously thought to be entirely extinct. Me and my fellow historians will be delighted about this extraordinary chance to research the Runemasters' civilization!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2129
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2141
 msgid "<i>*to himself* Finally, someone 'ere with some manners...</i>"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2133
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2145
 msgid "By the way, how did you manage to survive for so long?"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2137
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2149
 msgid "Hibernatin' for millenia that's how! 'cept waking up every few years to do some repairs and such."
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2141
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2153
 msgid "*claps his hands* Now, let's treat ourselves to some fine crab meat!"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2168
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2180
 msgid "Follow me, dwarf. We have plenty of history and technology to discuss over some good beer, brewed with fresh, pure rainwater, extracted straight from the clouds..."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2172
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2184
 msgid "I get someone I can chat 'bout technology with, AND booze? Now 'tis is paradise! Fare ye well, Mehir! Hope yer not gonna choke on that crap they're givin' ya, and thanks for the lift!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2234
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2246
 msgid "<i>Initiating combat mode, with berserk behavior active.</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2249
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2261
 msgid "My goodness! These things are absolutely relentless!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2262
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2274
 msgid "Argh! So I helped ye, and ya dumped me 'ere?! I got nothin' ta lose anymore. Activate the self-destruc..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2334
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2346
 msgid "<b>We are going to die!</b>"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2412
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2424
 msgid "These abominations are blowin' up the battery!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2417
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2429
 msgid "<b>Aaaaaah! We are going to die!</b>"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2458
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2470
 msgid "My Master, this place will turn itself into a blazing battlezone in no time!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2463
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2475
 msgid "Your advice is killing me, you know? What else?! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2467
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2479
 msgid "I am accessing parallel universes..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2478
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2490
 msgid "Strange seemingly sentient humanoid metallic objects keep attacking us from all directions. Heavy losses. But at some point... a small human appears."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2484
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2496
 msgid "In this timeline you will discover the battery in a large hall behind the door. I see strange seemingly sentient humanoid metallic objects attacking us from all directions. This cannot be avoided and happens in most of the possible outcomes after opening the door, and then a small human appears."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2490
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2502
 msgid "A small human? Do you mean a child?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2494
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2506
 msgid "Not really, more like a short elder. Then the enemy finds us and surrounds us from north and south. This is pretty much inevitable as it happens in 99.8% of outcomes involving the appearance of the small human."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2500
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2512
 msgid "So we need to hurry up. The Destroyers' skeletal minions are actively looking for us, and I highly doubt that sealing the entrance will hold them off forever. What happens next?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2506
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2518
 msgid "So we need to hurry up. Those abominations are actively looking for us, and I highly doubt that sealing the entrance will hold them off forever. What happens next?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2512
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2524
 msgid "I see noise. So many factors... Wait... In 6.7% of the outcomes the small human wants to help us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2516
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2528
 msgid "And what if he does not?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2520
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2532
 msgid "He destroys the battery and blows the whole place up, vaporizing everything in range of about 3017 and a half stone throws. The area turns into a burning wasteland, with first foliage only starting to grow in 324 million years."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2524
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2536
 msgid "Well, that didn't make much sense. Looks like I forced you to look too far away in time. Thanks anyway. Let's hope we get lucky..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2532
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2544
 msgid "My Master! A small human will appear quite soon. He will either offer his help or will try to kill us. In most of the possibilities, he will choose the latter option."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2537
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2549
 msgid "Excellent! Sounds like I am going to meet another psychopath! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2541
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2553
 msgid "Then the enemy appears from north and south. We are completely surrounded. Heavy losses, and in the 93.6% of the outcomes where the small human doesn't offer his help, we are all going to die. But if the small human decides to help us, the outcome will be much better. Anyway, we have no chance against the enemy unless we hurry up."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2547
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2559
 msgid "My Master! The enemy is going to quickly swarm this place. We really need to hurry up, or we're as good as dead!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2587
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2599
 msgid "Uh... It's getting hot in here. I should use as few Fire Elementals as possible. It's hard to breath in this place already."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2599
-#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2710
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2611
+#: To_Lands_Unknown\scenarios\23_Ruins.cfg:2722
 msgid "*gasps* I can hardly breathe... One Fire Elemental more and we will suffocate in here. The heat coming from these lava pools is already unbearable. It's getting even warmer than in an open desert! I thought those genius magi implemented a cooling system for my new circle for such situations..."
 msgstr ""
 
@@ -12288,7 +12289,7 @@ msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:441
-msgid "Well, fate can certainly turn out in bizarre ways. Well, it was certainly worth it: you could've easily been just another generic person <i>*to himself* had it not been for my interference...</i> yet you're a walking a legend!"
+msgid "Well, fate can certainly turn out in bizarre ways. Well, it was certainly worth it: you could've easily been just another generic person <i>*to himself* had it not been for my interference...</i> yet you're a walking legend!"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -12383,7 +12384,7 @@ msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:519
-msgid "Ah, summoner, there is still an enormous amount of knowledge left in this world to learn, and thus we have no intention of going to other dimensions yet. And besides, as magic doesn't work in the Abyss, so even if we get there, we would lack ways to sufficiently research it. We might consider delving into other dimensions eventually, but first we'd need to exhaust everything this one has to offer, which is a no easy task to say the least..."
+msgid "Ah, summoner, there is still an enormous amount of knowledge left in this world to learn, and thus we have no intention of going to other dimensions yet. And besides, as magic doesn't work in the Abyss, so even if we get there, we would lack ways to sufficiently research it. We might consider delving into other dimensions eventually, but first we'd need to exhaust everything this one has to offer, which is no easy task to say the least..."
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -12630,7 +12631,7 @@ msgid "This unit is equipped with the most powerful kind of magical circle. The 
 msgstr ""
 
 #. [unstore_unit]
-#: To_Lands_Unknown\units\LastSummoner.cfg:1320
+#: To_Lands_Unknown\units\LastSummoner.cfg:1308
 #: To_Lands_Unknown\units\Mehir_Leader.cfg:284
 msgid "8"
 msgstr ""
