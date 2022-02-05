@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-02 15:35 UTC\n"
+"POT-Creation-Date: 2022-02-05 09:55 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -8341,7 +8341,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:355
-msgid "I've already seen more greenery when fighting a way through a jungle in the far south. But it’s the first time I have seen water falling from the sky without magical influence. When I get back home, I'll have water elementals show my deputy how you people bathe, hehe."
+msgid "I've already seen more greenery when fighting a way through a jungle in the far south. But it’s the first time I have seen water falling from the sky without magical influence."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -8351,7 +8351,7 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:369
-msgid "Bathing in the rain is something I highly advise against doing, you'd quickly catch a cold or worse. Anyway, more importantly, north from here there’s a town called Saffaros, or at least there was when I left this land. I hope it's not in ruins yet."
+msgid "Anyway, more importantly, north from here there’s a town called Saffaros, or at least there was when I left this land. I hope it's not in ruins yet."
 msgstr ""
 
 #. [message]: id=boy
