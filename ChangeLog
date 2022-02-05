@@ -1,6 +1,33 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.7
+
+- General
+	* it is now possible to undo Mehir's moves in S22 and S23
+	* Last Summoner's melee attacks are now magical
+	* a unit equipped with the Amulet of Metamorph becomes loyal
+	* fixed typos
+	* updated the ART_LICENSE
+
+- Scenarios
+	> scenario 22 - North Pole:
+		* fixed a bug where units acquired from leveling up Dimensional Gates wouldn't become loyal
+	> scenario 23 - Ruins:
+		* fixed a bug where units acquired from leveling up Dimensional Gates wouldn't become loyal
+		* Fire Elementals created via Dimensional Gates are now taken into account for the Fire Elemental limit
+		* widened the gates leading to the battery by removing 2 impassable hexes when Mehir enters the reactor room
+		* added more illuminated hexes
+		* changed the music track for the final confrontation
+		* all labels are now removed when Mehir successfully teleports
+		* Mehir, Rashti and Glomin move in front of the battery once they get back
+	> scenario 24 - Epilogue:
+		* fixed a bug where some parts of frozen terrain would remain on map after the portal's closure
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.5.6
 
 - General
