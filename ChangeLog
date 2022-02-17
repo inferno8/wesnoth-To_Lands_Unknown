@@ -1,6 +1,46 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.5.8
+
+- General
+	* blue dots are now used to visualize 'teleport movement' on the world map
+	* fixed spelling of 'rashti
+	* added a description for Citizen
+	* improved the Last Summoner's description
+	* fixed typos
+
+- Scenarios
+	> scenario 01 - Highest Tiers:
+		* made Alib dialog badass mode exclusive
+	> scenario 04 - Southern Nations:
+		* added 24fps waterfall animation
+	> scenario 05 - Jungle of Life:
+		* Jaffar screams like a girl only in badass mode
+	> scenario 08 - Ka-Gatta:
+		* renamed Semir (the first master of Rashti'rhami) to Samir
+	> scenario 12 - Siege of Mag-Magar:
+		* implemented 24fps animated fire fx for Mag-Magar
+	> scenario 14 - Tar-Tabar:
+		* renamed Samir (the Instructor) to Semir
+	> scenario 21 - Sky Dock:
+		* move a portion of a dialog to badass mode
+	> scenario 23 - Ruins:
+		* fixed units being visible on top of the battery after the circle activation
+		* Ums playing with a golem appear only in badass mode 
+
+- Code
+	* added short descriptions to all events
+	* removed unused events and duplicates
+	* dropped support for older BfW versions
+	* removed unused terrain
+	* project-wide code cleanup
+	* most variables are now cleared when no longer needed
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.5.7
 
 - General
