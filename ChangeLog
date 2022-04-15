@@ -1,6 +1,29 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.6
+
+- General
+	- Rashti and True Rashti can now summon elementals and Rhamis
+
+- Scenarios
+	> scenario 04 - Southern Nations:
+		* restored Jaffar's line of dialog about hearing voices
+	> scenario 23 - Ruins
+		* fixed a bug where the teleportation circle would not require all of its points to be connected with each other to auto-complete itself
+
+- Code
+	* changed terrain paths to match the new folder structure of To Lands Unknown - Resources pt.1 (v2.0)
+	* renamed terrain macros and image paths to match the new numbering of terrain images in To Lands Unknown - Resources pt.1 (v2.0)
+	* added the TLU abbreviation to all terrain macros
+	* removed unused parameters from map files
+	* added the immortal trait for True Rashti and her halves
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
+
 Version 3.5.8
 
 - General
