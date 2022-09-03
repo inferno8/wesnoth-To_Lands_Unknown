@@ -1,10 +1,42 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.7
+
+- General
+	* overhauled multihex terrain for S17 "Siege of Kharos"
+	* Mehir's equipped artifacts are now visible on his portrait (the Ka-Gattan armor and the Cap of Power)
+
+- Scenarios
+	> scenario 12 - Siege of Mag-Magar
+		* Tharis forces recruit new types of units now
+		* civilians now try to flee to the lower right part of the map
+		* Mystical Jinni tries to "cleverly" assassinate one of enemy leaders now instead of rushing into the battle mindlessly
+		* added two wells acting like villages for convenience
+		* fixed a glitch with incorrect fire animation playing in the upper left corner of the map
+	> scenario 17 - Siege of Kharos
+		* Tharis forces recruit new types of units now
+	> scenario 19 - Sky Kingdom
+		* made the crater in badass mode passable for flying units
+		* the crater is no longer a halo, but a proper terrain_graphics map element
+	> scenario 20 - Enlightenment
+		* added a custom sound fx for globe animations
+
+- Code
+	* added the 7th art placeholder terrain ^Yyyx
+	* renamed spear.png to spear-rhami.png to prevent conflicts with core
+
+- Structure
+	* moved the "sounds" folder from Resources 2 to the TLU base directory
+
+- Translations
+	* updated the raw translation file
+	* updated the Polish translation
+
 Version 3.6
 
 - General
-	- Rashti and True Rashti can now summon elementals and Rhamis
+	* Rashti and True Rashti can now summon elementals and Rhamis
 
 - Scenarios
 	> scenario 04 - Southern Nations:
@@ -22,7 +54,6 @@ Version 3.6
 - Translations
 	* updated the raw translation file
 	* updated the Polish translation
-
 
 Version 3.5.8
 
