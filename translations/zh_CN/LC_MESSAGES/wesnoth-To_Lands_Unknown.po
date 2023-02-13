@@ -1,0 +1,4681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: To_Lands_Unknown-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-25 19:00-0400\n"
+"PO-Revision-Date: 2017-02-13 19:36+0100\n"
+"Last-Translator: Pepe <donpepe1963@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid ""
+"\n"
+"(Intermediate or Expert level. 16 playable scenarios.)"
+msgstr ""
+"\n"
+"（中等到专家级难度，16个战斗关卡。）"
+
+msgid ""
+"\n"
+"<i>Hearken ye,\n"
+"You strangers in a desolate land\n"
+"To this tale of lands most old,\n"
+"of the Summoners of al-Kamija,\n"
+"Those mighty magi\n"
+"Of powers untold,\n"
+"Their Abysmal servants\n"
+"Both good and bad,\n"
+"And of Mehir, who had,\n"
+"As once foretold,\n"
+"saved all life in this world.</i>"
+msgstr ""
+"\n"
+"<i>谛听，荒芜之地的旅者,\n"
+"我将述说一个古老的传奇：\n"
+"阿尔卡米迦的召唤师们，\n"
+"深谙玄妙奇幻的魔法，\n"
+"统御着深渊的强大仆从。\n"
+"有位奇人，\n"
+"名曰麦希尔，\n"
+"一度拯救这个世界。</i>"
+
+msgid ""
+"\n"
+"This is the story of Mehir, the Summoner, and his journey to lands unknown."
+msgstr ""
+"\n"
+"这是召唤师麦希尔前往未闻之境的故事。"
+
+msgid ""
+" That’s... fantastic. It was supposed to be easy... My first mission as a "
+"leader and the personification of destruction on the horizon... I am not "
+"surprised at all that he persuaded so many creatures to follow him. "
+"Nevertheless I think we will make it, because now I can use jinns!"
+msgstr ""
+"那可……真妙。我第一次履行城主的职责，本以为会是份轻松的差事。他说服了这么多生"
+"物来跟随他，可我却一点也不吃惊。不管怎么说，我们还是应该能赢的，因为我现在能"
+"够驱使神怪了！"
+
+msgid "!"
+msgstr "！"
+
+msgid "!!!"
+msgstr "！！！"
+
+msgid "(Easy)"
+msgstr "（简单）"
+
+msgid "(Hard)"
+msgstr "（困难）"
+
+msgid "(Normal)"
+msgstr "（普通）"
+
+msgid "(optional) Search the caves"
+msgstr "（可选）搜索洞穴"
+
+msgid "(points his finger towards a keep inside the jungle)"
+msgstr "（将手指指向丛林深处）"
+
+msgid "(series of gestures demanding retreat)"
+msgstr "（一系列手势，示意撤退）"
+
+msgid "(series of unknown curses)"
+msgstr "（一串不明的诅咒）"
+
+msgid "(series of unknown words)"
+msgstr "（一串难解的咒文）"
+
+msgid ""
+"(that lizard says something, but it is too far away for Mehir to hear "
+"anything)"
+msgstr "（蜥蜴人说了些话，但是距离太远，麦希尔什么都没听见）"
+
+msgid "(whispers) ...can I resign? She scares me..."
+msgstr "（小声）……我可以拒绝吗？她吓坏我了……"
+
+msgid ""
+"(whispers) ...shut up... (speaks normally) In spite of everything, I hope "
+"you will be a successful team, which will allow us to move to the Abyss "
+"faster than expected. Take care of her. Her death would cause disastrous "
+"consequences for the Abyss.\n"
+"\n"
+"I think we are finished here, so let the party begin!"
+msgstr ""
+"（小声）……闭嘴……（正常）不管怎么说，我希望你们俩能够合作愉快，让我们尽速前往"
+"Abyss。照顾好她，她的死亡那么会对Abyss造成灾难性的影响。\n"
+"\n"
+"我觉得说这么多就够了！让宴会开始吧！"
+
+msgid "(whispers)...though everything will go up in smoke soon..."
+msgstr "（窃语）……尽管一会儿就得把这一切给烧了……"
+
+msgid "*cough*"
+msgstr "*咳嗽*"
+
+msgid "*gulp*"
+msgstr "*咽口水*"
+
+msgid "+1 movement point, -10 HP"
+msgstr "+1移动力，-10生命值"
+
+msgid "+1 strike to scimitar, +2 HP, MAX XP +30%"
+msgstr "弯刀攻击次数+1，+2生命值，经验需求+30%"
+
+msgid "+2 damage to magic, +3 HP, MAX XP +20%"
+msgstr "魔法伤害+2，+3生命值，经验需求+20%"
+
+msgid "+2 damage to scimitar, +1 HP, MAX XP +10%"
+msgstr "弯刀伤害+2，+1生命值，经验需求+10%"
+
+msgid "+20% bonus to fire, cold, and arcane resistances"
+msgstr "+20%火焰，寒冷和奥术抗性"
+
+msgid "."
+msgstr "."
+
+msgid "..."
+msgstr "..."
+
+msgid "... NOT THE HALF OF IT!!!"
+msgstr "...没法杀死半个！！！"
+
+msgid "... my time in this world has passed!"
+msgstr "... 我该离开这个世界了！"
+
+msgid "...AT THEM!!!"
+msgstr "……打倒他们！！！"
+
+msgid "...DEFEAT ME!!!"
+msgstr "……打倒我！！！"
+
+msgid "...Hmmm... Interesting..."
+msgstr "……嗯……有意思……"
+
+msgid "...I died. I felt like there was no good nor evil in me. I was Unity..."
+msgstr "……我死了。我感觉好像我本无善恶之分。我本是一个整体……"
+
+msgid "...I had a vision..."
+msgstr "……我有种感应……"
+
+msgid ""
+"...I... can’t believe this! You attacked our capital, tried to steal a holy "
+"relic of ours, and then you broke into our catacombs and killed one of our "
+"leaders! Who do you think you are?!"
+msgstr ""
+"……我……无法相信这件事！你袭击了我们的首都，试图偷取一件神圣的遗物，然后你又闯"
+"入我们的墓园并且杀害了我们的一位领袖！你以为你是什么东西？！"
+
+msgid "...I’ve finally found... you..."
+msgstr "……我终于找到……你们了……"
+
+msgid "...MUST DIE!!!"
+msgstr "……必须死！！！"
+
+msgid "...OVER YET!!!"
+msgstr "……结束呢！！！"
+
+msgid "...Oh! A summoner. You have come to help me, have you not?"
+msgstr "……欧！一个召唤师。你是来帮助我的，对吧？"
+
+msgid "...SIRAHT THES SORUTH..."
+msgstr "...SIRAHT THES SORUTH..."
+
+msgid ""
+"...Someone is coming... I hear their breath — it is a human... they come "
+"from the north-west..."
+msgstr "……有人在接近……我可以感觉到他的呼吸——那是个人类……他从西北方而来……"
+
+msgid "...TO SEE YOU ALIVE!!!"
+msgstr "……看到你活下来！"
+
+msgid "...This is... impossible!"
+msgstr "……这……不可能！"
+
+msgid "...WHAT YOU ARE MADE OF!!!"
+msgstr "……你们的生理结构吧！"
+
+msgid "...WHAT?!"
+msgstr "什么？！"
+
+msgid "...and fullfil our dream..."
+msgstr "……来完成我们的梦想……"
+
+msgid ""
+"...and that’s why I owe him my life. I anoint Mehir as the leader of Tar-"
+"Tabar."
+msgstr "……就这样，他救了我一命。我提议让麦希尔来当Tar-Tabar的新城主。"
+
+msgid "...aquilo...flamen...notos..."
+msgstr "……阿奎洛……弗雷门……诺托斯……"
+
+msgid "...aris..."
+msgstr "……阿瑞斯……"
+
+msgid ""
+"...but also half-evil. Her good half shouldn’t rebel but I can’t guarantee "
+"this..."
+msgstr "……但是另一半是邪恶的。她的好的一半应该不会叛变，但我说不准……"
+
+msgid "...death..."
+msgstr "……死吧……"
+
+msgid "...decision. The meeting elected Mehir the new leader!"
+msgstr "麦希尔！议会决定将麦希尔选为新任的城主。"
+
+msgid "...is talking to ME! The mountain! It says: oh nooo..."
+msgstr "……在对我说话！那座山！它说：不……"
+
+msgid "...nothing was the same."
+msgstr "……一切都不一样了。"
+
+msgid "...open Sezam..."
+msgstr "……西瓜开门……"
+
+msgid "...or you could die. Let’s check!"
+msgstr "……或者你会死。来试试吧！"
+
+msgid "...ow... my back!"
+msgstr "……呜啊……我的背！"
+
+msgid "...ris..."
+msgstr "……瑞斯……"
+
+msgid ""
+"...the Red Abyss? The place of ultimate chaos? The home of all Efreeti and "
+"Dharma’rhamis? The most dangerous area of the entire dimension?"
+msgstr ""
+"鲜红深渊？终极混乱之地？火怪和达玛拉弥的故乡？整个多重宇宙中最危险的地方？"
+
+msgid "...then why do you not want... to go there?"
+msgstr "……而且为什么你自己却不想……去那个地方呢？"
+
+msgid "180 gold"
+msgstr "180金币"
+
+msgid "8"
+msgstr "8"
+
+msgid "<span color='#BCB088' size='large'>To Lands Unknown</span>"
+msgstr "<span color='#BCB088' size='large'>未闻之境</span>"
+
+msgid "?!"
+msgstr "？？？"
+
+msgid "A New Leader"
+msgstr "新的领袖"
+
+msgid ""
+"A few weeks passed. Mehir explored the palace of Tar-Tabar and met his "
+"servants. Old summoning veterans explained to him how to use a Megacircle, a "
+"necessary spell for all true Summons masters. He also learned how to lead "
+"his new troops in order to make his army as effective as it was under "
+"Tashkar’s command."
+msgstr ""
+"几周过去了。麦希尔游遍了Tar-Tabar的宫殿，并且召见了他的仆从们。老召唤师们向他"
+"解释了召唤阵的用法，帮助他掌握了这种大召唤师的必须魔法技巧。他也学着领导军队"
+"之方，以使他们就如曾在塔什卡尔麾下时那样高效。"
+
+msgid "A human! Alone?! We’re on the Great Desert!"
+msgstr "一个人类！独自？我们可是在大沙漠里啊！"
+
+msgid ""
+"A job. Why have I decided to be a city guard?! And who the hell decided that "
+"the palace-city needs defending? We’re in the middle of the desert, there "
+"are no threats for miles, and the only thing I have to pass the time here is "
+"to command these fools."
+msgstr ""
+"这工作。为什么我要来当这个城卫官呢？而且为什么这座宫殿之城要安排守卫呢？我们"
+"身处沙漠之中，方圆百里之内毫无威胁，而我只能靠呼喝这群傻瓜来打发时间。"
+
+msgid ""
+"A legendary artifact, a masterpiece made by the Ancestors. In olden times a "
+"magical collar was made, which when placed upon a magical being, could "
+"recall it after death.\n"
+"The unit is recalled back to the leader\n"
+"After each recall the unit is getting stronger\n"
+"The unit can be recalled only 3 times. After that it dies for sure."
+msgstr ""
+"传奇的工艺品，先祖的一项杰作。先祖给他们的魔法生物戴上这种魔法项圈，这使他们"
+"甚至能够在魔法奴仆死亡之后召回它们。\n"
+"该单位将被自动召回。\n"
+"每次召回后，单位会变得更强\n"
+"该单位只能被召回3次，之后它会不可逆的死亡。"
+
+msgid ""
+"A legendary masterpiece made by the Ancestors in the olden times. Its unique "
+"powers enabled the magical being to be recalled back to the mortal world "
+"after being killed.\n"
+"The unit is recalled back to the leader when dies\n"
+"After each recall the unit becomes stronger\n"
+"The unit can be recalled only 3 times. After that it dies for sure."
+msgstr ""
+"传奇的工艺品，先祖的一项杰作。先祖给他们的魔法生物戴上这种魔法项圈，这使他们"
+"甚至能够在魔法奴仆死亡之后召回它们。\n"
+"该单位将被自动召回。\n"
+"每次召回后，单位会变得更强\n"
+"该单位只能被召回3次，之后它会不可逆的死亡。"
+
+msgid "A lizard dies"
+msgstr "任一蜥蜴人死亡"
+
+msgid ""
+"A long time ago, when our ancestors lived on the outskirts of the desert, "
+"they made an extremely powerful discovery — Magic. Hidden in the form of "
+"magical formulas and symbols, magic controlled our fate.\n"
+"The Ancestors discovered the Abyss — another world full of energy, where "
+"time and space have no meaning. Our entire arsenal of known magic comes from "
+"the Abyss. We can summon this power to our world — and that’s the reason we "
+"are called Summoners."
+msgstr ""
+"很久以前，当我们的祖先还居住在沙漠的外围时。他们发现了一股极其强大的力量，魔"
+"法。魔法以复杂公式与神秘符号隐藏着，在暗中操控我们的命运。\n"
+"先祖们发现了Abyss，一个不受时空拘束而饱藏能量的世界。我们所知的所有魔法都来自"
+"Abyss。我们可以将其中的力量召唤到这个世界上，正因为这个原因，我们被称为召唤"
+"师。"
+
+msgid ""
+"A magical being. A very different one from those present here on the "
+"battlefield."
+msgstr "一个魔法生物。一个与众不同的魔法生物。"
+
+msgid "AAAARGH!!!"
+msgstr "啊啊啊！"
+
+msgid "AAARRrrghh!!!"
+msgstr "啊啊啊！！！"
+
+msgid "ALERT!!!"
+msgstr "全体警戒！"
+
+msgid "Aaaaarrrghh!!!"
+msgstr "啊啊啊！！！"
+
+msgid ""
+"About half a year ago the Kharosans lost contact with all their settlements "
+"in the furthest east. Messengers never returned. When more towns started to "
+"disappear, the ruler of Kharos, the Highest Priest of Light, Anthi, ordered "
+"the middle-lands fortified in order to beat off possible attacks by "
+"invisible invaders. After one month contact was lost again, but this time, "
+"two cavalry archers managed to escape to the west. From their reports it was "
+"understood that they were attacked by masked beings, full of madness and "
+"anger. Terrifying three-headed creatures from their worst nightmares served "
+"them..."
+msgstr ""
+"大约半年以前，卡罗斯人失去了与他们东方据点的联系。信使们有去无回。当更多的城"
+"镇开始失去联系时，卡罗斯的统治者，光之高等祭司安希下令，加强中部地区的防御，"
+"以抵御可能的侵袭。大约一个月之后，又有新的地区失联。这次，有两个骑射手成功逃"
+"回了西方。按照他们的报告，有一支蒙面的疯狂与仇恨之师袭击了他们。最恐怖的梦魇"
+"中的三头怪兽在为这些入侵者效力。"
+
+msgid "Abyss"
+msgstr "Abyss"
+
+msgid "Adviser"
+msgstr "劝谏者"
+
+msgid "Aerius"
+msgstr "艾利乌斯"
+
+msgid "Afez"
+msgstr "阿费兹"
+
+msgid ""
+"After being released, Mehir immediately set out to Sud-Affar and informed "
+"Sharif about the whole situation. The leader of the city wasn’t really happy "
+"about the Keeper’s idea of sending Mehir to such an important mission but he "
+"had no choice. Mehir set out immediately."
+msgstr ""
+"被释放之后，麦希尔立刻前往Sud-Affar并且将新的情况告知了沙里夫。城主并不喜欢守"
+"护者让麦希尔担此大任的决定，但是他也别无选择。于是麦希尔立即被派去执行这项任"
+"务。"
+
+msgid ""
+"After completing the circle, you will need to gather all your living troops "
+"and Rashti inside the circle. You cannot leave your men behind."
+msgstr ""
+"在完成了魔法环之后，你得让拉什提和所有的属下进入到圈里。你不能抛弃自己的属"
+"下。"
+
+msgid ""
+"After creation of al-Kamija, Ka-Gatta turned into catacombs, full of graves "
+"of the first summoners. 400 years have passed since that time. There were "
+"many legends about the ancient vaults full of forgotten artifacts of immense "
+"power, all of which were protected by eternal guards. There were few who "
+"dared to confirm that but none returned..."
+msgstr ""
+"在创造了al-Kamija之后，Ka-Gatta被改造成了墓园，堆砌起越来越多先祖召唤师们的坟"
+"墓。而那已经是400年前的事情了。这里曾有许多关于远古宝库的传说，相传里面充斥着"
+"被遗忘的上古神器，由不朽的守卫守护者。曾有一些大胆的人试着来确认传闻的真假，"
+"却从没有人返回..."
+
+msgid ""
+"After death the unit is recalled back to leader. Activates only 3 times."
+msgstr "在死亡之后，该单位会被召回到指挥官身边。只能生效3次。"
+
+msgid ""
+"After death the unit is recalled back to the leader. Activates only 3 times."
+msgstr "在死亡之后，该单位会被召回到指挥官身边。只能生效3次。"
+
+msgid ""
+"After leaving the Palace, a flying ship awaited Mehir. Its captain explained "
+"to him that the place they were going to visit was indeed very far away. "
+"Traveling there using a normal boat would take months, where at the same "
+"time the flying ship could reach the destination in hours. Its deck was "
+"small and could not hold all summoners, so the Magi equipped Mehir with a "
+"special magical circle, which was able to teleport his troops from the Sky "
+"Kingdom to his location. When Mehir and Rashti boarded the ship, the Guru "
+"gave them three Ums—magical creatures serving the Magi—as a gift. He also "
+"gave Mehir a special magical spell allowing him to return instantly with his "
+"men and the battery.\n"
+"\t\t\t\n"
+"After that the flying ship took off and headed north..."
+msgstr ""
+"在离开宫殿之后，麦希尔发现一艘飞船正等待着他们。船长向麦希尔解释，他们将要去"
+"一个一个极其遥远的地方。用普通的船得花上数月，然而用这飞船则只需要数个小时。"
+"这船的甲板太小，没法装下所有的召唤师，所以天空王国的法师们给了麦希尔一个特殊"
+"的魔环，用来将他的军队从天空王国传送到他身边。当麦希尔和拉什提登船时，古鲁给"
+"了他们三个乌姆——服侍法师的魔法生物——作为礼物。他也给了麦希尔一个特殊的魔法，"
+"让他在拿到电池之后，可以把他和他的手下立刻传送回来。\n"
+"\t\t\t\n"
+"在那之后，飞船向北起航……"
+
+msgid ""
+"After recapturing Degos, Mehir, Dedylos, and their troops set out to Kharos "
+"in hope that the city was not attacked."
+msgstr ""
+"在重新占领了德苟斯之后，麦希尔，德狄罗思和他们的军队出发前往卡罗斯城，心中希"
+"冀着首都尚未被攻取。"
+
+msgid ""
+"After three days the wanderer regained consciousness. Atiros (that was his "
+"name) had come from a land abandoned by the Summoners thousands of years "
+"ago. These words shocked the High Council, because the ancient scrolls "
+"hadn’t mentioned other people outside the Great Desert. For centuries the "
+"Summoners believed that their ancestors had set out for the Great Desert "
+"from the Ancestral Lands, leaving the place empty. Atiros said that the land "
+"is now called Kharos and is in grave danger."
+msgstr ""
+"三天以后，旅行者恢复了意识。原来他名叫阿提罗斯，来自召唤师们数千年前所迁出的"
+"那篇土地。这些言辞震惊了高等议会，因为古老卷轴里并不曾提到说大沙漠之外还有其"
+"他人栖居。数百年依赖召唤师们一直相信，在他们的祖先从古老之地迁出之后，那个地"
+"方便空出来了。阿提罗斯说，这片土地现在被称为卡罗斯，并且正面临极大的危机。"
+
+msgid "Afternoon"
+msgstr "下午"
+
+msgid "Ah, a Summoner! You have come to defeat me, have you?"
+msgstr "啊，一位召唤师！你是来击败我的，对吧？"
+
+msgid ""
+"Ah, welcome, Summoner. It seems that we have had the pleasure of meeting in "
+"the past. You have probably come for one of your leaders. He is... well... "
+"It is a little complicated."
+msgstr ""
+"啊，欢迎，召唤师。看起来我们曾经有幸相识。看来你在寻找你们的一位领袖。呃，他"
+"的情况……有些复杂。"
+
+msgid "Ah, yes, well... Welcome, we come in peace."
+msgstr "嗯，对的，呃……欢迎，我们为了和平而来。"
+
+msgid "Ale!!!"
+msgstr "是啊！"
+
+msgid "Alib"
+msgstr "阿里卜"
+
+msgid ""
+"Although they are useless to us, we do know where two of them are. The first "
+"is in the hands of the people of Kharos. It is their holiest artifact; they "
+"call it the ‘Sun Ray’."
+msgstr ""
+"尽管这玩意对我们没用，我们倒是知道它们的两处所在。一是在卡罗斯人手中。那是他"
+"们最神圣的工艺品，被称为“日耀之光”。"
+
+msgid "Amazing!"
+msgstr "太奇妙了！"
+
+msgid ""
+"Amazing. I have split her in half, and she is still alive. She has also "
+"changed the color of her hair! It’s time to kill you for s..."
+msgstr ""
+"真是奇妙。我将她切成了两半，结果她还活着。而且头发的颜色还变了！是时候再杀你"
+"一……"
+
+msgid ""
+"Amazing. It’s the first time I have seen something like this. What unique "
+"sorts of creatures live on this land..."
+msgstr "奇妙。我第一次看到这种景象。这片土地上的生物多么奇妙啊……"
+
+msgid "Amazing. This must be the Land of Magic!"
+msgstr "太神奇了。这肯定就是魔法之地了！"
+
+msgid ""
+"Amazing... an entity from Abyss that has visions... It’s the first time I "
+"have seen something like this. It looks like she regained her consciousness!"
+msgstr ""
+"奇了……一个来自Abyss的魔法生物竟然获得了感应……我第一次听说这种事情。不过看来她"
+"恢复意识了。"
+
+msgid ""
+"Amazing... if I tell my friends in al-Kamija about what I’ve seen here, they "
+"won’t believe me. It looks like we’re underdeveloped in the spiritual area, "
+"but at least we have the Abyss and Nomolas which gives us a great adv..."
+msgstr ""
+"真是神奇……假如我要告诉我在al-Kamija的朋友这里的一切，他们是不会相信我的。看起"
+"来我们不太重视精神领域，不过至少我们还有Abyss和诺莫拉斯，而它们给了我们……"
+
+msgid ""
+"Among a myriad of dunes, in the center of our Holy Land, an unreal palace-"
+"city lies — our capital al-Kamija.\n"
+"It is an unusual place. It is not damaged by destructive influences of time "
+"and sand. There are no shortages of goods, because everything is found "
+"here.\n"
+"\n"
+"How is this possible?"
+msgstr ""
+"在不可计数的沙丘中，梦幻般的宫殿之城坐落在我们圣地的中央。它是我们的首都，al-"
+"Kamija。\n"
+"那是一个神奇之地。不受时与沙的侵蚀，也从不知贫乏为何物。\n"
+"\n"
+"这怎么可能呢？"
+
+msgid "Amulet of Metamorph"
+msgstr "变形项链"
+
+msgid "An Infernal Studios Production"
+msgstr "Infernal 工作室作品"
+
+msgid ""
+"An explanation is pointless; you would not understand anyway. Listen, we "
+"want to finish our research here, and then we will ‘go away’. You have a "
+"choice: you can return from where you came or fight and suffer the same fate "
+"as your leader."
+msgstr ""
+"解释是无益的；说了你也听不懂。听着，我们只想继续我们的研究，然后我们就会“滚"
+"走”。你现在可以选择离开这里，或者挑战我们然后遭受和你们的领袖相同的命运。"
+
+msgid ""
+"An infinite passage to the Abyss, a world of unlimited energy, where time "
+"and space have no meaning..."
+msgstr ""
+"一个无尽通量的隧道，通向Abyss，那个蕴藏着无尽能量的不受时空拘束的世界……"
+
+msgid "Ancient Scimitar"
+msgstr "古代弯刀"
+
+msgid "And I defend the bridge!"
+msgstr "那我来守桥。"
+
+msgid "And I will... CRUSH YOUR HEAD WITH MY HAND!!! "
+msgstr "而我要……亲手粉碎你！！！"
+
+msgid "And now time stops..."
+msgstr "时间停止了……"
+
+msgid ""
+"And that is how the first part of our story has ended. Mehir became one of "
+"the most powerful men in the land of the Summoners and his destiny was "
+"beginning to fulfill."
+msgstr ""
+"到了这里，我们故事的第一部分就结束了。麦希尔成为了召唤师中最有权势的人之一，"
+"而他的命运之门开始打开。"
+
+msgid ""
+"And then Mehir understood what Anthi had in mind when she told him that it "
+"is impossible to reach this land by ship. Mehir saw a giant landmass above "
+"his head which stayed still in the air just over the clouds.\n"
+"\n"
+"Even flying carpets couldn’t fly so high, so Mehir’s people decided to draw "
+"a special circle on the ship’s floor, similar to the one which was used by "
+"the Ka-Gattan Summoners centuries ago to travel between the surface and the "
+"underground. After a few hours everything was ready and the first who had "
+"decided to teleport to the ‘flying island’ was Mehir."
+msgstr ""
+"然后麦希尔明白了安希的意思，为什么神秘人的居所被称为不可触及之地。麦希尔看见"
+"了大块的陆地静静的飘在空中，宛如云朵。\n"
+"\n"
+"即使是飞毯也没有办法飞那么高，于是麦希尔的手下决定在船底画一个特殊的魔法阵，"
+"用古代Ka-Gattan的石窟间传送技术把飞船传送上天。几个小时之后，一切就绪，麦希尔"
+"下令，将帆船传送到空岛。"
+
+msgid ""
+"And there is. There are things in this world that can store magic over time. "
+"We call them ‘power sources’. If you could bring us one of these objects, we "
+"could release its accumulated power and open a gate for you."
+msgstr ""
+"方法确实是有。这个世界上有一些可以储存魔力的东西。我们将它们成为“能量源”。如"
+"果你能给我们带来一个这样的东西，我们就可以释放其中的能量，为你们开一扇门。"
+
+msgid "And to think I wanted to command these Summoners..."
+msgstr "我以前竟然梦想着当这帮召唤师的长官……"
+
+msgid "And what about Kharos? Have they destroyed Kharos?"
+msgstr "卡罗斯城呢？难道他们已经摧毁了卡罗斯？"
+
+msgid ""
+"And you look familiar... It was your people who... broke into our catacombs "
+"in Ka-Gatta..."
+msgstr "你们看着很眼熟……就是你们的人……闯入了我们的Ka-Gatta墓园……"
+
+msgid ""
+"And you want me to steal it, right? No way! The people of Kharos helped me "
+"get here. They gave me hope. I can’t do this. There must be another way."
+msgstr ""
+"你想让我去偷它？不可能！卡罗斯人帮我来了这里。她们给了我们希望。我做不了这"
+"事。肯定还有其他的方法。"
+
+msgid "And, RUN!!!"
+msgstr "快跑！"
+
+msgid "Anthi"
+msgstr "安希"
+
+msgid "Anthi didn’t say anything about it."
+msgstr "安希丝毫没提这件事。"
+
+msgid ""
+"Anyway, I have to wrest them away from the inns, every single evening, "
+"because they aren’t decent enough to do their duty."
+msgstr "不管怎么说，我得防着他们开小差上酒馆，每晚都得防着。一帮不老实的家伙。"
+
+msgid ""
+"Are you mad? It seems like they’d rather tear you apart than come to an "
+"understanding. My job is to protect the circle which means I cannot allow "
+"anyone outside our country to come closer to it. If you want to support "
+"them, you may, but the army of Sud-Affar won’t help you."
+msgstr ""
+"你疯了吧？看上去比起讲道理，他们更愿意把你撕碎。我的工作是保护圆环，所以我不"
+"能让任何外来者接近它。如果你想要支持他们，随你便。但是Sud-Affar的军队不会帮助"
+"你。"
+
+msgid "Art Placeholder"
+msgstr "Art Placeholder"
+
+msgid "Artwork and Level Design"
+msgstr "美工与关卡设计"
+
+msgid ""
+"As far as I can see, there is no trace of Tashkar and his troops here. They "
+"must have proceeded to the next chamber. Nevertheless, we should make a "
+"thorough search. Maybe we will find some clues or treasures..."
+msgstr ""
+"据我观察，这里并没有塔什卡尔的和他的军队的踪迹。他们应该进入下一个区域了。不"
+"管怎样，我们应该做个彻底的搜查。也许我们能找到什么宝贝呢……"
+
+msgid ""
+"As long as we do not make the decision, I suggest choosing one of us to be a "
+"temporary leader of Tar-Tabar."
+msgstr "既然我们做不了决定，那么我们选个Tar-Tabar的临时领袖吧。"
+
+msgid ""
+"As soon as Mehir and Jaffar were loaded on wyverns, Rhaxiz reminded the "
+"Keeper about some lizards that had been captured a few days ago by "
+"barbarians. He also described how good the Summoners were fighting in the "
+"desert. The Keeper agreed at once and ordered for the Summoners to be "
+"brought back. A Darkblooded chose Mehir to set out to the Fire Canyon to "
+"rescue those lizards. They promised him that if all captured lizards "
+"returned in one piece, the Summoners would be given a permission to continue "
+"their work in the Darkblooded’s territory. At the same time Jaffar was held "
+"hostage, against the lizards’ well being."
+msgstr ""
+"当麦希尔和贾法尔被送上飞龙时，拉席兹提醒守护者说一些蜥蜴人几天前被蛮族给掠走"
+"了。他也描述了召唤师们多么善于在沙漠中进行作战。守护者立刻同意将召唤师们带回"
+"来。一位暗血者选择让麦希尔去火焰峡谷解救那些蜥蜴人。他们对他承诺，如果所有的"
+"蜥蜴人能安全被解救，那么召唤师就能够继续在暗血者的领地上进行他们的工作。同"
+"时，贾法尔被选作人质扣留下来。"
+
+msgid ""
+"As soon as Mehir reached the jungle, a great happiness spread throughout it. "
+"Jaffar was immidiately freed and the summoners were granted permission to "
+"continue building the Great Circle on Darkblooded territory. Because Mehir’s "
+"achievement was quite unusual for his experience, Sharif appointed him a "
+"commander of the second degree. The dream of a young city guard came true."
+msgstr ""
+"麦希尔一回到丛林，一股强烈的欢乐情绪便传播开来。贾法尔立即被释放，并且召唤师"
+"们获得了在暗血部落的领地上继续建造大圆环的许可。因为麦希尔立下了超乎资历的功"
+"绩，沙里夫便将他任命为二阶指挥官。年轻城卫官的梦想成真了。"
+
+msgid ""
+"As soon as he stopped, mysterious blue balls appeared and surrounded him. "
+"Then big stone statues and small awful creatures with spears went out "
+"through those blue... portals, I assume. I didn’t see any magical circles, "
+"so I have no idea how could he summon anything, but he did."
+msgstr ""
+"他一停下来，身边就浮现了好多神秘的蓝色球体。然后巨大的雕像和矮小的恶心持矛生"
+"物从里面跳了出来……应该是传送门吧，我猜。我没能看见魔法阵，所以我不知道他到底"
+"怎么能用召唤魔法，但是他就是做到了。"
+
+msgid ""
+"As you already know, our society is devoted to the Sun and his life-giving "
+"power carried by the immaculate Light. You are from the desert, so you don’t "
+"know how important vegetation is. The Sun causes plants to grow and gives us "
+"fruits. This is how our religion came into being."
+msgstr ""
+"你已经知晓，我们的社会崇拜太阳神和他赐福与生命的圣光。你来自沙漠，所以你不知"
+"道农业有多么重要。太阳令植物生长，给予我们果实。我们的宗教由此而来。"
+
+msgid "As you wish, Master."
+msgstr "如您所愿，主人。"
+
+msgid "At last! At them!"
+msgstr "终于来了！给我上！"
+
+msgid "At last! Feel the fires of the Abyss!"
+msgstr "终于到时候了！尝尝Abyss的火焰吧！"
+
+msgid ""
+"At the beginning, the Ancestors considered the Abyss as a place of primitive "
+"chaos — until they summoned the first magical being, a true dweller of that "
+"different world. It was Nomolas, the first jinn.\n"
+"Unrestrained by imagination, this entity is the most powerful being we know "
+"to this day. Theoretically, Nomolas is capable of destroying even a God.\n"
+"The ancestors managed to communicate with Nomolas, who turned out to be "
+"obedient like all summoned magical entities."
+msgstr ""
+"最初，先祖们认为Abyss所包藏的是原初的混沌，直到他们召唤了第一个魔法生物，一个"
+"异世界的真正住民。诺莫拉斯，“第一个神怪”。\n"
+"这个魔法生物是我们至今所知的最强大的造物，其神通超乎想象。理论上说，诺莫拉斯"
+"甚至能够弑杀天神。\n"
+"先祖们成功的与诺莫拉斯展开交流了，出人意料地，他像所有其它的召唤生物一样顺"
+"从。"
+
+msgid ""
+"At the moment you do not have a unit in your army who could use this "
+"artifact. However the item will be picked up, so it can wait for a suitable "
+"unit to be recruited or recalled."
+msgstr ""
+"目前你的军队中没有单位能够使用这个装备。但是你现在仍能够拾取它，等到你召回或"
+"雇佣合适的单位时，你可以给他装备这个物品。"
+
+msgid "Atiros hasn’t returned..."
+msgstr "阿提罗斯还没回来……"
+
+msgid ""
+"Atiros, as one of the two most powerful warriors of Kharos, was ordered to "
+"find them. First, he set out to the Acacia Forest to find magical fount of "
+"the Water of Life, which would allow him to travel safely through the "
+"desert. He had managed to acquire some of this wonderful liquid just before "
+"the forest was seized by the dark hordes. Then he set out to the furthest "
+"city of the south, Saffaros, and sailed across the sea to the Great Desert. "
+"Right after landing, he saw a giant tower looming over the horizon. He "
+"decided to go in that direction, thinking he would find civilization there. "
+"Atiros saw the highest tower of al-Kamija, whose peak could be seen "
+"everywhere on the continent. After five weeks, the Water of Life run out. In "
+"the following week, Atiros heard sounds of a battle. Soon after, he lost "
+"consciousness and woke in Tar-Tabar, where he discovered his rescuers were "
+"those that he was ordered to find."
+msgstr ""
+"阿提罗斯，作为卡罗斯最强大的两大武士之一，被派来寻找他们。他首先去了阿卡西亚"
+"丛林，找到了生命之水，这样它便能在沙漠中安然长途穿行。在黑暗部落占领丛林之"
+"前，他刚好赶得及获取了一点这种神奇的液体。然后他来到了最南边的城市萨法罗斯，"
+"从那里漂洋过海来到了大沙漠。一登陆他就看见了地平线上的巨塔，于是他便顺着那个"
+"方向找来。结果他所看到的是al-Kamija高耸的巨塔。五周之后，他的生命之水用完了。"
+"又过了几周，阿提罗斯听见了的战斗的声响，再然后他就昏迷了。然后他便在Tar-Tabar"
+"醒来，而他发现救助他的人就是他被命令来寻求的帮手。"
+
+msgid ""
+"Atiros? Is that you? Thank the Sun, you’re still alive! But who are those "
+"people behind you? Don’t tell me they’re..."
+msgstr ""
+"阿提罗斯？是你吗？感谢骄阳，你还活着！但是你身后那些人是谁？别告诉我他们是……"
+
+msgid "Azagath Mag-Magar Arath!"
+msgstr "Azagath Mag-Magar Arath!"
+
+msgid "Bakha"
+msgstr "巴卡"
+
+msgid "Bars"
+msgstr "Bars"
+
+msgid ""
+"Be careful, my liege. This being can betray us in the least expected moment."
+msgstr "小心，殿下。这东西可能在关键时刻背叛我们。"
+
+msgid ""
+"Before I cast the activation spell, Rashti, my troops, and I must be inside "
+"of the circle. I can’t leave anyone behind."
+msgstr ""
+"在我施放激活魔法之前，拉什提，我的属下还有我自己必须进入魔法环。我不能抛下任"
+"何人。"
+
+msgid ""
+"Before reinforcements from al-Kamija arrived, Mehir, Malib and Rashti had "
+"two weeks to examine dead bodies of enemies. It turned out the invaders were "
+"similar to humans. They had long, pointed ears and pale, almost gray skin. "
+"They were armed with blades made of metal unknown to the Summoners and their "
+"clothes were black as death. There were other bodies, different in shapes "
+"and sizes. They  belonged to terrifying three-headed beasts. These creatures "
+"were similar to desert snakes often seen in local caves, but this was where "
+"similarities ended."
+msgstr ""
+"在al-Kamija的援军到来之前，麦希尔，马里卜和拉什提有两周的时间查验敌人的尸体。"
+"他们发现，这些入侵者和人类挺像的。他们有长长的尖耳和苍白的灰肤。他们配备着以"
+"召唤师所不曾见过的金属铸造的刀刃，而它们的服装如死亡一般黑寂。还有一些其他的"
+"尸体，形状与尺寸各异，它们属于那些恐怖的三头野兽。这些野兽有点像岩窟中的沙漠"
+"蛇，但也仅仅是有点像而已。"
+
+msgid "Block Dharma’Rashti so that Ho’Rashti can eliminate her and unite"
+msgstr "阻挡住达玛拉什提，让赫拉什提消灭她并重塑统一"
+
+msgid "Bodyguard"
+msgstr "护卫"
+
+msgid "Bridge of Light"
+msgstr "光之桥"
+
+msgid "Brogh’ur"
+msgstr "伯古尔"
+
+msgid "Brogh’ur’s dead! Run!!!"
+msgstr "伯古尔死了！跑！！！"
+
+msgid "But I am your master! You must obey my orders!"
+msgstr "可我是你的主人！你得听我的命令！"
+
+msgid "But I don’t want to fight you. What if somebody gets killed?"
+msgstr "但我不想和你们打。要是有人被杀了怎么办？"
+
+msgid ""
+"But don’t you see that we can win ourselves an ally? Don’t forget that the "
+"circle crosses their territory, and as far as I know we are unwelcome. This "
+"is the chance to change it. Who knows, maybe we will persuade them to help "
+"our workers?"
+msgstr ""
+"但你不觉得我们可以赢得一个盟友吗？别忘了圆环得穿过他们的领土，而就我所知我们"
+"并不受欢迎。这正好是个改变的机会。谁知道呢，也许我们还能说服他们帮助我们的工"
+"人呢？"
+
+msgid ""
+"But he can’t see anything! His helmet is just a golden plate without any eye-"
+"holes!"
+msgstr "但他啥也看不见啊！他的头盔把视线全挡住了。"
+
+msgid "But he managed to do the impossible - to save my city!"
+msgstr "可是他奇迹般地拯救了我的城市！他立下的也是非常之功。"
+
+msgid ""
+"But it is not. The Runemasters are gone, but this place is protected by "
+"their mechanical creations, like your cities are protected by your abysmal "
+"beings."
+msgstr ""
+"并不简单。符文师们不在了，但是那个地方仍被他们所创造的机械所保护着。就如你们"
+"的城市被那些Abyss生物守护着一样。"
+
+msgid ""
+"But thanks to your stubbornness, your dream has come true. Now you all can "
+"join your friends and relatives."
+msgstr "全靠你那份坚韧，你的梦想成真了。现在你们可以和朋友亲人团聚了。"
+
+msgid "But when the time is right, you will return..."
+msgstr "等到时机成熟时，你还会回来的……"
+
+msgid "But you said you knew how to help me. So there must be a way."
+msgstr "但既然你说了你知道如何帮助我。所以肯定是有方法的。"
+
+msgid "But... how is it possible? They had to come from the north!"
+msgstr "但是……这怎么可能？他们竟然从北面打过来了！"
+
+msgid "But... the battery?"
+msgstr "但是……电池呢？"
+
+msgid ""
+"By the power given to me by the High Council and in the name of all citizens "
+"of our country and the Abyss I grant you the title leader of Tar-Tabar!"
+msgstr ""
+"根据高等议会赋予我的权力，以我们国家全体公民的名义，Abyss在上，我授予你Tar-"
+"Tabar的城主之职！"
+
+msgid "Campaign Design"
+msgstr "战役设计"
+
+msgid "Cap of Power"
+msgstr "力量之帽"
+
+msgid "Cave Wall"
+msgstr "洞壁"
+
+msgid "Chaos"
+msgstr "混沌"
+
+msgid "Chaos Wyvern"
+msgstr "混沌飞龙"
+
+msgid "Cheers for Mehir!!!"
+msgstr "为麦希尔喝彩！"
+
+msgid "Collar of Recall"
+msgstr "追索之环"
+
+msgid "Come to me, I call you!"
+msgstr "听从我的召唤，为我效力吧！"
+
+msgid ""
+"Commander Mehir from Sud-Affar at your service, sir! The Armies of the "
+"Trinity will arrive soon."
+msgstr "Sud-Affar的指挥官麦希尔为您效劳，长官！三城的军队很快就来。"
+
+msgid "Continue without rain"
+msgstr "关闭雨天特效"
+
+msgid "Create the teleportation circle"
+msgstr "制造传送环"
+
+msgid "Cuirass of the Ancients"
+msgstr "上古甲胄"
+
+msgid "DESTROY!!!"
+msgstr "毁灭！"
+
+msgid "Damaging Aura"
+msgstr "致伤光环"
+
+msgid ""
+"Damaging Aura:\n"
+"At the beginning of each turn, all adjacent enemy units receive 8 points of "
+"damage."
+msgstr ""
+"致伤光环：\n"
+"每回合开始时，所有邻接的敌方单位遭受8点伤害。"
+
+msgid ""
+"Dammit! She won’t stand a chance against an entire army of demonical beings! "
+"Protect her at all costs! She mustn’t die or we will lose the Abyss!"
+msgstr ""
+"见鬼！她在一整支恶魔大军面前根本毫无机会！不惜一切代价保护她！如果她死了，我"
+"们前往Abyss的大业就落空了！"
+
+msgid "Damn it! I have bad feelings about this... "
+msgstr "糟糕！我有种不想的预感……"
+
+msgid "Damn it! We can’t escape from these monsters!"
+msgstr "该死！我们没法甩开那些怪物！"
+
+msgid "Damn it. They don’t look friendly. Get ready people!"
+msgstr "该死。它们看着可不友善。准备！"
+
+msgid "Damn! I forgot!"
+msgstr "见鬼！我忘了！"
+
+msgid "Dawn"
+msgstr "黎明"
+
+msgid "Death of 3 Council members"
+msgstr "3位议会成员死亡"
+
+msgid "Death of Atiros"
+msgstr "阿提罗斯死亡"
+
+msgid "Death of Dedylos"
+msgstr "德狄罗思死亡"
+
+msgid "Death of Elder"
+msgstr "长老死亡"
+
+msgid "Death of Malib"
+msgstr "马里卜死亡"
+
+msgid "Death of Mehir"
+msgstr "麦希尔死亡"
+
+msgid "Death of Rashti"
+msgstr "拉什提死亡"
+
+msgid "Death of Rhaxiz"
+msgstr "拉席兹死亡"
+
+msgid "Dedylos"
+msgstr "德狄罗思"
+
+msgid "Deep Freeze"
+msgstr "深冻"
+
+msgid "Defeat Aerius"
+msgstr "击败艾利乌斯"
+
+msgid "Defeat Reficul"
+msgstr "击败雷飞库尔"
+
+msgid "Defeat all enemies"
+msgstr "击败所有敌人"
+
+msgid "Defeat all invaders"
+msgstr "击败所有入侵者"
+
+msgid "Defeat some barbarians"
+msgstr "击败一些野蛮人"
+
+msgid "Defeat the barbarians"
+msgstr "击败野蛮人"
+
+msgid "Defeat the intruders"
+msgstr "击败入侵者"
+
+msgid "Defeat the invaders"
+msgstr "击败入侵者"
+
+msgid "Defend al-Kamija"
+msgstr "防御al-Kamija"
+
+msgid "Defend the camp"
+msgstr "守卫营地"
+
+msgid "Defend the entrance. They mustn’t get inside!"
+msgstr "守卫入口。他们不能进去！"
+
+msgid "Defend your position"
+msgstr "守住防线"
+
+msgid "Desert Cloak"
+msgstr "沙漠斗篷"
+
+msgid ""
+"Despite Mehir’s later help, the Darkblooded were still angry with the "
+"Summoners. They said that in the construction of the ‘devil’s path’ a part "
+"of their forest had been destroyed and they could not forgive it, especially "
+"because each tree was holy for them, and the newcomers from the north had "
+"cut down many of them. Jaffar and Mehir explained as best as they could who "
+"they were and why the construction of the circle was so important for all of "
+"the Summoners. The Darkblooded could not understand some words, but it "
+"didn’t matter. The Keeper decided to set them free, but in the same breath "
+"he threatened the Summoners with immediate death if they would so much as "
+"cut the grass. However, hope remained."
+msgstr ""
+"尽管麦希尔后来帮助了他们，暗血者还是对召唤师感到生气。他们无法原谅这种为了建"
+"造“恶魔之径”而烧毁神圣丛林的举动，而北方的来者也已经砍去了太多的树木。贾法尔"
+"和麦希尔尽全力解释了他们的来历，已经建造圆环对所有召唤师的重大意义。其中有些"
+"内容暗血者们没听懂，但是不关紧要。守护者决定释放他们，但同时也以死亡相威胁，"
+"要他们停止砍伐丛林。但是，一线希望尚存。"
+
+msgid "DharmaRashti"
+msgstr "达玛拉什提"
+
+msgid "Die..."
+msgstr "死吧……"
+
+msgid ""
+"Do not worry about us. We have created this place... and its rules. But if "
+"your soldiers die, you will be to blame. Do you accept this challenge, "
+"Summoner?"
+msgstr ""
+"别替我们担心。我们创造了这个地方……还有这里的法则。但是如果你的士兵死了，责任"
+"当然在你身上了。你愿意接受这个挑战吗，召唤师？"
+
+msgid "Do you hear that? It’s like the sound of flapping wings..."
+msgstr "你听见了吗？听起来是振翅的声音……"
+
+msgid "Do you want me to tell her that?"
+msgstr "要我把这话转述给她吗？"
+
+msgid ""
+"Do you want to see all magical creatures escaping from Tar-Tabar at the "
+"sound of his name?"
+msgstr "你想要让Tar-Tabar所有的魔法生物都望风而逃吗？"
+
+msgid "Does it mean..."
+msgstr "那就说明……"
+
+msgid "Don’t do th..."
+msgstr "别……"
+
+msgid ""
+"Don’t forget they are surrounded. If we attack them by surprise, they won’t "
+"survive this."
+msgstr "别忘了，他们被包围了。如果我们奇袭他们，他们便毫无胜算了。"
+
+msgid "Don’t listen to her!"
+msgstr "别听她的！"
+
+msgid ""
+"Don’t lose hope, Anthi. These walls have protected our peoples for "
+"centuries; nothing can destroy our gates."
+msgstr ""
+"别丧失希望，安希！这些城墙保卫了我们的人民数百年，没有任何东西能破坏我们的城"
+"门。"
+
+msgid ""
+"Don’t pay attention to what she says. She’s quite... unstable at times..."
+msgstr "别管她的话。她有时比较……不稳定……"
+
+msgid "Don’t tell me it’s..."
+msgstr "别告诉我这……"
+
+msgid "Don’t touch it!"
+msgstr "别碰它！"
+
+msgid "Don’t worry about us. You must protect the Great Circle at all costs!"
+msgstr "别担心我们了。你得不惜代价包围大圆环！"
+
+msgid ""
+"During his visit Mehir learned many things about the Kharosans and their "
+"religion. The Kharosans worship the Sun as God and the light as the source "
+"of life. This specific dualism reflects in their social structure. The "
+"Kharosan society is ruled by wise priestesses of the cult of light which are "
+"adept in magic and use it without drawing circles. The army and all "
+"connected services are subordinated to the so-called sun warriors."
+msgstr ""
+"在访问中，麦希尔了解到了许多关于卡罗斯人和他们宗教的知识。卡罗斯人将太阳和光"
+"视作神灵和生命之源崇拜。这种二元论也反映在他们的社会结构中。卡罗斯社会由光明"
+"教会的睿智的女祭司们所统治，她们精通于魔法而且不需借助圆环魔法阵便能使用出"
+"来。卡罗斯的军队和相关部门都由所谓的“太阳武士”所管理。"
+
+msgid ""
+"During the secret meeting of the High Council he was informed that Tashkar, "
+"the leader of Tar-Tabar, was missing. A few days ago he set out with part of "
+"his soldiers to Ka-Gatta — the first, now abandoned capital of the "
+"Summoners. The High Council didn’t explain what was the reason of this "
+"expedition but ordered Mehir to pursue — and if necessary, rescue — the "
+"leader and his army."
+msgstr ""
+"在高等议会的秘密会议中，他被告知Tar-Tabar的城主塔什卡尔失踪了。几天前他与一部"
+"分士兵去了Ka-Gatta，召唤师们现已抛弃的旧都城。高等议会并没有解释这次远征的原"
+"因，但是命令麦希尔去追寻这位城主和他的军队的踪迹，并且在有必要时实施救援。"
+
+msgid "Dusk"
+msgstr "黄昏"
+
+msgid "Dwarven Castle"
+msgstr "矮人城堡"
+
+msgid "Dwarven Castle Keep"
+msgstr "矮人主堡"
+
+msgid "East of Sud-Affar"
+msgstr "Sud-Affar东面"
+
+msgid "Elder"
+msgstr "长老"
+
+msgid "Enemy on the horizon!!! They have seized Degos!!!"
+msgstr "敌军来袭！他们应该已经拿下了德苟斯！"
+
+msgid "Enlightenment"
+msgstr "启示"
+
+msgid "Enough! Control yourself!"
+msgstr "够了！管好你自己！"
+
+msgid "Enter the Abyss"
+msgstr "进入Abyss"
+
+msgid "Enter the Central Palace"
+msgstr "进入中央宫殿"
+
+msgid "Enter the ruins"
+msgstr "进入遗迹"
+
+msgid ""
+"Everything is going according to plan. If it we don’t slow down, we will be "
+"in the Abyss sooner than it was planned."
+msgstr ""
+"一切都在按计划进行。如果按这个速度进行下去的话，去Abyss的日期估计得比计划的还"
+"早。"
+
+msgid "Everything is going as planned."
+msgstr "一切尽如计划。"
+
+msgid "Excellent!"
+msgstr "好极了！"
+
+msgid ""
+"Excellent! The Guru is waiting for you inside. Just try to reach the doors."
+msgstr "很好。古鲁就在里面等你，尽力去接近那扇门吧。"
+
+msgid "Excellent, I appoint you as my assistant."
+msgstr "很好，我任命你做我的助手。"
+
+msgid ""
+"Excellent, we’re fighting with the biggest evil from the Abyss and I have "
+"only five dispellers... If we survive this madness, I will remove his "
+"limitations."
+msgstr ""
+"好吧，我们正在与对抗Abyss的最大威胁，但我只有五个驱魔师……假如我们这次能活下"
+"来，我会解除相关的限制。"
+
+msgid ""
+"Excellent. I hope we will live long enough to see them. Unfortunately, I "
+"can’t risk fighting. This city mustn’t lose its leader. Defeat the invaders, "
+"soldier!"
+msgstr ""
+"好的。我希望我们能坚持到他们来。不幸的是，我没法打下去了。这座城市不能失去它"
+"的领导。击溃这些入侵者吧，士兵们！"
+
+msgid "Far North"
+msgstr "遥远的北方"
+
+msgid "Fear not, Master! She is mine!"
+msgstr "别怕，主人！我来搞定她！"
+
+msgid "Finally I am UNITY!"
+msgstr "我终于重归统一了"
+
+msgid "Finally!!! And now let’s get out of this damned place!"
+msgstr "终于结束了！让我们离开这个该死的地方吧！"
+
+msgid "Finally. Now it’s time for a REAL BLOODBATH!!!"
+msgstr "终于来了。那么现在，是时候动点真格了！！！"
+
+msgid "Fire Canyon"
+msgstr "火焰峡谷"
+
+msgid "First Watch"
+msgstr "前夜"
+
+msgid "Flat"
+msgstr "平地"
+
+msgid "Follow me! Hurry!"
+msgstr "跟着我！快！"
+
+msgid ""
+"For 500 years they lived here and one day discovered the Abyss. In time "
+"their knowledge allowed them to create marvellous cities on a hot surface. "
+"The first was al-Kamija — the new capital created from nothing by the First "
+"Jinn, Nomolas. The caves were abandoned and the ancestors could finally "
+"claim the Great Desert as their home."
+msgstr ""
+"他们在这里生活了500年，直到有一天发现了Abyss。很快，他们的知识便允许他们在炽"
+"热的地表上建立辉煌的都市。而其中的第一座便是al-Kamija，由诺莫拉斯从空无中创造"
+"出的新都城。从那以后，这些洞窟就被遗弃了，而先祖们也终于能够自豪地将这片沙漠"
+"称为他们的家园。"
+
+msgid "For me? Is something bad happening in my Tar-Tabar?"
+msgstr "我的消息？Tar-Tabar出了什么事吗？"
+
+msgid "For this!"
+msgstr "对此很抱歉！"
+
+msgid "Freedom! Tell me, who are you?"
+msgstr "自由！告诉我，你们是谁？"
+
+msgid ""
+"From time immemorial, on the distant south, a race of intelligent lizards "
+"called the ‘Darkblooded’ protected their lands from the barbarian hordes "
+"that arise from the local wastelands. The Jungle of Life that the summoners "
+"had entered was the home of the Darkblooded, as much the Great Desert was to "
+"the Summoners. This unusual tropical land was a holy place for its dwellers, "
+"to be protected at all costs. When the Summoners contacted the lizards, they "
+"thought that they were barbarians because of their similar language. Despite "
+"that, Rhaxiz hadn’t attacked because Mehir explained he was not from the "
+"east, where enemy was living, but from the north. Nevertheless the "
+"appearance of a ‘fiery demon’ scared the lizards so much that they thrown "
+"themselves on the Summoners, thinking that they wanted to burn their holy "
+"forest. Although Rhaxiz withdrawn to defend the Jungle in other places, "
+"Summoners had still been observed."
+msgstr ""
+"自古以来，在遥远的南方，一支被称为“暗血者”的智慧蜥蜴人就居住在那里。他们抗击"
+"着兴起于附近荒地的蛮族部落，以保卫自己的领土。召唤师们所闯入的生命之丛是暗血"
+"者的家园，正如大沙漠是召唤师的家园。这不寻常的热带林地对其中的栖息者而言无异"
+"是圣地，值得不惜代价的去保卫。当召唤师与蜥蜴人接触时，因为语言相似，他们被当"
+"作是蛮族。尽管如此，拉席兹也没有进攻，因为麦希尔解释说他并非从东方而来，而是"
+"来自北方。那不是敌人栖居的方向。尽管如此，“火焰恶魔”的出现吓坏了蜥蜴人，所以"
+"他们对召唤师展开了袭击，因为他们以为召唤师们想要烧毁他们神圣的丛林。尽管拉席"
+"兹后来为了兼顾其他地方的守备而一时撤退，他们一直在注意召唤师们的举动。"
+
+msgid "Gameplay Testing"
+msgstr "试玩"
+
+msgid "Gates of Kharos"
+msgstr "卡罗斯之门"
+
+msgid "Gather all your human units and Rashti inside the circle"
+msgstr "将你的所有人类单位和拉什提集中到圆圈内"
+
+msgid ""
+"Go far away, search ruins, find that thing and bring it back — seems easy."
+msgstr "远征，搜索遗迹，把东西取回来——听起来挺简单的。"
+
+msgid "Go first, soldiers..."
+msgstr "士兵们，你们先进去吧……"
+
+msgid "Golden Carpet"
+msgstr "黄金飞毯"
+
+msgid "Good Nomolas! It..it’s... frrreezing c... c... ccold here!"
+msgstr "诺莫拉斯在上！这也太太太太太冷了。"
+
+msgid "Good Nomolas! What was THAT?!"
+msgstr "我的灯神啊！那是什么？！"
+
+msgid ""
+"Good job. Unfortunately, we are trapped here now, but those weird magi gave "
+"me a teleportation spell. We’d better find this battery and jump out of this "
+"horror as soon as possible..."
+msgstr ""
+"干得不错。不幸的是，我们被困在这里了。不过那些奇怪的法师给了我这个传送魔法。"
+"我们最好赶紧找打那个电池，然后离开这个鬼地方。"
+
+msgid "Good luck, Summoner. You will need it."
+msgstr "祝你好运，召唤师。你需要运气的帮助。"
+
+msgid "Grand Summoner"
+msgstr "大召唤师"
+
+msgid ""
+"Great, but does this ‘sunflower’ (*Mehir ironically talks about Kirios, "
+"Anthi’s bodyguard*) need to walk with you? Couldn’t we be alone for a "
+"moment?... He distracts me."
+msgstr ""
+"好极了，但是这个“向日葵”（*麦希尔指的是基里奥斯，安希的护卫*）一定得陪着你"
+"吗？我们可以独处一会儿吗？……他让我感觉有些不自在。"
+
+msgid "Guru"
+msgstr "古鲁"
+
+msgid "Guru is not here."
+msgstr "古鲁并不在这里。"
+
+msgid "HAHAHAAAAAhaa!!! You’re pitiful."
+msgstr "哈哈哈哈！一群可怜虫！"
+
+msgid "HERE COMES YOUR DEATH!!!"
+msgstr "你们的死期到了！"
+
+msgid "HOW DARE YOU!!! I WILL BITE YOUR HEAD OFF!!!"
+msgstr "大胆！我要把你的头咬下来！"
+
+msgid "Hah! Die, bastards!!"
+msgstr "哈！去死吧，混蛋！"
+
+msgid "Hahahaaahaaaaaaaaaa!!!"
+msgstr "哈哈哈哈！"
+
+msgid ""
+"Have you lost your mind?! This is not our war. Since they are busy with each "
+"other, the Circle is safe."
+msgstr "你疯了吗？这不是我们的战争。既然他们忙着相互残杀，那圆环就安全了。"
+
+msgid "Have you stopped the invaders by yourselves?"
+msgstr "你们仅凭自己就阻止了入侵者？"
+
+msgid "He is in something you call the Red Abyss."
+msgstr "他现在身处于你们所谓的“鲜红深渊”之中"
+
+msgid "He is telling the truth. I can no longer sense my master in this world."
+msgstr "他说的是实话。我没法感应到我的主人。"
+
+msgid ""
+"He must’ve fainted. Quick, give him something to drink. We must bring him to "
+"Tar-Tabar!"
+msgstr "他晕过去了。赶紧，给他找点水来。我们得把他带回Tar-Tabar！"
+
+msgid ""
+"He was lucky Rashti’rhami was with him at that time. But still there was a "
+"risk she would die and in consequence our work with the Circle would have "
+"been ruined!"
+msgstr ""
+"他很幸运，拉什提拉弥当时和他在一起。不过话说来，这事其实也挺冒险的。要是拉什"
+"提死了，那么我们整个圆环的工程就白费了。"
+
+msgid ""
+"Hear the story of Mehir, a young summoner, who will play a very important "
+"role in the history of the Era of Magic. But before it happens, he will have "
+"to prove his strength by advancing in a complex hierarchy of Summoners.\n"
+"At this point, Mehir has been appointed as an assistant to the Sharif of Sud-"
+"Affar, the south city of the Trinity. He was immediately sent to the east, "
+"to supervise the building of the circle, just outside the territory of Mag-"
+"Magar."
+msgstr ""
+"听听麦希尔的故事吧，这个年轻的召唤师后来在魔法时代的历史中扮演了极其重要的角"
+"色。但是在那一切发生之前，他首先得通过在召唤师的复杂等级制度中爬升来证明他自"
+"己的能力。\n"
+"在这个时候，麦希尔已经被任命为南方之城Sud-Affar的城主沙里夫手下的一位助手。他"
+"立即被派往了东方，监管圆环的建造，就在Mag-Magar的领土之外。"
+
+msgid "Hello, Dedylos!"
+msgstr "嗨，德狄罗思！"
+
+msgid "Hello, is there anybody around here?"
+msgstr "嗨，有人吗？"
+
+msgid "Help... me... YOU PIECE OF... I am DIE!!! ...ing..."
+msgstr "救……我……（你这个……）我要（去死！）……了……"
+
+msgid "Here you are, my liege! An extremely important message for you."
+msgstr "殿下，终于见到您了！我有个非常重要的消息要告诉您。"
+
+msgid "Hey! What’s going ooooOOOON?!"
+msgstr "嘿！发生了什么？"
+
+msgid "Hey, What is that salamander doing out there? He’s calling me."
+msgstr "嘿，那个沙罗曼蛇在这里干什么？他在叫我。"
+
+msgid "Hey, wait!"
+msgstr "嘿，等等。"
+
+msgid "Hey, wait! Damn, he’s gone..."
+msgstr "呃，等等！该死的，他走了……"
+
+msgid "Hey, what’s going on? Everything is disappearing..."
+msgstr "发生了什么？一切都消失了……"
+
+msgid "He’s too powerful for us to banish him! We must kill him!"
+msgstr "他太强大了，我们没法驱逐他！我们得杀死他！"
+
+msgid "Hiiiilafaiiii!"
+msgstr "Hiiiilafaiiii!"
+
+msgid ""
+"Hmm.. this is worrying. I’m certain this man isn’t one of our citizens. I "
+"must call a meeting of the Highest Council as soon as possible. In the "
+"meantime I order you to double the guards."
+msgstr ""
+"嗯……这很令人担忧啊。我能肯定此人肯定不是我们国家的人。我必须得立刻召集高等议"
+"会，来商量一下这件事。与此同时，我命令你将警卫人数翻倍。"
+
+msgid "Hmmm, that’s a good idea! Just tell me your name, young man."
+msgstr "嗯，这主意不错！告诉我你的名字，年轻人。"
+
+msgid "Hmmm... so you are Mehir — the leader of Tar-Tabar, defender of Kharos."
+msgstr "嗯……这么说，你就是麦希尔——Tar-Tabar的首领，卡罗斯的护卫者。"
+
+msgid "HoRashti"
+msgstr "赫拉什提"
+
+msgid "Holy Efreeti! What is THAT?!"
+msgstr "我的天！那是个啥？"
+
+msgid "Holy Nomolas..."
+msgstr "我的天哪……"
+
+msgid "Home"
+msgstr "家！"
+
+msgid "Home. So many centuries have passed; now I am finally back."
+msgstr "家。这么多年过去了……我终于要回去了。"
+
+msgid ""
+"Hopefully, being the commander, I can assign myself to patrol the most "
+"beautiful places, like the highest tiers of the city. What a pleasant wind..."
+msgstr ""
+"但愿，作为长官，我可以把好差事留给自己，去巡逻巡逻风景最美的地方，比如城市的"
+"最高层。多么舒爽的风啊……"
+
+msgid ""
+"How I will tell them they are going to be trapped here? And their families "
+"are leaving this world forever? These mysterious people... They’re our last "
+"chance..."
+msgstr ""
+"我怎么给他们说我们被困在这个世界了。而他们的家人已经永远的离开这里了？这些神"
+"秘人……他们是我们最后的机会了……"
+
+msgid ""
+"How could you know that? You’re not one of us, although you speak our "
+"language."
+msgstr "你怎么知道的？虽然你能说我们的语言，可你不是我们的人。"
+
+msgid ""
+"How should I show them the Abyss and fried lizards, I wonder? Okay, okay, "
+"I’ll try. Maybe we will avoid trouble..."
+msgstr ""
+"你倒是说说，我该怎么向他们展示Abyss？好吧好吧，我试试。也许我们能够避免麻烦……"
+
+msgid ""
+"How... he... What was that? This is impossible. An indestructible seal "
+"protects this gate! "
+msgstr "什么……他……那是什么？这不可能。守护大门的印记是坚不可摧的！"
+
+msgid ""
+"However, this isn’t the jungle — it’s time we use those Fire Elementals. We "
+"must cross this bridge first, however, otherwise it will burn and we won’t "
+"be able to return. Also, we should hurry up - the lizards may not survive "
+"the night in this hostile environment."
+msgstr ""
+"但是，这并不是丛林——是时候用用那些火元素了。不过我们必须先过了桥，不然那些火"
+"元素会把桥给烧掉的，那样我们就没退路了。而且我们得赶快，在这么恶劣的条件下，"
+"那些蜥蜴人多半活不过今晚。"
+
+msgid "Huh?"
+msgstr "啊？"
+
+msgid "Huh? For what?"
+msgstr "为什么？"
+
+msgid "Huh? Rashti, where are you going?!"
+msgstr "啊？拉什提，你要去哪儿？"
+
+msgid "Huh? They are retreating? We are safe!"
+msgstr "嗯？他们撤了？我们安全了！"
+
+msgid "Huh? What’s going on? He just disappeared!"
+msgstr "啊？发生了什么？他消失了！"
+
+msgid "Hurray!"
+msgstr "好啊！"
+
+msgid "Hurray!!!"
+msgstr "欧耶！"
+
+msgid "I AM NO LONGER YOUR SERVANT, HUMANS! DIE!!!"
+msgstr "我不再是你的奴仆了，凡人！去死吧！"
+
+msgid "I DO IT!!!"
+msgstr "让我来！"
+
+msgid "I HATE YOU!!! I WILL BURN YOU, AND YOU’LL SUFFER!"
+msgstr "我恨你！我要烧死你，你去死吧！"
+
+msgid ""
+"I NEED MORE!!! Reminds me of the last time when I wanted to RIP YOUR THROAT "
+"OUT, MEHIR!!!"
+msgstr "我渴望更多！这让我想起了我上次渴望将你开膛破肚的时候，麦希尔！"
+
+msgid "I WANNA SLAUGHTER YOU, MEHIR!"
+msgstr "我要杀了你，麦希尔！"
+
+msgid ""
+"I advise you, my liege, not to summon them. They can fall to the will of the "
+"Great Efreet and join him, although there is a small chance it won’t happen. "
+"From my experience I know that some being are always devoted to their "
+"masters, but we shouldn’t risk it, especially because your jinns are "
+"unaccustomed to you, my liege. I also suggest not to use red entities at "
+"all, because they are of an evil nature and near this Efreet they will "
+"surely revolt against us. Of course this is only advise. You’ll do whatever "
+"you want, my liege."
+msgstr ""
+"殿下，我建议您别召唤他们。他们很可能会屈服于高等火怪的意志。根据我的经验，一"
+"些魔法生物会永远保持对主人的忠诚，但我们不应该冒这个险，特别是在您的神怪还对"
+"您不熟悉的条件下。殿下，我建议您一个红色生物也别用，因为他们的本质就是邪恶"
+"的，这个火怪肯定能让他们反抗我们。当然这只是我的建议了，最终的决定权还在殿下"
+"您。"
+
+msgid ""
+"I am afraid they still don’t understand. Maybe we should show them a magical "
+"entity?"
+msgstr "我恐怕他们还是没懂。也许我们应该给他们展示一下魔法生物？"
+
+msgid "I am extremely sorry, my Master! It is her! Control yourself, stupid!"
+msgstr "实在抱歉，我的主人！那是她！管住你自己吧，蠢货！"
+
+msgid ""
+"I am infinitely grateful to you. Without your help... as soon as the first "
+"carpets arrive from al-Kamija, I’ll go and speak with the High Council. Your "
+"achievements must be announced in the whole country!"
+msgstr ""
+"我对你感激不尽。要不是有你的帮助……等到al-Kamija的飞毯一来，我就会给高等议会传"
+"话。你的成就应该被举国传颂！"
+
+msgid ""
+"I am not surprised, for it is their greatest treasure: the source of power "
+"of all Sun Warriors. Anthi could not tell a stranger about this."
+msgstr ""
+"对此我并不奇怪，毕竟那是她们最大的宝藏。所有太阳武士的能量之源。安希不会对陌"
+"生人提这件事的。"
+
+msgid "I am sorry..."
+msgstr "我很抱歉"
+
+msgid "I am. And now..."
+msgstr "我是。那么现在……"
+
+msgid ""
+"I believe you. None of the foreigners know such details. Please take us from "
+"this place. The desert almost dried us to death."
+msgstr ""
+"我相信你们。没有任何外人会知道这么详细。请将我们带离这里。这沙漠差点让我们脱"
+"水至死。"
+
+msgid ""
+"I can see skeletons scattered near the entrance. They seem to be quite old, "
+"which means they do not belong to Tashkar’s expedition. They must have been "
+"unfortunate adventurers seeking treasures... They were running to the exit, "
+"but something happened. I have bad feelings about this..."
+msgstr ""
+"我可以看见入口处散落的枯骨。它们看着挺老的，说明它们不属于塔什卡尔的远征队。"
+"他们应该是不幸的寻宝冒险者吧…………他们想逃向出口，但是发生了什么。这让我感觉很"
+"不舒服……"
+
+msgid ""
+"I can’t summon more men; there won’t be enough room for them inside the "
+"circle!"
+msgstr "我没法再召唤更多的人了；魔法圈里没有更多的位置 了！"
+
+msgid "I could swear I saw something moving in the distance..."
+msgstr "我发誓，我看见有什么东西在移动"
+
+msgid "I curse you all!!!"
+msgstr "我诅咒你们！！！"
+
+msgid "I didn’t say that! It’s her."
+msgstr "这不是我说的！是她。"
+
+msgid ""
+"I do not now how much you were told, summoner, but this Tash... no matter "
+"what was his name... He set out to disturb our research site. He ordered us "
+"to go away. We are not magical entities to receive orders from a summoner. "
+"It was very insulting..."
+msgstr ""
+"我不知道你们对这件事了解多少，召唤师。但是，这个塔什……管他叫什么呢……他赶来打"
+"搅了我们的研究。他命令我们立刻离开。我们又不是受召唤师颐指气使的魔法生物，这"
+"挺侮辱人的……"
+
+msgid ""
+"I don’t get it. They were completely furious. They couldn’t have just run "
+"away..."
+msgstr "我不明白。他们那时那么愤怒。他们不可能就那样逃走了……"
+
+msgid "I don’t like this..."
+msgstr "我不喜欢这个……"
+
+msgid ""
+"I don’t think there is someone who has sufficient charisma and authority."
+msgstr "我并不认为还有谁足够的资格和能力。"
+
+msgid ""
+"I feel you, Rashti. It is a pleasure for me to have you as a guest in my "
+"land."
+msgstr "我能理解你，拉什提。很荣幸能够邀你来到我的土地。"
+
+msgid "I found a gate. Shall I open it?"
+msgstr "我发现了一扇门。要打开吗？"
+
+msgid ""
+"I have achieved harmony. Two egos have become one. This is my true and last "
+"character."
+msgstr "我重获了和谐。两个自我重新统一。这才是我真正和最终的人格。"
+
+msgid ""
+"I have no choice. I’ll get this battery for my people, but what do I have to "
+"do for you in return?"
+msgstr "我别无选择，我得为我的手下找到这块电池。但我应该如何回报你呢？"
+
+msgid "I have warned you..."
+msgstr "我警告过你……"
+
+msgid "I hope it’s not a dream."
+msgstr "但愿这不是个梦。"
+
+msgid ""
+"I knew you were able to do powerful things like controlling powers of "
+"nature, but this... is unbelievable!"
+msgstr "我知道你们拥有强大的力量，但是这也……太难以置信了！"
+
+msgid ""
+"I knew you wouldn’t do such a thing. You are a good person, but good people "
+"always face more problems than others..."
+msgstr ""
+"我知道你不会做这件事。你是个善良的人，不过善良的人总得比别人应付更多的麻烦……"
+
+msgid ""
+"I know a few people that would like to see this lamp... I’ll borrow it. "
+msgstr "我认识几个对这盏灯感兴趣的人……那我把它借走了。"
+
+msgid ""
+"I know people who can move you to the Abyss without drawing circles. They "
+"live not so far to the west from here, or at least, they lived there "
+"yesterday..."
+msgstr ""
+"我知道有人能够不借助魔法环就将你们送到Abyss。他们住在不远的西方，至少昨天还在"
+"那里……"
+
+msgid ""
+"I must win these lizards over. It seems that we will have to kill some "
+"barbarians first. Don’t harm the lizards!"
+msgstr ""
+"我必须把蜥蜴人争取过来。看起来我们必须得先杀些野蛮人了。别伤害那些蜥蜴人！"
+
+msgid ""
+"I remember this place — these are the highest tiers of al-Kamija. When I was "
+"a guard, I often patrolled these areas. I thought I would never see them "
+"again..."
+msgstr ""
+"我记得这个地方——这是al-Kamija的最高层。我曾是那里的守卫，时常在那里巡逻。真没"
+"想到我还能看见这个地方。"
+
+msgid "I sense something... strange."
+msgstr "我感到有些奇怪。"
+
+msgid ""
+"I slayed nightmarish beasts, defeated an army of mechanical monsters, "
+"brought this damn battery along with parts of that accursed place back here, "
+"and you offer me dinner?!"
+msgstr ""
+"我刚刚还在和噩梦般的怪兽作战，与一只机械军队交手，然后我把这个该死的电池连带"
+"着一部分那个该死的地方给传送回来了。你却邀请哦吃晚餐？！"
+
+msgid ""
+"I think, though, it wouldn’t be necessary for Rashti, because of her dual "
+"nature. The good half should draw her conclusions for the future and never "
+"betray you in similar situations again."
+msgstr ""
+"不过，我觉得拉什提算个例外。因为她具有双重本质。善的那一半现在占据了主导，她"
+"应该以后再也不会在类似情景下背叛你了。"
+
+msgid ""
+"I thought I was killing witches, but they were my own men. It was "
+"terrible...."
+msgstr "我还以为我在砍杀女巫呢，但是实际上我却是在砍自己人。那可真是糟糕……"
+
+msgid ""
+"I understand. Your knowledge has proved to be most helpful, so I’ve decided "
+"to allow you to have some of my luxuries!"
+msgstr "我明白。你的博学立了大功，所以我决定赏给你一些宝物。"
+
+msgid "I used his soul to close the gate."
+msgstr "我用它的灵魂关掉了那扇门。"
+
+msgid "I venture forth to observe things more closely."
+msgstr "让我靠近一点来一探究竟。"
+
+msgid ""
+"I was here as always when this strange man arrived from north-west. He "
+"didn’t have a carpet, yet his feet never touched the ground. I have never "
+"seen something like this."
+msgstr ""
+"这个奇怪的男人从西北面过来的时候，我一直在场。他没有飞毯，但是他的双脚从来没"
+"有碰到过地面。我从没见过这种景象。"
+
+msgid ""
+"I was told you were the person who could help me return to my people in the "
+"Abyss..."
+msgstr "我听说你能够帮助我们前往Abyss……"
+
+msgid "I will fight with my own men. Wish me luck, Jaffar."
+msgstr "我会带我自己的人去战斗。祝我顺利吧，贾法尔。"
+
+msgid ""
+"I will go back to the Kingdom to speak with him and you do not leave their "
+"side."
+msgstr "我会回到天空王国向他报告，而你们得留在这边守着。"
+
+msgid "I will never allow you to harm Master!"
+msgstr "永远别想伤害主人！"
+
+msgid ""
+"I wonder, what would happen if I separated both of you... It could unleash "
+"devastating power of your angry half, no longer bond to the voice of reason, "
+"or..."
+msgstr ""
+"我在想，假如我将你们俩给切开，会发生什么事呢……也许你盛怒的那一半的能量会被释"
+"放，不再接受理性的束缚，或者……"
+
+msgid "I wonder... If you know the Abyss and you know how to get there..."
+msgstr "我在想……你为何知道Abyss，而你又怎么知道如何前往那里……"
+
+msgid "I would lost them, but this can be worth it."
+msgstr "我会失去那些神怪，但是这么做也是值得的。"
+
+msgid "I... I am Mehir."
+msgstr "我……我叫麦希尔。"
+
+msgid ""
+"I... I... Yes. I am here to find Tashkar, the leader of Tar-Tabar. And you "
+"must be Rashti’rhami — the most powerful of all Rhamis, one of the four "
+"ultimate beings of the Abyss."
+msgstr ""
+"我……呃……是的。我是来寻找塔什卡尔，Tar-Tabar的城主。那么你应当就是那个拉什提拉"
+"弥——拉弥中的最强大者，Abyss四大终极造物之一。"
+
+msgid "I... What happened? Am I alive?"
+msgstr "……我……发生了什么？我还活着？"
+
+msgid ""
+"I...I am here because of that matter. I didn’t manage to join them on time. "
+"I heard that can help me."
+msgstr "我……我就是为了此事而来。我没能来得及和他们汇合。我听说你们可以帮助我。"
+
+msgid ""
+"I...I think that is for the High Council to decide. Besides, I’m not one of "
+"three Leaders. They are the only ones that are allowed to have Ultimate "
+"Beings as servants."
+msgstr ""
+"我……我觉得这得让高等议会来做决定。而且，我还不是三大首领之一。只有三大首领才"
+"有资格做终极造物的主人。"
+
+msgid ""
+"If I told you the whole story, you would freeze to death. In short it was a "
+"place of a great battle between two powers. One of them, the Runemasters, "
+"perished, though their mechanical creations managed to trap and stop the "
+"invaders."
+msgstr ""
+"等我讲完整个故事，你早就冻僵了。我长话短说好了，两大势力进行了一场大战。符文"
+"师是其中一方，他们全军覆没了。不过他们的机械却成功的困住并阻止了入侵者。"
+
+msgid "If there are any. If not..."
+msgstr "如果有野兽的话。但是……"
+
+msgid ""
+"If you bring those savages near our circle, I will have my Efreeti torture "
+"you."
+msgstr "如果你把那些野蛮人带到我的圆环旁，我会让我的火怪折磨你的。"
+
+msgid ""
+"If you find the upcoming battle too slow, you can increase game speed via "
+"settings."
+msgstr "如果你感觉接下来的战斗太慢了，你可以在设定里调快游戏速度。"
+
+msgid "In Nomolas’s name!!!"
+msgstr "以诺莫拉斯之名！！！"
+
+msgid ""
+"In accordance to the regulations the local guild will confiscate all of "
+"magical beings that have betrayed their masters. They will be sent back to "
+"the Abyss, where their minds will be cleared."
+msgstr ""
+"根据法规，地区公会要没收所有背叛了主人的魔法生物。它们将被遣返Abyss，意志重归"
+"混沌。"
+
+msgid ""
+"In accordance to the regulations the local guild will confiscate magical "
+"beings that have betrayed their masters. They will be sent back to the "
+"Abyss, where their minds will be cleared."
+msgstr ""
+"根据法规，地区公会要没收所有背叛了主人的魔法生物。它们将被遣返Abyss，意志重归"
+"混沌。"
+
+msgid ""
+"In order to increase the building speed of the Great Circle in its current "
+"form, the High Council ordered all citizens of the Summoner country to "
+"assist the builders. Women, children, even elders — all joined the workers. "
+"The messenger immediately set out to Mehir to tell him the news."
+msgstr ""
+"为了提高大圆环的建造速度，高等议会命令所有召唤师国度的市民义务前去协助建造"
+"者。女人，孩子，甚至老人——都加入了工人的行列。信使立刻返程，去告诉麦希尔这些"
+"消息。"
+
+msgid ""
+"Indeed, only one of the Ultimate Beings could have done something like that."
+msgstr "确实，只有一个终极造物才能干得这么漂亮。"
+
+msgid "Indeed, we have defended the city."
+msgstr "确实，我们成功的保卫了这座城市。"
+
+msgid ""
+"Indeed. The workers from Sud-Affar are very diligent, but this is also "
+"thanks to me, the supervisor. And now get back to work! What are you waiting "
+"for?"
+msgstr ""
+"是啊。Sud-Affar来的工人们挺勤奋的，不过这也多亏了我这个监控者。好了，现在回去"
+"工作！你们还在等什么？"
+
+msgid ""
+"Indeed. Those beasts should’ve eaten us a long time ago. We are sitting "
+"three days in this jungle and there are no lizards nearby. I doubt the sense "
+"of this intervention."
+msgstr ""
+"确实。那些野兽早就该吃了我们才对。我们都在这里三天了，结果一只蜥蜴人都没有。"
+"我都在怀疑我来这里有什么意义了。"
+
+msgid ""
+"Inspired by Abyssal winds, woven of magical threads. Those who possess this "
+"ancient vehicle, gain amazing speed and agility.\n"
+"Speed increases by 50%\n"
+"Negates zones of control (grants the skirmisher ability)"
+msgstr ""
+"由金丝织成，在深渊之风中获得魔力。驾驭这个上古飞毯的单位能够获得极大的速度和"
+"敏捷加成。\n"
+"速度提高50%。\n"
+"不受ZoC的影响（游击）"
+
+msgid "Is everything alright?"
+msgstr "出了什么事吗？"
+
+msgid "Is it true? Have you stopped them, young man?"
+msgstr "是真的吗？是你阻止了他们吗，年轻人？"
+
+msgid "Is that all you have to show me? I am disappointed."
+msgstr "仅此而已了？我失望了。"
+
+msgid "Is that true?!"
+msgstr "是真的吗？"
+
+msgid ""
+"Is this... Can it be true? They... exist? I can’t feel them because of this "
+"dark aura..."
+msgstr "这是……这是真的吗？他们……真的存在？我感知不到他们，因为这个黑暗光环……"
+
+msgid ""
+"It happened... Rashti has lost her balance. We must kill this Efreet as soon "
+"as possible. This will save her."
+msgstr ""
+"终于发生了……拉什提失去了她的平衡。我们得尽快杀死这个火怪，这样我们才能把她救"
+"下来。"
+
+msgid "It has started. Finally."
+msgstr "终于要开始了。"
+
+msgid ""
+"It is impossible to become a leader from day to day. He’s only twenty-eight "
+"years old."
+msgstr "仅凭一日之功就成为领袖，这不合常理吧。毕竟他才二十八岁。"
+
+msgid "It is my duty."
+msgstr "职责所在。"
+
+msgid "It is not..."
+msgstr "还没有……"
+
+msgid ""
+"It looks I have no choice. I must see this Guru of yours, even if this means "
+"turning this place into burning rubble."
+msgstr "看来我别无选择。我必须要见到你们的古鲁，就算把这里夷为废墟也在所不辞。"
+
+msgid ""
+"It looks like Tashkar and his troops went to the next area. They must have "
+"ignored all those artifacts and sneak behind monsters. But why?"
+msgstr ""
+"看起来塔什卡尔和他的军队进入了下一个区域。他们一件物品也没捡，也躲开了所有的"
+"怪物。但是为什么呢？"
+
+msgid ""
+"It looks like the fire elementals make them furious. I wish I hadn’t shown "
+"him, everything would have ended in a different way. Too many lives were "
+"lost."
+msgstr ""
+"看起来火元素激怒了他们。看来我不该给他们看那玩意儿，也许事情的发展本来可以完"
+"全不一样。太多的人为此丧命了。"
+
+msgid ""
+"It looks like these strange blue constructs have broken down. Get this "
+"flying human!"
+msgstr "看起来这些奇怪的蓝色构装体被解决了。拿下那个飞着的家伙！"
+
+msgid ""
+"It looks like we will have to attack the fortress ahead in order to reach "
+"them."
+msgstr "看起来我们得攻向前面的城堡，这样我们才能接近他们。"
+
+msgid "It looks like we’re not alone. Prepare yourselves!"
+msgstr "看起来还有其他人。全员警戒！"
+
+msgid "It was she who opened the portal that sucked her master in."
+msgstr "是她开启了这道门，把她的主人吸了进去。"
+
+msgid "It was your fault."
+msgstr "是你的错。"
+
+msgid "Itshar’Imahr YOU BELONG TO ME!"
+msgstr "Itshar’Imahr 你属于我了！"
+
+msgid "It’s a good idea. Let’s vote. Mehir, leave the roo..."
+msgstr "这个主意不错。让我们投票吧。麦希尔，离开这个房……"
+
+msgid "It’s a good question. It came from there!"
+msgstr "好问题。它来自那个方向！"
+
+msgid "It’s a trap!"
+msgstr "这是个陷阱！"
+
+msgid "It’s him."
+msgstr "是他。"
+
+msgid "It’s nothing. Hope they won’t throw buildings on us..."
+msgstr "这不算什么。希望他们别把建筑扔来砸我们……"
+
+msgid ""
+"It’s the first time I have seen water falling from the sky. Something like "
+"that could be very useful in our desert."
+msgstr "这是我第一次见到水从天降。要是我们的沙漠里也会发生这种事情就好了。"
+
+msgid "It’s you!!!"
+msgstr "是你！！！"
+
+msgid "I’ll risk it."
+msgstr "我准备冒这个险。"
+
+msgid ""
+"I’m honored, but first I must send someone to al-Kamija with a report about "
+"Rashti for the High Council."
+msgstr "我很荣幸，但我先得派人回al-Kamija向高等议会通报拉什提的情况。"
+
+msgid ""
+"I’m not sure whether he returned or not, but I can see an army in the "
+"distance. They must be troops from Saffaros, and those beside them... They "
+"don’t look like the warriors of Kharos, but they’re not of the invaders "
+"either..."
+msgstr ""
+"我不确定他是否回来了，但是我看见远处有军队前来。他们应该是萨法罗斯的军队，而"
+"他们身旁的哪些……他们看起来并不像卡罗斯的战士，但是他们也不属于这群入侵者……"
+
+msgid "I’m not surprised at all that your country is falling."
+msgstr "怪不得你们的国家会陷落。"
+
+msgid "I’ve found a chest full of gold!"
+msgstr "我找到了一箱黄金！"
+
+msgid ""
+"I’ve seen their kind before. These troopers look like those who attacked al-"
+"Kamija... I have a bad feeling about this..."
+msgstr "我见过这些家伙。这些军队看起来像al-Kamija的入侵者……我有种不祥的预感……"
+
+msgid "JUST TRY AND STOP ME!!!"
+msgstr "来挡我呀！"
+
+msgid "Jaffar"
+msgstr "贾法尔"
+
+msgid "Jinns, I order you to create a new keep in this town!"
+msgstr "神怪，我命令你们为这座城市召唤出一个新的要塞！"
+
+msgid "Jungle"
+msgstr "丛林"
+
+msgid "KILLKILLKILL!!!"
+msgstr "杀杀杀！"
+
+msgid "KROG FEEL POWER! KROG WANT CRUSH, DESTROY, BREAK!!!"
+msgstr "克罗格强！克罗格打，克罗格踩，克罗格杀！！！"
+
+msgid "Ka-gatta"
+msgstr "Ka-gatta"
+
+msgid ""
+"Ka-gatta is an ancient place — about 1000 years old. Our ancestors lived "
+"here before al-Kamija was created. In early times, during their travel to "
+"the hearth of the desert, our forefathers came across a system of caves "
+"hidden deep inside sand. They were cool and spacious enough, so the "
+"ancestors decided to stay."
+msgstr ""
+"Ka-gatta是处古地，已有千年的历史。在al-Kamija被创造出来前，我们的祖先便生活在"
+"那里。在早先的时光里，我们的祖辈在沙漠腹地的穿行中偶然发现了一系列掩藏在黄沙"
+"下的洞窟。它们清凉而宽敞，于是祖辈们便决定驻留。"
+
+msgid "Kalib"
+msgstr "卡里卜"
+
+msgid ""
+"Keep in mind that each time Mehir stands on the position to cast the spell, "
+"he will lose all his moves and will be unable to attack. He will still be "
+"able to recruit units, though.\n"
+"\n"
+"The order of painting does not matter."
+msgstr ""
+"记住，每次麦希尔施放站上传送阵魔法点后，他会失去所有的移动点数和攻击的机会。"
+"但是他仍能雇佣和召唤单位。\n"
+"\n"
+"绘制传送阵的次序没有任何影响。"
+
+msgid "Khaal siftu nax. Rav!"
+msgstr "Khaal siftu nax. Rav!"
+
+msgid "Kill Brogh’ur"
+msgstr "杀死伯古尔"
+
+msgid "Kill them!"
+msgstr "杀了他们！"
+
+msgid ""
+"Kirios, like all other Sun Guardians, doesn’t need to see. He sees by the "
+"eyes of his soul and I am sure that he can see much more than we can."
+msgstr ""
+"基里奥斯，正如其他的太阳守卫一样，不需要用眼睛去看。他依赖灵魂之眼而不是肉"
+"眼，而我确信他能看见的东西比我们更多。"
+
+msgid "Krog"
+msgstr "克罗格"
+
+msgid "Leader of the Banishers’ Guild"
+msgstr "驱逐师公会首领"
+
+msgid "Leave it to me! I’ll get rid off this mistake of the Abyss myself."
+msgstr "交给我吧！我来解决这个Abyss的败类。"
+
+msgid ""
+"Legends say that this scimitar can magically lead a hand of the owner so his "
+"strikes are more deadly and hit more often.\n"
+"Attack increases by 100%\n"
+"Chance to hit is constant and equals 70%"
+msgstr ""
+"传说这把弯刀上的魔法能够引导挥舞者的砍击，让它们变得更准更致命。\n"
+"攻击提高100%\n"
+"命中率被锁定为70%"
+
+msgid ""
+"Let me guess: this is the lamp where Nomolas rests — the first jinn, creator "
+"of your palace-city, isn’t it?"
+msgstr ""
+"让我猜猜：诺莫拉斯就在这个神灯里——那个初始之神怪，这座宫殿之城的创造者，对"
+"吧？"
+
+msgid ""
+"Let someone inform Sud-Affar! We are under attack! We need reinforcements!"
+msgstr "派人去通知Sud-Affar!我们被袭击了！我们需要增援！"
+
+msgid "Let’s defeat the rest!"
+msgstr "让我们击败残余的敌人吧。"
+
+msgid "Let’s hope, Rashti will resist his will..."
+msgstr "但愿拉什提能够抵挡他的意志……"
+
+msgid ""
+"Let’s move to the bunker. The sooner we get the battery, the less time we "
+"spend here."
+msgstr "让我们进碉堡里去把。我们越早拿到电池，就能越早回去。"
+
+msgid "Let’s rescue the lizards."
+msgstr "让我们来营救这些蜥蜴人吧。"
+
+msgid ""
+"Listen to me, idiot. My half... ME is the queen of the Red Abyss. And you "
+"are a worthless flying red fool, who has to be dealt with."
+msgstr ""
+"听我说，傻瓜。我的一半……我是猩红深渊的女王，而你不过是个会飞的红色傻吊，一个"
+"需要解决的炸碎。"
+
+msgid ""
+"Living in al-Kamija, we have learned quite a lot about this strange "
+"dimension we had discovered, but we haven’t been able to enter it. Maybe "
+"because no one in that place can summon us... However, in the last few "
+"years, we managed to design a special magic circle that is able to take us "
+"to that unreal world. Our tests were successful, but to this day we cannot "
+"summon previously sent items back to our world. As a result of this, "
+"although it sounds crazy, we decided to send our entire land to the Abyss, "
+"hoping that we will find the solution on the other side. But even if we find "
+"it, we may not use it...\n"
+"\n"
+"It should be stressed that we believe we will find in the Abyss the ultimate "
+"sense of our life and decide to stay there forever."
+msgstr ""
+"我们在al-Kamija居住下来，对这个奇怪位面的了解愈加深入，但我们仍然无法进入这个"
+"世界。也许因为那边没有生物能够召唤我们吧... 但是，在最近几年，我们成功地设计"
+"了一种特殊的魔法阵，它能够将我们带去那个梦幻的世界。我们的试验获得了成功，但"
+"直至今日，我们都无法将送入那个世界的物品再召回这个世界。作为结果，尽管这听上"
+"去很疯狂，但我们决定将我们的整个土地传送到深渊，希望我们能够在那边解决这个问"
+"题。但或许即使我们找到了解决方法，我们也没有必要再用它了...\n"
+"\n"
+"需要强调的是，我们相信在Abyss之中我们能够找到生命的终极意义，并且我们会选择永"
+"久地驻留在那里。"
+
+msgid "Load rain"
+msgstr "载入雨天特效"
+
+msgid "Long time no see, Mehir. I'm back and I am gonna RIP YOUR THROAT OUT!!!"
+msgstr "好久不见，麦伊尔。我回来了，而且我要<b>割开你的喉咙！！！</b>"
+
+msgid "Lord, they don’t understand. Maybe we should show them?"
+msgstr "大人，他们听不懂的。也许我们应该给他们展示一下？"
+
+msgid ""
+"Low temperatures damage your living troops. Use fire elementals to warm them "
+"up or use healing units instead. Magical units are not living organisms."
+msgstr ""
+"低温会对你的有生力量造成伤害，用火元素温暖他们，或者你也可以治疗他们。魔法生"
+"物并不害怕严寒。"
+
+msgid ""
+"Luckily, he’s gone. Mehir, you have been patrolling this area since dawn. "
+"Tell me what really happened here."
+msgstr ""
+"算他走运，跑掉了。麦希尔，你从黎明开始就在巡逻这片区域，告诉我这里发生了什"
+"么。"
+
+msgid "MY MASTER IS DEAD!!! I WILL HOLLOW YOUR EYES OUT!!!"
+msgstr "我的主人死了！！！我要挖空你们的眼睛！！！"
+
+msgid "Mag-Magar"
+msgstr "Mag-Magar"
+
+msgid "Mag-Magar is under at..."
+msgstr "Mag-Magar正在遭受……"
+
+msgid "Mage"
+msgstr "法师"
+
+msgid ""
+"Marked with mysterious symbols, this cloak was enchanted a long time ago, "
+"but it still grants good protection against fire.\n"
+"Advances the unit\n"
+"Grants 50% fire resistance"
+msgstr ""
+"斗篷上满是神秘的符号。尽管距离它被附魔的时日已久，但是这个斗篷仍然能很好地帮"
+"助穿戴者抵御火焰。\n"
+"令单位升级\n"
+"提供50%火焰抗性"
+
+msgid ""
+"Marked with mysterious symbols, this cloak was enchanted a long time ago, "
+"but it still grants its owner good protection against fire.\n"
+"Advances the unit\n"
+"Grants 50% fire resistance"
+msgstr ""
+"斗篷上满是神秘的符号。尽管距离它被附魔的时日已久，但是这个斗篷仍然能很好地帮"
+"助穿戴者抵御火焰。\n"
+"令单位升级\n"
+"提供50%火焰抗性"
+
+msgid "Master of Darkness"
+msgstr "黑暗主宰"
+
+msgid "Master of Fire"
+msgstr "火焰大师"
+
+msgid "Master of Water"
+msgstr "活水大师"
+
+msgid ""
+"Master, the human armies rounded us from the east. The desert wizards are "
+"with them. We are in a trap."
+msgstr ""
+"主人，人类军队从东面包围了我们。那群沙漠法师和他们在一起，我们中陷阱了。"
+
+msgid "Max HP bonus +5"
+msgstr "生命值+5"
+
+msgid "Max HP bonus +5, MAX XP +10%"
+msgstr "生命值+5，经验需求+10%"
+
+msgid "May I find the solution inside..."
+msgstr "但愿我能在里面寻找到解决之法……"
+
+msgid "Maybe we should ask the Master of Banishers?"
+msgstr "也许我们应该问一问驱逐者大师？"
+
+msgid ""
+"Maybe we should check if it is safe enough to work in there? It gives me the "
+"creeps..."
+msgstr "也许我们应该看下那里是否安全？我觉得那里有些阴森……"
+
+msgid ""
+"Meh... that was too easy. I love naïveté of abyssmal beings. They seem like "
+"children, amazingly powerful children..."
+msgstr "呼……太简单了。我就喜欢Abyss生物的天真。就像孩子一样，无比强大的孩子。"
+
+msgid "Mehir"
+msgstr "麦希尔"
+
+msgid "Mehir and Rashti came back to al-Kamija."
+msgstr "麦希尔和拉什提返回到al-Kamija"
+
+msgid ""
+"Mehir! At any moment the army of Sud-Affar will come. Don’t wait for us, "
+"pursue him! He mustn’t leave the palace!"
+msgstr ""
+"麦希尔！Sud-Affar的军队随时都会回来，别等我们了，去追她！别让他从这宫殿里再逃"
+"走了！"
+
+msgid "Mehir! You thief! Take him!"
+msgstr "麦希尔！你这家伙！抓住他！"
+
+msgid "Mehir! You’ve brought those beasts here! I will punish you myself!"
+msgstr "麦希尔！你把野兽引来了！我要亲自惩罚你！"
+
+msgid ""
+"Mehir, as the last Summoner, was observing this show from Kharos. He "
+"promised that he would do everything to allow his troops to join their "
+"families and friends.\n"
+"According to what Anthi had said, the only way to get into the Abyss was to "
+"set out to the west, to find mysterious people who were known for making "
+"incredible things happen."
+msgstr ""
+"麦希尔，作为最后的召唤师，在卡罗斯目睹了这一幕盛况。他发誓他愿做一切的事情，"
+"只要能够将他的军队送回去，和他们的亲友团聚。\n"
+"根据安希的说法，进入Abyss的唯一方法就是去西边，去寻找那个善于创造奇迹的神秘民"
+"族。"
+
+msgid "Mehir, it’s all gone. You’re safe now."
+msgstr "麦希尔，结束了。你现在安全了。"
+
+msgid "Mehir, please look at me. All is not lost."
+msgstr "麦希尔，请听我说。事情还有希望。"
+
+msgid "Mehir... please... be my new master."
+msgstr "麦希尔……请……做我的新主人吧。"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Messenger"
+msgstr "信使"
+
+msgid "Metamorph:"
+msgstr "转化："
+
+msgid "Middle Tier Squad reporting for duty!"
+msgstr "中层卫队前来报到！"
+
+msgid ""
+"Middle Tier, East Side Squad reporting for duty! We took carpets and flew as "
+"fast as we could."
+msgstr "中层东侧分队前来报到！我们驾着飞毯全速赶来了。"
+
+msgid "Morning"
+msgstr "早晨"
+
+msgid "Move Mehir to the Palace of Omniscience"
+msgstr "将麦希尔移动到全知神殿"
+
+msgid "Move to the next chamber"
+msgstr "进入下一个区域"
+
+msgid "Mufaz"
+msgstr "穆法兹"
+
+msgid "My Lord!"
+msgstr "大人！"
+
+msgid ""
+"My Lord, we have already gathered information about their potential. We need "
+"not suffer more losses. Guru did not give us the permission."
+msgstr ""
+"大人，我们已经得到了他们潜力的信息。我们没必要再遭受损失了。古鲁并没有给予我"
+"们权限。"
+
+msgid ""
+"My Master! KILL! I’m loosing DIE! control. The Abyss KILL! is in danger. DIE!"
+msgstr ""
+"我的主人！（杀！）我正在失去（去死！）控制。Abyss（杀！）陷入危险了。（去"
+"死！）"
+
+msgid "My liege! What have I told you?!!"
+msgstr "殿下！我才提了那么多建议。"
+
+msgid ""
+"My liege, He is no common Efreet. As a leader of the Banishers’ Guild in Tar-"
+"Tabar, I have seen many things, but this one here is a real pleasure to my "
+"eyes. He is a real Great Efreet, full of hatred, the most powerful of all "
+"creatures of the Red Abyss."
+msgstr ""
+"殿下，这个火怪可不一般。作为Tar-Tabar的驱逐师公会的首领，我见过许多世面，但是"
+"这样的家伙我还未曾多见。他是个真正的高等火怪，充斥着仇恨，是猩红深渊中最强大"
+"的生物。"
+
+msgid ""
+"My liege, use elementals. They cannot think, so it is impossible to delude "
+"them. You can also use perfectly good beings such as Ho’Rhamis or Wonderful "
+"Jinns — they will never betray us. Do not summon Rhamis and Jinns. Use "
+"dispellers and banishers, who are skilled in fighting these magical "
+"creatures. Use the power of your megacircle to lead and heal your men."
+msgstr ""
+"殿下，用元素生物吧。它们不会思考，所以也就不会被哄骗。您也可以使用绝对善良的"
+"神怪，比如赫拉提或者是奇迹神怪——它们绝不会背叛我们。不过别召唤拉弥和神怪。驱"
+"魔师和放逐师善于应付这些魔法生物，使用他们的力量吧。善用您的大魔法阵，它可以"
+"领导和治疗您的下属。"
+
+msgid "My lord! He doesn’t move his lips!"
+msgstr "大人！他没有移动他的嘴唇！"
+
+msgid ""
+"My master Tashkar, the one you are looking for, is inside. We must help him! "
+"Hurry!"
+msgstr "我的主人塔什卡尔，也就是你们要找的人，就在里面。我们得去帮助他！快！"
+
+msgid "My master is dead."
+msgstr "我的主人死了。"
+
+msgid "My master is dead..."
+msgstr "我的主人死了……"
+
+msgid "My new Master..."
+msgstr "我的新主人……"
+
+msgid ""
+"Mysterious beasts captured Mehir and Jaffar deep inside the jungle. After "
+"few hours of flight they landed in a very distant place just in front of a "
+"small lizard wearing an ornamental feather headdress. It turned out that he "
+"was a leader of all forest creatures, called ‘The Keeper’. After listening "
+"to Rhaxiz’s report, the lizard whom Mehir had helped, the lord of the forest "
+"started up a conversation with the captured Summoners, during which Mehir "
+"and Jaffar got to know why they were brought here."
+msgstr ""
+"神秘的野兽将麦希尔和贾法尔抓入丛林深处。几个小时的飞行之后，他们在一个非常遥"
+"远的地方着陆了。在他们身前是一位戴着羽冠的蜥蜴人。两人了解到，他便是“守护"
+"者”，所有丛林生物的领袖。拉席兹，受到麦希尔帮助的那位蜥蜴人，做出了报告了。于"
+"是丛林之主语被抓捕的召唤师展开了交谈，在谈话中麦希尔与贾法尔了解到了他们被抓"
+"到这里的原因。"
+
+msgid ""
+"NEVER! I won’t be enslaved again! Now I am finally free and... I AM COMING "
+"FOR YOU, MEHIR! "
+msgstr "不！我不愿再受奴役了！现在我终于自由了……而我要取你的性命，麦希尔！"
+
+msgid "NO, IT WAS YOURS!!!"
+msgstr "不，是你的错！！！"
+
+msgid "NOOOOOOOOOOOAAAAAAAARRRRRRRRGGGGHHHHHHHHH!!!"
+msgstr "不————————！！！"
+
+msgid ""
+"No jinns, no red entities, no oasis, no varried terrain and the demonical "
+"army in front of us. This is going to be interesting..."
+msgstr "不要神怪，不要红色魔法生物，没有绿洲，没有可以借助的地形。真是有趣……"
+
+msgid "No! *starts fighting with her second half*"
+msgstr "不！*拉什提的两部分互相争斗起来*"
+
+msgid "No! Their main strike force is regrouping to the east!!!"
+msgstr "没有。他们的主力正在东方集结。"
+
+msgid "No!!!"
+msgstr "不！！！"
+
+msgid ""
+"No, of course not. We want you to fight your way to the palace! The army of "
+"the Last Summoner against the magi of the Sky Kingdom. The Abyss versus "
+"Magic! Two most powerful forces in this world. If you win, you will see the "
+"Guru. If you lose, you will be trapped on this planet forever."
+msgstr ""
+"不不不，当然不。我们要你一路打到宫殿里去。最后一支召唤师的军队对抗天空王国的"
+"魔法师。Abyss对抗魔法。世间两种最强大的力量。如果你赢了，你就能见到古鲁。如果"
+"你输了，你就只有被永远地困在这个世界上了。"
+
+msgid "No, stop! What is happening with me?! Mehir, I don’t want..."
+msgstr "不，停下来！发生了什么？麦希尔，我不想……"
+
+msgid ""
+"No, the human is to blame. Mehir, I must climb to where he stands and kill "
+"him."
+msgstr "不，是那个人类的错。麦希尔，我要攀到他那里去，杀了他。"
+
+msgid ""
+"No, wait — we are still under attack! Continue defending — now we can stop "
+"them."
+msgstr "不，等等，我们仍在遭遇袭击！继续守卫——我们现在可以抵挡住他们了。"
+
+msgid "Nooo!!!"
+msgstr "不！！！"
+
+msgid ""
+"North from here, there’s a town called Saffaros, or at least there was when "
+"I left this land. Let’s not waste time."
+msgstr ""
+"从这里往北走，有一个叫做萨法罗斯的城市，或者至少在我离开这里的时候它还在。我"
+"们快赶路吧。"
+
+msgid ""
+"Not...exactly. Their land, how to tell..., their land sometimes is moved "
+"by... wind. I will explain it to you later. Until then you should tell your "
+"soldiers about the things that have transpired."
+msgstr ""
+"也不全是。他们的土地……怎么说呢……随风而移动。我以后再给你解释。你得先把发生的"
+"这些事告诉你的手下。"
+
+msgid "Nothing."
+msgstr "不用任何回报？"
+
+msgid "Nothing? You will open this gate to us for free?"
+msgstr "不求回报？你们免费为我们开门？"
+
+msgid "Novice Summoner"
+msgstr "召唤师学徒"
+
+msgid ""
+"Now every single blade is important. We must kill these witches — it may be "
+"our only chance to stop the invaders."
+msgstr ""
+"现在每一兵一卒的力量都很宝贵。我们得杀死那些女巫——这是我们阻止入侵者的唯一机"
+"会。"
+
+msgid "Now everyone is in place. It’s high time we got out of here!"
+msgstr "所有人都就位了，是时候赶紧离开这里了！"
+
+msgid ""
+"Now it’s all the same for me. I prefer dying in battle than staying here, "
+"so... In the name of Nomolas - DIE WITCHES!!!"
+msgstr ""
+"对我来说没什么区别了。我宁愿死在战斗里也不想留在这里。以诺莫拉斯之名——去死"
+"吧，女巫们！"
+
+msgid "Now it’s gonna be a piece of cake!"
+msgstr "接下来就简单了。"
+
+msgid ""
+"Now, you listen. I don’t care who you people are, but this has gone too far "
+"and you will pay for this. Kill him!"
+msgstr ""
+"现在，你听着。我才不管你们是谁，但是这事已经太离谱了，而你们要付出代价。杀了"
+"他们！"
+
+msgid "Nu Kajarr En Hassam!"
+msgstr "Nu Kajarr En Hassam!"
+
+msgid ""
+"Of course not! Tar-Tabar has finally a new keeper. Its people are now your "
+"subjects and the local army has a new commander. This is a great "
+"responsibility. Don’t forget about this."
+msgstr ""
+"当然不是！Tar-Tabar终于有了一位新的守护者。你既是人民的守护者也是军队的领导"
+"者，这可是一份重担。切莫忘记自己的职责。"
+
+msgid "Oh my..."
+msgstr "我的天……"
+
+msgid "Oh no! Rashti has lost her balance once again!"
+msgstr "不！拉什提再度失去了她的平衡！"
+
+msgid "Oh no, it’s a trap! Save him!"
+msgstr "哦不，那是个陷阱！救下他！"
+
+msgid "Oh no, please! We can’t survive such an attack by such a thing!"
+msgstr "哦不，天哪！在这种大家伙面前根本就没活路啊！"
+
+msgid "Oh no, they’ve found us! We must get outta here, NOW!"
+msgstr "噢不，它们发现我们了！我们得赶紧离开，现在！"
+
+msgid "Oh no. We must kill that bastard. Maybe there is a chance..."
+msgstr "我们得赶快杀死那个火怪。也许还有机会……"
+
+msgid "Oh no... It seems Rashti is no longer under our control!"
+msgstr "糟了……看来拉什提不再听我的命令了！"
+
+msgid ""
+"Oh, I almost forgot. Each leader of the Trinity has their own ultimate being "
+"as a servant. For Tar-Tabar it is Rashti’rhami, the one who you’ve had the "
+"pleasure to meet a few weeks ago. Since that moment you are her new master. "
+"Frankly, I don’t envy you. Her fluctuations of mood..."
+msgstr ""
+"还有，我差点忘了，三城的每一位首领都有一位终极造物作为仆从。Tar-Tabar的就是拉"
+"什提拉弥，也就是你前几周见到的那个。从现在起，你就是她的新主人了。说实话，我"
+"并不羡慕你，毕竟她的心绪波动……"
+
+msgid ""
+"Oh, a Summoner. Interesting... Why are you here? Your countrymen are in the "
+"Abyss for good few days."
+msgstr "噢，一个召唤师。有意思……你是怎么过来的？你的同胞早就去Abyss了。"
+
+msgid "Oh, a gate. Let’s open it."
+msgstr "噢，一扇门。打开它吧。"
+
+msgid "Oh, my liege! I am extremely honored! Let’s return to the city!"
+msgstr "噢，殿下！不胜荣幸！我们回城吧。"
+
+msgid ""
+"Oh, really? I think magical entities are not clever, so I do not believe "
+"you. If you remember the spell, prove it."
+msgstr ""
+"是吗？我觉得魔法生物挺蠢的，所以我不信你的话。如果你真记得，就证明给我看。"
+
+msgid ""
+"Oh, welcome, honorable Sharif. You missed the finale. We managed without "
+"your help, thanks to the commander of our city guard."
+msgstr ""
+"欧，欢迎，尊敬的沙里夫。你错过了剧目的终场。我们没靠你的帮助就抵御了这次入"
+"侵，全靠这位城防官。"
+
+msgid ""
+"Oh, you have returned. How nice! We are having dinner in a moment. Will you "
+"join us?"
+msgstr "你们回来了。真好！我们正在吃晚餐，你们要加入吗？"
+
+msgid "One of my men! Dear Nomolas! What’s happening to him?!"
+msgstr "那是我的一个下属啊！诺莫拉斯在上！发生了什么？"
+
+msgid ""
+"One of the ultimate beings no longer exists. The balance between worlds has "
+"been disturbed. If the High Council will hear about that, they will surely "
+"kill me..."
+msgstr ""
+"一个终极造物就这样死了，世界间的平衡被打破了。等到高等议会听到这消息时，他们"
+"肯定会杀了我的……"
+
+msgid "Only a Rhami or Rhami’kai can use this item!"
+msgstr "只有拉弥或者拉弥凯能够使用这件物品。"
+
+msgid "Only a camel rider can use this item!"
+msgstr "只有骆驼骑手才能使用这件物品。"
+
+msgid "Only a magical entity can use this item!"
+msgstr "只有魔法生物才能使用这件物品。"
+
+msgid "Only a summoner can use this item!"
+msgstr "只有召唤师能够使用这件物品。"
+
+msgid "Only five?! I thought Tar-Tabar had more dispellers than that..."
+msgstr "只有五个？我从不知道Tar-Tabar驱逐师的人数这么少……"
+
+msgid "Only humans can use this item!"
+msgstr "只有人类能够装备这件物品"
+
+msgid "Only the carpet rider can use this item!"
+msgstr "只有飞毯骑手才能使用这件物品。"
+
+msgid "Only the elemental entity can use this item!"
+msgstr "只有元素生物才能使用这件物品。"
+
+msgid "Oooh... I am waiting!"
+msgstr "哦……我等着呢！"
+
+msgid ""
+"Oops, sorry. What I was trying to... ah. So we come from the desert, "
+"precisely speaking from the city, of which the highest tower can be seen in "
+"the distance. Around that city we’re building a giant circle..."
+msgstr ""
+"欧，对不起。我是说……呃。我们来自沙漠，准确的说是沙漠中的城市，就是你可以望见"
+"的那个高塔尖底下的城市。我们正在围绕着那个城市建造一个巨大的圆环……"
+
+msgid "Oops..."
+msgstr "糟糕……"
+
+msgid "Our indestructible gates... Our best soldiers..."
+msgstr "我们不可摧的城门……我们最精锐的士兵……"
+
+msgid ""
+"Our legendary siblings truly exist and have just arrived. Please, meet "
+"Mehir, the leader of the Summoners from Tar-Tabar. He was the only one who "
+"decided to help us in our plight."
+msgstr ""
+"我们传说中的兄弟是真实存在的，而他们刚刚赶来了。来，见见麦希尔，Tar-Tabar的召"
+"唤师的首领。他是唯一愿意来帮助我们的人。"
+
+msgid ""
+"Our personalities have been split and now are independent, but we must unite "
+"in order to restore the balance."
+msgstr "我们的人格被分开独立了，但是我们必须重归统一，来重塑平衡。"
+
+msgid ""
+"Pardon, Mehir, but we are on the border of two different climates; storms "
+"are a common phenomenon here."
+msgstr "请原谅，麦希尔，但是我们处在两种气候的交界处；风暴在这里很常见。"
+
+msgid ""
+"Please understand. Using Fire Elementals may cause those beasts to reappear. "
+"We shouldn’t tempt fate."
+msgstr "请体谅。使用火元素可能会把那群野兽重新引回来。我们最好别作死。"
+
+msgid "Please, be as you were before."
+msgstr "求求你，恢复正常吧。"
+
+msgid "Please, don’t! I beg you! She will rip my throat out if she knows!"
+msgstr "呃，别！求你了！她要听了这话还不得扒了我的皮。"
+
+msgid "Proofreading"
+msgstr "考证"
+
+msgid "Protect Rhaxiz"
+msgstr "保护拉席兹"
+
+msgid "Protect lizards"
+msgstr "保护蜥蜴人"
+
+msgid "Protect the Highest Priestess!"
+msgstr "保护高等祭司！"
+
+msgid "Provide us with a little... entertainment."
+msgstr "给我们提供一点……乐子。"
+
+msgid ""
+"Quick! We must seize this post — I will be able to summon our Elementals "
+"from there."
+msgstr "快！我们得占领这哨所——我能从那里召唤我们的元素。"
+
+msgid "Quite right! Mobilize your people. We will be moving soon."
+msgstr "有道理！动身吧，我们马上去看看。"
+
+msgid "ROOOOAAAARRRRR!!!"
+msgstr "ROOOOAAAARRRRR!!!"
+
+msgid "RRRHHHAAAAHHH! Sur kav NAX!!!"
+msgstr "RRRHHHAAAAHHH! Sur kav NAX!!!"
+
+msgid "RUN!!!"
+msgstr "跑！"
+
+msgid ""
+"Ra..Rashti... you’ve changed, but your character is still the same. Thank "
+"you!"
+msgstr "拉……拉什提……虽然你变了，但是你的性格还是老样子。谢谢你！"
+
+msgid "Raa!! Xazi Xsi! Xsi! hissssss!"
+msgstr "Raa!! Xazi Xsi! Xsi! hissssss!"
+
+msgid "Rain damages your fire elementals. Be careful."
+msgstr "雨水会伤害你的火元素，小心。"
+
+msgid "Rashti"
+msgstr "拉什提"
+
+msgid ""
+"Rashti is unpredictable. She can say many things between her moods of rage "
+"or self-control."
+msgstr ""
+"拉什提的话不可靠。她时刻在愤怒与自制的双重自我间摇摆，什么话都说得出来。"
+
+msgid "Rashti! Get away from there! We must close the portal!"
+msgstr "拉什提！快离开那里！我们必须关掉那扇门！"
+
+msgid "Rashti! Is everything alright?"
+msgstr "拉什提！你还好吗？"
+
+msgid "Rashti, can you reach him?"
+msgstr "拉什提，你能够得着他吗？"
+
+msgid "Rashti, do you recognize me?"
+msgstr "拉什提，你还能认出我妈？"
+
+msgid "Rashti, you go first."
+msgstr "拉什提，你先进去。"
+
+msgid ""
+"Rashti, you will not make the same mistake again. You will not read the "
+"spell. But I wonder whether you... remember it."
+msgstr ""
+"拉什提，你不会犯同样的错误了。你不会念出那个魔法。但是我怀疑，你是否……还记得"
+"它。"
+
+msgid ""
+"Rashti. Do you remember the first time you came here with your master? When "
+"you were fighting, I asked you to read the inscription on that big circle. I "
+"assume that you would not do that again, would you?"
+msgstr ""
+"拉什提。你还记得你第一次和你的主人来到这里的时候吗？当你在战斗时，我叫你来读"
+"读这个圆环上的刻印。我猜你不会再来一遍了，是吧？"
+
+msgid "Rashti? You’re alive?! Both of you?"
+msgstr "拉什提？你还活着？你俩都活着？"
+
+msgid ""
+"Rashti?... No, it’s impossible. This is another illusion, it can’t happen. "
+"She can’t die."
+msgstr "拉什提？……不，这不可能。这是另一个幻象，这不可能是真的。她不可能死。"
+
+msgid "RashtiRhami"
+msgstr "拉什提拉弥"
+
+msgid "Rashti’rhami, the goddess of all Rhamis. You’re like me."
+msgstr "拉什提拉弥，拉弥之中的女神。你和我是同类。"
+
+msgid "Recalled..."
+msgstr "被召回"
+
+msgid "Reficul"
+msgstr "雷飞库尔"
+
+msgid "Release the lizards"
+msgstr "释放蜥蜴人"
+
+msgid "Rha! Xsisss, sefffissss!"
+msgstr "Rha! Xsisss, sefffissss!"
+
+msgid "Rhaxiz"
+msgstr "拉席兹"
+
+msgid ""
+"Richly decorated plates, solid workmanship and magical symbols: this must be "
+"the legendary armor of Ka-Gattans.\n"
+"Increases physical resistances by 25%\n"
+"Increases fire and cold resistances by 20%\n"
+"Decreases astral resistance by 15%"
+msgstr ""
+"华美的装饰，完美的造型以及其上的魔法符号：这必定是传说中的Ka-Gattan之甲。\n"
+"物理抗性提高25%\n"
+"火焰和寒冷抗性提高20%\n"
+"奥术抗性降低15%"
+
+msgid "Ruins"
+msgstr "遗迹"
+
+msgid "Run, Rashti, run. Without you, we won’t make it!"
+msgstr "跑呀，拉什提，跑呀。我们全靠你了。"
+
+msgid "SHATRISS XIFAAAAR!!!"
+msgstr "SHATRISS XIFAAAAR!!!"
+
+msgid "SHUT UP! I WILL KILL YOU ALL!!!"
+msgstr "闭嘴！我要把你们全杀了！"
+
+msgid "STOP!!! You won’t kill any Summoner!"
+msgstr "助手！你一个召唤师也别想杀死！"
+
+msgid "Safay"
+msgstr "萨法伊"
+
+msgid "Safay!"
+msgstr "萨法伊！"
+
+msgid "Samir"
+msgstr "萨米尔"
+
+msgid "Search the ruins"
+msgstr "搜索遗迹"
+
+msgid "Second Watch"
+msgstr "后半夜"
+
+msgid "Seeetfuu! Txsiii hassith!"
+msgstr "Seeetfuu! Txsiii hassith!"
+
+msgid "Seize the post on the other side"
+msgstr "占领另一侧的哨所"
+
+msgid ""
+"Send someone to the city for machetes and saws. We can forget about fire "
+"elementals for the time being."
+msgstr "派人去城里弄些斧头和锯子来。我们暂时没法使用那些火元素了。"
+
+msgid "Sh... ships?! SHIPS!!! SHIPS COMING FROM THE SOUTH!!!"
+msgstr "船？有船！有船从南方来了！"
+
+msgid "Shaman + Messenger"
+msgstr "萨满"
+
+msgid "Sharif"
+msgstr "沙里夫"
+
+msgid "Shatizakaaaaiii!"
+msgstr "Shatizakaaaaiii!"
+
+msgid ""
+"She did not witness the death of her master. I blew her out of this place, a "
+"few days of walking from here."
+msgstr "她没见证她主人的死亡。我把她轰出了这个地方，她花了好几天才找回来。"
+
+msgid "She scares me..."
+msgstr "她让我感到害怕……"
+
+msgid "She will tell him. They can reach us."
+msgstr "她会告诉他的。他们会来找我们的。"
+
+msgid "She’s dead. I’m sorry, Mehir..."
+msgstr "她死了。我很抱歉，麦希尔……"
+
+msgid "Should $unit.name pick up the amulet?"
+msgstr "要让 $unit.name 拾取这个项链吗？"
+
+msgid "Should $unit.name pick up the armor?"
+msgstr "要让 $unit.name 拾取这件铠甲吗？"
+
+msgid "Should $unit.name pick up the cap?"
+msgstr "要让 $unit.name 拾取这顶帽子吗？"
+
+msgid "Should $unit.name pick up the carpet?"
+msgstr "要让 $unit.name 拾取这个飞毯吗？"
+
+msgid "Should $unit.name pick up the cloak?"
+msgstr "要让 $unit.name 拾取这件斗篷吗？"
+
+msgid "Should $unit.name pick up the collar?"
+msgstr "要让 $unit.name 拾取这个项圈吗？"
+
+msgid "Should $unit.name pick up the scimitar?"
+msgstr "要让 $unit.name 捡起这把弯刀吗？"
+
+msgid "Should $unit.name pick up the spear?"
+msgstr "要让 $unit.name 拾取这支矛吗？"
+
+msgid "Should the unit pick up the amulet?"
+msgstr "项链"
+
+msgid "Should the unit pick up the carpet?"
+msgstr "要让该单位拾取这个飞毯吗？"
+
+msgid "Should the unit pick up the cloak?"
+msgstr "要让该单位拾取这个斗篷吗？"
+
+msgid "Should the unit pick up the collar?"
+msgstr "要让该单位拾取这个项圈吗？"
+
+msgid "Should the unit pick up the spear?"
+msgstr "要让该单位拾取这个长矛吗？"
+
+msgid "Shut up and cover me!"
+msgstr "闭嘴掩护我！"
+
+msgid ""
+"Since we have an established passage between Abyss and our world, there is "
+"no need to keep him in the lamp. Now it is only a relic from times long-gone."
+msgstr ""
+"既然我们已经建立了连接Abyss和我们世界的通道，我们并不需要将他再关在灯里了。那"
+"盏灯只是一个古老时代的遗物罢了。"
+
+msgid ""
+"Six months have passed. The circle left the territory of Sud-Affar, and "
+"workers from Tar-Tabar continued the works. Another stage of construction "
+"began — connecting the cities of Trinity with each other by creating a giant "
+"triangle. In the meantime Mehir improved his skills by taking lessons from "
+"old summoning veterans.\n"
+"\n"
+"The time of peace did not last long. One day Mehir was called immediately to "
+"al-Kamija."
+msgstr ""
+"六个月过去了。Sud-Affar部分的圆环建造已经完成，来自Tar-Tabar的工人们接手了工"
+"作。下一个阶段的建造开始了——将三个城市连接成一个巨大的三角。与此同时，麦希尔"
+"在前辈召唤师的指导下获得了技艺的提高。\n"
+"\n"
+"和平的日子没能持续多久。一天，麦希尔被紧急召唤到了al-Kamija。"
+
+msgid "Sleeping Summoner"
+msgstr "沉睡的召唤师"
+
+msgid "Slowing Aura"
+msgstr "迟滞光环"
+
+msgid ""
+"Slowing Aura:\n"
+"At the beginning of each turn, all adjacent enemy units are slowed."
+msgstr ""
+"迟滞光环：\n"
+"每回合开始时，所有邻接的敌人被减速。"
+
+msgid "So be it. Let the High Council decide."
+msgstr "好吧。让高等议会来决定吧。"
+
+msgid "So it was an illusion! He wasn’t here all the time."
+msgstr "果然那是个幻象！他一直在耍我们。"
+
+msgid "So kill him!"
+msgstr "那么杀了他！"
+
+msgid "So only two cities remain..."
+msgstr "所以只剩两座城市了……"
+
+msgid ""
+"So there is a chance. Do you know where I could find one of these power "
+"sources?"
+msgstr "既然如此。你们知道我应该如何寻找这种能量源吗？"
+
+msgid ""
+"So these are the ruins the Guru told us about. They look scary. What "
+"happened here?"
+msgstr "那么，这就是古鲁所说的遗迹是吧。他们看着挺吓人的。这里发生了什么？"
+
+msgid "So this is our old home... It gives me the creeps..."
+msgstr "这就是我们的古老家园……感觉挺瘆人的……"
+
+msgid "So this is your biggest secret..."
+msgstr "这就是你们最大的秘密……"
+
+msgid "So this is your plan! Protect the lizard leader!"
+msgstr "这是你的计划？！保护蜥蜴人领袖！"
+
+msgid "So this must be this battery we‘re looking for... it’s huge."
+msgstr "这应该就是我们要找的那块电池了是吧……它可真大。"
+
+msgid ""
+"So we have come to an understanding. I knew you would not let me down. Bye!"
+msgstr "那么我们就达成一致了。我想你们不会令我失望的。再见！"
+
+msgid "So you are Anthi, The Highest Priest of Light. I can finally meet you."
+msgstr "那么你就是安希吧，光之最高阶女祭司。我终于见到你了。"
+
+msgid "So, you must be the mysterious Guru..."
+msgstr "所以，你就是神秘的古鲁……"
+
+msgid ""
+"Some days ago one of the Efreeti revolted against his masters from Sud-Affar "
+"and fled to the Great Desert. Things like this happened in al-Kamija once in "
+"a while, but that Efreet persuaded other magical creatures to follow him, "
+"which was unusual. They wandered through the desert and became a real threat "
+"to other cities and the capital. Scouts discovered the location of these "
+"corrupted beings, which was near Tar-Tabar. Mehir as the ruler of this "
+"region was ordered to defeat them."
+msgstr ""
+"前些日子，Sud-Affar的一部分火怪对他们的主人发动了叛乱，并且逃入了大沙漠中。这"
+"类事情本来在al-Kamija时有发生，但是那个火怪说服了一些其他的魔法生物追随他，这"
+"就不寻常了。他们在沙漠中漫游，对其他城市和首都造成了威胁。斥候们在Tar-Tabar附"
+"近发现了这些邪恶生物的踪迹。于是，麦希尔作为这一地区的统治者，被命令去解决他"
+"们。"
+
+msgid ""
+"Some time later, those blue gates disappeared and the flying man turned "
+"towards the central palace. Even the indestructible seal didn’t stop him. He "
+"just turned into... wind and slipped through a slit in the gates. Then you "
+"appeared."
+msgstr ""
+"过了一会儿，这些蓝色的门消失了，然后那个飞人进入了中央宫殿。即使是不可摧毁的"
+"印记也没能阻止他。他就直接……变成了风，然后从门缝里滑了进去。然后你们就出现"
+"了。"
+
+msgid ""
+"Someone like him shouldn’t be neglected. Maybe he should start commanding in "
+"your army? What do you think, Sharif?"
+msgstr ""
+"像他这样的人才被埋没了也挺可惜的。也许他可以在你的军队里当个指挥官？你说呢，"
+"沙里夫？"
+
+msgid "Something is here. It looks like a button..."
+msgstr "这里有东西。看上去像个开关……"
+
+msgid "Something tells me this is an invasion. Prepare yourselves! Guards!"
+msgstr "我判断这是一场入侵。准备上！守卫！"
+
+msgid "Something’s wrong..."
+msgstr "有点不太对劲……"
+
+msgid ""
+"Soon, we will reach the end of this gods-besotted jungle. If nothing attacks "
+"us, we will be able to connect the circle with Sud-Affar’s portal in four "
+"months. We could’ve done the same in just a couple of months, if this stupid "
+"ban on Fire Elementals wasn’t in force."
+msgstr ""
+"很快我们就能离开这片该死的丛林了。如果没有东西袭击我们，我们只需要四个月就能"
+"将圆环与Sud-Affar的传送门连接起来。本来还可以再快一点的，要不是火元素被愚蠢地"
+"禁用了。"
+
+msgid "Southern Nations"
+msgstr "南方国度"
+
+msgid ""
+"Speak sense, dammit! I am here to rescue the leader of Tar-Tabar, and you "
+"are behind his disappearance! You’d better tell me what is behind this "
+"strange circle and how to get our leader back!"
+msgstr ""
+"别扯了！我来这里是为了救援Tar-Tabar的城主，而你是他消失的原因！你最好告诉我这"
+"个奇怪的魔法阵后是什么，以及如何能把我们的领袖给弄回来！"
+
+msgid "Spear of Rhami"
+msgstr "拉弥之矛"
+
+msgid "Stand back..."
+msgstr "退后……"
+
+msgid "Story corrections"
+msgstr "故事校正"
+
+msgid ""
+"Strange, they don’t look like those green bastards. I wonder what they want, "
+"but never mind... KILL THEM!!!"
+msgstr ""
+"奇怪，他们看起来并不像那些绿色的混蛋。不知道他们想要干什么，不管了……杀了他"
+"们！！！"
+
+msgid ""
+"Strange. These creatures always attacked after dusk, but this time is "
+"different. I have bad feelings about this."
+msgstr ""
+"奇怪了。这些生物总是在夜晚发动攻势，但这次的时机却不一样了。我有种不祥的预"
+"感。"
+
+msgid "Strange..."
+msgstr "奇怪……"
+
+msgid "Strange? What can be strange for an ultimate being?"
+msgstr "奇怪？对于终极造物来说，有什么奇怪的？"
+
+msgid "Summoner"
+msgstr "召唤师"
+
+msgid ""
+"Summoners, scholars and warriors alike will eventually reach the Second "
+"Degree provided enough talent and cunning. The Third Degree, however, does "
+"not come easily to non-geniuses of the arts. ‘Grand summoners’, as they are "
+"called by their peers, value both war and wisdom equally in earning their "
+"precious knowledge of summoning elementals from the Abyss. Respected and "
+"feared, grand summoners eliminate foes with absolute certainty in the wake "
+"of their circles of destruction.\n"
+"\n"
+"Special Notes: Circle: The ranged attack of this unit always has a 100% "
+"chance to hit."
+msgstr ""
+"只要拥有一定的天赋和机敏，不管是召唤师，学者还有武士肯定能晋级到第二阶。然而"
+"第三阶则是凡人可望而不可即的。“大召唤师”从Abyss召唤生物，兼顾智慧与战争之需。"
+"大召唤师深受同胞的敬佩和畏惧，他们的毁灭之环拥有绝对精确的打击能力。\n"
+"\n"
+"注：这个远程攻击具有100%的命中率。"
+
+msgid "Surrender! You have no chance to win; you are alone."
+msgstr "投降吧！你没法取得胜利；因为你孤立无援。"
+
+msgid "THEY’RE HERE!!! RUN!!!"
+msgstr "他们来了！！！快跑！！！"
+
+msgid "TLU"
+msgstr "TLU"
+
+msgid "Take the carpet and get us some reinforcements!"
+msgstr "架上飞毯去呼叫增援！"
+
+msgid "Take them!!!"
+msgstr "抓住他们！！！"
+
+msgid ""
+"Target aquired. Scanning... Destroyer encountered. Threat level: extremely "
+"dangerous. Executing pacification protocols."
+msgstr "发现目标。扫描中……发现毁灭者。威胁等级：极端危险。执行清除程序"
+
+msgid ""
+"Ten days later first carpets from al-Kamija appeared on the horizon. The "
+"armies of Trinity were shocked by the scale of city’s destruction. A large "
+"number of squads reinforced the local garrison. When the portal was "
+"repaired, Mehir, Rashti and Malib returned to al-Kamija."
+msgstr ""
+"十天以后，第一批来自al-Kamija的飞毯出现在了地平线。新来的军队被城市的损坏程度"
+"给震撼到了。大量的军队留驻下来巩固防务和进行重建。在传送门被修好以后，麦希"
+"尔，拉什提和马里卜回到了al-Kamija。"
+
+msgid ""
+"Thank Nomolas! Help at last! My army has been almost defeated by those "
+"creatures of darkness... wait, you don’t look like one of the leaders of the "
+"Trinity. Who are you?"
+msgstr ""
+"感谢诺莫拉斯！增援来了！我的军队快被这些黑暗生物给击垮了……等等，你看着不像三"
+"城的领袖。你是谁？"
+
+msgid ""
+"Thank Nomolas! You’re back! I have made a mistake bringing you here. Now "
+"everything’s back to normal, we can finally go home."
+msgstr ""
+"感谢诺莫拉斯！你回来了！我犯了个错误，把你带到了这里。不过现在一切恢复正常"
+"了，我们终于可以回家了。"
+
+msgid ""
+"Thank our legendary brothers from the Great Desert. This is Mehir, our "
+"rescuer!"
+msgstr "感谢我们传说中的沙漠兄弟。这是麦希尔，我们的拯救者！"
+
+msgid ""
+"Thank the sun, for Kharos is untouched, for now. So they must be scouts. We "
+"must defend Saffaros. Mehir, will you help us?"
+msgstr ""
+"感谢骄阳，卡罗斯暂时尚未陷落。所以他们应该是斥候。我们得守住萨法罗斯。麦希"
+"尔，你愿意帮助我们吗？"
+
+msgid "Thank you for everything... Farewell."
+msgstr "谢谢你……再见。"
+
+msgid ""
+"Thank you for this explanation, old man. I have gathered all necessary "
+"information. It’s time to  return.."
+msgstr "谢谢你的这番解释，老头。我已经获得了所有必要的信息了。是时候走了。"
+
+msgid "Tharis"
+msgstr "萨瑞斯"
+
+msgid "That means the circle is going to be finished... oh no..."
+msgstr "这说明圆环已经完工了……噢不……"
+
+msgid "That was close."
+msgstr "千钧一发。"
+
+msgid ""
+"That’s great. We were looking for someone like you. I will send a messenger "
+"to Kharos to announce the amazing news, and in the meantime, I invite you to "
+"my castle, where we should discuss our next steps."
+msgstr ""
+"那太好了。我们就需要您这样的人。我马上派个信使去卡罗斯通报这个惊人的捷迅。同"
+"时我想请你来我的城堡坐坐，我们可以商量一下下一步的行动。"
+
+msgid ""
+"That’s not a problem. We have fire elementals. They will burn the path in "
+"front of us."
+msgstr "这并不是个问题。我们有火元素。它们可以为我们烧出一条路。"
+
+msgid "That’s the last of them."
+msgstr "没有更多的敌人了。"
+
+msgid ""
+"That’s the last of them. Let’s defeat the rest and get out of this place."
+msgstr "敌人全军覆没了。我们赶快离开这里吧。"
+
+msgid ""
+"That’s the last of them. We must bring the sad news to al-Kamija. Tashkar "
+"has died..."
+msgstr "敌人被全灭了。我们得把这个悲伤的消息带回al-Kamija。塔什卡尔死了……"
+
+msgid ""
+"That’s the place. I can see cages and... there are captured lizards inside."
+msgstr "就是这里了。我能看见笼子，并且……蜥蜴人被关在里面。"
+
+msgid "That’s the place. I can see his army in front of us."
+msgstr "我们到了。我可以看见它的军队就在前面。"
+
+msgid ""
+"That’s... wonderful... We’ve just faced horrors from the worst nightmares "
+"and now this..."
+msgstr "这可……真是绝了。才对付完梦魇中的怪兽，然后又是这些家伙……"
+
+msgid "The Abyss! Finally!"
+msgstr "Abyss！终于！"
+
+msgid ""
+"The Ancestors were fascinated with elementals — entities made of pure "
+"energy. They also dreamed about creating a creature from a mix of all four "
+"known elements. Unfortunately they failed. Yet at the end an unique amulet "
+"was created, capable of transforming one element into another one. This is "
+"one of the most powerful relics made by the Ancestors.\n"
+"The elemental unit can turn into other elemental\n"
+"(use right-click on the unit to activate)"
+msgstr ""
+"先祖痴迷于由纯粹能量构成的元素生物。他们梦想着通过混合已知的四元素中，创造出"
+"一个生命。不幸的是他们失败了。但是在这个过程中，他们创造出了这个项链，可以将"
+"一种元素转化为另一种。这是先祖的最具魔力的遗物之一。\n"
+"元素单位可以变形为其他元素\n"
+"（右击单位已激活）"
+
+msgid "The City of Light"
+msgstr "光之城"
+
+msgid "The Council does not care about those natives."
+msgstr "议会才不管这些原住民呢。"
+
+msgid ""
+"The Council of Masters will be very dissatisfied with the outcome of this "
+"expedition."
+msgstr "贤者议会会对这次远征的结果非常不满。"
+
+msgid "The Dark People. I want to see..."
+msgstr "黑暗之民。让我来看看……"
+
+msgid "The Great Desert"
+msgstr "大沙漠"
+
+msgid ""
+"The Highest Council has contemplated on the subject and finally took "
+"impartial... "
+msgstr "高等议会决定，最适合承担这一职责的人是……"
+
+msgid "The Keeper sent us. We’re here to rescue you."
+msgstr "守护者派我们来营救你们。"
+
+msgid ""
+"The Kharosans know magic, but it is not the summoning one used by the "
+"Summoners. The Priestesses of Light are the only ones in their society who "
+"know how to use it. Often called white magic, it comes from the energy of "
+"the Sun, a fact that greatly surprised the Summoners. To them, magic always "
+"has come from the Abyss. The Priestesses can control the power of the light "
+"using their minds. Mehir noted that the Darkblooded, the dark hordes, and "
+"the mysterious flying mage, Aerius, were also using this weird technique of "
+"spellcasting."
+msgstr ""
+"卡罗斯人了解魔法，然而并不是召唤师所使用的那种召唤魔法。光之女祭司是社会中唯"
+"一知道如何使用这种魔法的人。这种魔法常常被称为白魔法，让召唤师们感到吃惊的"
+"是，这种魔法的魔力来自太阳的能量，因为按照召唤师们的理解，魔法永远来自Abyss。"
+"女祭司可以用意志控制光的力量。麦希尔这才想起来：暗血者，黑暗部落以及神秘的飞"
+"行法师艾利乌斯，他们都在使用这种奇怪的施法技巧。"
+
+msgid "The Last Summoner"
+msgstr "最后的召唤师"
+
+msgid "The Last Summoner and the most powerful that ever lived..."
+msgstr "最后的召唤师，也是有史以来最强的一位……"
+
+msgid ""
+"The Magi gave me instructions for creating a special teleportation circle "
+"that can take everything within to the Sky Kingdom..."
+msgstr "那些法师教会了我如何画一个特殊的传送魔法圈，将所有的东西带回天空王国。"
+
+msgid ""
+"The RashtiRhami also called the Ultimate Rhami is one of the 4 most powerful "
+"beings called by Summoners. RashtiRhami consists of two powerful entities — "
+"the calm, wise HoRhami and the fearful and cruel DharmaRhami."
+msgstr ""
+"拉什提拉弥也被称为终极拉弥。她是召唤师所召唤出的四大终极魔法生物之一。拉什提"
+"拉弥有两股力量组成——宁静睿智的赫拉弥和残忍可畏的达玛拉弥。"
+
+msgid ""
+"The True Rhashti is the final form of RashtiRhami. Achiving supreme harmony "
+"between DharmaRhami and HoRhami, the True Rashti is considered as a perfect "
+"entity often compared with Nomolas — the First Jinn."
+msgstr ""
+"真·拉什提是拉什提拉弥的最终形态。达玛拉弥和赫拉弥之间取得了完美的和谐，统一而"
+"成真·拉什提。这个强大的造物常常被用来与初始神怪诺莫拉斯相提并论。"
+
+msgid ""
+"The army of darkness was destroyed. Small groups of survivors retreated far "
+"away to the east, allowing people to return to their old lands.\n"
+"\n"
+"Meanwhile, Mehir was announced as the greatest hero of Kharos. While his "
+"scouts were searching for possible threats from the rest of the destroyed "
+"army, he spent a lot of time with Anthi, getting to know the Kharosan "
+"culture and the history of the Ancestral Lands."
+msgstr ""
+"黑暗之军已经被消灭。小部分生还的侵略者远撤到了东方，于是人们得以收复失地。\n"
+"\n"
+"同时，麦希尔被封为“卡罗斯最伟大的英雄”。在他的斥候们警戒着残留敌军的可能威胁"
+"时，他花了许多时间和安希待在一起，了解卡罗斯文化以及先祖之地的历史。"
+
+msgid "The battery can wait; the crab cannot. Believe me."
+msgstr "电池的事可以等；但是螃蟹等不了。相信我吧。"
+
+msgid "The bridge is burnt"
+msgstr "桥被烧毁"
+
+msgid "The calm and wise HoRhami."
+msgstr "宁静而睿智的赫拉什提"
+
+msgid ""
+"The circle has been destroyed! We’ve lost contact with the capital and "
+"reinforcements can’t arrive! We’re lost..."
+msgstr "圆环被摧毁了！我们失去了和首都以及增援的联络！我们要输了……"
+
+msgid ""
+"The construction of the Great Circle was carried on. It was connected to the "
+"portal in Tar-Tabar, and three months later it returned to Mag-Magar. A new "
+"stage of construction was initiated: the cities of the Trinity were to be "
+"connected with al-Kamija. Also, new, smaller circles were to be made. "
+"Thousands of workers from the capital were hired to aid the construction.\n"
+"Mehir, like the other leaders of the Trinity, was free to do as he wished, "
+"because the outer and biggest circle was finished. But there was an "
+"opportunity to test his new skills in battle."
+msgstr ""
+"大圆环的建造还在继续。它已经连接到了Tar-Tabar，三个月后工程又修回了Mag-"
+"Magar。下一个新的阶段开始了：三城将要与al-Kamija相连。同时，一些小的圆环也在"
+"被修建。数以千计的工人被雇佣来帮助这个项目的进行。\n"
+"麦希尔，就像外围三城的另外两位城主一样，无所事事一身轻松，因为外环的建造工作"
+"已经完成了。但是有一个考验他战争技艺的机会到来了。"
+
+msgid ""
+"The dark armies have captured all the cities of the middle-lands; we had to "
+"evacuate all of our citizens that live there, and now they’re behind the "
+"thick walls of Kharos. The only exception is Saffaros, for we hope to escape "
+"to the desert by its port if the capital falls."
+msgstr ""
+"黑暗之军已经占领了中部地区的所有城市；我们疏散了那里所有的居民，现在他们都在"
+"卡罗斯城的高墙之内避难。除此之外，我们就只剩萨法罗斯没有陷落了。我们尽全力守"
+"住了这座港口，以备危难之时逃向大沙漠。"
+
+msgid ""
+"The dark aura has disappeared. Atiros, I sent you with nothing and you came "
+"with victory. May Sun bestow you with infinite Light."
+msgstr ""
+"黑暗光环消失了。阿提罗斯，我将你空手派出，而你却带回了胜利。愿骄阳恩赐你不朽"
+"的圣光。"
+
+msgid ""
+"The enchantment has been dispelled, and the magical entities have regained "
+"their personalities."
+msgstr "魔力消失了，魔法生物们重新恢复了本性。"
+
+msgid "The fearful and cruel DharmaRhami."
+msgstr "残忍而令人畏惧的达玛拉什提。"
+
+msgid ""
+"The following morning the Great Circle—the biggest undertaking in the world—"
+"was finished. The dream about the Abyss almost became true, like never "
+"before. Only the activation of the Circle was needed for Summoners to leave "
+"this mortal world and enter the magical land of endless possibilities.\n"
+"In the Central Palace of al-Kamija a great celebration began, during which "
+"the Circle was going to be connected with the opened portal. The leaders of "
+"the Trinity and the chairmen of the Highest Council painted together the "
+"last segment and when it touched the other world..."
+msgstr ""
+"第二天早上，大圆环——世界上最大的工程，完成了。史无前例地，前往Abyss的梦想就要"
+"成真了。现在只需要激活这个魔法正，召唤师们就能离开这个世界，进入大片蕴藏着无"
+"尽可能的魔法之地了。\n"
+"在al-Kamija的中央宫殿举行了一场巨大的庆典，在这个过程中，圆环与传送门被连接到"
+"一起。在典礼上，三城的领袖们和高等议会的议员们补完了魔法阵的最后一块。然后，"
+"当魔法阵触碰到异世界时……"
+
+msgid "The fools are coming... FALL!"
+msgstr "傻瓜们来了……去死吧!"
+
+msgid "The ground is shaking..."
+msgstr "大地在颤动……"
+
+msgid ""
+"The holy Rashti’rhami was under his command. It was his skills that saved "
+"both the city and Rashti! Apart from that she told me that Mehir is worthy "
+"of becoming her master."
+msgstr ""
+"神圣的拉什提拉弥听从他的命令。保卫城市靠的既是拉什提的力量，也是他的指挥才"
+"能。除此之外，拉什提也对我说，她认可麦希尔来做她的主人。"
+
+msgid ""
+"The huge territory of al-Kamija burst into blue flames. Billions of dunes, "
+"walls, cities, buildings, towers, millions of people — everything was "
+"absorbed by this unreal glow."
+msgstr ""
+"al-Kamija的广阔领土在蓝色的火焰中燃烧。无数的沙丘，墙垣，城市，建筑，高塔，百"
+"万的居民——所有的一切都被这魔幻的光彩所吸收了。"
+
+msgid ""
+"The journey lasted two days. When they reached their destination, Mehir "
+"thought it was a joke because there was no land around. So the captain asked "
+"him to look into the sky."
+msgstr ""
+"旅途持续了两天，当他们终于抵达目的地时，麦希尔以为船长在开玩笑，因为附近根本"
+"就没有陆地。船长让他举头看向天空。"
+
+msgid ""
+"The keep is too small. I wonder, if I had three jinns placed between empty "
+"spaces, they could transform themselves and create a new, larger keep for me "
+"and strengthen the city walls..."
+msgstr ""
+"这座要塞太小了。我在想，也许我可以用三个神怪来为我召唤出一个新的要塞，并且来"
+"巩固城墙……"
+
+msgid ""
+"The last stained-glassed window shows a Kirios, the most powerful guardian "
+"of the Sun. This kind of warrior protects our temples and the priestesses "
+"inside. Because I am the highest of all priestesses, the best guard serves "
+"me."
+msgstr ""
+"最后一幅花窗玻璃展示的是基里奥斯，太阳守卫中的最强大者。这种武士保卫者我们的"
+"神殿以及神殿里的女祭司。因为我是最高等的女祭司，所以最优秀的守卫保护着我。"
+
+msgid "The leader of lizards is dead. We have lost our chance..."
+msgstr "蜥蜴人领袖死了。我们失去了最后的机会……"
+
+msgid "The light is so bright... I... I need to get out of here!"
+msgstr "这道光这么亮……我……我得离开这里！"
+
+msgid ""
+"The lizards are safe now. And so our works on their territory. Let’s get "
+"back to the jungle. I hope those forest folks haven’t made a soup from "
+"Jaffar yet..."
+msgstr ""
+"蜥蜴人安全了，一如我们在他们领土上的工程。回丛林吧。我希望那些森林的住民还没"
+"把贾法尔炖汤……"
+
+msgid "The machines... they’ve reactivated. The guardians are coming..."
+msgstr "机器……它们又被激活了。守护者要来了。"
+
+msgid ""
+"The messenger sent by Mehir reached al-Kamija in twelve days, where he "
+"delivered the sensational message that Rashti had turned into her true form."
+"The Highest Council discovered that the death of Rashti, the resurrection of "
+"her egos, and their integration into a female form of Nomola had completely "
+"destroyed the balance between worlds. The Great Circle was becoming "
+"outdated, drifting away from its otherworldly location in the Abyss. "
+"However, experiments carried out by the Summoners in former days had shown "
+"that fluctuations of time in multi-world space entailed a delay of twenty-"
+"five days between events and their visible consequences. The messenger had "
+"travelled for twelve days, which meant the Summoners had thirteen days to "
+"finish the Circle in its current form and move to the Abyss. If it were not "
+"completed in time, the whole work would be wasted."
+msgstr ""
+"麦希尔派出的信在十二天后抵达了al-Kamija。信息传达了爆炸性的消息：拉什提被转化"
+"成了她的真实形态。高等议会发现，拉什提的死亡和重生，以及其成为女性形态的诺莫"
+"拉的转化完全破坏了世界间的平衡。已有的计算不再适用，大圆环马上就要过时了。然"
+"而，往日实验的结果说明，多重世界间的相互作用传递有一个延时。在事件发生的二十"
+"五天内，它们并不会对多重世界的联系产生可观测的效应。信使旅行用了十二天，也就"
+"意味着召唤师们还有十三天的时间来完成圆环并且迁入Abyss。如果这部分工作没能按时"
+"完成，那么整个工程就是竹篮打水一场空。"
+
+msgid ""
+"The mysterious stranger was in a critical state. He was not a citizen of the "
+"Summoners’ country. It was evident from his exotic garb. In Tar-Tabar the "
+"newcomer was taken to a hospital. Everybody wanted to know who he was and "
+"what he wanted."
+msgstr ""
+"这位神秘的陌生人受到了广泛的关注。他并非召唤师国度的居民，这从他的异国装束中"
+"显而易见。这个外来者在Tar-Tabar受到了接待。每个人都想知道他是谁，以及他有何所"
+"求。"
+
+msgid "The only scroll I have summons a Fire Elemental. Let’s try."
+msgstr "我只有一个召唤火元素的卷轴。试试吧。"
+
+msgid ""
+"The reinforcements from Sud-Affar will come soon. We must be on our guard. "
+"There is a large tropical forest in front of us full of dangerous creatures. "
+"We will need many troops."
+msgstr ""
+"Sud-Affar的增援马上就来。我们得保持警戒。我们前面这片热带丛林里全是危险生物，"
+"我们需要大批的军队。"
+
+msgid ""
+"The required add-on “<i>Era of Magic</i>” is currently <b>not</b> installed."
+msgstr "必要的Add-on“<i>魔法时代</i>” <b>尚未</b>安装。"
+
+msgid ""
+"The required add-on “<i>To Lands Unknown: Images</i>” is currently <b>not</"
+"b> installed."
+msgstr "必要的Add-on “<i>未闻之境：图像包</i>”<b>尚未</b>安装。"
+
+msgid "The spell was: Shakataraja Ramidajana Katarajan"
+msgstr "咒语是：Shakataraja Ramidajana Katarajan"
+
+msgid ""
+"The story embarrased Summoners. In the next few months, the Great Circle "
+"would be ready and then their whole country would disappear from this world. "
+"The protection of the Circle at this stage had the highest priority, so "
+"interfering in foreign wars was unthinkable. Mehir, despite the High "
+"Council’s recommendations, decided to set out to Kharos as Atiros requested. "
+"After one week, the expedition was ready to move out. Before a part of army "
+"left Tar-Tabar, the Council gave Mehir a letter to the people of Kharos — an "
+"invitation to the Abyss, as the Elders thought that it would be a nice "
+"gesture, which might be the last chance of survival."
+msgstr ""
+"这个故事令召唤师们感到尴尬。再过几个月，等到大圆环建成的时候，整个国家都要从"
+"这个世界上消失了。保护大圆环是这一阶段的最优先任务，所以他们根本不想去干涉外"
+"部的战争。但是，麦希尔没有接受高等议会的建议，而是决定回应阿提罗斯的请求，去"
+"救援卡罗斯。一周之后，远征准备就绪。在军队离开Tar-Tabar之前，议会给了麦希尔一"
+"封信，托他转交给卡罗斯的人民——一封前往Abyss的邀请，因为长老们觉得这既是一份友"
+"好的表示，可能也是卡罗斯人唯一的生存机会了。"
+
+msgid ""
+"The transformation of Rashti’rhami disturbs the multidimensional space "
+"between worlds, so the Great Circle has to be activated in two weeks before "
+"its current desing becomes outdaded. Our scientists had been looking for its "
+"formula for hundreds of years. Inventing a new one would take another "
+"centuries..."
+msgstr ""
+"拉什提拉弥的转变扰乱了位面间的高维空间。所以大圆环必须在两周之内被激活，否则"
+"它的现有设计就失效了。我们的学者花费了数百年才研究出了这些公式，如果要再重获"
+"一套公式，不知又得花上几个世纪……"
+
+msgid "The whole country of the Summoners disappeared from this world."
+msgstr "整个召唤师的国度从这个世界上消失了。"
+
+msgid "Then we will crush them."
+msgstr "那我们就得碾碎他们。"
+
+msgid "There are too many of them. This day had to come..."
+msgstr "他们人太多了。局势发展到这一步是不可避免的……"
+
+msgid ""
+"There is another power source, very far away from here, in one of the most "
+"distant places of all. You have to bring us one of the ‘batteries’ of the "
+"Runemasters — a long forgotten civilization that perished thousands of years "
+"ago."
+msgstr ""
+"还有一个能量源，位于离此很远的地方。你得给我们带来一个“电池”，它是数千年前的"
+"失落文明符文师的造物。"
+
+msgid ""
+"There was no wish that Nomolas couldn’t fulfill. To measure his potential "
+"the Ancestors wished for the most beautiful city in the world, to be located "
+"in the middle of the desert, that would become their new home, the capital "
+"of their land. In a few moments, Nomolas created al-Kamija from thin air.\n"
+"\n"
+"Since then, a few centuries have passed. Nomolas sleeps in the central "
+"palace, waiting for another call. We try to use him only if there is no "
+"other choice. Other magical entities summoned after Nomolas weren’t as "
+"powerful as he, although their power is still impressive and is completely "
+"sufficient for our needs."
+msgstr ""
+"诺莫拉斯可以让任何的愿望成真，没有一愿无法实现。为了测量它的神通，先祖们祈愿"
+"要一座世上最美丽的城市，坐落沙漠的中央，成为他们新的家园，成为他们的都城。空"
+"无生妙有，几息之间诺莫拉斯就造出了al-Kamija。\n"
+"\n"
+"在那以后，数个世纪已经过去了。诺莫拉斯沉睡在中央宫殿，等待另一个召唤。我们尽"
+"量只在别无选择时才寻求他的帮助。在诺莫拉斯之后所召唤出的其他魔法生物并不如他"
+"那样强大，但是它们的神通依旧惊人，而且也完全足够供应我们的需求了。"
+
+msgid ""
+"There’s a jungle, over there, just in front of the path of the Circle. We "
+"will have to move through it."
+msgstr "这里有一篇丛林，就在圆环轨迹的前方。我们必须要穿过它。"
+
+msgid ""
+"There’s no time for talk. These sons of Efreeti won’t give up. We must kill "
+"them all."
+msgstr "没时间谈话了。这些邪恶的家伙是不会投降的。我们得把它们杀光。"
+
+msgid ""
+"These are made of mixed bones. They are so old... This strange power is "
+"animating them, but they seem to have minds..."
+msgstr ""
+"它们由混合的骨头构成。它们如此古老……奇异的力量操控着它们，但是它们又似乎具有"
+"思想……"
+
+msgid "These are the shores of my land! Finally, we are here!"
+msgstr "那就是我们国家的海岸了。我们终于到了！"
+
+msgid ""
+"These beings seem to be magical, but I sense no magic in their bodies. They "
+"are not from the Abyss either."
+msgstr ""
+"这些身体看起来是魔法制的，但是我却从它们的身体里感知不到魔法。它们也不属于"
+"Abyss。"
+
+msgid ""
+"These caves are home for dangerous creatures like bats and scorpions. Try "
+"not to make much noise, people. You don’t want to wake up something bad and "
+"hungry..."
+msgstr ""
+"这些洞穴是蝙蝠和蝎子的巢穴。尽量别弄出动静，惹出什么邪恶又饥饿的家伙就不好"
+"了。"
+
+msgid ""
+"These machines aren’t joking; there‘s no time to talk. I have to cast a "
+"spell in five corners around the battery to bring us back to the Sky "
+"Kingdom. Let’s get to work!"
+msgstr ""
+"这些机械可不开玩笑的；没时间说话了。我得在包围电池的五个角上施展魔法，这样我"
+"们才能把它带回天空王国。赶紧开始干活吧！"
+
+msgid ""
+"These monsters seem to rise to the surface in that swamp. I hope there won’t "
+"be too many of them or we will never make it."
+msgstr "这些怪物从沼泽里冒出来了。但愿它们数量不多，不然我们就没救了。"
+
+msgid ""
+"These witches have cast a spell on you. You flew into a fury and started "
+"attacking air. We are lucky that holy Rashti’rhami used her powers and "
+"stopped your madness..."
+msgstr ""
+"那些女巫对你施放了一个魔法。然后你就发起了疯，对着空气一阵乱砍。幸运的是，神"
+"圣的拉什提拉弥用她的力量治愈了你……"
+
+msgid ""
+"These words intrigued Mehir, who noticed similarities between what Atiros "
+"said and the siege of Mag-Magar. Yet the newcomer’s story was not over. When "
+"the fall of the middle-lands was certain, Anthi realized that the Kharosan "
+"army could not defeat such a powerful enemy. But there was a hope in one "
+"of... legends, which told a story about ancient siblings who abandoned their "
+"homeland and set out to the desert. Anthi had no choice and decided to trust "
+"that tale, hoping it was true and that the citizens of the desert would "
+"return to protect the Ancestral Lands, their first home."
+msgstr ""
+"这些话激起了麦希尔的兴趣，因为他注意到了阿提罗斯所述与Mag-Magar围城战的相似之"
+"处。但是这个新来者的故事尚未结束。在中部地区已经确认后，安希意识到卡罗斯的军"
+"队也许无法击败如此强大的一支敌人。于是，她将希望寄托于古老的传说。有一个故事"
+"说，古老兄弟的一支离开了家园，转而到沙漠中定居。安希别无选择，只有相信了这个"
+"故事，希望这个故事是真的，并且沙漠的子民能够回来保卫先祖之地，他们最初的家"
+"园。"
+
+msgid "They are waiting for you, Mehir. You have to go now."
+msgstr "他们在等待着你，麦希尔。你得走了……"
+
+msgid ""
+"They are... lizards... and that one is probably their leader. See all of "
+"those feathers. Maybe we should talk with them?"
+msgstr ""
+"他们是……蜥蜴人……那家伙应该是他们的头。根据那些羽毛来判断。也许我们应该和他们"
+"谈谈？"
+
+msgid ""
+"They want to fight the entire world? This is madness which has to be stopped "
+"now!"
+msgstr "他们要与整个世界为敌？我们得制止这种毫无止境的疯狂！"
+
+msgid "Thick Jungle"
+msgstr "茂密丛林"
+
+msgid "Thirteen days ago."
+msgstr "十三天前。"
+
+msgid "This area looks safe..."
+msgstr "这片地区看着挺安全的……"
+
+msgid "This elemental can turn into another type of elemental."
+msgstr "这种元素可以转化成另一种元素。"
+
+msgid ""
+"This energy... it is unnatural, yet not artificial. It is ancient, "
+"overwhelming, unforgivable... We are not alone here."
+msgstr ""
+"这股能量……它很不寻常，但又不是人造的。它很古老，很强大，很凶恶……这里不只有我"
+"们。"
+
+msgid ""
+"This is Nomolas — the first jinn, the one who does not know the limits of "
+"human imagination."
+msgstr "这就是诺莫拉斯——初始之神怪，他拥有超越凡人想象力的神通。"
+
+msgid ""
+"This is Rashti’rhami, the queen of the Abyss and one of the Ultimate Beings. "
+"Her dual nature can be a real trouble sometimes..."
+msgstr ""
+"这是一个拉什提拉弥，Abyss的女王，终极造物之一。她的双重本性有时也是个大麻烦……"
+
+msgid ""
+"This is crazy, but I’ve seen it all; nothing surprises me. Very well, I will "
+"eat this... crab of yours..."
+msgstr ""
+"真是疯了。不过我见得多了，早已不会见怪了。好吧，我就来常常你们的……这个螃蟹……"
+
+msgid "This is my fault. I will stop them, and you run to the camp!!!"
+msgstr "这是我的错。我会挡住他们的，赶快逃回营地！"
+
+msgid ""
+"This is our holy mission given to us by the Eye of Darkness. Only by "
+"destruction we can prove we are worth living. The Destroyers will spare us, "
+"when they return. But before this happens, we will slaugher you to the very "
+"end."
+msgstr ""
+"这是黑暗之眼赋予我们的神圣任务。只有通过毁灭，我们才能证明自己生存的价值。当"
+"毁灭者归来时，他们会宽恕我们。但在这之前，我们要将你们屠戮殆尽。"
+
+msgid ""
+"This power... it is consuming him. Now his body belongs to them... forever."
+msgstr "这股力量……正在吞噬着他。然后他的身体属于它们了……永远地属于它们了。"
+
+msgid ""
+"This scenario has visual and audio effects that may cause noticeable "
+"slowdown on weaker devices.\n"
+"\n"
+"Note that you can toggle these effects at any time during the scenario by "
+"using the relevant options in the context menu."
+msgstr ""
+"这一幕场景中有一些视听特效，可能比较吃配置。\n"
+"\n"
+"你可以在右击选项中开关这些特效。"
+
+msgid ""
+"This stained-glass window shows a Mistress of Light. In our long history, "
+"sometimes extremely talented servants of Light appeared, whose sheer "
+"willpower allowed them to cross the border between spirit and body, turning "
+"them into perfectly good entities, personifications of the Light. We have "
+"been awaiting another mistress for several dozen years. We hope that some "
+"day the Sun will choose a good candidate and grant her this wonderful gift."
+msgstr ""
+"这幅花窗玻璃描绘的是光明圣女。在我们漫长的历史中，偶尔有一些极具天赋的圣光仆"
+"从会出现，他们的意志力允许他们跨越魂体的界限，成为完美的善之化身，圣光之代言"
+"者。我们已经为了下一个光明圣女等待了数十年了。但愿某天太阳神能够选出一位能够"
+"接受这份伟大赐福的有资格者。"
+
+msgid ""
+"This unique headgear had to belong to a very powerful summoner. It follows "
+"from the amazing workmanship and the glitter of the big crystal in the "
+"front.\n"
+"Increases magical power by 20%\n"
+"Decreases experience points needed for advancement by 25%"
+msgstr ""
+"这件独特的帽子曾属于一位极其强大的召唤师。帽子做工精美，前端的水晶闪闪发"
+"亮。\n"
+"将魔力增强20%\n"
+"将升级所需的经验需求降低25%"
+
+msgid ""
+"This unique weapon, hammered from the light of Abyss, is a part of equipment "
+"used by magical entities called Rhami’kai. This one belonged to the first "
+"Rhami’kai.\n"
+"Advances the unit\n"
+"Increases the attack by 20%"
+msgstr ""
+"这把武器由深渊之光所铸，是魔法生物拉弥凯的兵器之一。先祖们偷取了其中一把矛，"
+"并强化了它的魔力。\n"
+"令单位升级\n"
+"将攻击力提供20%"
+
+msgid "This unit holds a powerful scimitar."
+msgstr "这个单位拿着一把强力的弯刀。"
+
+msgid ""
+"This unit is equipped with the most powerful kind of magical circle. The "
+"owner can recruit and recall units without being in keeps (it doesn’t work "
+"in forests). All adjacent friendly units fight better (+125%, +100%, +75%, "
+"+50%, +25% — levels 0, 1, 2, 3, 4 respectively), are healed by 8 points, and "
+"receive a +20% bonus to their fire, cold, and arcane resistances. At the "
+"beginning of each turn, all adjacent enemy units are slowed and receive 8 "
+"points of damage."
+msgstr ""
+"该单位配备着最强大的魔法环阵。拥有者可以在身边随意雇佣和召唤单位（丛林中无"
+"效）。所有邻接的单位变得更善战（5级领导效果），每回合恢复8点生命，并且火焰寒"
+"冷奥术抗性增加20%。在每回合起始时，相邻的敌方单位会被减速，并受到8点伤害。"
+
+msgid ""
+"This unit is wearing a powerful armor, which grants additional physical "
+"resistance, but also increases susceptibility to arcane damage."
+msgstr ""
+"这个单位穿着了一副强力盔甲，物理抗性得到提高，但是在奥术伤害面前变得更脆弱。"
+
+msgid "This unit wears a magical cap, which enhances its magical power."
+msgstr "该单位戴上了一定魔法帽，魔法能力得到了提高。"
+
+msgid ""
+"This weapon, forged from the light of the Abyss, is a part of the equipment "
+"used by magical entities called Rhami’kai. The Ancestors stole one of those "
+"spears and enhanced it magically.\n"
+"Advances the unit\n"
+"Increases the attack by 20%"
+msgstr ""
+"这把武器由深渊之光所铸，是魔法生物拉弥凯的兵器之一。先祖们偷取了其中一把矛，"
+"并强化了它的魔力。\n"
+"令单位升级\n"
+"将攻击力提供20%"
+
+msgid ""
+"Those apostles of death cannot enter our capital. Send half of our soldiers "
+"to the battlefield!"
+msgstr "这些死亡的信徒别想进入我们的首都。派出一半的士兵进入战场！"
+
+msgid ""
+"Those beings must have invaded Mag-Magar! Let's not waste time! Mehir, take "
+"Rashti and your men with you. Maybe it’s not too late. As soon as you "
+"teleport there, we will send all of the armies of the Trinity to help you."
+msgstr ""
+"这些东西肯定入侵了Mag-Magar！别浪费时间了！麦希尔，带上拉什提和你的手下。但愿"
+"这还不太晚。你们先传送过去，我们马上集结军队来增援。"
+
+msgid ""
+"Those fools managed to break through... Probably you have come for these "
+"green savages. NEVER! TROLLS, GET THEM!!!"
+msgstr "那些傻瓜逃出来了……也许你们是为那些绿色野蛮人而来。不！巨魔，抓住他们！"
+
+msgid "Those who touch the scimitar..."
+msgstr "触碰这把刀的人……"
+
+msgid ""
+"Tip: You can use the Heavy Summoner’s summon ability to create new units. "
+"Right-click on him for details.\n"
+"\n"
+"(All lvl3 Summoners have this ability)"
+msgstr ""
+"贴士：你可以通过重装召唤师的召唤能力制造新的单位。右击他来使用能力。\n"
+"\n"
+"（所有lvl.3召唤师都具有这项能力）"
+
+msgid "To Lands Unknown"
+msgstr "未闻之境"
+
+msgid "To Lands Unknown (custom terrain)"
+msgstr "To Lands Unknown (custom terrain)"
+
+msgid ""
+"Today, Mehir, I’ll show you three stained-glass windows, which explain some "
+"issues of our culture, about which you asked yesterday."
+msgstr ""
+"麦希尔，今天我要给你看看这些花窗玻璃。它们展示了我们的文化，也正好能回答你昨"
+"天提出的那些问题。"
+
+msgid "Toggle Lightning Effects"
+msgstr "开关闪电特效"
+
+msgid "Toggle Rain Sound Effects"
+msgstr "开关雨天音效"
+
+msgid "Toggle Rain Visual Effects"
+msgstr "开关雨天视效"
+
+msgid ""
+"Tomorrow, my liege. Tomorrow al-Kamija with all of its cities will disappear "
+"from this world."
+msgstr "明天，我的殿下。明天al-Kamija和它的所有城市就会从这个世界上消失了。"
+
+msgid "Translations"
+msgstr "翻译"
+
+msgid ""
+"Troops from the ship should arrive here from time to time, but before it "
+"happens I must relay on Rashti and my magical circle."
+msgstr "船上的军队会陆续前来增援。但在此之前，我只能依靠拉什提和我的魔法圈了。"
+
+msgid "True Rashti"
+msgstr "真·拉什提"
+
+msgid "Turn into air"
+msgstr "转化为气"
+
+msgid "Turn into earth"
+msgstr "转化为土"
+
+msgid "Turn into fire"
+msgstr "转化为火"
+
+msgid "Turn into water"
+msgstr "转化为水"
+
+msgid "Twinkling Star"
+msgstr "星星"
+
+msgid ""
+"Two days later, a crewed ship awaited Mehir. Anthi explained that the "
+"country of those mysterious people was inaccessible and the only way to "
+"reach it was to fly. Mehir didn’t fully understand what the highest "
+"priestess meant, but he boarded the ship with his soldiers and set out to "
+"another unknown land."
+msgstr ""
+"两天以后，一艘满载的帆船等待着麦希尔。安希向大家解释说，这些神秘人居住在不可"
+"触及之地，只有通过飞行才能寻找到他们。麦希尔没有完全明白高阶祭司这段话的意"
+"思，但是他还是带着手下的士兵起航，航向那片未知之地。"
+
+msgid "Two hours later..."
+msgstr "两个小时后……"
+
+msgid "Ugh!"
+msgstr "呃啊！"
+
+msgid ""
+"Uh... They were extremely powerful, unstoppable, terrifying. Hope you will "
+"not meet their remnants here..."
+msgstr ""
+"呃……它们非常强大，不可阻挡，异常恐怖。但愿你不会在这里见到它们的残余者。"
+
+msgid "Ultimate Circle"
+msgstr "终极环阵"
+
+msgid ""
+"Unfortunately he can’t. I will explain it to you in front of the third "
+"window."
+msgstr "抱歉，他不能离开。我会在第三扇玻璃前向你解释这事。"
+
+msgid ""
+"Unfortunately, Tashkar stinted our guild. Forgive me, my liege, but we can’t "
+"afford to train more of them."
+msgstr ""
+"很不幸，塔什卡尔厌恶我们的公会。请原谅，殿下，我们没能训练出更多的驱魔师。"
+
+msgid "WE DID IT!!! Mehir, you’re my hero!"
+msgstr "我们成功了！麦希尔，多亏了你！"
+
+msgid "WHAT?!"
+msgstr "什么？！"
+
+msgid "WML coding"
+msgstr "WML编程"
+
+msgid "Wait a... Rashti, did you say the activation spell?!"
+msgstr "等等……拉什提，是你启动了魔法？！"
+
+msgid "Wait until the circle finishes itself (3 turns)"
+msgstr "等待传送魔法自动完成（3回合）"
+
+msgid "Wait! Did you hear that?"
+msgstr "等等！你听见了吗？"
+
+msgid ""
+"Wait, wait, wait! Why didn’t you tell me about this fact earlier?! I "
+"could’ve left her in my palace!"
+msgstr "等等，等等！你怎么早不跟我说这事？我本可以把她留在宫殿里。"
+
+msgid "We are Summoners, the only people that live in the Great Desert."
+msgstr "我们是召唤师，大沙漠中的唯一住民。"
+
+msgid ""
+"We are at the North Pole, Summoner. Low temperatures are normal in places "
+"like this."
+msgstr "我们在北极，召唤师。低温在这里很正常。"
+
+msgid "We chose him in recognition of his achievements. Mehir, come closer."
+msgstr "根据他最近的突出功绩，我们认定他是最适合的人选。麦希尔，上前来。"
+
+msgid ""
+"We could draw the same cirlce as it is now. It would be much smaller, but we "
+"don’t have materials."
+msgstr "我们可以画一个相同的法阵，只不过尺寸小一些。但是我们并没有原料。"
+
+msgid "We defended Kharos! Anthi, WE DID IT!!!"
+msgstr "我们守护了卡罗斯！安希，我们成功了！"
+
+msgid ""
+"We designed a giant circle, one that will include most of our land. The "
+"circle is 50 marahil in diameter, so we built three cities, each separated "
+"from one another by exactly the same distance to make the construction "
+"easier. The leaders of Mag-Magar, Tar-Tabar and Sud-Affar will supervise the "
+"works by their assistants."
+msgstr ""
+"我们设计了一个巨大的圆环，包裹我们领土中的主要部分。这个圆环的直径长达50个"
+"marahil，所以我们在圆环上等距地建造了3座城市，来辅助圆环的建造工程。Mag-"
+"Magar， Tar-Tabar和Sud-Affar的领袖们会监管各自手下的建筑工程。"
+
+msgid ""
+"We did it! It’s the first time we have defeated them!!! Thank you, Mehir!"
+msgstr "我们成功了！这是我们第一次击败他们！谢谢你，麦希尔！"
+
+msgid "We did it! Now it’s time to defeat all barbarians."
+msgstr "我们成功了！现在是时候把那些野蛮人一网打尽了。"
+
+msgid "We did it! Now we have to wait until the circle finishes itself."
+msgstr "我们成功了。现在我们只需要等待传送魔法自动完成。"
+
+msgid "We did it! They are defeated!"
+msgstr "我们成功了！他们被击败了！"
+
+msgid "We have a problem."
+msgstr "我们遇到问题了。"
+
+msgid "We have defeated them."
+msgstr "我们击败了他们。"
+
+msgid ""
+"We have to go now. The battery you are looking for is inside the bunker."
+msgstr "我们得走了。你要找的电池在碉堡里。"
+
+msgid "We must clear the path! Hurry!"
+msgstr "我们得清出一条道路！快！"
+
+msgid "We must help those lizards!"
+msgstr "我们必须帮助那些蜥蜴人！"
+
+msgid "We must kill this damn Efreeti as soon as possible."
+msgstr "我们得赶紧杀了这个该死的火怪。"
+
+msgid "We must stop them!"
+msgstr "我们得阻止他们。"
+
+msgid "We must trap Dharma’Rashti, so that Ho’Rashti can get her and unite!"
+msgstr "我们得挡住达玛拉什提，这样赫拉什提才能抓住她，然后重塑统一！"
+
+msgid ""
+"We shouldn’t accuse Rashti of Tashkar’s death. Being naïve is a "
+"characteristic of the Abysmals. Luckily the true guilty party was defeated, "
+"though we will never find out who he was."
+msgstr ""
+"我们不应该把塔什卡尔的死亡归咎于拉什提。天真是Abyss生物的本性。还好真正的罪犯"
+"已经被制裁了，尽管我们估计再也没机会弄清楚他到底是谁了。"
+
+msgid "We will see."
+msgstr "走着瞧吧。"
+
+msgid ""
+"We will soon get surrounded! I’d better get to the entrance as fast as "
+"possible."
+msgstr "我们快要被包围了！我最好赶紧到入口区。"
+
+msgid ""
+"We won’t manage to join them. We will be left alone. This... is... the end."
+msgstr "我们没法回去和他们会合了。我们会被困在这个世界里。这……就……结束了。"
+
+msgid ""
+"We? Oh, you mean the reaserch party led by our flying cartographer Aerius. "
+"Well, he was on his own and his pride lost him. Do not blame us for his "
+"selfish actions."
+msgstr ""
+"我们？你是说我们的地图测量员艾利乌斯的考察队吧。他的行为只代表他个人，而他的"
+"自傲害死了他自己。别把他的自私行径算到我们头上。"
+
+msgid "Welcome in Kharos, Mehir, descendant of our fathers."
+msgstr "欢迎来到卡罗斯，麦希尔，我先祖的同裔。"
+
+msgid ""
+"Welcome to the Palace of Omniscience, Mehir. I must admit I am impressed. No "
+"one from the surface has managed to go so far. You are the first."
+msgstr ""
+"欢迎来到全知神殿。我必须承认，你们给我留下了深刻的印象。地表上的来客还没人能"
+"走这么远。你们是第一批。"
+
+msgid ""
+"Welcome, stranger. We thought you were the invaders. Your help is a matter "
+"of life and death; we can’t defeat them alone."
+msgstr ""
+"欢迎，陌生人。我们还以为你们是入侵者呢。你们的来援真是雪中送炭，光靠我们自己"
+"根本抵挡不住他们。"
+
+msgid "Welcome. We are here to establish a new leader for Tar-Tabar."
+msgstr "欢迎各位。我们今天在此任命Tar-Tabar的新任城主。"
+
+msgid ""
+"Well met, Dedylos. As it happened, I have fought this enemy before, and I "
+"have valuable experience which may be very useful to us all."
+msgstr ""
+"很高兴见到你，德狄罗思。其实，我曾和这帮敌人战斗过，所以我的经验也许会对咱们"
+"有用。"
+
+msgid ""
+"Well, it’s a pity, but now we have a bigger problem. Tar-Tabar has no "
+"leader. The High Council must choose Tashkar’s successor as soon as possible "
+"if we want to finish the circle in the given time."
+msgstr ""
+"是啊，这挺遗憾的，不过我们现在面临着一个更大的问题。Tar-Tabar没了领袖。高等议"
+"会必须尽快选出一位塔什卡尔的继任者，这样我们才能按期完成圆环的建造。"
+
+msgid ""
+"We’d better run to this damn bunker before these monsters devour us all!"
+msgstr "我们最好赶快逃进那个碉堡里，不然这群怪物得把我们全吃了。"
+
+msgid ""
+"We’d better stay inside the circle. I cannot leave my men behind. Abysmal "
+"beings do not matter."
+msgstr "我们最好待在这个圈里。我不能把我的人抛弃在这里。Abyss生物倒无所谓。"
+
+msgid "We’re a bit too late."
+msgstr "我们来迟了。"
+
+msgid "We’re surrounded!"
+msgstr "我们被包围了！"
+
+msgid "We’re too late!"
+msgstr "太迟了！"
+
+msgid "We’re under attack!"
+msgstr "我们被袭击了！"
+
+msgid "We’ve awoken BATS!!!"
+msgstr "我们惊醒了蝙蝠！！！"
+
+msgid "We’ve... got... a problem."
+msgstr "我们……有麻烦了。"
+
+msgid "Wh...what?"
+msgstr "啥？"
+
+msgid "What a warm welcome for a return after a thousand years..."
+msgstr "对于一场千年之后的回归，这天气真算个热烈的欢迎……"
+
+msgid ""
+"What amazing workmanship. I don’t understand how you were able to entrap "
+"such a powerful entity in a tiny container as this one."
+msgstr ""
+"多么惊人的手艺。我不明白，你们是如何将这个如此强大的魔法生物装入这个这么小的"
+"容器的。"
+
+msgid ""
+"What are the limits of that hated voice, whose mere sound tears the thickest "
+"walls?!"
+msgstr ""
+"那些令人厌恶的声音里蕴藏着多么强大的魔力啊，最厚重的城墙竟然这么轻易瓦解了？"
+
+msgid "What are you talking about?!"
+msgstr "你在说什么？"
+
+msgid "What did you say?!"
+msgstr "你说什么？！"
+
+msgid ""
+"What do you mean? There is only an endless ocean west from here. You’re "
+"probably talking about an island."
+msgstr "你是什么意思？西方就是无尽之海了。难道你说的是一个岛？"
+
+msgid "What do you want me to do?"
+msgstr "你们想让我做什么？"
+
+msgid "What happened?"
+msgstr "发生了什么？"
+
+msgid "What have you done?! It’s pulling us in!!!"
+msgstr "你做了什么？它在把我们吸进去！！！"
+
+msgid "What in the world is that?!"
+msgstr "那到底是什么东西？"
+
+msgid "What is the meaning of this?!"
+msgstr "这是什么意思？"
+
+msgid "What kind of horror is this?!"
+msgstr "这到底是什么东西？"
+
+msgid "What of Rashti? She’s half-good..."
+msgstr "拉什提怎么办？她一半是好的……"
+
+msgid "What the hell is that? A walking bonfire? DESTROY IT!!!"
+msgstr "那是什么？会走动的营火？消灭它！！！"
+
+msgid "What the..."
+msgstr "什么……"
+
+msgid "What was that?"
+msgstr "那是什么？"
+
+msgid "What was that?!"
+msgstr "那是什么？"
+
+msgid ""
+"What would you say if I told you about people, who know how to send you to "
+"this... how do you call it? Precipice?"
+msgstr ""
+"如果我对你说，还有其他人，能够将你们送到这个……什么世界来着……你会怎么想？"
+
+msgid "What... is... THIS?"
+msgstr "这是什么？"
+
+msgid ""
+"What? These are avatars of air! Who is that man, that even wind obeys his "
+"orders?!"
+msgstr "什么？这些是风之具象！那个人是谁，为何连风都要听从他的命令？"
+
+msgid "What?! Me?!"
+msgstr "什么？我？"
+
+msgid ""
+"What?! There is only a dead desert south of here! This must be the enemy "
+"trying to go around the eastern defensive lines! Prepare troops! NOW!"
+msgstr ""
+"什么？那边只有一片死寂的沙漠才对。一定是想要绕过东部防线的敌人！赶快派人，"
+"快！"
+
+msgid "What?! You want me to dance or something?"
+msgstr "什么？你们要我跳舞吗？"
+
+msgid "Whatever happens, do not attack Rashti! This is an order!"
+msgstr "不管发生了什么，不准对拉什提动手！这是命令！"
+
+msgid "What’s going on?"
+msgstr "发生了什么？"
+
+msgid ""
+"When Sharif heard about the attacks, he sent his deputy, Jaffar, with his "
+"best troops. On Mehir’s request they brought the equipment needed for "
+"cutting down the trees and workers begun clearing the path for the Great "
+"Circle..."
+msgstr ""
+"当沙里夫听闻这次袭击时，他派遣了他的副官贾法尔和他最精锐的部队。根据麦希尔的"
+"请求，他们带来了砍伐丛林所需的装备，并且工人们已经为建造圆环而清理道路。"
+
+msgid ""
+"When the Ancestors summoned first elementals — entities made of pure energy "
+"-  they dreamed about creating a creature from a mix of all four known "
+"elements. Unfortunately they failed and ended up with an unique amulet, "
+"capable of transforming one element into another. This is one of the most "
+"powerful relics made by the Ancestors.\n"
+"The elemental unit can turn into another elemental\n"
+"(use right-click on the unit to activate)"
+msgstr ""
+"先祖痴迷于由纯粹能量构成的元素生物。他们梦想着通过混合已知的四元素中，创造出"
+"一个生命。不幸的是他们失败了。但是在这个过程中，他们创造出了这个项链，可以将"
+"一种元素转化为另一种。这是先祖的最具魔力的遗物之一。\n"
+"元素单位可以变形为其他元素\n"
+"（右击单位已激活）"
+
+msgid ""
+"When the dust settled, Malib told everyone how it all started — “The "
+"frightful army arrived just after dusk, from the northeast. I saw hundreds "
+"of red lights being in fact their eyes. They never stopped. Walls were "
+"literally crushed in front of them. After a few minutes the whole city "
+"turned into burning rubble. The power of the witches decreased in time, but "
+"the city was already under heavy attack. Luckily the portal was untouched, "
+"so I sent a messenger to al-Kamija for help. A few minutes later you "
+"appeared.”"
+msgstr ""
+"在一切结束以后，马里卜向所有人叙述了事件的开端——“令人生畏的军队在傍晚自西北而"
+"来。我在黑暗中看见千百计红光，那是他们的眼睛。他们从不停止。城墙在他们面前粉"
+"碎。几分钟之后，整座城市便化为了燃烧的废墟。女巫的力量衰退了，但是城市已经遭"
+"受重创。幸运的是，传送门依旧完好，我得以向al-Kamija求援。几分钟之后你们久出现"
+"了。”"
+
+msgid "When you were told to deliver this?"
+msgstr "你何时被派来传达这个信息的？"
+
+msgid "Where is Tashkar? He should be here, but he is not. Answer me, now!"
+msgstr "塔什卡尔在那里？他应该在这里，但他并不在。回答我，现在！"
+
+msgid "Where is this bi..."
+msgstr "这是哪……"
+
+msgid "Who are they?! Rashti! Mehir! Save us!"
+msgstr "他们是谁？拉什提！麦希尔！救救我们！"
+
+msgid "Who are you?!"
+msgstr "你是谁？！"
+
+msgid "Who dares to stand in MY WAY?!"
+msgstr "谁敢阻挡我？！"
+
+msgid "Who is she?!"
+msgstr "她是谁？"
+
+msgid "Who were the invaders?"
+msgstr "谁是入侵者？"
+
+msgid "Who... who are you?"
+msgstr "你……你是谁？"
+
+msgid "Why are you telling me such details?! Move it, soldier!"
+msgstr "告诉我这么多细节干什么？士兵们，赶紧给我上！"
+
+msgid ""
+"Woven of golden threads, inspired by Abyssal winds. Everyone who possesses "
+"this ancient vehicle gains amazing speed and agility.\n"
+"Speed increases by 50%\n"
+"Negates zones of control (grants the skirmisher ability)"
+msgstr ""
+"由金丝织成，在深渊之风中获得魔力。驾驭这个上古飞毯的单位能够获得极大的速度和"
+"敏捷加成。\n"
+"速度提高50%。\n"
+"不受ZoC的影响（游击）"
+
+msgid "Wow, he’s fast. This is the end. You won’t get inside. Take him!"
+msgstr "呼，他太快了。到此为止了，你别想进去。抓住他！"
+
+msgid "Wow..."
+msgstr "哇呜……"
+
+msgid "YOU FOOL! YOU SERVE PEOPLE, INSTEAD OF SLAVING THEM. YOU’RE A PITY!!!"
+msgstr "你才是傻瓜！你本可以奴役那些凡人，而你却在侍奉他们。真是可怜！"
+
+msgid "Yes, sir!"
+msgstr "是的，长官！"
+
+msgid "Yes, sir! Follow me!"
+msgstr "是的，长官！跟我来！"
+
+msgid "Yes, sir?"
+msgstr "是的，长官？"
+
+msgid "Yes, the Guru will be very happy."
+msgstr "是的，古鲁会很开心的。"
+
+msgid "Yes."
+msgstr "是的。"
+
+msgid ""
+"Yes. I know how to make it happen. Unfortunately, to open a passage to that "
+"dimension, an enormous amount of energy is needed. It exceeds even our "
+"capabilities... at least for now."
+msgstr ""
+"是的。我知道这事该如何实现。但是，不幸的是，为了打开这样一个传送门，我们需要"
+"大量的能量。这就超出我们目前的能力范围了。"
+
+msgid ""
+"Yes. I ordered to find you. Sometimes fairy tales are true.\n"
+"\n"
+"Please, enter our city."
+msgstr ""
+"是的，是我下令来寻找你们。看来童话也不全是骗人的。\n"
+"\n"
+"来，请到我们的城市里来。"
+
+msgid ""
+"Yes. Let’s say it will be another challenge for us. Also the battery itself "
+"will become an interesting subject for our archaeologists."
+msgstr ""
+"是的。我们可以把这当做下一个挑战。而且我们的考古学家们也会想要研究一下那块电"
+"池。"
+
+msgid ""
+"Yes. Today we are serving a delicious kind of crab from the western cliffs "
+"of Kharos. Kharosans call it ‘Holy Crab’. And indeed, its taste is simply "
+"divine! You will adore it!"
+msgstr ""
+"是的。今天我们吃螃蟹。卡罗斯西海岸的特产。卡罗斯人把这叫做“神圣螃蟹”。不过确"
+"实，这味道挺绝的。你肯定会喜欢的。"
+
+msgid "Yes. Today you will leave this world forever and return to the Abyss."
+msgstr "是的。今天你得离开这个世界，回到你的Abyss去了。"
+
+msgid "Yes. We never sleep, we never cry; we never forget."
+msgstr "是的。我们从不睡觉，我们从不哭泣，我们从不忘记。"
+
+msgid ""
+"Yes. When we refused to ‘go away’, he attacked our peaceful expedition. "
+"Because we were not well prepared for a fight and he did not listen to us, "
+"we decided to activate this gate. It sucked his whole squad in."
+msgstr ""
+"是的。当我们拒绝“滚走”的时候，他对我们和平的考察队发动了袭击。因为我们没有准"
+"备好应付袭击，而他又听不进我们的话。我们只好启动了这扇门。他们 的整支队伍都被"
+"吸进去了。"
+
+msgid "You are nothing to me."
+msgstr "在我眼里，你不过是个杂碎。"
+
+msgid ""
+"You are really strong. My time is over here but I think we will meet again. "
+"Good luck, Summoner!"
+msgstr "你很厉害。我得走了，但是我们会再见面的。祝你好运，召唤师！"
+
+msgid "You are strong."
+msgstr "你很强。"
+
+msgid ""
+"You ask for help. Our Guru knows how to help you. He is in this monumental "
+"Palace of Omniscience, but first you must prove yourself worthy visiting him."
+msgstr ""
+"你来寻求帮助，而我们的古鲁知道如何帮助你。他就在全知神殿里，可你首先得证明自"
+"己有去见他的资格。"
+
+msgid "You belong to ME!"
+msgstr "你属于我了！"
+
+msgid ""
+"You can always turn on/off some weather effects. To do that, right-click "
+"anywhere on the map and choose which effects you want to disable/enable."
+msgstr "你可以随时右击地图上的空白处，来开关天气效果。"
+
+msgid "You can kill a being but..."
+msgstr "你可以杀死一个魔法生物，但是..."
+
+msgid ""
+"You can level up your Grand Summoners to Summons Masters now.\n"
+"\n"
+"Your Neutral Summoners can summon Jinns now."
+msgstr ""
+"你现在可以将大召唤师升级为召唤宗师了。\n"
+"\n"
+"你的中立召唤师现在可以召唤神怪了。"
+
+msgid ""
+"You can try to stop us, but all your efforts will fail. We are the new "
+"Destroyers. We know no retreat nor mercy."
+msgstr ""
+"你们可以试着阻挡，但是只会徒劳无功。我们是新的毁灭者，我们不知仁慈也从不退"
+"缩。"
+
+msgid ""
+"You can use the giant circle you are standing on in order to recruit or "
+"recall units."
+msgstr "你可以使用大魔法阵来雇佣或召回单位"
+
+msgid "You cannot..."
+msgstr "你没法……"
+
+msgid "You defend the town and I will try to prepare a counterattack."
+msgstr "你来守城，我来准备反击。"
+
+msgid "You didn’t ask, my liege."
+msgstr "您又没问，殿下。"
+
+msgid "You do not understand, human..."
+msgstr "你不懂，凡人……"
+
+msgid ""
+"You don’t understand. The Abyss is the center of our lives. If the rest of "
+"the Summoners move to it, they won’t return and I will be trapped in this "
+"mortal world forever..."
+msgstr ""
+"你不明白。Abyss是我们生活的终极目标。如果其他召唤师成功到达了那边，他们就再也"
+"没有理由回归这个凡间世界了。"
+
+msgid ""
+"You fool! She’s one of the ultimate beings! If she turns against us, "
+"consequences will be catastrophic! You’d better advise me how we should "
+"defeat that thing before it goes out of control!"
+msgstr ""
+"蠢货！她是终极造物之一！如果她决定叛乱了，那么结果将是灾难性的！你最好赶紧想"
+"想这事在失控前还能如何弥补？"
+
+msgid "You have arrived too early, Mehir."
+msgstr "你来的太早了，麦希尔。"
+
+msgid "You have decided."
+msgstr "既然你决定了。"
+
+msgid ""
+"You may leave this place. The people outside will help you prepare for the "
+"journey."
+msgstr "你可以离开这里了。外面有人会帮你准备这次行程的。"
+
+msgid ""
+"You must be joking. Look at my army! They wanted to destroy but were ordered "
+"to guard their masters. No more! I gave them an alternative! Now they... we "
+"can be free and you cannot stop us!"
+msgstr ""
+"别开玩笑了。看看我的军队！它们渴望着破坏，但我们却被命令来护卫主人。到此为止"
+"了！我给了它们选择！现在它们……我们自由了，你没法阻止我们！"
+
+msgid "You really should go!"
+msgstr "你真得走了！"
+
+msgid "You see, you cannot kill us here — only slow us down."
+msgstr "如你所见，你没法杀死我们——而只能迟滞我们。"
+
+msgid "You see... you cannot get him back..."
+msgstr "你看……你没法把他给弄回来……"
+
+msgid ""
+"You seem to be of dual personality. Your body is composed of two completely "
+"opposing energies. And one of them is familiar to me - it thirsts for "
+"blood..."
+msgstr ""
+"似乎你有双重的人格。你的身体由两种性质截然相反的能量构筑。我很熟悉其中一种——"
+"它正渴求着鲜血……"
+
+msgid "You want to withdraw, but where?"
+msgstr "你想撤退，但是去哪里？"
+
+msgid "You will never harm your master!"
+msgstr "你别想伤害你的主人！"
+
+msgid "You will never rescue them! NEVER!!! KNOCK THEM OFF!"
+msgstr "你别想救出他们！永远别想！把他们扔下悬崖！"
+
+msgid ""
+"You will, as your army proved to be powerful enough. But there is a chance "
+"you will encounter something more... terrifying. Believe me, this will not "
+"be easy."
+msgstr ""
+"为什么不呢，既然你的军队已经证明了它的力量。但是也有可能你们会遭遇一些更可怕"
+"的东西。相信我，这事不简单。"
+
+msgid ""
+"Your armies consist of humans, who are very easy to kill. We, contrariwise, "
+"mainly use beings from the Abyss, which cannot be poisoned or eaten, which "
+"seem to be the favorite tactics of your enemies. You’re lucky I’ve decided "
+"to help you."
+msgstr ""
+"你们的军队里只有人类。而人类太脆弱易杀了。而我们则相反，主要使用Abyss的生物来"
+"组建军队。这些生物不用吃饭也不会中毒，而用毒正好是你的这群敌人最喜爱的伎俩。"
+"你们真该庆幸我们决定来帮助你们。"
+
+msgid ""
+"Your bravery is amazing. Maybe I will manage to send you some reinforcements."
+msgstr "你真勇敢。也许我能给你派些增援。"
+
+msgid "Your goodness is unmeasured! Thank you!"
+msgstr "您太贤明了！不胜感激！"
+
+msgid "Your kindness is unmeasured."
+msgstr "您可真是慷慨。"
+
+msgid "Your leader and his troops are behind this... circle."
+msgstr "你们的领袖和他的军队在这个魔法阵后面。"
+
+msgid ""
+"Your ultimate circle acts like a moving keep. Use it to recruit or recall "
+"units like in a normal keep."
+msgstr "你的终极魔法环阵就如一个移动的要塞。你可以随时在身边雇佣和召唤。"
+
+msgid ""
+"You’d better hurry up before we get sucked into this... hell. And don’t get "
+"yourself killed. If you die, we will lose the Abyss!"
+msgstr ""
+"你最好快点，免得我们都被吸进这个……鬼东西里。还有别把你自己给弄死了。如果你死"
+"了，我们大家就都去不了Abyss了。"
+
+msgid ""
+"You’ll talk later; we have a job to do. Their leader is dead, but they "
+"haven’t given up yet."
+msgstr ""
+"晚点再聊吧，我们得先把眼前的事给解决了。他们的主宰死了，但是他们还没放弃呢。"
+
+msgid "You’re right..."
+msgstr "有道理……"
+
+msgid "al-Kamija"
+msgstr "al-Kamija"
+
+msgid "amulet^Leave it"
+msgstr "不拾取"
+
+msgid "amulet^Take it"
+msgstr "拾取"
+
+msgid "ancient cuirass"
+msgstr "上古甲胄"
+
+msgid "ancient scimitar"
+msgstr "古代弯刀"
+
+msgid "and now, KILL THE REST OF THEM!"
+msgstr "那么现在，杀掉其他所有人！"
+
+msgid "armor^Leave it"
+msgstr "不拾取"
+
+msgid "armor^Take it"
+msgstr "装备"
+
+msgid "cap of power"
+msgstr "力量之帽"
+
+msgid "cap^Leave it"
+msgstr "不拾取"
+
+msgid "cap^Take it"
+msgstr "拾取"
+
+msgid "carpet^Leave it"
+msgstr "不拾取"
+
+msgid "carpet^Take it"
+msgstr "拾取"
+
+msgid "circle of destruction"
+msgstr "毁灭之环"
+
+msgid "cloak^Leave it"
+msgstr "不拾取"
+
+msgid "cloak^Take it"
+msgstr "拾取"
+
+msgid "collar"
+msgstr "项圈"
+
+msgid "collar^Leave it"
+msgstr "不拾取"
+
+msgid "collar^Take it"
+msgstr "拾取"
+
+msgid "damaging aura"
+msgstr "致伤光环"
+
+msgid "divine spear"
+msgstr "神圣之矛"
+
+msgid "eye of Abyss"
+msgstr "Abyss之眼"
+
+msgid "iceball"
+msgstr "冰球"
+
+msgid "incantation of power"
+msgstr "魔咒"
+
+msgid "inferno8 presents"
+msgstr "inferno8 出品"
+
+msgid "magical scimitar"
+msgstr "魔法弯刀"
+
+msgid "metamorph"
+msgstr "转化"
+
+msgid "pssst!"
+msgstr "pssst！"
+
+msgid "scimitar"
+msgstr "弯刀"
+
+msgid "scimitar^Leave it"
+msgstr "离开"
+
+msgid "scimitar^Take it"
+msgstr "拾取"
+
+msgid "scroll"
+msgstr "卷轴"
+
+msgid "slowing aura"
+msgstr "迟滞光环"
+
+msgid "spear^Leave it"
+msgstr "不拾取"
+
+msgid "spear^Take it"
+msgstr "拾取"
+
+msgid "team_name^Aerius"
+msgstr "艾利乌斯"
+
+msgid "team_name^Army of Mag-Magar"
+msgstr "Mag-Magar军队"
+
+msgid "team_name^Army of Sud-Affar"
+msgstr "Sud-Affar军队"
+
+msgid "team_name^Barbarians"
+msgstr "野蛮人"
+
+msgid "team_name^Dedylos"
+msgstr "德狄罗思"
+
+msgid "team_name^DharmaRashti"
+msgstr "达玛拉什提"
+
+msgid "team_name^Enemy"
+msgstr "敌人"
+
+msgid "team_name^Enlightened Ones"
+msgstr "神启之人"
+
+msgid "team_name^Expedition"
+msgstr "远征队"
+
+msgid "team_name^Guardians"
+msgstr "守护者"
+
+msgid "team_name^Highest Council"
+msgstr "高等议会"
+
+msgid "team_name^HoRashti"
+msgstr "赫拉什提"
+
+msgid "team_name^Hydras"
+msgstr "三头蛇"
+
+msgid "team_name^Invaders"
+msgstr "入侵者"
+
+msgid "team_name^Kharos"
+msgstr "卡罗斯"
+
+msgid "team_name^Lizards"
+msgstr "蜥蜴人"
+
+msgid "team_name^Mage"
+msgstr "法师"
+
+msgid "team_name^Mages"
+msgstr "法师"
+
+msgid "team_name^Magi"
+msgstr "法师"
+
+msgid "team_name^Master of Battle"
+msgstr "军团主宰"
+
+msgid "team_name^Master of Darkness"
+msgstr "黑暗主宰"
+
+msgid "team_name^Master of Fire"
+msgstr "火焰大师"
+
+msgid "team_name^Master of War"
+msgstr "战争主宰"
+
+msgid "team_name^Master of Water"
+msgstr "活水大师"
+
+msgid "team_name^Mehir"
+msgstr "麦希尔"
+
+msgid "team_name^Post"
+msgstr "哨所"
+
+msgid "team_name^Rashti"
+msgstr "拉什提"
+
+msgid "team_name^Reficul"
+msgstr "雷飞库尔"
+
+msgid "team_name^Unknown"
+msgstr "未知"
+
+msgid "team_name^Unknown 1"
+msgstr "未知1"
+
+msgid "team_name^Unknown 2"
+msgstr "未知2"
+
+msgid "team_name^Unknown 3"
+msgstr "未知3"
+
+msgid "ultimate circle"
+msgstr "终极环阵"
