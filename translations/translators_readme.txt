@@ -1,17 +1,20 @@
 If you want to translate the campaign, follow these instructions:
 
-1. Download Poedit (this is a free editor for translating apps)
+1. Download Poedit
 https://poedit.net/download
 
-2. Open TLU_raw_translation_file.po (usually located in add-ons/To_Lands_Unknown/translations/
+2. Go to the following link:
+https://github.com/inferno8/wesnoth-To_Lands_Unknown/tree/master/translations/wesnoth-To_Lands_Unknown
 
-3. Choose your language via settings
+3. Find a .po file with your language and download it, then proceed to 4. If your language does not appear on the list, see 3a:
 
-4. Start translating (the user interface is very easy to master)
+    3a. Open TLU_translation_template.pot (usually located in To_Lands_Unknown/translations/
 
-5. When finished, export .mo file and share it on the forums in this topic:
-http://www.wesnoth.org/forum/viewtopic.php?f=8&t=31799
+    3b. Set your translation language.
 
-so I can release it officially.
+4. Start translating.
+
+5. When finished, share the .po file on the forums here: https://forums.wesnoth.org/viewtopic.php?t=31799
+or create a Pull Request if you are familiar with GitHub.
 
 All translators will be mentioned in the add-on's credits.
