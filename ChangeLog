@@ -1,6 +1,139 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.8
+
+- General
+	* implemented a new recall cost calculation method (some units are now cheaper to recall but some others are more expensive)
+	* it is now possible to keep Jinn in all scenarios
+	* implemented new Jinn advice for S06, S08, S09, S10, S12, S15, S16
+	* enabled Fast AI to greatly increase performance in S04, S12, S16, S17, S22, S23
+	* added more scenario music to S06, S10, S19
+	* minor story tweaks
+
+- Graphics
+	* overhauled multihex terrain visuals for S02 and S16
+
+- Items
+	* Amulet of Metamorph: modified HP refill behavior (on activation if HP is higher than maximum, it is reduced. If it is lower, the owner keeps the same HP); fixed a bug where an elemental was stuck after being transformed into a non-flying elemental on chasm tiles
+	* Golden Carpet: now grants 'hit and run +2' and +10% terrain defense bonus
+
+- Units & Abilities
+	* allowed Last Summoner to summon elementals
+	* 'ultimate circle' no longer stacks with 'circle of resistance' and 'magic absorb'
+
+- AMLAs
+	* new AMLAs for Mehir: 'jinn philosophy', 'fast summon', 'veteran summons', 'give to the poor', 'take from the rich', 'doom scrolling', 'synchronization'
+	* new AMLAs for Rashti: 'strength', 'magic', 'intellect', 'sadism', 'majesty'
+	* refactored and optimized Mehir's AMLAs
+	* fixed Mehir's meditation AMLA not working if Grand Summoner or higher
+	* new AMLA for lvl3 Summoners: 'fast summon'
+
+- Scenarios
+	> scenario 00 - Prologue:
+		* improved the badass mode description
+	> scenario 01 - Highiest Tiers:
+		* eliminating all enemies automatically results in victory
+		* there are less reinforcements in Hard difficulty
+	> scenario 02 - Central Palace:
+		* the whole scenario uses the 'cutscene minimal' theme now
+	> scenario 03 - Near the Jungle:
+		* lowered incidence of quick lizards in Easy/Normal
+		* added a note about healing properties of oasis tiles (Easy and Normal difficulty only)
+		* completely overhauled the palace interior
+	> scenario 04 - Southern Nations:
+		* summoning Fire Elementals also results in defeat
+		* fixed incorrect placement of Rhaxis' air reinforcements
+	> scenario 06 - Fire Canyon
+		* fixed a bug where Saurians were teleported back to the cage
+		* fixed a rare case of Goblin leader being the last survivor when Mehir reaches the camp
+		* on Easy difficulty the lizards are fully healed and the bridge defender is absent
+	> scenario 07 - Dome of Elements:
+		* improved some dialogs
+		* Mehir's moves replenish right after promotion
+	> scenario 08 - Ka-gatta:
+		* changed the look of Banishment Staff on the map
+		* changed the sound of stone bridge collapsing to cave-in.ogg
+		* fixed some syntax issues
+		* improved AI: bats focus on player troops more; Earth Elementals prefer advantageous terrain
+	> scenario 10 - Chaos:
+		* it is now possible to manually open the portal under certain cirmustances, which leads to an alternative scenario progression
+		* added an animation showing the destruction of barricades and tents near the exit
+		* assigned ownership of one of starting tents to player
+		* on Easy difficulty the Shadowmage avoids using its range attack on offense
+	> scenario 12 - Siege of Mag-Magar:
+		* improved some dialogs
+		* fixed some dialog issues in cases where Living Gate successfully elimanted enemy leaders
+		* added the 3rd well to the map
+		* fixed allegiance of casualties in statistics being not correctly tracked
+	> scenario 14 - Tar-Tabar:
+		* it is now possible to skip the lecture, if Mehir already has practical knowledge of the subject
+		* Semir spawns with Banishment Staff if the player has not taken it in S08
+	> scenario 15 - Abyssal Rebellion:
+		* fixed a bug where an error message was displayed in cases where there were not enough captured units present on the map
+		* adjusted starting gold and income on Easy difficulty
+		* improved some dialogs
+		* some tips are not available on Hard difficulty
+		* it is now possible to undo recall of recently unlocked Grand Summoners, but not those upgraded to Summons Masters
+	> scenario 16 - Defense of Saffaros:
+		* adjusted starting gold, income and turn limit on all difficulties
+		* new villages control gameplay and objective
+		* changed starting castle's layout
+		* improved AI
+		* changed Hydras' spawn algorithm
+		* changed scenario starting time
+		* made mountains unwalkable instead of impassable
+		* improved the look of the mountains
+	> scenario 17 - Siege of Kharos:
+		* adjusted turn limit and income on all difficulties
+		* fixed undo exploit
+	> scenario 19 - Sky Kingdom:
+		* moved a tip about Dimensional Gates advancement from S17 to S19; modified starting gold and income; changed carryover percentage from 40 to 5
+		* improved AI of enemy Cosmic Eyes
+	> scenario 20 - Enlightenment:
+		* fixed Um-Mu duo standing animation
+	> scenario 22 - North Pole:
+		* improved handling of various unit cases in MP/defense update
+	> scenario 23 - Ruins:
+		* allies now avoid glyphs locations
+		* removed unused heat level macro
+		* vastly improved and optimized code responsible for the fire elemental limit in the scenario (now it also accounts for collar, metamorph and summoning in heat restriction)
+		* the door to the reactor room can now be triggered by recalling next to it
+		* recalling summoners can now almost always be undone
+		* fixed infinite summoning exploit on turn 1
+
+- Code
+	* removed parts of dialog which refered events happening exclusively in the other campaign mode
+	* restructured the translations subdirectory
+	* added msgmerege_pofiles.sh to handle .po files
+	* added _server.ign
+	* moved Mehir's auras events to main-macros.cfg
+	* improved the 'magical scimitar' description
+	* added pre collar, post collar events
+	* removed redundant error-prone WML from Kamikaze Drone
+	* added macro for dimensional gates paid leveling available in S22 and S23
+	* optimized Rashti's split and unification events
+	* switched to 'invulnerable' instead of FORCE_CHANCE_TO_HIT in S01, S03 and S17
+	* improved Banishment Staff description
+	* implemented 'player_banished_creature' and 'player_advanced_dg' special variables
+	* added True Rashti missing gender (#81)
+	* improved RECALL_RASHTI code to ensure she is in the right state if the scenario is skipped with :n
+	* properly used the 'flying' attribute
+	* fixed all wmllint errors
+	* properly named Last Summoner's summon menu ids
+	* replaced old healing/regeneration abilities in various units with new ones introduced in EoMa 3.12
+	* updated about.cfg
+
+- Misc
+	* converted most .wav files to .ogg
+
+- Translations
+	* included .po files with partial translations for 8 languages
+	* updated the translation template file and all .po files
+	* updated the Polish translation (100%)
+	* updated the Spanish translation (100%)
+	* updated translators_readme.txt
+
 Version 3.7
 
 - General
@@ -1169,11 +1302,11 @@ Version 2.0
 
 Version 1.7.1
 Language and Translations
-    * Updated translations: Polish
+	* Updated translations: Polish
 	* Added missing textdomain binding in messages.cfg
 
 - Scenarios
-    * Fixed list of recruits in scenario 5
+	* Fixed list of recruits in scenario 5
 	* Updated AI to match the 1.12 standard in scenario 1 and 4
 
 - Misc
@@ -1182,80 +1315,80 @@ Language and Translations
 Version 1.7.0
 
 Language and Translations
-    * Updated translations: Polish
-    * New translation: Italian
+	* Updated translations: Polish
+	* New translation: Italian
 
 - Scenarios
-    * New scenarios: Deep Freeze and Ruins
-    * Removed scenarios: Gates to the Past, Sun Dome
-    * Revised multiple scenarios in terms of story telling and balancing
+	* New scenarios: Deep Freeze and Ruins
+	* Removed scenarios: Gates to the Past, Sun Dome
+	* Revised multiple scenarios in terms of story telling and balancing
 	
 - Maps
-    * Improved maps for scenarios 6, 7, 12, 13
+	* Improved maps for scenarios 6, 7, 12, 13
 
 - Units
-    * Fixed Rashti's missing sounds
-    * Fixed Jaffar's idle animation
+	* Fixed Rashti's missing sounds
+	* Fixed Jaffar's idle animation
 
 - Misc
-    * Added special sound effects for illusion in scenario 10
+	* Added special sound effects for illusion in scenario 10
 
 Version 1.6.0
 
 - Dependencies
-    * Moved all images with no translatable content into a separate add-on
-      called To Lands Unknown: Images
-    * Requires Era of Magic 1.0.0
+	* Moved all images with no translatable content into a separate add-on
+	  called To Lands Unknown: Images
+	* Requires Era of Magic 1.0.0
 
 - Language and Translations
-    * New translations: German, Hungarian
-    * Updated translation: Polish
+	* New translations: German, Hungarian
+	* Updated translation: Polish
 
 - Scenarios
-    * Converted instances of Ggf to Gg^Efm in scenario 14
+	* Converted instances of Ggf to Gg^Efm in scenario 14
 
 
 Version 1.5.6
 
 - Units
-    * Stop using AMLA_EXPERIENCE
+	* Stop using AMLA_EXPERIENCE
 
 Version 1.5.5
 
 - Units
-    * Made units conform to 1.9.10's AMLA XP standards
-    * Made it so that all non-EoMa units' help topics are hidden
+	* Made units conform to 1.9.10's AMLA XP standards
+	* Made it so that all non-EoMa units' help topics are hidden
 
 Version 1.5.4
 
 - Language and Translations
-    * New translation: Polish
+	* New translation: Polish
 
 - Other
-    * Got rid of portal-end.png again
-    * Tiled the jungle terrain
-    * Tiled castle/villages in Fire Canyon
-    * Made rain match rain from Wesnoth 1.8
-    * Removed a compatibility hack, thus dropping support for 1.9.4 and below
+	* Got rid of portal-end.png again
+	* Tiled the jungle terrain
+	* Tiled castle/villages in Fire Canyon
+	* Made rain match rain from Wesnoth 1.8
+	* Removed a compatibility hack, thus dropping support for 1.9.4 and below
 
 Version 1.5.3
 
 - Language and Translations
-    * Converted all straight quotation marks and apostrophes to proper form
-    * Converted all fake dashes to proper form
+	* Converted all straight quotation marks and apostrophes to proper form
+	* Converted all fake dashes to proper form
 
 - Scenarios
-    * Added a warning about rain damage in scenario 14
+	* Added a warning about rain damage in scenario 14
 
 - Other
-    * Added missing image: portal-end.png
-    * Code improvements preventing Neutral Summoners from summoning jinns too early in-game
-    * Fixed broken UTF-8 in various files
+	* Added missing image: portal-end.png
+	* Code improvements preventing Neutral Summoners from summoning jinns too early in-game
+	* Fixed broken UTF-8 in various files
 
 Version 1.5.2
 
 - Scenarios
-    * Fixed a broken reference to scenario five
+	* Fixed a broken reference to scenario five
 
 - Other
-    * Began to keep a changelog
+	* Began to keep a changelog
