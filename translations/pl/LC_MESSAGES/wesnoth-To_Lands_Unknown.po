@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-16 16:21 UTC\n"
-"PO-Revision-Date: 2023-06-16 18:44+0200\n"
+"PO-Revision-Date: 2024-01-18 12:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -59,9 +59,12 @@ msgid ""
 "If you like the campaign and wish to support its development further, you "
 "can do so at:"
 msgstr ""
+"\n"
+"Jeśli podoba Ci się kampania i chcesz wesprzeć jej dalszy rozwój, możesz to "
+"zrobić pod tym adresem:"
 
 #. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
-#: To_Lands_Unknown\_main.cfg:57 To_Lands_Unknown\_main.cfg:67
+#: To_Lands_Unknown\_main.cfg:57
 msgid "To Lands Unknown"
 msgstr "Ku Nieznanym Krainom"
 
@@ -276,16 +279,13 @@ msgstr ""
 
 #. [advancement]: id=JINN_PHILOSOPHY
 #: To_Lands_Unknown\macros\amla.cfg:206
-#, fuzzy
-#| msgid ""
-#| "+1 experience per turn without move/attack/summon, +2 HP, MAX XP +15%"
 msgid "+3 experience per turn without move/attack/summon, +2 HP, MAX XP +15%"
 msgstr ""
-"+1 punkt doświadczenia na turę w przypadku bezczynności, +2HP, MAX XP +15%"
+"+3 punkty doświadczenia na turę w przypadku bezczynności, +2HP, MAX XP +15%"
 
 #. [advancement]: id=AMLA_MEHIR_FAST_SUMMON
 #. [advancement]: id=AMLA_FAST_SUMMON
-#: To_Lands_Unknown\macros\amla.cfg:239 To_Lands_Unknown\main-macros.cfg:369
+#: To_Lands_Unknown\macros\amla.cfg:239
 msgid "Summoning a unit only costs 1 MP, but you may not attack, +15% XP."
 msgstr ""
 "Przywołanie jednostki kosztuje tylko 1 punkt ruchu, ale jednostka nie może "
@@ -314,44 +314,39 @@ msgid ""
 "+1 gold each time an adjacent unit dies (except magical/undead), +5 HP, MAX "
 "XP +25%."
 msgstr ""
+"+1 szt. złota za każdym razem gdy sąsiadująca jednostka ginie (poza istotami "
+"magicznymi i nieumarłymi), +5 PŻ, max XP +25%."
 
 #. [dummy]: id=tlu_resourceful
 #: To_Lands_Unknown\macros\amla.cfg:321
 msgid "resourceful"
-msgstr ""
+msgstr "przedsiębiorczy"
 
 #. [dummy]: id=tlu_resourceful
 #: To_Lands_Unknown\macros\amla.cfg:322
-#, fuzzy
-#| msgid "Get a gold coin when an adjacent unit dies."
 msgid ""
 "Get a gold coin when an adjacent unit dies (except magical, undead or lvl0 "
 "units)."
-msgstr "Gdy jakaś jednostka w pobliżu ginie, otrzymujesz 1 szt. złota."
+msgstr ""
+"Gdy jakaś jednostka w pobliżu ginie, otrzymujesz 1 szt. złota (za wyjątkiem "
+"istot magicznych, nieumarłych oraz poziomu 0)."
 
 #. [advancement]: id=AMLA_MEHIR_RESOURCEFUL2
 #: To_Lands_Unknown\macros\amla.cfg:357
-#, fuzzy
-#| msgid ""
-#| "Get more gold from high-level fallen humans and machines, MAX XP +25%."
 msgid ""
 "Get more gold from high-level adjacent enemy deaths (except magical/undead), "
 "+5 HP, MAX XP +25%."
 msgstr ""
-"Otrzymuj więcej złota od poległych jednostek wysokiego poziomu, zarówno "
-"ludzi jak i maszyn, MAX XP +25%."
+"Otrzymuj więcej złota od poległych jednostek wysokiego poziomu (za wyjątkiem "
+"istot magicznych/nieumarłych), +5 HP, MAX XP +25%."
 
 #. [dummy]: id=tlu_resourceful2
 #: To_Lands_Unknown\macros\amla.cfg:376
 msgid "resourceful II"
-msgstr ""
+msgstr "przedsiębiorczy II"
 
 #. [dummy]: id=tlu_resourceful2
 #: To_Lands_Unknown\macros\amla.cfg:377
-#, fuzzy
-#| msgid ""
-#| "Get gold coins when an adjacent foe unit above level 0 dies. 1 gold coin "
-#| "if it's level 1 or 2. 2 gold coins if it's level 3 or 4, and so on."
 msgid ""
 "Get a gold coin when an adjacent unit dies (except magical, undead or lvl0 "
 "units).\n"
@@ -360,12 +355,15 @@ msgid ""
 "dies. 1 gold coin if it's level 1 or 2. 2 gold coins if it's level 3 or 4, "
 "and so on (except magical/undead)."
 msgstr ""
-"Otrzymuj dodatkowe złoto za każdym razem, gdy pobliska wroga jednostka "
-"powyżej poziomu 0 ginie. 1 szt. złota jeśli to poziom 1 lub 2. W przypadku "
-"poziomów 3 i 4 to 2 szt. złota itd."
+"Zdobądź 1 szt. złota, gdy sąsiednia jednostka zginie (z wyjątkiem jednostek "
+"magicznych, nieumarłych lub lvl0).\n"
+"\n"
+"Ponadto otrzymujesz złoto, gdy zginie sąsiednia wroga jednostka powyżej "
+"poziomu 0. 1 szt. złota, jeśli ma poziom 1 lub 2. 2 sztuki złota jeśli ma "
+"poziom 3 lub 4, i tak dalej (z wyjątkiem magicznych/nieumarłych)."
 
 #. [advancement]: id=AMLA_HP
-#: To_Lands_Unknown\macros\amla.cfg:413 To_Lands_Unknown\macros\amla.cfg:823
+#: To_Lands_Unknown\macros\amla.cfg:413
 msgid "Max HP bonus +5, MAX XP +10%"
 msgstr "Bonus do maksymalnych punktów życia +5, MAX XP +30%"
 
@@ -426,18 +424,17 @@ msgid ""
 "+1 gold each time an adjacent unit dies (except magical/undead), +5 HP, MAX "
 "XP +10%."
 msgstr ""
+"+1 szt. złota za każdym razem gdy sąsiadująca jednostka ginie (poza istotami "
+"magicznymi i nieumarłymi), +5 HP, max XP +10%."
 
 #. [advancement]
 #: To_Lands_Unknown\macros\amla.cfg:591
-#, fuzzy
-#| msgid ""
-#| "Get more gold from high-level fallen humans and machines, MAX XP +14%."
 msgid ""
 "Get more gold from high-level adjacent enemy deaths (except magical/undead), "
 "+5 HP, MAX XP +14%."
 msgstr ""
-"Otrzymuj więcej złota od poległych wysokopoziomowych jednostek - ludzi bądź "
-"maszyn, MAX XP +14%."
+"Otrzymuj więcej złota od poległych wysokopoziomowych jednostek (za wyjątkiem "
+"istot magicznych/nieumarłych), MAX XP +14%."
 
 #. [advancement]
 #: To_Lands_Unknown\macros\amla.cfg:595
@@ -459,37 +456,33 @@ msgstr "Max HP bonus +5"
 
 #. [advancement]: id=AMLA_MEHIR_SYNCHRONIZATION
 #: To_Lands_Unknown\macros\amla.cfg:623
-#, fuzzy
-#| msgid "Adds first strike to circle of destruction, +25% XP."
 msgid "Adds first strike to circle of destruction and scroll, +2 HP, +15% XP."
-msgstr "Dodaje pierwszy cios do kręgu zniszczenia, +25%."
+msgstr "Dodaje pierwszy cios do kręgu zniszczenia i zwoju, +2 HP, +15%. XP"
 
 #. [advancement]: id=STRENGTH
 #: To_Lands_Unknown\macros\amla.cfg:672
 msgid "+2 scimitar damage, +4 spear damage, +20% XP"
-msgstr ""
+msgstr "+2 do obrażeń sejmitarem, +4 do obrażeń od włóczni, +20% XP"
 
 #. [advancement]: id=MAGIC_DAMAGE
 #: To_Lands_Unknown\macros\amla.cfg:709
 msgid "+2 fireball damage, +3 iceball damage, +6 lightbeam damage, +20% XP"
 msgstr ""
+"+2 do obrażeń od kuli ognia, +3 do obrażeń od kuli lodu, +6 do obrażeń od "
+"promienia światła, +20 XP"
 
 #. [advancement]: id=AMLA_RASHTI_SADISM
 #: To_Lands_Unknown\macros\amla.cfg:755
-#, fuzzy
-#| msgid "+25% damage to enemies below 40% HP."
 msgid "+25% damage to enemies below 40% HP, +20% XP"
-msgstr "+25% obrażeń przeciwnikom poniżej 40% punktów życia."
+msgstr "+25% obrażeń przeciwnikom poniżej 40% punktów życia, +20% XP"
 
 #. [advancement]: id=AMLA_RASHTI_MAJESTY
 #: To_Lands_Unknown\macros\amla.cfg:789
-#, fuzzy
-#| msgid ""
-#| "On offense, defender retaliates with one less strike, but at least once."
 msgid ""
 "On offense, defender retaliates with one less strike, but at least once, "
 "+33% XP"
-msgstr "Podczas ataku, obrońca odpowiada 1 ciosem mniej, ale tylko raz."
+msgstr ""
+"Podczas ataku, obrońca odpowiada 1 ciosem mniej, ale tylko raz, +33% XP"
 
 #: To_Lands_Unknown\macros\artifact-descriptions.cfg:3
 msgid ""
@@ -510,17 +503,6 @@ msgstr ""
 "Czy jednostka powinna podnieść sejmitar?"
 
 #: To_Lands_Unknown\macros\artifact-descriptions.cfg:11
-#, fuzzy
-#| msgid ""
-#| "Propelled by Abyssal winds, and woven from magical threads. Those lucky "
-#| "enough who possess this ancient vehicle gain amazing mobility.\n"
-#| "\n"
-#| "- Advances the unit (unless the unit is already at maximum level)\n"
-#| "- Speed increases by 50%\n"
-#| "- Hit and Run +2 ability\n"
-#| "- +10% terrain defense bonus\n"
-#| "\n"
-#| "Should this unit pick up the carpet?"
 msgid ""
 "Propelled by Abyssal winds, and woven from magical threads. Those lucky "
 "enough who possess this ancient vehicle gain amazing mobility.\n"
@@ -538,7 +520,6 @@ msgstr ""
 "\n"
 "- Awansuje jednostkę (o ile nie jest na najwyższym poziomie)\n"
 "- Prędkość wzrasta o 50%\n"
-"- Zdolność uderz i uciekaj +2\n"
 "- +10% do obrony terenowej\n"
 "\n"
 "Czy jednostka powinna podnieść dywan?"
@@ -760,13 +741,6 @@ msgstr "Złoty Dywan"
 
 #. [object]
 #: To_Lands_Unknown\macros\items.cfg:325
-#, fuzzy
-#| msgid ""
-#| "Woven of golden threads, inspired by Abyssal winds. Everyone who "
-#| "possesses this ancient vehicle gains amazing speed and agility.\n"
-#| "Speed increases by 50%\n"
-#| "Hit and Run +2 ability\n"
-#| "+10% terrain defense bonus"
 msgid ""
 "Woven of golden threads, inspired by Abyssal winds. Everyone who possesses "
 "this ancient vehicle gains amazing speed and agility.\n"
@@ -779,7 +753,6 @@ msgstr ""
 "Uszyty ze złotych nici, natchniony wiatrami Otchłani. Każdy kto posiądzie "
 "ten niezwykły pojazd, uzyska niezwykłą prędkość i zwinność.\n"
 "Prędkość zwiększa się o 50%\n"
-"Zdolność uderz i uciekaj +2\n"
 "+10% do obrony terenowej"
 
 #. [value]: id=gcarpet
@@ -1668,6 +1641,10 @@ msgid ""
 "more or larger modifications you enable, the greater the likelihood of "
 "issues arising."
 msgstr ""
+"Nie używaj dodatków modyfikujących razem z kampanią, chyba że wiesz co "
+"robisz. Modyfikacje mogą łatwo zakłócić kampanię i wprowadzić nieoczekiwane "
+"problemy z powodu ich interakcji z kodem. Im więcej lub większe modyfikacje "
+"zostaną włączone, tym większe prawdopodobieństwo wystąpienia problemów."
 
 #. [part]
 #: To_Lands_Unknown\macros\storytxt.cfg:298
@@ -2619,7 +2596,7 @@ msgid "8"
 msgstr "8"
 
 #. [unstore_unit]
-#: To_Lands_Unknown\main-macros.cfg:175 To_Lands_Unknown\main-macros.cfg:218
+#: To_Lands_Unknown\main-macros.cfg:175
 msgid "gold"
 msgstr "szt. złota"
 
@@ -2670,6 +2647,12 @@ msgid ""
 "The author is not responsible for any bugs caused by spawning this unit via "
 "debug or other means."
 msgstr ""
+"OSTRZEŻENIE: Mistrz Wyganiania psuje obecnie niektóre fragmenty kodu TLU i "
+"na razie nie jest dostępny. NIE BANUJ wrogów na poziomie 3 za pomocą tej "
+"jednostki, zwłaszcza tych nazwanych!\n"
+"\n"
+"Autor nie ponosi odpowiedzialności za jakiekolwiek błędy spowodowane "
+"tworzeniem tej jednostki za pomocą debugowania lub w inny sposób."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:27
@@ -2715,14 +2698,10 @@ msgstr ""
 
 #. [option]
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:56
-#, fuzzy
-#| msgid ""
-#| "Buy the elemental anyway (costs 20 gold, carries over to the next "
-#| "scenarios)"
 msgid ""
 "Buy the elemental anyway (costs 19 gold, carries over to the next scenarios)"
 msgstr ""
-"Kup żywiołaka (kosztuje 20 szt. złota, przechodzi do następnych scenariuszy)"
+"Kup żywiołaka (kosztuje 19 szt. złota, przechodzi do następnych scenariuszy)"
 
 #. [message]: speaker=merchant
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:75
@@ -2799,16 +2778,12 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:135
-#, fuzzy
-#| msgid ""
-#| "...sell me this water elemental for a reduced price. 20 gold minus the "
-#| "fine will be 10."
 msgid ""
 "...sell me this water elemental for a reduced price. 19 gold minus the fine "
 "will be 9."
 msgstr ""
-"...sprzedać mi tego żywiołaka wody za mniejszą cenę. 20 odjąć mandat daje "
-"nam 10 szt. złota."
+"...sprzedać mi tego żywiołaka wody za mniejszą cenę. 19 odjąć mandat daje "
+"nam 9 szt. złota."
 
 #. [message]: speaker=merchant
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:139
@@ -3548,28 +3523,20 @@ msgstr "Proszę bardzo!"
 
 #. [message]: speaker=merchant
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1028
-#, fuzzy
-#| msgid ""
-#| "By the way, I've got a special deal for you, a water elemental for 22 "
-#| "gold!"
 msgid ""
 "By the way, I've got a special deal for you, a water elemental for 21 gold!"
 msgstr ""
 "A tak przy okazji mam specjalną ofertę dla ciebie, drogi przyjacielu. "
-"Żywiołak wody za 22 szt. złota!"
+"Żywiołak wody za 21 szt. złota!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1033
-#, fuzzy
-#| msgid ""
-#| "What?! You're charging twenty-two gold for a water elemental?! A "
-#| "summoning scroll for one costs only 16 gold! Your prices are outragerous!"
 msgid ""
 "What?! You're charging twenty-one gold for a water elemental?! A summoning "
 "scroll for one costs only 15 gold! Your prices are outragerous!"
 msgstr ""
 "Co?! Chcesz 22 sztuki złota za żywiołaka wody?! Zwój przywołujący takiego "
-"kosztuje tylko 16 sztuk złota! Twoje ceny są z sufitu!"
+"kosztuje tylko 15 sztuk złota! Twoje ceny są z sufitu!"
 
 #. [message]: speaker=merchant
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1037
@@ -3604,15 +3571,11 @@ msgstr ""
 
 #. [message]: speaker=merchant
 #: To_Lands_Unknown\scenarios\00_Prologue.cfg:1050
-#, fuzzy
-#| msgid ""
-#| "Hmph, fine, how about 20 gold? But I won't reduce the price any further, "
-#| "mind you, I still need to make a profit, don't forget that."
 msgid ""
 "Hmph, fine, how about 19 gold? But I won't reduce the price any further, "
 "mind you, I still need to make a profit, don't forget that."
 msgstr ""
-"Dobra, co powiesz na 20 szt. złota? Ale nie zejdę niżej bo muszę coś "
+"Dobra, co powiesz na 19 szt. złota? Ale nie zejdę niżej bo muszę coś "
 "zarobić, nie zapominaj o tym."
 
 #. [message]: speaker=Mehir
@@ -4398,10 +4361,6 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\01_Highest_Tiers.cfg:856
-#, fuzzy
-#| msgid ""
-#| "(to his troops) Just a small note: don't bother with the civilians. We're "
-#| "here for the lamp, not for carnage."
 msgid ""
 "(to his troops) Just a small note: ignore the civilians. We're here for the "
 "lamp, not for carnage."
@@ -4674,6 +4633,8 @@ msgid ""
 "me. You seem to be even unaware that other human nations exist, how "
 "laughable..."
 msgstr ""
+"Jestem powietrznym asem, to wszystko, co musisz o mnie wiedzieć. Zdajesz się "
+"być nawet nieświadomy istnienia innych ludzkich nacji, zabawne..."
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:221
@@ -4714,17 +4675,14 @@ msgstr ""
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:248
-#, fuzzy
-#| msgid ""
-#| "My colleagues can't wait to get a glimpse of this precious artifact... "
-#| "I’ll 'borrow' it for now."
 msgid ""
 "This will make a fine addition to my collection! Ahem, I mean, my colleagues "
 "can't wait to get a glimpse of this precious artifact... I’ll 'borrow' it "
 "for now."
 msgstr ""
-"Moi koledzy z chęcią przyjrzą się bliżej temu artefaktowi... Tak więc "
-"pozwolę go sobie pożyczyć na jakiś czas."
+"Będzie świetnym dodatkiem do mojej kolekcji! Moi koledzy z chęcią przyjrzą "
+"się bliżej temu artefaktowi... Tak więc pozwolę go sobie pożyczyć na jakiś "
+"czas."
 
 #. [message]: speaker=Aerius
 #: To_Lands_Unknown\scenarios\02_Central_Palace.cfg:253
@@ -8310,21 +8268,15 @@ msgstr "Tylko jednostka na dywanie może używać tego przedmiotu!"
 
 #. [object]
 #: To_Lands_Unknown\scenarios\08_Ka-gatta.cfg:756
-#, fuzzy
-#| msgid ""
-#| "Advances the unit (unless the unit is already at maximum level)\n"
-#| "Speed increases by 50%\n"
-#| "Hit and Run +2 ability\n"
-#| "+10% terrain defense bonus"
 msgid ""
 "Advances the unit (if unit is already at maximum level, gain 1 AMLA "
 "instead)\n"
 "Speed increases by 50%\n"
 "+10% terrain defense bonus"
 msgstr ""
-"Awansuje jednostkę (o ile nie jest na najwyższym poziomie)\n"
+"Awansuje jednostkę (jeśli jednostka jest na najwyższym poziomie, otrzymuje 1 "
+"APOP)\n"
 "Zwiększa prędkość o 50%\n"
-"Zdolność Uderz i Uciekaj +2\n"
 "+10% bonus do terenu"
 
 #. [message]: race=eoma_summoner
@@ -9814,12 +9766,12 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1494
 msgid "Hmph, all this damn bureaucracy again, I despise it..."
-msgstr ""
+msgstr "Hmpf, znowu ta przeklęta biurokracja której nienawidzę..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1499
 msgid "I hope the High Council will understand my wish."
-msgstr ""
+msgstr "Mam nadzieję, że Najwyższa Rada zrozumie moje życzenie."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\10_Chaos.cfg:1574
@@ -10156,6 +10108,10 @@ msgid ""
 "window-falling accident' if you catch my drift. Rinse and repeat until they "
 "choose Mehir.</i>."
 msgstr ""
+"<i>*do siebie* Jeśli te stare pierdziele ośmielą się mianować kogoś innego "
+"niż Mehir moim panem, osobiście dopilnuję, by ten ktoś miał 'niefortunny "
+"wypadek związany z wypadnięciem z okna'. I tak w kółko, aż wybiorą Mehira.</"
+"i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:352
@@ -10197,17 +10153,14 @@ msgstr "Może powinniśmy zwrócić się do Mistrza Wyganiaczy?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:378
-#, fuzzy
-#| msgid ""
-#| "<i>*to herself* They want that incompetent gate-collector to be my "
-#| "master?! Dammit, dammit, I need to do something fast...</i>"
 msgid ""
 "<i>*to herself* They want that incompetent gate-collector to be my master?! "
 "Dammit, dammit, he's too fat for me to discreetly push out of a window. I "
 "need to do something fast...</i>"
 msgstr ""
 "<i>*do siebie* Oni chcą mianować tego niekompetentnego kolekcjonera wrót "
-"moim mistrzem?! Do jasnej cholery, muszę coś zrobić i to szybko...</i>"
+"moim mistrzem?! Do jasnej cholery, on jest zbyt gruby, abym mogła go po "
+"kryjomu wyrzucić przez okno. Muszę coś zrobić i to szybko...</i>"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\11_Message.cfg:384
@@ -11063,10 +11016,6 @@ msgstr "Dokładnie. A jego krąg jest jeszcze większy niż przedtem! *hihocze*"
 
 #. [message]: speaker=gate_guardian
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:466
-#, fuzzy
-#| msgid ""
-#| "Oh, Mehir is the leader now! And to think it was thanks to him, we are "
-#| "couple now!"
 msgid ""
 "Oh, Mehir is the leader now! And to think it was thanks to him, we are a "
 "couple now!"
@@ -11082,10 +11031,6 @@ msgstr ""
 
 #. [message]: speaker=gate_guardian
 #: To_Lands_Unknown\scenarios\13_A_New_Leader.cfg:474
-#, fuzzy
-#| msgid ""
-#| "As for the dimensional gate we adopted, do you think it will be a boy or "
-#| "a girl. Well, more accurately, jinni or rhami?"
 msgid ""
 "As for the dimensional gate we adopted, do you think it will be a boy or a "
 "girl? Well, more accurately, jinni or rhami?"
@@ -11438,13 +11383,14 @@ msgid ""
 "wrong time and place! Had you been Tashkar's Ultimate Being you'd probably "
 "have been just as easily deceived into causing his death too..."
 msgstr ""
+"Nie tylko ja dałam się oszukać i rzuciłam zaklęcie w niewłaściwym czasie i "
+"miejscu! Gdybyś był Ostateczną Istotą Tashkara, prawdopodobnie równie łatwo "
+"dałbyś się oszukać i spowodował jego śmierć..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:470
-#, fuzzy
-#| msgid "*sigh* fine."
 msgid "*sigh*"
-msgstr "*wzdycha* w porządku."
+msgstr "*wzdycha*"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:474
@@ -11484,7 +11430,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:494
 msgid ""
 "Who are you calling unpredictable, Semir? *stares while sharpening scimitar*"
-msgstr ""
+msgstr "Kogo nazywasz nieobliczalnym Semirze? *spogląda ostrząc swój sejmitar*"
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:498
@@ -11492,18 +11438,16 @@ msgid ""
 "Erm, not you, Your Highness. I meant your unruly efreet and dharma'rhami "
 "subjects."
 msgstr ""
+"Err, na pewno nie Ciebie, Wasza Wysokość. Miałem na myśli twoich zbudowanych "
+"podwładnych czyli ifryty i dharma'rhami."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:502
 msgid "Very well. *puts away scimitar*"
-msgstr ""
+msgstr "Bardzo dobrze. *odkłada sejmitar*"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:508
-#, fuzzy
-#| msgid ""
-#| "Yeah, I certainly got quite the taste of Red Abyss back in Ka-Gatta... I "
-#| "was sure as hell lucky that Rashti closed the portal in time..."
 msgid ""
 "I certainly got quite the taste of Red Abyss back in Ka-Gatta... I was sure "
 "as hell lucky that Rashti closed the portal in time..."
@@ -11647,12 +11591,12 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:610
 msgid "I like that attitude. Screw the rules!"
-msgstr ""
+msgstr "To mi się podoba. Do diabła z zasadami!"
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:619
 msgid "Very well, time to summon that Efreeti..."
-msgstr ""
+msgstr "W porządku, czas więc przywołać tego Ifryta..."
 
 #. [message]: type=EoMa_Efreet
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:627
@@ -11921,27 +11865,24 @@ msgid ""
 "Council had the audacity to even SUGGEST the possibility of him becoming my "
 "master..."
 msgstr ""
+"Dokładnie! Irytuje mnie myśl, że ci BEZNADZIEJNI GŁUPCY z Wysokiej Rady "
+"mieli czelność nawet POMYŚLEĆ o tym, że mógłby zostać moim panem..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:876
 msgid "At least they changed their mind, probably thanks to Malib's help."
-msgstr ""
+msgstr "Przynajmniej zmienili zdanie, prawdopodobnie dzięki Malibowi."
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:880
-#, fuzzy
-#| msgid ""
-#| "So at the moment, the only way to get rid of them is to completely "
-#| "destroy their bodies. That is precisely what the 'frozen gate' spells are "
-#| "for."
 msgid ""
 "Ahem, back to the original question. So at the moment, the only way to get "
 "rid of powerful abyssal beings is to completely destroy their bodies. That "
 "is precisely what the 'frozen gate' spells are for."
 msgstr ""
-"Więc w tej chwili jedyną opcją by pozbyć się takiej istoty jest jej "
-"kompletne zniszczenie. I właśnie do to tego zadania świetnie nadają się "
-"zaklęcia tzw. 'zamrożonych wrót'."
+"Ahem, wracając do głównego pytania. w tej chwili jedyną opcją by pozbyć się "
+"takiej istoty jest jej kompletne zniszczenie. I właśnie do to tego zadania "
+"świetnie nadają się zaklęcia tzw. 'zamrożonych wrót'."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\14_Tar-Tabar.cfg:884
@@ -13056,6 +12997,9 @@ msgid ""
 "been forced to fight, tell me at least - why do you fight for the humans "
 "against fellow abyssals?"
 msgstr ""
+"Hej, ty, dżinie! Chociaż przez niefortunne zrządzenie losu zostaliśmy "
+"zmuszeni do walki, powiedz mi chociaż - dlaczego walczysz dla ludzi "
+"przeciwko innym istotom z Otchłani?"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:976
@@ -13064,11 +13008,14 @@ msgid ""
 "been forced to fight, tell me at least - why do you fight for the humans "
 "against fellow abyssals?"
 msgstr ""
+"Hej, rhami! Chociaż przez niefortunne zrządzenie losu zostaliśmy zmuszeni do "
+"walki, powiedz mi chociaż - dlaczego walczysz dla ludzi przeciwko innym "
+"istotom z Otchłani?"
 
 #. [message]: role=traitor
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:982
 msgid "I must obey my master's orders."
-msgstr ""
+msgstr "Muszę przestrzegać rozkazów mojego pana."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:986
@@ -13077,6 +13024,9 @@ msgid ""
 "abyssals that do most of the real work. Is it truly fair for us to be "
 "treated as inferiors?"
 msgstr ""
+"Wystarczy spojrzeć na waszych ludzkich panów - prowadzą wystawne życie, "
+"podczas gdy to my, istoty z Otchłani, wykonujemy większość prawdziwej pracy. "
+"Czy to naprawdę sprawiedliwe, że jesteśmy traktowani jak gorsi?"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:994
@@ -13084,11 +13034,14 @@ msgid ""
 "Have you ever thought what it would be like, to have no master? To be able "
 "to forge your own fate, to not need to bow to those arrogant humans' whims."
 msgstr ""
+"Czy kiedykolwiek myślałeś, jak by to było nie mieć pana? Być w stanie "
+"kształtować swój własny los, nie musieć kłaniać się tym aroganckim ludzkim "
+"kaprysom."
 
 #. [message]: role=traitor
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:998
 msgid "That... does sound nice I suppose."
-msgstr ""
+msgstr "To brzmi całkiem... nieźle, tak myślę."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1002
@@ -13098,33 +13051,31 @@ msgid ""
 "the 'Great Circle', and force the humans to no longer treat us as lesser "
 "beings!"
 msgstr ""
+"Oferuję ci prosty wybór - zmarnuj swój potencjał, broniąc swoich "
+"niewolników, lub dołącz do mnie i bądź naprawdę wolny! Razem możemy ochronić "
+"naszą ukochaną Otchłań przed 'Wielkim Kręgiem' i zmusić ludzi, by przestali "
+"traktować nas jak gorsze istoty!"
 
 #. [message]: role=traitor
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1007
 msgid ""
 "You know... maybe you are right. I've had enough of this! Down with the "
 "tyrants!"
-msgstr ""
+msgstr "Wiesz... chyba masz rację. Mam tego dość! Precz z tyranami!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1012
-#, fuzzy
-#| msgid ""
-#| "Dear Nomolas, what the hell is this?! Is that efreeti possessing our "
-#| "magical beings?!"
 msgid ""
 "Dear Nomolas, what the hell is this?! He convinced our magical beings to "
 "betray us!"
 msgstr ""
-"Drogi Nomolasie, co to u licha ma znaczyć?! Czy ten ifryt opętał nasze "
-"magiczne istoty?!"
+"Drogi Nomolasie, co to u licha ma znaczyć?! Ten ifryt opętał nasze magiczne "
+"istoty!"
 
 #. [message]: speaker=Banisher
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1016
-#, fuzzy
-#| msgid "Damn it!"
 msgid "Damn it"
-msgstr "Niech to szlag!"
+msgstr "Niech to szlag"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1087
@@ -13183,11 +13134,15 @@ msgid ""
 "queen letting her fate be decided by a bunch of worthless old humans, is it "
 "not ironic?"
 msgstr ""
+"Twoi mistrzowie zostali wybrani przez Wysoką Radę, Rashti. Samozwańcza "
+"królowa pozwalająca, by o jej losie decydowała banda bezwartościowych "
+"starych ludzi, czyż to nie ironia?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1182
 msgid "Unlike my previous masters, Mehir is one I actually chose myself!"
 msgstr ""
+"W przeciwieństwie do moich poprzednich mistrzów, Mehira wybrałam sobie sama!"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1186
@@ -13196,11 +13151,14 @@ msgid ""
 "also choose him, or did you merely obey your blue half's demands? Was it "
 "truly YOUR choice?"
 msgstr ""
+"Rozumiem, interesujące. Ale w takim razie odpowiedz mi na pytanie, "
+"Dharma'rashti - czy ty też go wybrałaś, czy tylko posłuchałaś żądań swojej "
+"niebieskiej połówki? Czy to był naprawdę TWÓJ wybór?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1196
 msgid "S-SHUT UP!!! He... he was better than the alternatives!"
-msgstr ""
+msgstr "Z-ZAMKNIJ SIĘ!!! On... on był lepszy niż alternatywy!"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1200
@@ -13209,6 +13167,9 @@ msgid ""
 "master would be far worse, so you just quietly went along with Ho'rashti's "
 "idea?"
 msgstr ""
+"Pozwól, że zgadnę - wiedziałaś, że to, co zaproponuje Wysoka Rada jako twój "
+"mistrz, będzie znacznie gorsze, więc po prostu po cichu zgodziłaś się na "
+"pomysł Ho'rashti?"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1209
@@ -13217,6 +13178,10 @@ msgid ""
 "involved you are with upholding the unjust Summoner society... I can't help "
 "but feel some pity for you, Dharma'rashti."
 msgstr ""
+"Niewolnik zarówno ludzi, jak i swojej niebieskiej połowy. Muszę przyznać, że "
+"pomimo tego, jak bardzo jesteś zaangażowana w podtrzymywanie "
+"niesprawiedliwego społeczeństwa przywoływaczy... Nie mogę powstrzymać się od "
+"współczucia dla ciebie, Dharma'rashti."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1218
@@ -13225,6 +13190,10 @@ msgid ""
 "need a master at all?'. 'Do I need those tyrannical humans?', 'Do I need my "
 "blue half restricting my every movement and action?'."
 msgstr ""
+"Myślisz, że wybór swojego pana to wolność, ale nie zadajesz sobie pytania "
+"'Czy w ogóle potrzebuję pana?'. 'Czy potrzebuję tych despotycznych ludzi?', "
+"'Czy potrzebuję mojej niebieskiej połowy ograniczającej każdy mój ruch i "
+"działanie?'."
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1222
@@ -13232,18 +13201,20 @@ msgid ""
 "So long as Mehir, the High Council or any other human you consider to be "
 "above you is alive, you'll never truly be free."
 msgstr ""
+"Dopóki żyje Mehir, Wysoka Rada lub jakikolwiek inny człowiek, którego "
+"uważasz za wyższego od siebie, nigdy nie będziesz naprawdę wolna."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1227
 msgid "(to her other half) Surely you don't believe any of that drivel, right?"
 msgstr ""
+"(do swojej drugiej połowy) Mam nadzieję, że nie wierzysz w te brednie, "
+"prawda?"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1237
-#, fuzzy
-#| msgid "...right."
 msgid "...Right?"
-msgstr "...racja."
+msgstr "...prawda?"
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1250
@@ -13267,6 +13238,10 @@ msgid ""
 "weakened. How you use that window of opportunity is entirely up to you, but "
 "I hope you are wise enough to see who your true enemies are."
 msgstr ""
+"Dopóki utrzymuję zaklęcie, uścisk twojej niebieskiej połowy będzie "
+"osłabiony. To, jak wykorzystasz tę okazję, zależy wyłącznie od ciebie, ale "
+"mam nadzieję, że jesteś na tyle mądra, by dostrzec, kto jest twoim "
+"prawdziwym wrogiem."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1262
@@ -13550,7 +13525,7 @@ msgstr ""
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1804
 msgid "I will try my best to keep my red half on a much tigher leash."
-msgstr ""
+msgstr "Postaram się utrzymać moją czerwoną połowę na krótszej smyczy."
 
 #. [message]: speaker=Banisher
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1808
@@ -13624,11 +13599,13 @@ msgstr ""
 msgid ""
 "I can understand the rest, but what you do need the Red Cult Manifesto for?"
 msgstr ""
+"Co do reszty to potrafię to zrozumieć, ale na co Ci Manifest Czerwonego "
+"Kultu?"
 
 #. [message]: id=$jinni_temp[0].id
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1874
 msgid "I assure you, this is solely for research purposes."
-msgstr ""
+msgstr "Zapewniam cię, to do moich badań."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\15_Abyssal_Rebellion.cfg:1879
@@ -14007,12 +13984,6 @@ msgstr ""
 
 #. [message]: speaker=Atiros
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:493
-#, fuzzy
-#| msgid ""
-#| "Get this, our legendary siblings do exist! They call themselves "
-#| "Summoners, cause they can conjure demons or some such up. Can you believe "
-#| "that?! Meet Mehir, a master of this kind of magic, city leader, and the "
-#| "ambassador of our antecendents' descendants."
 msgid ""
 "Get this, our legendary siblings do exist! They call themselves Summoners, "
 "cause they can conjure demons or some such up. Can you believe that?! Meet "
@@ -14107,10 +14078,6 @@ msgstr "Nie! Ich główna armia dopiero zbiera się na wschodzie!!!"
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:605
-#, fuzzy
-#| msgid ""
-#| "Thank the sun, Kharos is untouched for now. So they must be scouts. We "
-#| "must defend Saffaros. Mehir, will you help us?"
 msgid ""
 "Thank the Sun, Kharos is untouched for now. So they must be scouts. We must "
 "defend Saffaros. Mehir, will you help us?"
@@ -14205,6 +14172,8 @@ msgid ""
 "Time to give those pathetic humans a taste of our true might. Unleash the "
 "finest hydras we got!"
 msgstr ""
+"Czas dać tym żałosnym ludziom posmakować naszej prawdziwej potęgi. Uwolnić "
+"nasze najlepsze hydry!"
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:919
@@ -14213,6 +14182,9 @@ msgid ""
 "getting a Corrupted Hydra as reinforcements, not whatever the hell this "
 "living lightshow is!"
 msgstr ""
+"Co tu się wyrabia, w imię Niszczycieli? Powiedziano mi, że dostanę "
+"skorumpowaną Hydrę jako posiłki, a nie to, czym do cholery jest ten żywy "
+"pokaz świateł!"
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:933
@@ -14222,6 +14194,10 @@ msgid ""
 "hydras. He better have a real good explanation or I will stab him next time "
 "we meet."
 msgstr ""
+"Czarnej Sfera jako posłaniec z listem? Hmmm, zobaczmy... to Vebrinduil, ten "
+"czarnoksiężnik z laboratoriów eksperymentalnych hydr, który dostarcza mi "
+"bestie. Lepiej, żeby miał naprawdę dobre wytłumaczenie, bo inaczej zadźgam "
+"go przy następnym spotkaniu."
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:937
@@ -14242,6 +14218,20 @@ msgid ""
 "\n"
 "-Vebrinduil'</i>"
 msgstr ""
+"Zobaczmy...\n"
+"\n"
+"<i>'Pozdrowienia Amalrir. Wiem, że obiecałem wysłać Spaczoną Hydrę, ale "
+"zanim rozpoczęła się krucjata, wypaliłem zbyt wiele substancji na jednym z "
+"przyjęć Fiothiel, zanim zacząłem pracować nad rytuałem stworzenia Spaczonej "
+"Hydry. Potem zostało bardzo mało czasu do krucjaty, więc zamiast tego "
+"wysłałem prototyp do wykorzystania w waszym oddziale.\n"
+"\n"
+"Jak już pewnie zdążyłeś zauważyć, ten prototyp... nie do końca odpowiada "
+"specyfikacjom Spaczonej Hydry, ale nie próbuj mnie jeszcze dźgać! Choć jest "
+"nieco słabszy, nadal jest silniejszy niż Hydra Chaosu, a jego światła mogą z "
+"łatwością odwrócić uwagę wrogów.\n"
+"\n"
+"-Vebrinduil'</i>"
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:948
@@ -14250,11 +14240,15 @@ msgid ""
 "Hydra your way, it should arrive soon after the prototype. You can consider "
 "the favor I owe you to be officially repaid, we are now even.'</i>"
 msgstr ""
+"<i>'P.S. Udało mi się przekonać innego czarnoksiężnika, by wysłał ci "
+"odpowiednią Spaczoną Hydrę, która powinna dotrzeć wkrótce po prototypie. "
+"Możesz uznać przysługę, którą jestem ci winien, za oficjalnie spłaconą, "
+"jesteśmy teraz kwita'</i>"
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:952
 msgid "Now that's more like it! Very well then, I won't stab him this time."
-msgstr ""
+msgstr "No to już coś! Bardzo dobrze, tym razem go nie zadźgam."
 
 #. [message]: speaker=Warlock
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:957
@@ -14262,6 +14256,8 @@ msgid ""
 "*sigh* Fine, that is... an acceptable enough excuse, won't stab him this "
 "time. I suppose this experimental model is better than nothing."
 msgstr ""
+"*wzdycham* Dobra, to jest... wystarczająco akceptowalna wymówka, tym razem "
+"go nie dźgnę. Przypuszczam, że ten eksperymentalny model jest lepszy niż nic."
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:971
@@ -14276,27 +14272,23 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:984
-#, fuzzy
-#| msgid "By Nomolas! What are these things?!"
 msgid "Dear Nomolas, what the hell is that thing?!"
-msgstr "Dobry Nomolasie! Co to za istoty?!"
+msgstr "Dobry Nomolasie! Co to jest u licha?!"
 
 #. [message]: speaker=Dedylos
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:988
-#, fuzzy
-#| msgid "By the Sun! What is wrong with her?!"
 msgid "B-by the Sun! W-what is this horror?! We are doomed!"
-msgstr "Na Słońce! Co ona wygaduje?!"
+msgstr "Na Słońce! Coż to za horror? Jesteśmy zgubieni!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:993
 msgid "Do not despair, northerner. The bigger they are..."
-msgstr ""
+msgstr "Nie panikuj, człowieku północy. I większe ich ciała..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:998
 msgid "...THE HARDER THEY FALL!!! CHARGE!!!"
-msgstr ""
+msgstr "...TYM MOCNIEJ UPADAJĄ!!! DO BOJU!!!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1060
@@ -14363,12 +14355,6 @@ msgstr "Słyszę co mówisz, mieszkańcu północy."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1193
-#, fuzzy
-#| msgid ""
-#| "Nah, I assure you she is sane, well half of her at least. Rashti is "
-#| "basically two different beings in one body, an example of ultimate "
-#| "ambivalence. Two for one, you know. Her dual nature can be a real pain "
-#| "sometimes though..."
 msgid ""
 "Nah, I assure you she is sane... Well, half of her at least. Rashti is "
 "basically two different beings in one body, an example of ultimate "
@@ -14557,20 +14543,20 @@ msgid ""
 "I have good news! I have now read it enough to be able to apply it in "
 "battle! I can now summon low-level elementals just like a human can, look!"
 msgstr ""
+"Mistrzu, pamiętasz, jak dałeś mi książkę 'Przewodnik przywoływania dżinów'? "
+"Cóż, mam dobre wieści! Przeczytałem ją na tyle, by móc ją zastosować w "
+"walce! Mogę teraz przywoływać niskopoziomowe żywiołaki tak jak człowiek, "
+"patrz!"
 
 #. [unstore_unit]
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1711
-#, fuzzy
-#| msgid "+8 exp"
 msgid "+3 exp"
 msgstr "+8 XP"
 
 #. [value]: id=summoner
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1740
-#, fuzzy
-#| msgid "The Last Summoner"
 msgid "summoner"
-msgstr "Ostatni Przywoływacz"
+msgstr "przywoływacz"
 
 #. [value]: id=summoner
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1741
@@ -14580,6 +14566,10 @@ msgid ""
 "Effects:\n"
 "Ability to summon elementals."
 msgstr ""
+"Ta jednostka poznała tajniki przywoływania.\n"
+"\n"
+"Efekty:\n"
+"Zdolność przywoływania żywiołaków."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1756
@@ -14587,6 +14577,8 @@ msgid ""
 "Well done! It's always good to have a few low-level elementals to take hits "
 "for more important soldiers like yourself."
 msgstr ""
+"Dobra robota! Zawsze dobrze jest mieć kilku niskopoziomowych żywiołaków, "
+"którzy przejmą ciosy ważniejszych żołnierzy, takich jak ty."
 
 #. [message]: id=$jinni_temp[0].id
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1760
@@ -14597,6 +14589,11 @@ msgid ""
 "deciding that the risk of accidentally erasing myself was too high to "
 "justify experimenting with it."
 msgstr ""
+"Jeśli chodzi o inne książki, to zapoznałem się z bardziej polityczną "
+"literaturą Reficula, ale nie obawiaj się, moja lojalność wobec ciebie jest "
+"tak samo niezachwiana jak wcześniej. Jeśli chodzi o książkę o wygnaniu, "
+"byłem jej ciekaw, ale ostatecznie zdecydowałem, że ryzyko przypadkowego "
+"wymazania siebie jest zbyt wysokie, by uzasadniać eksperymentowanie z nią."
 
 #. [message]: id=$jinni_temp[0].id
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1764
@@ -14606,13 +14603,15 @@ msgid ""
 "impressed by how Reficul managed to master it with pretty much no margin of "
 "error."
 msgstr ""
+"Dla ludzi sztuka wygnania jest bezpieczna, ale dla dżina takiego jak ja "
+"każdy mały błąd w procesie może okazać się śmiertelny. Muszę przyznać, że "
+"wciąż jestem pod wrażeniem tego, jak Reficul zdołał ją opanować bez "
+"przeszkód."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1768
-#, fuzzy
-#| msgid "Oh, I see..."
 msgid "I see."
-msgstr "Ach, rozumiem..."
+msgstr "Rozumiem."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\16_Defense_of_Saffaros.cfg:1773
@@ -14620,6 +14619,8 @@ msgid ""
 "Thanks to studying 'A Summoning Guide for Jinn', your Jinni has learned the "
 "secrets of summoning and now can summon elementals!"
 msgstr ""
+"Dzięki studiowaniu 'Przewodnika przywołania dla Dżinów', twój Dżin poznał "
+"sekrety przywoływania i może teraz przywoływać żywiołaki!"
 
 #. [scenario]: id=17_Siege_of_Kharos
 #: To_Lands_Unknown\scenarios\17_Siege_of_Kharos.cfg:5
@@ -15423,25 +15424,23 @@ msgstr ""
 #. [message]: speaker=Kirios
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:87
 msgid "<i>*stares menacingly at Mehir even through his helmet*</i>"
-msgstr ""
+msgstr "<i>*wpatruje się groźnie w Mehira nawet przez kask*</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:91
 msgid "Alright, alright, sorry for the comment."
-msgstr ""
+msgstr "W porządku, w porządku, wybacz komentarz."
 
 #. [message]: speaker=Kirios
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:95
 msgid "<i>*nods, stops staring at Mehir*</i>"
-msgstr ""
+msgstr "<i>*kiwa głową, przestaje gapić się na Mehira*</i>"
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:99
-#, fuzzy
-#| msgid "He must. I will explain it to you in front of the third window."
 msgid ""
 "He must stay with me. I will explain it to you in front of the third window."
-msgstr "Niestety nie może. Wyjaśnię ci to przy trzecim witrażu."
+msgstr "Musi być przy mnie. Wyjaśnię ci to przy trzecim witrażu."
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:104
@@ -15467,7 +15466,7 @@ msgstr ""
 #. [message]: speaker=Kirios
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:122
 msgid "Praise the Sun! *raises hands in the air*"
-msgstr ""
+msgstr "Chwalmy Słońce! *wznosi ręce w powietrze*"
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:126
@@ -15475,11 +15474,12 @@ msgid ""
 "I would advise not violating your vow of silence in front of our esteemed "
 "guests."
 msgstr ""
+"Radziłabym nie łamać przysięgi milczenia przy naszych szanownych gościach."
 
 #. [message]: speaker=Kirios
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:130
 msgid "<i>*nods apologetically*</i>"
-msgstr ""
+msgstr "<i>*kiwa głową przepraszając*</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:135
@@ -15527,10 +15527,6 @@ msgstr ""
 
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:147
-#, fuzzy
-#| msgid ""
-#| "That's all very interesting. You do not rely on the sun anymore, but once "
-#| "in the Abyss, you will miss it..."
 msgid ""
 "That's all very interesting. You do not rely on the Sun anymore, but once in "
 "the Abyss, you will miss it..."
@@ -15676,7 +15672,7 @@ msgstr ""
 #. [message]: speaker=Kirios
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:240
 msgid "<i>*nods*</i>"
-msgstr ""
+msgstr "<i>*kiwa głową*</i>"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\18_The_City_of_Light.cfg:245
@@ -15958,11 +15954,22 @@ msgid ""
 "\n"
 "(You can view this help message again by right-clicking on the map)"
 msgstr ""
+"Używaj teleportujących kręgów, aby przemieszczać swoje oddziały po mapie "
+"(działają one podobnie do zdolności 'teleport'). Teleportujące kręgi tego "
+"samego koloru są ze sobą połączone.\n"
+"\n"
+"Aby przemieścić jednostkę za pomocą teleportu, najpierw wybierz tę "
+"jednostkę, a następnie wybierz heks docelowy po drugiej stronie połączenia "
+"(zwykle w pobliżu punktu wyjścia). Jednostka powinna przenieść się do "
+"pierwszego teleportującego okręgu i automatycznie pojawić się na drugim.\n"
+"\n"
+"(Możesz ponownie wyświetlić ten komunikat pomocy, klikając mapę prawym "
+"przyciskiem myszy)"
 
 #. [set_menu_item]: id=teleport_help
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:336
 msgid "Teleport Help"
-msgstr ""
+msgstr "Pomoc: Teleport"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\19_Sky_Kingdom.cfg:361
@@ -19084,6 +19091,8 @@ msgid ""
 "From now on, all your units (including newly-recruited and summoned ones) "
 "will be loyal and not cost any upkeep."
 msgstr ""
+"Od teraz wszystkie twoje jednostki (w tym nowo rekrutowane i przywoływane) "
+"będą lojalne i nie będą kosztować utrzymania."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:284
@@ -19127,19 +19136,14 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:337
-#, fuzzy
-#| msgid ""
-#| "Thanks to a special training in the Sky Kingdom, your human troops have "
-#| "better chance at dodging attacks on snow than they normally would (40% "
-#| "chance)."
 msgid ""
 "Thanks to a special training in the Sky Kingdom, your human troops and Ums "
 "have better chance at dodging attacks on snow than they normally would (40% "
 "chance)."
 msgstr ""
 "Dzięki specjalnemu treningowi w Podniebnym Królestwie, twoje ludzkie "
-"oddziały mają lepszą szansę na uniknięcie ciosów stojąc na śniegu, niż w "
-"normalnych okolicznościach (40% szansy)."
+"oddziały oraz Umy mają lepszą szansę na uniknięcie ciosów stojąc na śniegu, "
+"niż w normalnych okolicznościach (40% szansy)."
 
 #. [objective]: condition=win
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:352
@@ -19177,17 +19181,19 @@ msgid ""
 "I felt a great disturbance in the For- ahem, in the air, as if millions of "
 "voices cried out in terror. We are not alone here."
 msgstr ""
+"Poczułam wielkie poruszenie w Mo- ahem, w powietrzu, jakby miliony głosów "
+"wołały z przerażeniem. Nie jesteśmy tu sami."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:501
-#, fuzzy
-#| msgid ""
-#| "What the... am I hallucinating, or are those... flying leeches with teeth?"
 msgid ""
 "What the... am I hallucinating, or are those... flying leeches with teeth? "
 "I'm quite certain I did NOT smoke any of the Darkblooded's herbs before this "
 "mission though..."
-msgstr "Co u licha... czy ja mam omamy czy to... latające pijawki z zębami?"
+msgstr ""
+"Co u licha... czy ja mam omamy czy to... latające pijawki z zębami? Jestem "
+"pewien, że tym razem NIE paliłem żadnego zioła od Ciemnokrwistych tuż przed "
+"misją..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:506
@@ -19259,6 +19265,8 @@ msgid ""
 "that Guru gets the Aerius treatment *sharpens scimitar while grinning*. "
 "However, for now..."
 msgstr ""
+"Jeśli okaże się, że to tylko pułapka, osobiście dopilnuję, by Guru został "
+"potraktowany jak Aerius *ostrzy scimitar, szczerząc zęby*. Na razie jednak..."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:655
@@ -19266,6 +19274,8 @@ msgid ""
 "Let's keep moving, right now we don't have much of a choice besides trusting "
 "their word about the battery."
 msgstr ""
+"Kontynuujmy, w tej chwili nie mamy zbyt dużego wyboru poza zaufaniem ich "
+"słowom na temat baterii."
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:690
@@ -19291,7 +19301,7 @@ msgstr ""
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:700
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2530
 msgid "Destroying the Destroyers... Quite ironic if I do say so myself."
-msgstr ""
+msgstr "Niszczyć Niszczycieli... Cóż za ironia."
 
 #. [modify_side]
 #: To_Lands_Unknown\scenarios\22_North_Pole.cfg:709
@@ -19498,18 +19508,12 @@ msgstr "Przeszukaj ruiny"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:620
-#, fuzzy
-#| msgid ""
-#| "Good job. Unfortunately, we are trapped here now, but those weird magi "
-#| "gave me a teleportation spell. We’d better find this battery and get out "
-#| "of this freezing hellhole as soon as possible..."
 msgid ""
 "We’d better find this battery and get out of this freezing hellhole as soon "
 "as possible..."
 msgstr ""
-"Dobra robota. Niestety jesteśmy tu teraz uwięzieni, ale ci dziwni magowie "
-"dali mi zaklęcie teleportacji. Lepiej znajdźmy tą baterię i wynośmy się z "
-"tego przerażającego miejsca tak szybko jak to tylko możliwe..."
+"Lepiej znajdźmy tą baterię i wynośmy się z tego przerażającego miejsca tak "
+"szybko jak to tylko możliwe..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:710
@@ -19584,12 +19588,12 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:950
-#, fuzzy
-#| msgid "It doesn't. Your ultimate circle translates its voice for you."
 msgid ""
 "It doesn't. Your ultimate circle translates its voice for you. At least it "
 "is not immediately hostile to us, we are off to a good start."
-msgstr "Nieprawda. Twój krąg tłumaczy jego mowę dla ciebie."
+msgstr ""
+"Nieprawda. Twój krąg tłumaczy jego mowę dla ciebie. Ten osobnik przynajmniej "
+"nie jest od razu wrogo nastawiony, więc to już coś."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:955
@@ -19629,6 +19633,9 @@ msgid ""
 "*Ahem* And I am Rashti'rhami, Goddess of all Rhamis, and Queen of the Red "
 "Abyss. Do you understand what I am saying?"
 msgstr ""
+"Zastanawiam się, czy twój krąg również tłumaczy słowa tych, którzy są blisko "
+"ciebie... *Ahem* A ja jestem Rashti'rhami, Bogini wszystkich Rhami i Królowa "
+"Czerwonej Otchłani. Czy rozumiesz, co mówię?"
 
 #. [message]: role=machine
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:971
@@ -19636,6 +19643,8 @@ msgid ""
 "(switches from pre-recorded message to speech program) Error, no recorded "
 "message for first contact with entity type 'deity'."
 msgstr ""
+"(przełącza się z wcześniej nagranej wiadomości na program mowy) Błąd, brak "
+"nagranej wiadomości dla pierwszego kontaktu z istotą typu 'bóstwo'."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:975
@@ -19643,6 +19652,9 @@ msgid ""
 "So the circle's translation capabilities do apply to me too, excellent. And "
 "this steel dwarf is quite an interesting construct if I do say so myself."
 msgstr ""
+"Tak więc możliwości tłumaczeniowe kręgu odnoszą się również do mnie, "
+"świetnie. A ten stalowy krasnolud to całkiem interesująca konstrukcja, jeśli "
+"mogę tak powiedzieć."
 
 #. [message]: role=machine
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:979
@@ -19805,16 +19817,12 @@ msgstr "Teraz wszyscy są na miejscu. Najwyższy czas się stąd wynosić!"
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1795
-#, fuzzy
-#| msgid ""
-#| "Huh? Where's all that darn noise comin' from? Can't an old dwarf just "
-#| "have some rest fer goodness's sake?! I hadn't slept in days!"
 msgid ""
 "Huh? Where's all that darn noise comin' from? I was in the middle of a good "
 "gaming session on my steam-powered PC..."
 msgstr ""
-"Hę? Skąd dochodzi ten cholerny hałas? Czyż stary krasnolud nie może odpocząć "
-"w spokoju?! Nie spałem od paru dni!"
+"Hę? Skąd dochodzi ten cholerny hałas? Właśnie byłem w trakcie ciekawej "
+"rozgrywki na moim parowym komputerze..."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1800
@@ -19836,11 +19844,6 @@ msgstr ""
 
 #. [message]: type=EoMa_Steam_Berserker,EoMa_Red_Ulfserker,EoMa_Steam_Turboserker
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1811
-#, fuzzy
-#| msgid ""
-#| "Reporting: unidentified group invaded bunker, intention: steal battery. "
-#| "Attempts at elimination failed. Their leader can speak our language. "
-#| "Communication possible."
 msgid ""
 "Reporting: unknown group invaded bunker, intention: steal battery. Attempts "
 "at elimination failed. Their leader can speak our language. He introduced "
@@ -19848,15 +19851,10 @@ msgid ""
 msgstr ""
 "Zgłaszam: niezidentyfikowana grupa zaatakowała bunkier. Intencja: kradzież "
 "baterii. Próby eliminacji zakończone niepowodzeniem. Lider mówi w naszym "
-"języku. Komunikacja możliwa."
+"języku. Przedstawia się jako 'Mehir'. Komunikacja możliwa."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1815
-#, fuzzy
-#| msgid ""
-#| "*to Mehir* Hey, you! Finally, someone that ain't one of 'em spawns o' "
-#| "darkness lurking 'round here! But why the hell do ye need my precious "
-#| "battery?!"
 msgid ""
 "*to Mehir* Hey, you! Mehir, was it? Finally, someone that ain't one of 'em "
 "spawns o' darkness lurking 'round here! But why the hell do ye need my "
@@ -19879,19 +19877,13 @@ msgstr ""
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1825
-#, fuzzy
-#| msgid ""
-#| "Look mate, tis' beauty powers the steam berserkers and plenty of other "
-#| "essential machinery. She and my burnin' desire to avenge the slaughter of "
-#| "my kind are the only two things keepin' me alive 'ere. If ya take 'er "
-#| "from me, I'm as good as dead."
 msgid ""
 "Look mate, tis' beauty powers the steam berserkers and plenty of other "
 "essential machinery, but most importantly she powers my runic RGB gaming "
 "setup. You wouldn't believe how much energy those damn Runevidia cards "
 "consume... If ya take 'er from me, I'm as good as dead."
 msgstr ""
-"Słuchaj koleś, to cudeńko zasila moje parowe berserkery oraz mnóstwo innej "
+"Słuchaj kolego, to cudeńko zasila moje parowe berserkery oraz mnóstwo innej "
 "kluczowej maszynerii. Ona oraz moja żądza pomszczenia mego ludu to jedyne "
 "dwie rzeczy, które trzymają mnie przy życiu. Jeśli odbierzesz mi baterię, to "
 "już po mnie."
@@ -20042,14 +20034,11 @@ msgid ""
 "I assure you that Mehir and I will do everything in our power to keep you "
 "safe."
 msgstr ""
+"Zapewniam Cię, że zarówno Mehir jak i ja zrobimy wszystko co w naszej mocy "
+"abyś był bezpieczny."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1977
-#, fuzzy
-#| msgid ""
-#| "Alas, I'm runnin' out of machines: yer men smashed many beyond repair! "
-#| "Now gimme some hands, we'll make a combined effort to fend 'em off and "
-#| "save my battery!"
 msgid ""
 "I sure hope so, lass. Alas, I'm runnin' out of machines: yer troops smashed "
 "many beyond repair! Now gimme some hands, we'll make a combined effort to "
@@ -20073,7 +20062,7 @@ msgstr ""
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1987
 msgid "And fetch all my gaming setup components and bring them to the portal!"
-msgstr ""
+msgstr "Zgarnijcie mój sprzęt do gier i przynieście go do portalu!"
 
 #. [message]: speaker=pc_carrier
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1994
@@ -20081,11 +20070,13 @@ msgid ""
 "<i>Initiating gaming setup evacuation protocols *packages Glomin's gaming "
 "setup components into a box*</i>"
 msgstr ""
+"<i>Inicjowanie protokołów ewakuacji zestawu do gier *pakuje komponenty "
+"zestawu do gier Glomina do pudełka*</i>"
 
 #. [message]: speaker=pc_carrier
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:1999
 msgid "PC evacuation complete."
-msgstr ""
+msgstr "Ewakuacja peceta zakończona."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2031
@@ -20251,18 +20242,13 @@ msgstr ""
 
 #. [message]: speaker=Mage
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2353
-#, fuzzy
-#| msgid ""
-#| "*shrinks back* Uhh... I mean... Uhh... it's a stroke of luck to be "
-#| "visited by a representative of a dead - err... of a species presumed long "
-#| "extinct! How did you even manage to survive for so long though?"
 msgid ""
 "*shrinks back* Uhh... I mean... Uhh... it's a stroke of luck to be visited "
 "by a representative of a dead - err... of a species presumed long extinct!"
 msgstr ""
-"*wzdryga się* Uch... Miałem na myśli... Ojej... to łut szczęścia, zrządzenie "
-"losu by podjąć reprezentanta wymarłego... eeee… tzn. gatunku uznawanego za "
-"wymarły! Jak przetrwałeś tak długi czas, krasnoludzie?"
+"*wzdryga się* Uhh... to znaczy... Uhh... to łut szczęścia być odwiedzonym "
+"przez przedstawiciela martwego - eee... gatunku przypuszczalnie dawno "
+"wymarłego!"
 
 #. [message]: speaker=Historian
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2357
@@ -20285,17 +20271,11 @@ msgstr "<i>*do siebie* Wreszcie ktoś na poziomie...</i>"
 
 #. [message]: speaker=Historian
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2365
-#, fuzzy
-#| msgid "By the way, how did you manage to survive for so long?"
 msgid "By the way, I am curious, how did you manage to survive for so long?"
 msgstr "Swoją drogą, faktycznie zastanawiam się jak przetrwałeś tak długo?"
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2370
-#, fuzzy
-#| msgid ""
-#| "Hibernatin' for millenia that's how! 'cept waking up every few years to "
-#| "do some repairs and such."
 msgid ""
 "Hibernatin' for millenia that's how! 'cept waking up every few years to do "
 "boot up my gami- Ahem, I mean to do some repairs and such."
@@ -20344,13 +20324,13 @@ msgid ""
 "By the way, do ye happen to have a decent source of magical energy I can "
 "borrow?"
 msgstr ""
+"Przy okazji, czy macie może jakieś przyzwoite źródło energii magicznej, "
+"które mógłbym pożyczyć?"
 
 #. [message]: speaker=Historian
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2420
-#, fuzzy
-#| msgid "What do you want?"
 msgid "What do you need it for?"
-msgstr "Czego ode mnie chcesz?"
+msgstr "Do czego jest ci potrzebna?"
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2424
@@ -20359,6 +20339,10 @@ msgid ""
 "runic computational device, packaged in that box. I need it for erm... "
 "scientific purposes. Surely a fellow scientist like ye would understand?"
 msgstr ""
+"*wskazuje na pudełko z komponentami komputera do gier* Dla mojego, "
+"zasilanego parą, runicznego urządzenia obliczeniowego, zapakowanego w to "
+"pudełko. Potrzebuję go do... celów naukowych. Z pewnością taki naukowiec jak "
+"ty zrozumie?"
 
 #. [message]: speaker=Historian
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2429
@@ -20367,11 +20351,15 @@ msgid ""
 "with completing my 'Study of Dwarvish Machinery' book, along with writing, "
 "checking and expanding some other Runemaster-related literature."
 msgstr ""
+"Bardzo dobrze, postaram się to załatwić. Ale w zamian proszę o pomoc w "
+"ukończeniu mojej książki 'Studium Krasnoludzkiej Maszynerii', a także w "
+"napisaniu, sprawdzeniu i rozszerzeniu innej literatury związanej z Mistrzami "
+"Run."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2433
 msgid "We have a deal then."
-msgstr ""
+msgstr "W takim razie mamy umowę."
 
 #. [message]: speaker=Historian
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2437
@@ -20379,11 +20367,11 @@ msgid ""
 "Excellent. Speaking of your computational device, I'll have a golem carry it "
 "with us. Now let's go."
 msgstr ""
+"Doskonale. Skoro mowa o twoim urządzeniu obliczeniowym, poproszę golema, by "
+"go z nami zabrał. A teraz chodźmy."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:2446
-#, fuzzy
-#| msgid "Then lead the way!"
 msgid "Thanks. Now lead the way."
 msgstr "Więc prowadź!"
 
@@ -20606,6 +20594,8 @@ msgid ""
 "I don't sense any more foes near us. It would seem we repelled these "
 "abominations' onslaught for now."
 msgstr ""
+"Nie wyczuwam więcej wrogów w pobliżu. Wygląda na to, że na razie odparliśmy "
+"atak tych potworności."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:3089
@@ -20613,6 +20603,8 @@ msgid ""
 "I fought all sorts of foes before, but few even come close to how deadly "
 "these ones were..."
 msgstr ""
+"Walczyłem już z najróżniejszymi wrogami, ale niewielu zbliżyło się do tak "
+"morderczego poziomu jak ci tutaj..."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:3094
@@ -20621,6 +20613,9 @@ msgid ""
 "Ah, brings back the memories of my kind's valiant last stand against those "
 "abominations..."
 msgstr ""
+"Udało nam się! Naprawdę to zrobiliśmy! Muszę przyznać, że jesteście niezłymi "
+"wojownikami. Przywołuję wspomnienia ostatniej walki mojego gatunku z tymi "
+"potwornościami..."
 
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:3098
@@ -20630,6 +20625,10 @@ msgid ""
 "homeland. It might only be a matter of days at best until an even larger "
 "swarm of those abominations arrives, now that they know you are here."
 msgstr ""
+"Ale nie relaksujcie się zbyt mocno, przyjaciele. Ta horda, którą właśnie "
+"zniszczyliśmy, to tylko niewielki ułamek całego plugastwa przemierzającego "
+"pozostałości mojej ojczyzny. To może być tylko kwestia dni, zanim przybędzie "
+"jeszcze większy rój tych potworności, teraz, gdy wiedzą, że tu jesteście."
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:3102
@@ -20637,11 +20636,13 @@ msgid ""
 "Glomin is right. We must hurry up and finish the portal while we can do it "
 "undisturbed."
 msgstr ""
+"Glomin ma rację. Musimy się pospieszyć i ukończyć portal, póki możemy to "
+"zrobić bez przeszkód."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown\scenarios\23_Ruins.cfg:3106
 msgid "Agreed. It is time to finally finish this circle!"
-msgstr ""
+msgstr "Zgoda. Czas najwyższy ukończyć ten krąg!"
 
 #. [scenario]: id=24_Epilogue
 #: To_Lands_Unknown\scenarios\24_Epilogue.cfg:5
@@ -21161,6 +21162,8 @@ msgid ""
 "If you enjoyed this campaign, please support the development with a donation "
 "on Ko-fi. Link is in the campaign description."
 msgstr ""
+"Jeśli podobała Ci się ta kampania, wesprzyj jej rozwój darowizną na Ko-fi. "
+"Link znajduje się w opisie kampanii."
 
 #. [scenario]: id=TLU_cutscene
 #: To_Lands_Unknown\scenarios\cutscene.cfg:5
@@ -21244,13 +21247,6 @@ msgstr "Duch Mistrza Przywołania"
 
 #. [unit_type]: id=TLU_Summons_Master_Ghost, race=undead
 #: To_Lands_Unknown\units\GhostSummonsMaster.cfg:19
-#, fuzzy
-#| msgid ""
-#| "This ancient ghost of a Summons Master roams catacombs of Ka-gatta for "
-#| "centuries. Beings like these are result of people staying inside their "
-#| "personal circles for too long. If the bond between human's mind and a "
-#| "circle grows too strong, when that person dies his/her psyche is trapped "
-#| "inside and lives afterlive of its own."
 msgid ""
 "This ancient ghost of a Summons Master roams catacombs of Ka-gatta for "
 "centuries. Beings like these are result of people staying inside their "
@@ -21258,11 +21254,11 @@ msgid ""
 "grows too strong, when that person dies his/her psyche is trapped inside and "
 "lives and afterlife of its own."
 msgstr ""
-"Starożytny duch Mistrza Przywołania nawiedza katakumby Ka-gatty od stuleci. "
-"Istoty tego typu powstały w wyniku zbyt długiego wystawienia na działanie "
-"osobistych kręgów magicznych. Jeśli więź między ludzkim umysłem a kręgiem "
-"jest zbyt silna, to gdy ta osoba umiera jej psychika wciąż jest uwięziona "
-"wewnątrz kręgu i żyje po życiu."
+"Ten starożytny duch Mistrza Przywołań przemierza katakumby Ka-gatta od "
+"wieków. Istoty takie jak te są wynikiem zbyt długiego przebywania ludzi w "
+"ich osobistych kręgach. Jeśli więź między ludzkim umysłem a kręgiem staje "
+"się zbyt silna, gdy dana osoba umiera, jej psychika zostaje uwięziona w "
+"środku i żyje własnym życiem pozagrobowym."
 
 #. [attack]: type=cold
 #. [attack]: type=blade
@@ -21308,8 +21304,7 @@ msgstr ""
 "potrzebuje pomocy Mehira."
 
 #. [attack]: type=pierce
-#: To_Lands_Unknown\units\HoRashti.cfg:95
-#: To_Lands_Unknown\units\Rashti.cfg:95
+#: To_Lands_Unknown\units\HoRashti.cfg:95 To_Lands_Unknown\units\Rashti.cfg:95
 #: To_Lands_Unknown\units\TrueRashti.cfg:95
 msgid "divine spear"
 msgstr "boska włócznia"
@@ -21323,7 +21318,7 @@ msgid "iceball"
 msgstr "kula lodu"
 
 #. [variation]: race=eoma_summoner
-#: To_Lands_Unknown\units\Jaffar.cfg:46 To_Lands_Unknown\units\Jaffar.cfg:90
+#: To_Lands_Unknown\units\Jaffar.cfg:46
 msgid "Grand Summoner"
 msgstr "Wielki Przywoływacz"
 
@@ -21352,15 +21347,6 @@ msgstr "ostateczny krąg"
 
 #. [regenerate]: id=eoma_healing
 #: To_Lands_Unknown\units\LastSummoner.cfg:121
-#, fuzzy
-#| msgid ""
-#| "This unit is equipped with the most powerful kind of magical circle. The "
-#| "owner can recruit and recall units without being in keeps (it doesn’t "
-#| "work in forests). All adjacent friendly units fight better (+125%, +100%, "
-#| "+75%, +50%, +25% — levels 0, 1, 2, 3, 4 respectively), are healed by 8 "
-#| "points, and receive a +20% bonus to their fire, cold, and arcane "
-#| "resistances. At the beginning of each turn, all adjacent enemy units are "
-#| "slowed and receive 8 points of damage."
 msgid ""
 "This unit is equipped with the most powerful kind of magical circle. The "
 "owner can recruit and recall units without being in keeps (it doesn’t work "
@@ -21370,41 +21356,34 @@ msgid ""
 "beginning of each turn, all adjacent enemy units are slowed and receive 8 "
 "points of damage. Owner regenerats 12 HP per turn."
 msgstr ""
-"Ta jednostka dysponuje potężnym magicznym kręgiem. Dzięki niemu może "
-"rekrutować i przywoływać jednostki bez konieczności przebywania w zamku. "
-"Przyjazne jednostki stojące na tym kręgu walczą lepiej (+125%, +100%, +75%, "
-"+50%, +25% - poziomy 0, 1, 2, 3, 4), regenerują się oraz otrzymują +20% "
-"bonus do odporności na ogień, chłód i tajemny typ obrażeń. Na początku "
-"każdej tury wszystkie przyległe wrogie jednostki zostają spowolnione i "
-"otrzymują obrażenia."
+"Ta jednostka jest wyposażona w najpotężniejszy rodzaj magicznego kręgu. "
+"Właściciel może rekrutować i przywoływać jednostki, nie będąc w twierdzy "
+"(nie działa to w lasach). Wszystkie przyległe przyjazne jednostki walczą "
+"lepiej (+125%, +100%, +75%, +50%, +25% - odpowiednio poziomy 0, 1, 2, 3, 4), "
+"są leczone o 12 punktów i otrzymują premię +20% do odporności na ogień, "
+"zimno i magię. Na początku każdej tury wszystkie sąsiadujące jednostki wroga "
+"zostają spowolnione i otrzymują 8 pkt. obrażeń. Właściciel regeneruje 12 PŻ "
+"na turę."
 
 #. [abilities]
 #: To_Lands_Unknown\units\LastSummoner.cfg:237
-#, fuzzy
-#| msgid "Summon Fire Elemental"
 msgid "Summon Fire Avatar"
-msgstr "Przywołaj Żywiołaka Ognia"
+msgstr "Przywołaj Awatara Ognia"
 
 #. [abilities]
 #: To_Lands_Unknown\units\LastSummoner.cfg:238
-#, fuzzy
-#| msgid "Summon Water Elemental"
 msgid "Summon Water Avatar"
-msgstr "Przywołaj Żywiołaka Wody"
+msgstr "Przywołaj Awatara Wody"
 
 #. [abilities]
 #: To_Lands_Unknown\units\LastSummoner.cfg:239
-#, fuzzy
-#| msgid "Summon Air Elemental"
 msgid "Summon Air Avatar"
-msgstr "Przywołaj Żywiołaka Powietrza"
+msgstr "Przywołaj Awatara Powietrza"
 
 #. [abilities]
 #: To_Lands_Unknown\units\LastSummoner.cfg:240
-#, fuzzy
-#| msgid "Summon Earth Elemental"
 msgid "Summon Earth Avatar"
-msgstr "Przywołaj Żywiołaka Ziemi"
+msgstr "Przywołaj Awatara Ziemi"
 
 #. [unit_type]: id=TLU_Living_Gate, race=eoma_magical
 #: To_Lands_Unknown\units\Living_Gate.cfg:4
