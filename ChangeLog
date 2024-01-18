@@ -1,6 +1,108 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.9
+
+- General
+	* it is now possible to get a Jinni who can summon other units (see S15 changelog entry)
+	* added a warning about consequences of using custom modifications
+	
+-Graphics
+	* the campaign uses the new [screen_fade] technique in versions above 1.17.22
+	* campaign-specific units now have 24fps standing animations
+	* both Rashti and True Rashti have movement and attack animations now
+	* added non-combat variants for both Rashti and True Rashti
+
+- Items
+	* golden carpet no longer gives hit and run (since Carpet Master now has an AMLA that gives hit and run anyway), and now also explicitly states that it gives 1 AMLA if already at max level (so it's now a feature instead of bug)
+	* fixed incorrect filter for the 'cap of power' artifact - now it can be equipped on regular Grand Summoners
+
+- Units & Abilities
+	* Rashti: XP from 200 to 120; replaced 'regenerates +8' with 'regenerates +9'
+	* True Rashti: XP from 250 to 150; changed summon costs
+	* Last Summoner: blade/impact/pierce resistance from 10% to 15%; the ultimate circle now heals and regenerates +12 instead of +8 HP per turn; the unit now summons lvl2 elementals instead of lvl1 ones; replaced 'magical' with 'very skilled' for all melee attacks to new match Summon Master's stats
+
+- AMLAs
+	* removed Mehir's 'doom scrolling' AMLA (its effect is now merged with the circle of destruction first strike AMLA)
+	* renamed Mehir's 'give to the poor' AMLA to 'resourceful'
+	* Rashti's strength AMLA now applies the following effects '+2 scimitar damage, +4 spear damage, +20% XP' instead of '+10% melee damage'
+	* Rashti's magic AMLA now applies the following effects '+2 fireball damage, +3 iceball damage, +6 lightbeam damage, +20% XP' instead of '+10% magic damage'
+	* removed Rashti's 'intellect' AMLA as part of rebalancing her XP
+	* Rashti's majesty AMLA now increases max XP by 33%
+	* added a regular HP AMLA for Rashti
+	* removed the 'spawn gates' AMLA from the Last Summoner
+
+- Scenarios
+	> scenario 00 - Prologue:
+		* enabled the 'cutscene_minimal' theme in the scenario
+		* water elemental is now 1g cheaper
+		* minor improvements
+	> scenario 02 - Central Palace:
+		* enabled the 'cutscene_minimal' theme in the scenario
+		* added some badass-exclusive lines
+	> scenario 04 - Southern Nations:
+		* changed some impassable tiles to unwalkable ones
+		* Roc Tamer is now used instead of Roc Master on most difficulties (hard still uses roc master)
+		* rebalanced the scenario around barbarians having 1 movecost on sand and better sand defense
+	> scenario 05 - Jungle of Life:
+		* replaced Jungle Guardians with Temple Guards
+	> scenario 06 - Fire Canyon:
+		* fixed a bug where the scenario could not be finished under certain circumstances in badass mode
+		* rebalanced the scenario around barbarians having 1 movecost on sand and better sand defense
+	> scenario 08 - Ka-Gatta:
+		* decreased the turn limit on all difficulties
+	> scenario 10 - Chaos:
+		* Dimensional Gates are no longer affected by the portal
+		* improved some lines of dialog
+	> scenario 11 - Message:
+		* added some badass-exclusive lines
+	> scenario 14 - Tar-Tabar:
+		* added some badass-exclusive lines
+	> scenario 15 - Abyssal Rebellion:
+		* if the player wins the scenario with Wonderful or Mystical Jinni present on the map, that Jinni will become capable of summoning other units in the next scenarios
+		* various dialog improvements
+	> scenario 16 - Defense of Saffaros:
+		* enabled the fast_ai in the scenario
+		* Dedylos can now recruit javelineers and heavy cavalry
+		* improved hydra waves
+		* added a special RGB Hydra event in badass mode
+		* minor map tweaks
+	> scenario 18 - The City of Light:
+		* added some badass-exclusive lines
+	> scenario 19 - Sky Kingdom:
+		* improved the 'teleport' help
+		* added loyal trait to Golden Mages
+		* added a Titan Golem to the map
+	> scenario 21 - Skydock:
+		* Magical Eyes are now completely immobilized
+		* replaced some golems with Titan Golems
+	> scenario 22 - North Pole:
+		* Ums now get a frozen defense bonus just like other units
+		* added some badass-exclusive lines
+		* added a message about units becoming loyal from now on
+	> scenario 23 - Ruins:
+		* added some badass-exclusive lines
+		* improved dialog
+		* summoned units are now loyal too
+		* improved enemy waves algorithm
+		* enemy waves include new unit types
+	> scenario 24 - Epilouge:
+		* enabled the 'cutscene_minimal' theme in the scenario
+		* added a message about the possibility of supporting the campaign development via donations
+- Code
+	* used FLYING_SUMMON_FILTER macro for summonable flying units
+	* Fire Elemental can no longer be summoned on water; Water Elemental can no longer be summoned on Q*
+	* tweaks related to wmlindent
+	* refactored S00 code
+	* dropped support for cutscene playback in safe mode
+	* removed some unused attributes when spawning units in some scenarios
+	* fixed issues with Mehir's portrait
+	* added the loyal trait to various units where it made sense
+	* loyal code refactor
+	* the campaign relies on [load_resource] now
+	* prepared the campaign code for the addition of Master Banisher in the future
+	* other minor improvements
+
 Version 3.8
 
 - General
