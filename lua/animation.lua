@@ -58,7 +58,6 @@ The function must return the absolute x,y coordinates of the associated point
 x, y = get_point_on_current_segment_from_offset( offset )
 ]=]
 
-local helper = wesnoth.require "lua/helper.lua"
 local items = wesnoth.require "lua/wml/items.lua"
 
 -- Linear Algebra
