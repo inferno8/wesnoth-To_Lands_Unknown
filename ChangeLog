@@ -1,6 +1,37 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.10
+
+- General
+	* implemented achievements
+
+- Artifacts
+	* updated the Golden Carpet trait description
+
+- Scenarios
+	> scenario 04 - Southern Nations:
+		* fixed incorrect Salamander Messenger id
+		* Salamander Messenger warns Mehir about incoming enemy reinforcements only when they are not already present on the map
+	> scenario 08 - Ka-gatta:
+		* disabled micro_ai for spiders
+	> scenario 12 - Siege of Mag-Magar:
+		* fixed a bug where jinni advice would hint the destruction of the city portal after the fact
+
+- Code
+	* the add-on uses eoma_ movetypes now
+	* removed the MEHIR_AURAS macro
+	* updated all unit ids to match EoMa 4.7 update
+	* removed helper.lua
+	* rename some unit sprites and portraits
+	* improved DGATES_PAY2LVL unit filter
+	* fixed incorrect textdomains
+	* fixed some typos
+
+- Translations
+	* updated the translation template file and all .po files
+	* updated the Polish translation
+
 Version 3.9
 
 - General
