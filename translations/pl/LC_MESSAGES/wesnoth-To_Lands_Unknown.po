@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-05-01 17:48 UTC\n"
-"PO-Revision-Date: 2024-01-18 12:16+0100\n"
+"PO-Revision-Date: 2024-05-01 19:50+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -65,8 +65,7 @@ msgstr ""
 
 #. [campaign]: id=To_Lands_Unknown, description=<span color='#BCB088' size='large'>
 #. [achievement_group]
-#: To_Lands_Unknown/_main.cfg:57 To_Lands_Unknown/_main.cfg:67
-#: To_Lands_Unknown/achievements.cfg:9
+#: To_Lands_Unknown/_main.cfg:57 To_Lands_Unknown/achievements.cfg:9
 msgid "To Lands Unknown"
 msgstr "Ku Nieznanym Krainom"
 
@@ -143,79 +142,69 @@ msgstr "Testowanie"
 #. [achievement]: id=tlu_commander
 #: To_Lands_Unknown/achievements.cfg:13
 msgid "Commander"
-msgstr ""
+msgstr "Dowódca"
 
 #. [achievement]: id=tlu_commander
 #: To_Lands_Unknown/achievements.cfg:14
-#, fuzzy
-#| msgid "Move Mehir to the Palace of Omniscience"
 msgid "Advance Mehir to the rank of Commander."
-msgstr "Dostań się Mehirem do Pałacu Wszechwiedzy"
+msgstr "Awansuj Mehira do rangi Dowódcy."
 
 #. [achievement]: id=tlu_leader
 #: To_Lands_Unknown/achievements.cfg:20
-#, fuzzy
-#| msgid "A New Leader"
 msgid "Leader"
-msgstr "Nowy Przywódca"
+msgstr "Przywódca"
 
 #. [achievement]: id=tlu_leader
 #: To_Lands_Unknown/achievements.cfg:21
-#, fuzzy
-#| msgid "Move Mehir to the Palace of Omniscience"
 msgid "Advance Mehir to the rank of Leader."
-msgstr "Dostań się Mehirem do Pałacu Wszechwiedzy"
+msgstr "Awansuj Mehira do rangi przywódcy."
 
 #. [achievement]: id=tlu_last_summoner
 #: To_Lands_Unknown/achievements.cfg:27
-#, fuzzy
-#| msgid "The Last Summoner"
 msgid "Last Summoner"
 msgstr "Ostatni Przywoływacz"
 
 #. [achievement]: id=tlu_last_summoner
 #: To_Lands_Unknown/achievements.cfg:28
-#, fuzzy
-#| msgid "The Last Summoner"
 msgid "Become the Last Summoner."
-msgstr "Ostatni Przywoływacz"
+msgstr "Zostań Ostatnim Przywoływaczem"
 
 #. [achievement]: id=tlu_successful_purchase
 #: To_Lands_Unknown/achievements.cfg:35
 msgid "Successful Purchase"
-msgstr ""
+msgstr "Udany zakup"
 
 #. [achievement]: id=tlu_successful_purchase
 #: To_Lands_Unknown/achievements.cfg:36
 msgid "Keep the water elemental from Prologue alive."
-msgstr ""
+msgstr "Utrzymaj żywiołaka wody kupionego w Prologu przy życiu."
 
 #. [achievement]: id=tlu_art_of_the_deal
 #: To_Lands_Unknown/achievements.cfg:42
-#, fuzzy
-#| msgid "Death of the Elder"
 msgid "Art of the deal"
-msgstr "Śmierć Starszego"
+msgstr "Sztuka negocjowania"
 
 #. [achievement]: id=tlu_art_of_the_deal
 #: To_Lands_Unknown/achievements.cfg:43
 msgid "Buy a water elemental for a discount in badass mode."
-msgstr ""
+msgstr "Kup żywiołaka wody ze zniżką w trybie hardkorowym."
 
 #. [achievement]: id=tlu_fortune_teller
 #: To_Lands_Unknown/achievements.cfg:50
 msgid "Fortune Teller"
-msgstr ""
+msgstr "Jasnowidz"
 
 #. [achievement]: id=tlu_fortune_teller
 #: To_Lands_Unknown/achievements.cfg:51
 msgid "Pay the wonderful jinni in Prologue (or not) to see Mehir's future."
 msgstr ""
+"Zapłać wspaniałemu dżinnowi w Prologu (lub nie), aby poznać przyszłość "
+"Mehira."
 
 #. [achievement]: id=tlu_old_friends
 #: To_Lands_Unknown/achievements.cfg:58
 msgid "Old Friends"
-msgstr ""
+msgstr "Starzy przyjaciele"
 
 #. [achievement]: id=tlu_old_friends
 #: To_Lands_Unknown/achievements.cfg:59
@@ -223,110 +212,110 @@ msgid ""
 "Keep all original squad members from Highiest Tiers alive (Alib, Kalib, "
 "Afez, Muzaf, Safay)."
 msgstr ""
+"Zachowaj przy życiu wszystkich oryginalnych członków drużyny ze scenariusza "
+"Njwyższe Kondygnacje (Alib, Kalib, Afez, Muzaf, Safay)."
 
 #. [achievement]: id=tlu_trusty_scout
 #: To_Lands_Unknown/achievements.cfg:65
 msgid "Trusty Scout"
-msgstr ""
+msgstr "Zaufany zwiadowca"
 
 #. [achievement]: id=tlu_trusty_scout
 #: To_Lands_Unknown/achievements.cfg:66
 msgid "Keep Bakha from Near the Jungle alive."
-msgstr ""
+msgstr "Zachowaj Bakhę z misji Blisko Dżungli przy życiu."
 
 #. [achievement]: id=tlu_pyro
 #: To_Lands_Unknown/achievements.cfg:72
 msgid "Pyro"
-msgstr ""
+msgstr "Podpalacz"
 
 #. [achievement]: id=tlu_pyro
 #: To_Lands_Unknown/achievements.cfg:73
-#, fuzzy
-#| msgid "A fire elemental moves on a wooden bridge"
 msgid "Keep the fire elemental alive in Near the Jungle."
-msgstr "Żywiołak ognia wchodzi na drewniany most"
+msgstr "Utrzymaj żywiołaka ognia przy życiu w misji Blisko Dżungli."
 
 #. [achievement]: id=tlu_no_time_for_reinforcements
 #: To_Lands_Unknown/achievements.cfg:79
-#, fuzzy
-#| msgid "team_name^Reinforcements"
 msgid "No Time For Reinforcements"
-msgstr "Wsparcie"
+msgstr "Nie ma czasu na wsparcie"
 
 #. [achievement]: id=tlu_no_time_for_reinforcements
 #: To_Lands_Unknown/achievements.cfg:80
 msgid "Defeat Brogh'ur before Rhaxiz arrives at his keep in Southern Nations."
 msgstr ""
+"Pokonaj Brogh'ura, zanim Rhaxiz dotrze do swojej twierdzy w misji Południowe "
+"Nacje."
 
 #. [achievement]: id=tlu_live_to_tell
 #: To_Lands_Unknown/achievements.cfg:86
 msgid "Live To Tell"
-msgstr ""
+msgstr "Żyj by opowiedzieć"
 
 #. [achievement]: id=tlu_live_to_tell
 #: To_Lands_Unknown/achievements.cfg:87
 msgid "Spare the Goblin Leader in Fire Canyon in badass mode."
-msgstr ""
+msgstr "Oszczędź przywódcę goblinów w Kanionie Ognia w trybie hardkorowym."
 
 #. [achievement]: id=tlu_evesdropping
 #: To_Lands_Unknown/achievements.cfg:93
 msgid "Evesdropping"
-msgstr ""
+msgstr "Podsłuchiwanie"
 
 #. [achievement]: id=tlu_evesdropping
 #: To_Lands_Unknown/achievements.cfg:94
 msgid "Evesdrop a conversation in Dome of Elements."
-msgstr ""
+msgstr "Podsłuchaj rozmowę w Kopule Żywiołów."
 
 #. [achievement]: id=tlu_archeologist
 #: To_Lands_Unknown/achievements.cfg:100
 msgid "Archeologist"
-msgstr ""
+msgstr "Archeolog"
 
 #. [achievement]: id=tlu_archeologist
 #: To_Lands_Unknown/achievements.cfg:101
 msgid "Find and explore all obelisks in Ka-gatta."
-msgstr ""
+msgstr "Znajdź i zbadaj wszystkie obeliski w Ka-gatta."
 
 #. [achievement]: id=tlu_treasure_hunter
 #: To_Lands_Unknown/achievements.cfg:107
 msgid "Treasure Hunter"
-msgstr ""
+msgstr "Łowca skarbów"
 
 #. [achievement]: id=tlu_treasure_hunter
 #: To_Lands_Unknown/achievements.cfg:108
 msgid "Find all of Ka-gatta's artifacts."
-msgstr ""
+msgstr "Znajdź wszystkie artefakty w Ka-gatta."
 
 #. [achievement]: id=tlu_stylish
 #: To_Lands_Unknown/achievements.cfg:114
 msgid "Stylish"
-msgstr ""
+msgstr "Stylowy"
 
 #. [achievement]: id=tlu_stylish
 #: To_Lands_Unknown/achievements.cfg:115
 msgid "Give Mehir all compatible artifacts."
-msgstr ""
+msgstr "Daj Mehirowi wszystkie kompatybilne artefakty."
 
 #. [achievement]: id=tlu_ghost_busters
 #: To_Lands_Unknown/achievements.cfg:121
 msgid "Ghost Busters!"
-msgstr ""
+msgstr "Pogromcy Duchów!"
 
 #. [achievement]: id=tlu_ghost_busters
 #: To_Lands_Unknown/achievements.cfg:122
 msgid "Defeat the ghost in Ka-gatta."
-msgstr ""
+msgstr "Pokonaj ducha w Ka-gatta."
 
 #. [achievement]: id=tlu_play_it_cool
 #: To_Lands_Unknown/achievements.cfg:128
 msgid "Play It Cool"
-msgstr ""
+msgstr "Rozegraj to na chłodno"
 
 #. [achievement]: id=tlu_play_it_cool
 #: To_Lands_Unknown/achievements.cfg:129
 msgid "Complete the Chaos scenario without activating the portal."
-msgstr ""
+msgstr "Ukończ scenariusz Chaos bez aktywowania portalu."
 
 #. [achievement]: id=tlu_edward
 #. [then]
@@ -338,85 +327,77 @@ msgstr "Edward"
 #. [achievement]: id=tlu_edward
 #: To_Lands_Unknown/achievements.cfg:136
 msgid "Help two abyssmals get together."
-msgstr ""
+msgstr "Pomóż dwóm istotom z Otchłani się zejść"
 
 #. [achievement]: id=tlu_deal_with_it
 #: To_Lands_Unknown/achievements.cfg:143
-#, fuzzy
-#| msgid "Deal with it."
 msgid "Deal With It"
-msgstr "Pogódź się z tym."
+msgstr "Pogódź się z tym"
 
 #. [achievement]: id=tlu_deal_with_it
 #: To_Lands_Unknown/achievements.cfg:144
 msgid "Leave the banishment lesson in Tar-Tabar."
-msgstr ""
+msgstr "Opuść lekcję wyganiania w Tar-Tabar."
 
 #. [achievement]: id=tlu_not_your_girlfriend
 #: To_Lands_Unknown/achievements.cfg:150
 msgid "Not Your Girlfriend"
-msgstr ""
+msgstr "Nie twoja dziewczyna"
 
 #. [achievement]: id=tlu_not_your_girlfriend
 #: To_Lands_Unknown/achievements.cfg:151
 msgid "Click Rashti way too many times."
-msgstr ""
+msgstr "Kliknij Rashti zbyt wiele razy."
 
 #. [achievement]: id=tlu_perfect_harmony
 #: To_Lands_Unknown/achievements.cfg:158
 msgid "Perfect Harmony"
-msgstr ""
+msgstr "Doskonała Harmonia"
 
 #. [achievement]: id=tlu_perfect_harmony
 #: To_Lands_Unknown/achievements.cfg:159
-#, fuzzy
-#| msgid "Siege of Kharos"
 msgid "Reunite Rashti in Siege of Kharos."
-msgstr "Oblężenie Kharos"
+msgstr "Zjednocz Rashti w misji Oblężenie Kharos"
 
 #. [achievement]: id=tlu_collector
 #: To_Lands_Unknown/achievements.cfg:166
 msgid "Collector"
-msgstr ""
+msgstr "Zbieracz"
 
 #. [achievement]: id=tlu_collector
 #: To_Lands_Unknown/achievements.cfg:167
 msgid "Collect 30 Dimensional Gates."
-msgstr ""
+msgstr "Zbierz 30 Wrót Żywiołów."
 
 #. [achievement]: id=tlu_bookworm
 #: To_Lands_Unknown/achievements.cfg:173
 msgid "Bookworm"
-msgstr ""
+msgstr "Mól Książkowy"
 
 #. [achievement]: id=tlu_bookworm
 #: To_Lands_Unknown/achievements.cfg:174
 msgid "Read all three books in Enlightenment."
-msgstr ""
+msgstr "Przeczytaj wszystkie trzy książki w trakcie scenariusza Oświecenie."
 
 #. [achievement]: id=tlu_jinn_wisdom
 #: To_Lands_Unknown/achievements.cfg:181
-#, fuzzy
-#| msgid "Jinni"
 msgid "Jinn Wisdom"
-msgstr "Dżin"
+msgstr "Mądrość Dżinów"
 
 #. [achievement]: id=tlu_jinn_wisdom
 #: To_Lands_Unknown/achievements.cfg:182
 msgid "Hear all jinni advice."
-msgstr ""
+msgstr "Wysłuchaj wszystkich rad dżina"
 
 #. [achievement]: id=tlu_badass
 #: To_Lands_Unknown/achievements.cfg:188
-#, fuzzy
-#| msgid "Toggle Badass Mode"
 msgid "Badass Mode"
-msgstr "Przełącz tryb hardkorowy"
+msgstr "Tryb hardkorowy"
 
 #. [achievement]: id=tlu_badass
 #: To_Lands_Unknown/achievements.cfg:189
 msgid "Complete the campaign in badass mode."
-msgstr ""
+msgstr "Ukończ kampanię w trybie hardkorowym."
 
 #: To_Lands_Unknown/dependency-utils.cfg:22
 msgid ""
@@ -565,7 +546,7 @@ msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_FAST_SUMMON
 #. [advancement]: id=AMLA_FAST_SUMMON
-#: To_Lands_Unknown/macros/amla.cfg:239 To_Lands_Unknown/main-macros.cfg:289
+#: To_Lands_Unknown/macros/amla.cfg:239
 msgid "Summoning a unit only costs 1 MP, but you may not attack, +15% XP."
 msgstr ""
 "Przywołanie jednostki kosztuje tylko 1 punkt ruchu, ale jednostka nie może "
@@ -643,7 +624,7 @@ msgstr ""
 "poziom 3 lub 4, i tak dalej (z wyjątkiem magicznych/nieumarłych)."
 
 #. [advancement]: id=AMLA_HP
-#: To_Lands_Unknown/macros/amla.cfg:413 To_Lands_Unknown/macros/amla.cfg:823
+#: To_Lands_Unknown/macros/amla.cfg:413
 msgid "Max HP bonus +5, MAX XP +10%"
 msgstr "Bonus do maksymalnych punktów życia +5, MAX XP +30%"
 
@@ -859,16 +840,6 @@ msgstr ""
 "Czy jednostka powinna podnieść czapkę?"
 
 #: To_Lands_Unknown/macros/artifact-descriptions.cfg:38
-#, fuzzy
-#| msgid ""
-#| "Richly decorated plates, solid workmanship and magical symbols: this must "
-#| "be the legendary armor made by the Ka-Gattans blacksmiths.\n"
-#| "\n"
-#| "- Increases physical resistances by 25%\n"
-#| "- Increases fire and cold resistances by 20%\n"
-#| "- Decreases arcane resistance by 15%\n"
-#| "\n"
-#| "Should this unit pick up the armor?"
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols: this must be "
 "the legendary armor made by the Ka-gattans blacksmiths.\n"
@@ -880,7 +851,7 @@ msgid ""
 "Should this unit pick up the armor?"
 msgstr ""
 "Bogate wzornictwo, solidne wykonanie i magiczne symbole: to musi być "
-"legendarny pancerz Ka-Gattan.\n"
+"legendarny pancerz Ka-gattan.\n"
 "\n"
 "- zwiększa fizyczne odporności o 25%\n"
 "- zwiększa odporność na ogień i chłód o 20%\n"
@@ -1303,14 +1274,6 @@ msgstr "Kirys Przodków"
 
 #. [object]
 #: To_Lands_Unknown/macros/items.cfg:924
-#, fuzzy
-#| msgid ""
-#| "Richly decorated plates, solid workmanship and magical symbols: this must "
-#| "be the legendary armor of Ka-Gattans.\n"
-#| "\n"
-#| "- Increases physical resistances by 25%\n"
-#| "- Increases fire and cold resistances by 20%\n"
-#| "- Decreases arcane resistance by 15%"
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols: this must be "
 "the legendary armor of Ka-gattans.\n"
@@ -1320,7 +1283,7 @@ msgid ""
 "- Decreases arcane resistance by 15%"
 msgstr ""
 "Bogate wzornictwo, solidne wykonanie i magiczne symbole: to musi być "
-"legendarny pancerz Ka-Gattan.\n"
+"legendarny pancerz Ka-gattan.\n"
 "\n"
 "- zwiększa fizyczne odporności o 25%\n"
 "- zwiększa odporność na ogień i chłód o 20%\n"
@@ -2212,13 +2175,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:471
-#, fuzzy
-#| msgid ""
-#| "There, the High Council had gathered for a secret meeting. It reached "
-#| "Mehir's ears that Tashkar, the head of Tar-Tabar, has gone missing, after "
-#| "having set out to Ka-Gatta with some of his troops. The reason behind the "
-#| "expedition was left secret, but, to his surprise, Mehir was chosen to "
-#| "find, and if necessary, rescue - the leader and his troops."
 msgid ""
 "There, the High Council had gathered for a secret meeting. It reached "
 "Mehir's ears that Tashkar, the head of Tar-Tabar, has gone missing, after "
@@ -2229,7 +2185,7 @@ msgstr ""
 "Na tajnym posiedzeniu Rady Starszych wyjawiono Mehirowi informację o "
 "zaginięciu Tashkara, przywódcy Tar-Tabaru. Sprawa była niepokojąca, ponieważ "
 "niektórzy z mieszkańców miasta widzieli jak Tashkar wyruszył z częścią "
-"swojej armii do Ka-Gatty, opuszczonej od setek lat, pierwszej stolicy "
+"swojej armii do Ka-gatty, opuszczonej od setek lat, pierwszej stolicy "
 "Przywoływaczy. Rada nie wyjawiła czemu tam wyruszył, ale rozkazała Mehirowi "
 "odnaleźć — i jeśli to konieczne, uratować — przywódcę i jego odziały."
 
@@ -2264,13 +2220,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:482
-#, fuzzy
-#| msgid ""
-#| "After the creation of al-Kamija, Ka-Gatta turned into catacombs, full of "
-#| "graves of the first summoners. Around 400 years has passed since then. "
-#| "There are legends about the ancient vaults, full of forgotten artifacts "
-#| "of immense power, protected by ancient guardians. There were a few who "
-#| "dared to try confirm that, but none returned..."
 msgid ""
 "After the creation of al-Kamija, Ka-gatta turned into catacombs, full of "
 "graves of the first summoners. Around 400 years has passed since then. There "
@@ -2278,7 +2227,7 @@ msgid ""
 "power, protected by ancient guardians. There were a few who dared to try "
 "confirm that, but none returned..."
 msgstr ""
-"Po stworzeniu al-Kamidży, Ka-Gatta zamieniła się w katakumby, pełne grobów "
+"Po stworzeniu al-Kamidży, Ka-gatta zamieniła się w katakumby, pełne grobów "
 "pierwszych przywoływaczy. 400 lat minęło od tamtych wydarzeń. Jest wiele "
 "legend na temat starożytnych krypt pełnych zapomnianych artefaktów o "
 "niesamowitej mocy, chronionych przez wiecznych strażników. Nieliczni "
@@ -2900,7 +2849,7 @@ msgid " exp"
 msgstr "+1 XP"
 
 #. [unstore_unit]
-#: To_Lands_Unknown/main-macros.cfg:95 To_Lands_Unknown/main-macros.cfg:138
+#: To_Lands_Unknown/main-macros.cfg:95
 msgid "gold"
 msgstr "szt. złota"
 
@@ -8184,24 +8133,17 @@ msgstr "Może powinniśmy go ukarać zamiast awansować?"
 
 #. [message]
 #: To_Lands_Unknown/scenarios/07_Dome_of_Elements.cfg:613
-#, fuzzy
-#| msgid ""
-#| "Of course not! Honestly in hindsight sending someone as incompetent as "
-#| "Jaffar was a mistake. It is in part thanks to that stolen gold that Mehir "
-#| "managed to secure peace between us and the lizards. Besides, it's not not "
-#| "like you don't steal large amounts of gold from the treasury from time to "
-#| "time..."
 msgid ""
 "Of course not! Honestly in hindsight sending someone as incompetent as "
 "Jaffar was a mistake. It is in part thanks to that stolen gold that Mehir "
 "managed to secure peace between us and the lizards. Besides, it's not like "
 "you don't steal large amounts of gold from the treasury from time to time..."
 msgstr ""
-"Oczywiście, że nie! Już na samym początku popełniliśmy błąd wysyłając tam "
-"kogoś tak niekompetentnego jak Jaffar. Właściwie to dzięki temu skradzionemu "
-"złotu Mehir zdołał zagwarantować pokój między nami a jaszczurkami. Poza tym "
-"to nie pierwszy raz gdy duże kwoty znikają ze skarbca. Zdarza nam się to "
-"wszystkim od czasu do czasu..."
+"Oczywiście, że nie! Szczerze mówiąc, z perspektywy czasu wysłanie kogoś tak "
+"niekompetentnego jak Jaffar było błędem. To po części dzięki temu "
+"skradzionemu złotu Mehirowi udało się zapewnić pokój między nami a "
+"jaszczurami. Poza tym, to nie tak, że od czasu do czasu nie kradnie się "
+"dużych ilości złota ze skarbca..."
 
 #. [message]
 #: To_Lands_Unknown/scenarios/07_Dome_of_Elements.cfg:619
@@ -8209,6 +8151,8 @@ msgid ""
 "Well, it's not like you don't steal large amounts of gold from the treasury "
 "from time to time..."
 msgstr ""
+"Cóż, to nie tak, że od czasu do czasu nie kradniesz dużych ilości złota ze "
+"skarbca..."
 
 #. [message]
 #: To_Lands_Unknown/scenarios/07_Dome_of_Elements.cfg:625
@@ -8598,14 +8542,6 @@ msgstr ""
 
 #. [value]: id=gcarpet # wmllint: ignore
 #: To_Lands_Unknown/scenarios/08_Ka-gatta.cfg:816
-#, fuzzy
-#| msgid ""
-#| "This unit flies on the ancient Golden Carpet.\n"
-#| "\n"
-#| "Effects:\n"
-#| "Speed increases by 50%\n"
-#| "Hit and Run +2 ability\n"
-#| "+10% terrain defense bonus"
 msgid ""
 "This unit flies on the ancient Golden Carpet.\n"
 "\n"
@@ -8617,7 +8553,6 @@ msgstr ""
 "\n"
 "Efekty:\n"
 "Prędkość wzrasta o 50%\n"
-"Zdolność uderz i uciekaj +2\n"
 "+10% do obrony terenowej"
 
 #. [message]: race=eoma_summoner
@@ -11784,28 +11719,20 @@ msgstr "Bardzo dobrze. *odkłada sejmitar*"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/14_Tar-Tabar.cfg:510
-#, fuzzy
-#| msgid ""
-#| "I certainly got quite the taste of Red Abyss back in Ka-Gatta... I was "
-#| "sure as hell lucky that Rashti closed the portal in time..."
 msgid ""
 "I certainly got quite the taste of Red Abyss back in Ka-gatta... I was sure "
 "as hell lucky that Rashti closed the portal in time..."
 msgstr ""
-"Tak, miałem już do czynienia z Czerwoną Otchłanią w Ka-Gattcie… Całe "
+"Tak, miałem już do czynienia z Czerwoną Otchłanią w Ka-gattcie… Całe "
 "szczęście Rashti zamknęła portal w samą porę..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/14_Tar-Tabar.cfg:519
-#, fuzzy
-#| msgid ""
-#| "Yeah, I certainly got quite the taste of Red Abyss back in Ka-Gatta... I "
-#| "was sure as hell lucky that Rashti closed the portal in time..."
 msgid ""
 "Yeah, I certainly got quite the taste of Red Abyss back in Ka-gatta... I was "
 "sure as hell lucky that Rashti closed the portal in time..."
 msgstr ""
-"Tak, miałem już do czynienia z Czerwoną Otchłanią w Ka-Gattcie… Całe "
+"Tak, miałem już do czynienia z Czerwoną Otchłanią w Ka-gattcie… Całe "
 "szczęście Rashti zamknęła portal w samą porę..."
 
 #. [message]: speaker=Instructor
@@ -12299,13 +12226,6 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown/scenarios/14_Tar-Tabar.cfg:914
-#, fuzzy
-#| msgid ""
-#| "It certainly isn't, my liege. The Master of Banisher has an entire "
-#| "collection of such dimensional gates in his mansion, though he doesn't "
-#| "show them to anyone, being paranoid about their irreplaceability, due to "
-#| "his... inability of banishment. Thus it will most likely remain as a "
-#| "mystery for now as to how those gates look."
 msgid ""
 "It certainly isn't, my liege. The Master of Banishers has an entire "
 "collection of such dimensional gates in his mansion, though he doesn't show "
@@ -13974,16 +13894,12 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/15_Abyssal_Rebellion.cfg:1892
-#, fuzzy
-#| msgid ""
-#| "The sphere can be given to a unit upon recall, like the artifacts from Ka-"
-#| "Gatta. It provides the bearer with an increase of 15% to all resistances."
 msgid ""
 "The sphere can be given to a unit upon recall, like the artifacts from Ka-"
 "gatta. It provides the bearer with an increase of 15% to all resistances."
 msgstr ""
 "Ta kula może być przekazana jednostce w momencie przywołania. Działa na tej "
-"samej zasadzie co artefakty z Ka-Gatty. Daje swojemu właścicielowi 15% "
+"samej zasadzie co artefakty z Ka-gatty. Daje swojemu właścicielowi 15% "
 "ochrony na wszystkie typy obrażeń."
 
 #. [message]: speaker=Rashti
@@ -16385,16 +16301,12 @@ msgstr "Zgadza się, jestem oficjalnym reprezentantem Nawyższej Rady Otchłani!
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/19_Sky_Kingdom.cfg:398
-#, fuzzy
-#| msgid ""
-#| "Wait a minute... you look an awful lot like the men who broke into our "
-#| "catacombs in Ka-Gatta!"
 msgid ""
 "Wait a minute... you look an awful lot like the men who broke into our "
 "catacombs in Ka-gatta!"
 msgstr ""
 "Chwila... wyglądacie łudząco podobnie do ludzi, którzy włamali się do "
-"naszych katakumb w Ka-Gattcie!"
+"naszych katakumb w Ka-gattcie!"
 
 #. [message]: speaker=Mastermage
 #: To_Lands_Unknown/scenarios/19_Sky_Kingdom.cfg:403
@@ -21663,8 +21575,7 @@ msgstr ""
 "potrzebuje pomocy Mehira."
 
 #. [attack]: type=pierce
-#: To_Lands_Unknown/units/HoRashti.cfg:95
-#: To_Lands_Unknown/units/Rashti.cfg:95
+#: To_Lands_Unknown/units/HoRashti.cfg:95 To_Lands_Unknown/units/Rashti.cfg:95
 #: To_Lands_Unknown/units/TrueRashti.cfg:95
 msgid "divine spear"
 msgstr "boska włócznia"
@@ -21678,7 +21589,7 @@ msgid "iceball"
 msgstr "kula lodu"
 
 #. [variation]: race=eoma_summoner
-#: To_Lands_Unknown/units/Jaffar.cfg:46 To_Lands_Unknown/units/Jaffar.cfg:90
+#: To_Lands_Unknown/units/Jaffar.cfg:46
 msgid "Grand Summoner"
 msgstr "Wielki Przywoływacz"
 
