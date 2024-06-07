@@ -257,7 +257,7 @@ function interpolation_methods.bspline( x_locs, y_locs, num_locs )
     end
 
     if num_locs < 4 then
-        helper.wml_error("[animate_path]: A B-spline path requires at least 4 points be specified")
+        wml.error("[animate_path]: A B-spline path requires at least 4 points be specified")
     end
     local index
 
@@ -269,7 +269,7 @@ function interpolation_methods.parabola( x_locs, y_locs, num_locs )
     -- assumes that the parabola opens up or down and that the points are specified in
     -- either increasing or decreasing order (second assumption allows determination of direction of travel)
     if num_locs ~= 3 then
-        helper.wml_error("[animate_path]: A parabola requires that exactly 3 points be specified")
+        wml.error("[animate_path]: A parabola requires that exactly 3 points be specified")
     end
     local A, b, index
     A = {{x_locs[0]*x_locs[0], x_locs[0], 1},
@@ -279,7 +279,7 @@ function interpolation_methods.parabola( x_locs, y_locs, num_locs )
     b = solve_system(A, b)
     A = nil
     if b == nil then
-        helper.wml_error("[animate_path]: The provided points do not form a parabola")
+        wml.error("[animate_path]: The provided points do not form a parabola")
     end
 
     local function get_parabola_path_length()
@@ -379,28 +379,28 @@ function wesnoth.wml_actions.animate_path(cfg)
         wesnoth.message("Animation skipped. To see the animation, upgrade to Battle for Wesnoth version 1.9.4 or later")
         return
     end
-    local hex_x = tonumber(cfg.hex_x) or helper.wml_error("Missing required hex_x= attribute in [animate_path]")
-    local hex_y = tonumber(cfg.hex_y) or helper.wml_error("Missing required hex_y= attribute in [animate_path]")
-    local temp = cfg.image or helper.wml_error("[animate_path] missing required image= attribute")
+    local hex_x = tonumber(cfg.hex_x) or wml.error("Missing required hex_x= attribute in [animate_path]")
+    local hex_y = tonumber(cfg.hex_y) or wml.error("Missing required hex_y= attribute in [animate_path]")
+    local temp = cfg.image or wml.error("[animate_path] missing required image= attribute")
     local images, num_images = load_list(temp)
     local frames = tonumber(cfg.frames) or num_images
     if frames < 2 then
-        helper.wml_error("[animate_path] requires frames be at least 2")
+        wml.error("[animate_path] requires frames be at least 2")
     end
-    local delay = tonumber(cfg.frame_length) or helper.wml_error("Missing required frame_length= attribute in [animate_path]")
+    local delay = tonumber(cfg.frame_length) or wml.error("Missing required frame_length= attribute in [animate_path]")
     local linger = cfg.linger
-    temp = cfg.x or helper.wml_error("[animate_path] missing required x= attribute")
+    temp = cfg.x or wml.error("[animate_path] missing required x= attribute")
     local x_locs, num_locs = load_list(temp)
-    temp = cfg.y or helper.wml_error("[animate_path] missing required y= attribute")
+    temp = cfg.y or wml.error("[animate_path] missing required y= attribute")
     local y_locs, num_y_locs = load_list(temp)
     if num_locs ~= num_y_locs then
-        helper.wml_error("The number of x and y values must be the same in [animate_path]")
+        wml.error("The number of x and y values must be the same in [animate_path]")
     end
     local transpose = cfg.transpose
 
     local interpolation = cfg.interpolation or "linear"
     if not interpolation_methods[interpolation] then
-        helper.wml_error("[animate_path]: Unknown interpolation method: "..interpolation)
+        wml.error("[animate_path]: Unknown interpolation method: "..interpolation)
     end
     if transpose then
         x_locs, y_locs = y_locs, x_locs
