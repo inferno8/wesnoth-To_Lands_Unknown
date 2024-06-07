@@ -4,9 +4,9 @@ codes=true
 -- skip showing files with no issues
 quiet=1
 -- skip showing undefined variable usage
--- there are thousands of warnings here because luacheck is unaware of Wesnoth's
+-- there can be warnings because luacheck is unaware of Wesnoth's
 -- lua environment and has no way to check which have been loaded
-global=false
+globals={"wesnoth","wml"}
 -- skip showing unused variables
 unused=false
 -- skip showing warnings about shadowing upvalues
