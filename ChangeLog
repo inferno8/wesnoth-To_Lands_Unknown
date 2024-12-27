@@ -1,6 +1,32 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.11
+
+- General
+	* 4 new achievements by IceSandslash: ultimate focus, swallow 'em all, fortifications, experience investment
+	* new 'swap ally' mechanics
+
+- Scenarios
+	> scenario 06 - Fire Canyon:
+		* fixed inconsistent Mehir movement on victory
+		* rescued lizards have proper TC now
+	> scenario 12 - Siege of Mag-Magar:
+		* changed Mystical Jinni's behavior on easier difficulties
+
+- Graphics
+    * new and updated portraits for some units
+    * improved skyship	
+	* optimized achievement icons
+	* adjusted Rashti's standing animation length
+
+- Code
+	* fixed incorrect variable name in S15
+	* added luacheck verification workflow
+	* changed helper.wml_error to wml.error
+	* bumped WESNOTH_VERSION number for [filter_ability]
+	* commented out jinni advice debug code in S23
+
 Version 3.10
 
 - General
