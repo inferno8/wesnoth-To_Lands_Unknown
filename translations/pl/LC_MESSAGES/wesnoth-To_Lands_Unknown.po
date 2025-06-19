@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-19 12:46 UTC\n"
-"PO-Revision-Date: 2024-05-01 19:50+0200\n"
+"PO-Revision-Date: 2025-06-19 14:52+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -117,8 +117,6 @@ msgstr "Opracowanie graficzne i mapy"
 
 #. [about]
 #: To_Lands_Unknown/about.cfg:16
-#, fuzzy
-#| msgid "WML coding"
 msgid "Coding"
 msgstr "Programowanie"
 
@@ -145,7 +143,7 @@ msgstr "Testowanie"
 #. [about]
 #: To_Lands_Unknown/about.cfg:145
 msgid "Ko-fi Supporters"
-msgstr ""
+msgstr "Darczyńcy Ko-Fi"
 
 #. [achievement]: id=tlu_commander
 #: To_Lands_Unknown/achievements.cfg:13
@@ -180,12 +178,12 @@ msgstr "Zostań Ostatnim Przywoływaczem"
 #. [achievement]: id=tlu_experience_investment
 #: To_Lands_Unknown/achievements.cfg:35
 msgid "Experience Investment"
-msgstr ""
+msgstr "Inwestycja w doświadczenie"
 
 #. [achievement]: id=tlu_experience_investment
 #: To_Lands_Unknown/achievements.cfg:36
 msgid "Mehir levels up as a result of Meditation's effect."
-msgstr ""
+msgstr "Mehir awansuje przy pomocy medytacji."
 
 #. [achievement]: id=tlu_successful_purchase
 #: To_Lands_Unknown/achievements.cfg:42
@@ -277,15 +275,11 @@ msgstr "Oszczędź przywódcę goblinów w Kanionie Ognia w trybie hardkorowym."
 
 #. [achievement]: id=tlu_evesdropping
 #: To_Lands_Unknown/achievements.cfg:100
-#, fuzzy
-#| msgid "Evesdropping"
 msgid "Eavesdropping"
 msgstr "Podsłuchiwanie"
 
 #. [achievement]: id=tlu_evesdropping
 #: To_Lands_Unknown/achievements.cfg:101
-#, fuzzy
-#| msgid "Evesdrop a conversation in Dome of Elements."
 msgid "Eavesdrop a conversation in Dome of Elements."
 msgstr "Podsłuchaj rozmowę w Kopule Żywiołów."
 
@@ -342,13 +336,15 @@ msgstr "Ukończ scenariusz Chaos bez aktywowania portalu."
 #. [achievement]: id=tlu_swallow_em_all
 #: To_Lands_Unknown/achievements.cfg:142
 msgid "Swallow 'Em All"
-msgstr ""
+msgstr "Połknij ich wszystkich"
 
 #. [achievement]: id=tlu_swallow_em_all
 #: To_Lands_Unknown/achievements.cfg:143
 msgid ""
 "In Siege of Mag-Magar, kill at least 10 enemy units with the Living Gate."
 msgstr ""
+"W trakcie oblężenia Mag-Magaru, pokonaj 10 jednostek przeciwnika za pomocą "
+"Żyjących Wrót."
 
 #. [achievement]: id=tlu_edward
 #. [then]
@@ -385,12 +381,12 @@ msgstr "Kliknij Rashti zbyt wiele razy."
 #. [achievement]: id=tlu_fortifications
 #: To_Lands_Unknown/achievements.cfg:172
 msgid "Fortifications"
-msgstr ""
+msgstr "Fortyfikacje"
 
 #. [achievement]: id=tlu_fortifications
 #: To_Lands_Unknown/achievements.cfg:173
 msgid "In Defense of Saffaros, build fortifications before turn 3."
-msgstr ""
+msgstr "W misji Obrona Saffaros zbuduj fortyfikacje przed 3 turą."
 
 #. [achievement]: id=tlu_perfect_harmony
 #: To_Lands_Unknown/achievements.cfg:179
@@ -434,27 +430,23 @@ msgstr "Wysłuchaj wszystkich rad dżina"
 
 #. [achievement]: id=tlu_ultimate_focus
 #: To_Lands_Unknown/achievements.cfg:209
-#, fuzzy
-#| msgid "ultimate focus"
 msgid "Ultimate Focus"
-msgstr "ostateczne skupienie"
+msgstr "Ostateczne Skupienie"
 
 #. [achievement]: id=tlu_ultimate_focus
 #: To_Lands_Unknown/achievements.cfg:210
 msgid "Rashti acquires Ultimate Focus trait."
-msgstr ""
+msgstr "Rashti nabywa cechę Ostateczne Skupienie."
 
 #. [achievement]: id=tlu_destroyers_destroyed
 #: To_Lands_Unknown/achievements.cfg:217
-#, fuzzy
-#| msgid "Destroyers"
 msgid "Destroyers Destroyed"
-msgstr "Niszczyciele"
+msgstr "Niszczyciele Zniszczeni"
 
 #. [achievement]: id=tlu_destroyers_destroyed
 #: To_Lands_Unknown/achievements.cfg:218
 msgid "Survive all Destroyers' waves in Ruins."
-msgstr ""
+msgstr "Przetrwaj wszystkie fale Niszczycieli w Ruinach."
 
 #. [achievement]: id=tlu_badass
 #: To_Lands_Unknown/achievements.cfg:225
@@ -517,10 +509,6 @@ msgstr "medytacja"
 
 #. [dummy]: id=meditation
 #: To_Lands_Unknown/macros/abilities.cfg:238
-#, fuzzy
-#| msgid ""
-#| "This unit gains 1 point of experience at the end of his side's turn "
-#| "without move/attack/summon."
 msgid ""
 "This unit gains 1 point of experience at the end of his side's turn without "
 "move/attack/summon. This unit also receives bonus XP for finishing a "
@@ -528,7 +516,9 @@ msgid ""
 msgstr ""
 "Ta jednostka zyskuje 1 punkt doświadczenia na początku swojej tury pod "
 "warunkiem, że w poprzedniej nie przemieszczała się, nie atakowała i nie "
-"przywoływała."
+"przywoływała. Ta jednostka otrzymuje również dodatkowe punkty doświadczenia "
+"za ukończenie misji przed czasem (1 punkt doświadczenia za każdą pozostałą "
+"turę)."
 
 #. [dummy]: id=jinn_philosophy
 #: To_Lands_Unknown/macros/abilities.cfg:247
@@ -606,14 +596,12 @@ msgstr "+1 movement point, -10% HP"
 
 #. [advancement]: id=AMLA_MEHIR_MEDITATION
 #: To_Lands_Unknown/macros/amla.cfg:172
-#, fuzzy
-#| msgid ""
-#| "+1 experience per turn without move/attack/summon, +2 HP, MAX XP +15%"
 msgid ""
 "+1 experience per turn without move/attack/summon, unlocked early finish "
 "bonus XP, +2 HP, MAX XP +15%"
 msgstr ""
-"+1 punkt doświadczenia na turę w przypadku bezczynności, +2HP, MAX XP +15%"
+"+1 punkt doświadczenia na turę w przypadku bezczynności, odblokowane "
+"dodatkowe XP za ukończenie misji przed czasem, +2HP, MAX XP +15%"
 
 #. [advancement]: id=JINN_PHILOSOPHY
 #: To_Lands_Unknown/macros/amla.cfg:206
@@ -1055,19 +1043,14 @@ msgstr "Możesz podnieść ten przedmiot później."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/macros/items.cfg:162
-#, fuzzy
-#| msgid ""
-#| "At the moment you do not have a unit in your army who could use this "
-#| "artifact. However the item will be picked up, so it can wait for a "
-#| "suitable unit to be recruited or recalled."
 msgid ""
 "At the moment you do not have a unit on the map who could use this artifact. "
 "However the item will be picked up, so it can wait for a suitable unit to be "
 "recruited or recalled."
 msgstr ""
-"W tym momencie nie masz jednostki, która mogłaby podnieść ten artefakt. "
-"Zostanie on jednak zabrany, tak aby później można było go przekazać "
-"odpowiedniemu nowemu właścicielowi."
+"W tym momencie nie masz na mapie jednostki, która mogłaby podnieść ten "
+"artefakt. Zostanie on jednak zabrany, tak aby później można było go "
+"przekazać odpowiedniemu nowemu właścicielowi."
 
 #. [option]
 #. [scenario]: id=08_Ka-gatta
@@ -2054,20 +2037,6 @@ msgstr ""
 
 #. [part]
 #: To_Lands_Unknown/macros/storytxt.cfg:352
-#, fuzzy
-#| msgid ""
-#| "There was theoretically no wish that Nomolas couldn’t fulfill. To measure "
-#| "his potential, the Ancestors wished for the most beautiful city in the "
-#| "world, to be located in the middle of the desert, that would become their "
-#| "new home, the capital of their land. Shortly thereafter, the towers al-"
-#| "Kamija risen from the sands.\n"
-#| "\n"
-#| "A few centuries have passed since those days. Nomolas rests in the "
-#| "central palace, wanting not to interfere with our lives. We try to only "
-#| "awaken him if there really is no other choice. The power of magical "
-#| "entities summoned after Nomolas paled in comparison to him, but their "
-#| "power is still not to be underestimated, and is fully sufficient for our "
-#| "needs."
 msgid ""
 "There was theoretically no wish that Nomolas couldn’t fulfill. To measure "
 "his potential, the Ancestors wished for the most beautiful city in the "
@@ -2952,6 +2921,10 @@ msgid ""
 "additional XP every time you finish a scenario before turns run out (+1 XP "
 "for each remaining turn)."
 msgstr ""
+"Odblokowałeś premię do punktów doświadczenia za wcześniejsze ukończenie "
+"scenariusza - od teraz Mehir będzie otrzymywać dodatkowe punkty "
+"doświadczenia za każdym razem, gdy ukończysz scenariusz przed końcem tury "
+"(+1 punkt za każdą pozostałą turę)."
 
 #. [unstore_unit]
 #: To_Lands_Unknown/main-macros.cfg:165 To_Lands_Unknown/main-macros.cfg:208
@@ -3015,22 +2988,22 @@ msgstr ""
 #. [set_menu_item]: id=tlu_swapally
 #: To_Lands_Unknown/main-macros.cfg:673
 msgid "Swap places with this ally."
-msgstr ""
+msgstr "Zamień się miejscami z tym sojusznikiem."
 
 #. [print]
 #: To_Lands_Unknown/main-macros.cfg:710
 msgid "Can't move onto this terrain!"
-msgstr ""
+msgstr "Nie mogę przejść na ten teren!"
 
 #. [print]
 #: To_Lands_Unknown/main-macros.cfg:722
 msgid "Ally can't move onto your tile's terrain!"
-msgstr ""
+msgstr "Sojusznik nie może przejść na ten teren!"
 
 #. [set_menu_item]: id=z_swapping_help
 #: To_Lands_Unknown/main-macros.cfg:755
 msgid "Swapping Units Help"
-msgstr ""
+msgstr "Zamiana miejsc - Pomoc"
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/main-macros.cfg:761
@@ -3048,6 +3021,21 @@ msgid ""
 "\n"
 "(You can view this help message again by right-clicking anywhere on the map)"
 msgstr ""
+"Twoje jednostki mogą zamieniać się miejscami z kontrolowanymi przez AI "
+"sojuszniczymi jednostkami, jeśli im to rozkażesz. Jest to szczególnie "
+"przydatne, jeśli przyjazna jednostka blokuje ważną pozycję na mapie.\n"
+"\n"
+"Aby zamienić się miejscami z sojuszniczą jednostką, najpierw wybierz swoją "
+"własną jednostkę, a następnie kliknij prawym przyciskiem myszy sąsiadującą "
+"sojuszniczą jednostkę i wybierz opcję zamiany miejsc z tą jednostką.\n"
+"\n"
+"Twojej jednostce musi zostać co najmniej 1 punkt ruchu, aby móc zamienić się "
+"miejscami z innymi jednostkami. Zamiana wykorzystuje wszystkie ruchy twojej "
+"jednostki. Możesz wykonać zamianę tylko przeciwko kontrolowanym przez AI "
+"sojuszniczym jednostkom.\n"
+"\n"
+"(Możesz ponownie wyświetlić tę wiadomość pomocy, klikając prawym przyciskiem "
+"myszy w dowolnym miejscu na mapie)"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/00_Prologue.cfg:27
@@ -3302,12 +3290,6 @@ msgstr ""
 
 #. [message]: speaker=wjinn
 #: To_Lands_Unknown/scenarios/00_Prologue.cfg:236
-#, fuzzy
-#| msgid ""
-#| "Yes, to a certain extent. I can predict the approximate outcome of things "
-#| "that are about to happen really soon, but the the further in time I look, "
-#| "the less accurate the predictions become, due to many factors, including "
-#| "the very knowledge about the prediction itself."
 msgid ""
 "Yes, to a certain extent. I can predict the approximate outcome of things "
 "that are about to happen really soon, but the further in time I look, the "
@@ -6274,10 +6256,8 @@ msgstr "Śmierć jakiejkolwiek jaszczurki"
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:904
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:1068
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:1174
-#, fuzzy
-#| msgid "Recruiting a Fire Elemental or its advancements"
 msgid "Recruiting or summoning a Fire Elemental or its advancements"
-msgstr "Rekrutacja żywiołaka ognia"
+msgstr "Rekrutacja lub przywołanie żywiołaka ognia"
 
 #. [print]
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:957
@@ -6418,6 +6398,10 @@ msgid ""
 "additional 50 XP! Inspired by his tactical skills, all his troops present on "
 "the map receive additional 30 XP!"
 msgstr ""
+"Dzięki imponującym osiągnięciom w tym scenariuszu Mehir otrzymuje dodatkowe "
+"50 punktów doświadczenia! Zainspirowani jego umiejętnościami taktycznymi, "
+"wszyscy jego żołnierze obecni na mapie otrzymują dodatkowe 30 punktów "
+"doświadczenia!"
 
 #. [message]: speaker=Rhaxiz
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:1386
@@ -7874,14 +7858,6 @@ msgstr ""
 
 #. [message]: speaker=Instructor
 #: To_Lands_Unknown/scenarios/07_Dome_of_Elements.cfg:189
-#, fuzzy
-#| msgid ""
-#| "Back during the war against the Red Cult, she could kill dozens of enemy "
-#| "troops all by herself. On top of that, she is quite good at motivating "
-#| "soldiers to fight - with both with the charisma and tactical expertise of "
-#| "her blue half and few threats from the red one. With her, any potential "
-#| "deserters knew well that dying in battle is a better fate than what she "
-#| "has in mind should they flee..."
 msgid ""
 "Back during the war against the Red Cult, she could kill dozens of enemy "
 "troops all by herself. On top of that, she is quite good at motivating "
@@ -8446,10 +8422,8 @@ msgstr ""
 
 #. [side]
 #: To_Lands_Unknown/scenarios/08_Ka-gatta.cfg:280
-#, fuzzy
-#| msgid "team_name^Guardians"
 msgid "team_name^Determined Guardians"
-msgstr "Strażnicy"
+msgstr "Zdeterminowani Strażnicy"
 
 #. [scenario]: id=08_Ka-gatta
 #: To_Lands_Unknown/scenarios/08_Ka-gatta.cfg:422
@@ -10844,6 +10818,9 @@ msgid ""
 "If friendly units block your way, you can order your units to swap places "
 "with them. Right-click anywhere on the map for more details."
 msgstr ""
+"Jeśli przyjazne jednostki blokują ci drogę, możesz rozkazać swoim "
+"jednostkom, by zamieniły się z nimi miejscami. Kliknij prawym przyciskiem "
+"myszy w dowolnym miejscu na mapie, aby uzyskać więcej informacji."
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/12_Siege_of_Mag-Magar.cfg:479
@@ -11501,10 +11478,6 @@ msgstr "Poczekaj, sprawdzę. Muszę się skupić..."
 
 #. [message]: speaker=wjinn
 #: To_Lands_Unknown/scenarios/13_A_New_Leader.cfg:520
-#, fuzzy
-#| msgid ""
-#| "I see it now. He will be a jinni. Perhaps think we should name him "
-#| "Edward, what do you think?"
 msgid ""
 "I see it now. He will be a jinni. Maybe we should name him Edward, what do "
 "you think?"
@@ -11704,8 +11677,8 @@ msgstr "Co do... Jaffar? To ty?!"
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/14_Tar-Tabar.cfg:406
 msgid ""
-"Somebody, shut the door! It's drafty in here! My bathwater will "
-"cool- ...Mehir?! Is that you?! What are YOU doing here?"
+"Somebody, shut the door! It's drafty in here! My bathwater will cool- ..."
+"Mehir?! Is that you?! What are YOU doing here?"
 msgstr ""
 "Niech ktoś zamknie drzwi! Zrobił się przeciąg! Jeszcze tego brakowało by mi "
 "woda ostygła w wannie... Mehir?! To ty?! Co TY tu robisz?"
@@ -12841,11 +12814,6 @@ msgstr ""
 
 #. [message]: speaker=Reficul
 #: To_Lands_Unknown/scenarios/15_Abyssal_Rebellion.cfg:397
-#, fuzzy
-#| msgid ""
-#| "Deportation, as usual, for YOUR sake, not ours. I am sick of living under "
-#| "your anthopocratic rule. You force us to serve you, barely give us any "
-#| "rights, and banish any magical being who dares to disobey you!"
 msgid ""
 "Deportation, as usual, for YOUR sake, not ours. I am sick of living under "
 "your anthropocratic rule. You force us to serve you, barely give us any "
@@ -12854,7 +12822,7 @@ msgstr ""
 "Deportacja jak zwykle i to dla wyłącznie WASZEGO spokoju, a nie naszego. Mam "
 "już szczerze dosyć życia pod waszymi rządami, służąc wam a w zamian nie "
 "dostając żadnych praw, a ktokolwiek kto się temu stanu rzeczy przeciwstawia, "
-"zostaje wygnany!..."
+"zostaje wygnany!"
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/15_Abyssal_Rebellion.cfg:401
@@ -14187,11 +14155,6 @@ msgstr "O nie! Wracaj tutaj natychmiast!"
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/15_Abyssal_Rebellion.cfg:2070
-#, fuzzy
-#| msgid ""
-#| "My Master, in my vision I am seeing our Holy Rashti'rhami going rogue "
-#| "after conversation with the enemy leader! And the worst part is, this "
-#| "happens in all possible futures!"
 msgid ""
 "My Master, in my vision I am seeing our Holy Rashti'rhami going rogue after "
 "a conversation with the enemy leader! And the worst part is, this happens in "
@@ -16983,8 +16946,6 @@ msgstr "Wróciłaś! Rety, już myślałem, że przez moment cię straciliśmy!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/19_Sky_Kingdom.cfg:1340
-#, fuzzy
-#| msgid "*ahem* The answer is 41"
 msgid "*ahem* The answer is 41."
 msgstr "*ekhem* Odpowiedź to 41."
 
@@ -17393,7 +17354,7 @@ msgstr "*uśmiecha się delikatnie*"
 #. [scenario]: id=20_Enlightenment
 #: To_Lands_Unknown/scenarios/20_Enlightenment.cfg:361
 msgid "Heindal"
-msgstr ""
+msgstr "Heindal"
 
 #. [message]: speaker=Mage2
 #: To_Lands_Unknown/scenarios/20_Enlightenment.cfg:364
@@ -17973,12 +17934,6 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/20_Enlightenment.cfg:959
-#, fuzzy
-#| msgid ""
-#| "If you truly want to earn our forgiveness, help us retreive this battery "
-#| "instead of merely pointing where it is and having us do all the dirty "
-#| "work. Otherwise, who's to say you aren't just trying to get rid of us by "
-#| "sending us to our deaths in some frozen wasteland?"
 msgid ""
 "If you truly want to earn our forgiveness, help us retrieve this battery "
 "instead of merely pointing where it is and having us do all the dirty work. "
@@ -18102,11 +18057,6 @@ msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/20_Enlightenment.cfg:1015
-#, fuzzy
-#| msgid ""
-#| "Indeed, a Mu is merely a magically and technically augmented goblin. "
-#| "Goblins make for pretty good test subjects. We kidna- erm, gather "
-#| "hundreds of them from the south each year."
 msgid ""
 "Indeed, a Mu is merely a magically and technically augmented goblin. Goblins "
 "make for pretty good test subjects. We kinda- erm, gather hundreds of them "
@@ -21105,23 +21055,17 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:3133
-#, fuzzy
-#| msgid ""
-#| "Glomin is right. We must hurry up and finish the portal while we can do "
-#| "it undisturbed."
 msgid "Glomin is right. We must hurry up and leave this place now."
-msgstr ""
-"Glomin ma rację. Musimy się pospieszyć i ukończyć portal, póki możemy to "
-"zrobić bez przeszkód."
+msgstr "Glomin ma rację. Musimy się pospieszyć i opuścić to miejsce."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:3137
-#, fuzzy
-#| msgid "Agreed. It is time to finally finish this circle!"
 msgid ""
 "Agreed. It is time to finally gather all people inside this circle and "
 "activate it!"
-msgstr "Zgoda. Czas najwyższy ukończyć ten krąg!"
+msgstr ""
+"Zgoda. Nadszedł czas, aby w końcu zebrać wszystkich ludzi wewnątrz kręgu i "
+"aktywować go!"
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:3143
@@ -21657,6 +21601,10 @@ msgid ""
 "mission goals and slightly different story progression. You can access this "
 "mode by starting a new game."
 msgstr ""
+"Gratulujemy ukończenia kampanii! Jeśli chcesz więcej, możesz wypróbować tryb "
+"\"hardkorowy\", który oferuje dodatkową zawartość w postaci alternatywnych "
+"celów misji i nieco innego przebiegu fabuły. Dostęp do tego trybu można "
+"uzyskać, rozpoczynając nową grę."
 
 #. [message]: speaker=narrator
 #: To_Lands_Unknown/scenarios/24_Epilogue.cfg:786
