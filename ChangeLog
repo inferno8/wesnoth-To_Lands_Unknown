@@ -1,6 +1,58 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.12
+
+- General
+	* implemented early finish bonus XP for the meditation AMLA
+	* a new achievement by ForestDragon & IceSandslash: Destroyers Destroyed
+
+- Scenarios
+	> scenario 01 - Highiest Tiers:
+		* Mehir is now properly awarded XP when he kills the last enemy on the map
+	> scenario 04 - Southern Nations:
+		* recalling a Fire Elemental is now properly listed as a defeat condition
+		* Mehir and his troops are now awarded bonus XP for killing Brogh'ur before Rhaxiz reaches his keep
+	> scenario 08 - Ka-gatta:
+		* the ghost and scimitar guardians now belong to a new permamently hostile side to prevent them from joining the player in the badass mode
+		* changed the ai behavior of bats (they will now try to ignore elemental guardians if possible)
+		* clarified the "item pickup for later" message
+		* minor map tweaks
+	> scenario 10 - Chaos:
+		* fixed the Shadow Mage being visible from the start
+		* villages (tents) near the entrance now automatically belong to the player at the beginning of the scenario
+		* fixed event handler error
+	> scenario 13 - A New Leader:
+		* Mehir's friends from S01 now attend the ceremony (if they are still alive)
+	> scenario 13 - Tar-Tabar:
+		* the "Not Your Girlfriend" achievement is awarded right after Rashti makes a remark about it
+		* fixed Rashti's poking event loop
+	> scenario 20 - Enlightenment:
+		* named one of the mages Heindal (after ko-fi supporter of the same name - congratulations!)
+	> scenario 23 - Ruins:
+		* changed the turn limit to exactly how much time remains before the teleportation
+		* it is now possible to ignore the main objectives and fight all Destroyers' waves instead for a special achievement
+	> scenario 24 - Epilogue:
+		* after finishing the campaign in the 'normal' mode, the player is now encouraged to try the 'badass' mode for additional content
+
+- Graphics
+    * added animated destination markers to the world map
+	* extended the Transition cutscene
+    * improved some portraits
+
+- Code
+	* replaced png with webp for portrait filenames to avoid spamming log output
+	* fixed and improved the condition for jinni lamp map elements
+	* fixed Jaffar's stats/traits inconsistency
+	* Mehir no longer gets the veteran trait as a Guard (EoMa 4.8.2 required)
+	* fixed broken "golemball" animhack animation
+	* fixed typos
+	* updated about.cfg
+
+- Translations
+	* updated the translation template file and all .po files
+	* updated the Polish translation
+
 Version 3.11
 
 - General
