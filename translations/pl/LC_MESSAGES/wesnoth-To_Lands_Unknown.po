@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-27 16:43 UTC\n"
-"PO-Revision-Date: 2025-06-19 14:52+0200\n"
+"PO-Revision-Date: 2025-06-27 18:48+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -527,20 +527,15 @@ msgstr "filozofia dżinów"
 
 #. [dummy]: id=jinn_philosophy
 #: To_Lands_Unknown/macros/abilities.cfg:248
-#, fuzzy
-#| msgid ""
-#| "This unit gains 1 point of experience at the end of his side's turn "
-#| "without move/attack/summon. This unit also receives bonus XP for "
-#| "finishing a scenario early (1 XP for every remaining turn)."
 msgid ""
 "This unit gains 3 points of experience at the end of his side's turn without "
 "move/attack/summon. This unit also receives bonus XP for finishing a "
 "scenario early (3 XP for every remaining turn)."
 msgstr ""
-"Ta jednostka zyskuje 1 punkt doświadczenia na początku swojej tury pod "
+"Ta jednostka zyskuje 3 punkty doświadczenia na początku swojej tury pod "
 "warunkiem, że w poprzedniej nie przemieszczała się, nie atakowała i nie "
 "przywoływała. Ta jednostka otrzymuje również dodatkowe punkty doświadczenia "
-"za ukończenie misji przed czasem (1 punkt doświadczenia za każdą pozostałą "
+"za ukończenie misji przed czasem (3 punkt doświadczenia za każdą pozostałą "
 "turę)."
 
 #. [damage]: id=sadism
@@ -613,16 +608,13 @@ msgstr ""
 
 #. [advancement]: id=JINN_PHILOSOPHY
 #: To_Lands_Unknown/macros/amla.cfg:206
-#, fuzzy
-#| msgid ""
-#| "+1 experience per turn without move/attack/summon, unlocked early finish "
-#| "bonus XP, +2 HP, MAX XP +15%"
 msgid ""
 "+3 experience per turn without move/attack/summon, early finish bonus "
 "increased to 3 XP per remaining turn, +2 HP, MAX XP +15%, replaces meditation"
 msgstr ""
-"+1 punkt doświadczenia na turę w przypadku bezczynności, odblokowane "
-"dodatkowe XP za ukończenie misji przed czasem, +2HP, MAX XP +15%"
+"+3 punkty doświadczenia na turę w przypadku bezczynności, +3 punkty "
+"doświadczenia za każdą turę przed upływem czasu do końca scenariusza, +2HP, "
+"MAX XP +15%, podmienia medytację"
 
 #. [advancement]: id=AMLA_MEHIR_FAST_SUMMON
 #. [advancement]: id=AMLA_FAST_SUMMON
@@ -11692,8 +11684,8 @@ msgstr "Co do... Jaffar? To ty?!"
 #. [message]: speaker=Jaffar
 #: To_Lands_Unknown/scenarios/14_Tar-Tabar.cfg:406
 msgid ""
-"Somebody, shut the door! It's drafty in here! My bathwater will "
-"cool- ...Mehir?! Is that you?! What are YOU doing here?"
+"Somebody, shut the door! It's drafty in here! My bathwater will cool- ..."
+"Mehir?! Is that you?! What are YOU doing here?"
 msgstr ""
 "Niech ktoś zamknie drzwi! Zrobił się przeciąg! Jeszcze tego brakowało by mi "
 "woda ostygła w wannie... Mehir?! To ty?! Co TY tu robisz?"
