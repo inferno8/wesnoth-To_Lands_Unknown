@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-06-19 12:46 UTC\n"
+"POT-Creation-Date: 2025-06-27 16:43 UTC\n"
 "PO-Revision-Date: 2012-04-01 10:37+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -167,7 +167,7 @@ msgid "Gameplay Testing"
 msgstr "Tesztelő"
 
 #. [about]
-#: To_Lands_Unknown/about.cfg:145
+#: To_Lands_Unknown/about.cfg:148
 msgid "Ko-fi Supporters"
 msgstr ""
 
@@ -562,8 +562,9 @@ msgstr ""
 #. [dummy]: id=jinn_philosophy
 #: To_Lands_Unknown/macros/abilities.cfg:248
 msgid ""
-"This unit gains 3 point of experience at the end of his side's turn without "
-"move/attack/summon."
+"This unit gains 3 points of experience at the end of his side's turn without "
+"move/attack/summon. This unit also receives bonus XP for finishing a "
+"scenario early (3 XP for every remaining turn)."
 msgstr ""
 
 #. [damage]: id=sadism
@@ -640,65 +641,67 @@ msgstr ""
 
 #. [advancement]: id=JINN_PHILOSOPHY
 #: To_Lands_Unknown/macros/amla.cfg:206
-msgid "+3 experience per turn without move/attack/summon, +2 HP, MAX XP +15%"
+msgid ""
+"+3 experience per turn without move/attack/summon, early finish bonus "
+"increased to 3 XP per remaining turn, +2 HP, MAX XP +15%, replaces meditation"
 msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_FAST_SUMMON
 #. [advancement]: id=AMLA_FAST_SUMMON
-#: To_Lands_Unknown/macros/amla.cfg:239 To_Lands_Unknown/main-macros.cfg:359
+#: To_Lands_Unknown/macros/amla.cfg:245 To_Lands_Unknown/main-macros.cfg:359
 msgid "Summoning a unit only costs 1 MP, but you may not attack, +15% XP."
 msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_VETERANS
-#: To_Lands_Unknown/macros/amla.cfg:273
+#: To_Lands_Unknown/macros/amla.cfg:279
 msgid "Grant 8 XP to elementals summoned, your MAX XP +25%."
 msgstr ""
 
 #. [dummy]: id=tlu_veteran_summons
-#: To_Lands_Unknown/macros/amla.cfg:280
+#: To_Lands_Unknown/macros/amla.cfg:286
 #, fuzzy
 #| msgid "Grand Summoner"
 msgid "veteran summons"
 msgstr "Nagy varázsló"
 
 #. [dummy]: id=tlu_veteran_summons
-#: To_Lands_Unknown/macros/amla.cfg:281
+#: To_Lands_Unknown/macros/amla.cfg:287
 msgid "Summoned units start with 8 XP."
 msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_RESOURCEFUL
-#: To_Lands_Unknown/macros/amla.cfg:314
+#: To_Lands_Unknown/macros/amla.cfg:320
 msgid ""
 "+1 gold each time an adjacent unit dies (except magical/undead), +5 HP, MAX "
 "XP +25%."
 msgstr ""
 
 #. [dummy]: id=tlu_resourceful
-#: To_Lands_Unknown/macros/amla.cfg:321
+#: To_Lands_Unknown/macros/amla.cfg:327
 msgid "resourceful"
 msgstr ""
 
 #. [dummy]: id=tlu_resourceful
-#: To_Lands_Unknown/macros/amla.cfg:322
+#: To_Lands_Unknown/macros/amla.cfg:328
 msgid ""
 "Get a gold coin when an adjacent unit dies (except magical, undead or lvl0 "
 "units)."
 msgstr ""
 
 #. [advancement]: id=AMLA_MEHIR_RESOURCEFUL2
-#: To_Lands_Unknown/macros/amla.cfg:357
+#: To_Lands_Unknown/macros/amla.cfg:363
 msgid ""
 "Get more gold from high-level adjacent enemy deaths (except magical/undead), "
 "+5 HP, MAX XP +25%."
 msgstr ""
 
 #. [dummy]: id=tlu_resourceful2
-#: To_Lands_Unknown/macros/amla.cfg:376
+#: To_Lands_Unknown/macros/amla.cfg:382
 msgid "resourceful II"
 msgstr ""
 
 #. [dummy]: id=tlu_resourceful2
-#: To_Lands_Unknown/macros/amla.cfg:377
+#: To_Lands_Unknown/macros/amla.cfg:383
 msgid ""
 "Get a gold coin when an adjacent unit dies (except magical, undead or lvl0 "
 "units).\n"
@@ -709,19 +712,19 @@ msgid ""
 msgstr ""
 
 #. [advancement]: id=AMLA_HP
-#: To_Lands_Unknown/macros/amla.cfg:413 To_Lands_Unknown/macros/amla.cfg:823
+#: To_Lands_Unknown/macros/amla.cfg:419 To_Lands_Unknown/macros/amla.cfg:829
 msgid "Max HP bonus +5, MAX XP +10%"
 msgstr "Maxumum ÉP +5, Maximum TP +10%"
 
 #. [advancement]: id=AMLA_HP
-#: To_Lands_Unknown/macros/amla.cfg:445
+#: To_Lands_Unknown/macros/amla.cfg:451
 #, fuzzy
 #| msgid "Max HP bonus +5"
 msgid "Max HP bonus +8"
 msgstr "Maximum ÉP +5"
 
 #. [advancement]: id=AMLA_RESISTANCE
-#: To_Lands_Unknown/macros/amla.cfg:468
+#: To_Lands_Unknown/macros/amla.cfg:474
 #, fuzzy
 #| msgid "+20% bonus to fire, cold and arcane resistance"
 msgid ""
@@ -730,103 +733,103 @@ msgid ""
 msgstr "+20% ellenállás tűz, hideg és földöntúli támadások ellen"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:552
+#: To_Lands_Unknown/macros/amla.cfg:558
 #, fuzzy
 #| msgid "+2 damage to scimitar, +1 HP, MAX XP +10%"
 msgid "+2 damage to magical scimitar, +1 HP"
 msgstr "+2 sebzés handzsárral, +1 ÉP, Maximum TP +10%"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:557
+#: To_Lands_Unknown/macros/amla.cfg:563
 #, fuzzy
 #| msgid "+2 damage to magic, +3 HP, MAX XP +20%"
 msgid "+4 damage to magical hammer, +1 HP"
 msgstr "+2 sebzés mágiával, +3 ÉP, Maximum TP +20%"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:562
+#: To_Lands_Unknown/macros/amla.cfg:568
 #, fuzzy
 #| msgid "+2 damage to magic, +3 HP, MAX XP +20%"
 msgid "+3 damage to magic, +3 HP"
 msgstr "+2 sebzés mágiával, +3 ÉP, Maximum TP +20%"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:568
+#: To_Lands_Unknown/macros/amla.cfg:574
 #, fuzzy
 #| msgid "+1 strike to scimitar, +2 HP, MAX XP +30%"
 msgid "+1 strike to magical scimitar, +2 HP, MAX XP +10%"
 msgstr "+1 ütés handzsárral, +2 ÉP, Maximum TP +30%"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:573
+#: To_Lands_Unknown/macros/amla.cfg:579
 #, fuzzy
 #| msgid "+1 movement point, -10 HP"
 msgid "+1 movement point"
 msgstr "+1 mozgáspont, -10 ÉP"
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:579
+#: To_Lands_Unknown/macros/amla.cfg:585
 msgid "+1 experience per turn without move/attack/summon, +2 HP"
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:583
+#: To_Lands_Unknown/macros/amla.cfg:589
 msgid "+3 experience per turn without move/attack/summon"
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:587
+#: To_Lands_Unknown/macros/amla.cfg:593
 msgid ""
 "+1 gold each time an adjacent unit dies (except magical/undead), +5 HP, MAX "
 "XP +10%."
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:591
+#: To_Lands_Unknown/macros/amla.cfg:597
 msgid ""
 "Get more gold from high-level adjacent enemy deaths (except magical/undead), "
 "+5 HP, MAX XP +14%."
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:595
+#: To_Lands_Unknown/macros/amla.cfg:601
 msgid "Summoning a unit only costs 1 MP, but you may not attack."
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:599
+#: To_Lands_Unknown/macros/amla.cfg:605
 msgid "Grant 8 XP to elementals summoned, your MAX XP +14%"
 msgstr ""
 
 #. [advancement]
-#: To_Lands_Unknown/macros/amla.cfg:606
+#: To_Lands_Unknown/macros/amla.cfg:612
 msgid "Max HP bonus +5"
 msgstr "Maximum ÉP +5"
 
 #. [advancement]: id=AMLA_MEHIR_SYNCHRONIZATION
-#: To_Lands_Unknown/macros/amla.cfg:623
+#: To_Lands_Unknown/macros/amla.cfg:629
 #, fuzzy
 #| msgid "circle of destruction"
 msgid "Adds first strike to circle of destruction and scroll, +2 HP, +15% XP."
 msgstr "pusztító kör"
 
 #. [advancement]: id=STRENGTH
-#: To_Lands_Unknown/macros/amla.cfg:672
+#: To_Lands_Unknown/macros/amla.cfg:678
 msgid "+2 scimitar damage, +4 spear damage, +20% XP"
 msgstr ""
 
 #. [advancement]: id=MAGIC_DAMAGE
-#: To_Lands_Unknown/macros/amla.cfg:709
+#: To_Lands_Unknown/macros/amla.cfg:715
 msgid "+2 fireball damage, +3 iceball damage, +6 lightbeam damage, +20% XP"
 msgstr ""
 
 #. [advancement]: id=AMLA_RASHTI_SADISM
-#: To_Lands_Unknown/macros/amla.cfg:755
+#: To_Lands_Unknown/macros/amla.cfg:761
 msgid "+25% damage to enemies below 40% HP, +20% XP"
 msgstr ""
 
 #. [advancement]: id=AMLA_RASHTI_MAJESTY
-#: To_Lands_Unknown/macros/amla.cfg:789
+#: To_Lands_Unknown/macros/amla.cfg:795
 msgid ""
 "On offense, defender retaliates with one less strike, but at least once, "
 "+33% XP"
@@ -1889,8 +1892,8 @@ msgstr "...NEM AZ EGYIK FELÉT!!!"
 #: To_Lands_Unknown/scenarios/21_Skydock.cfg:944
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:560
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:1095
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2243
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2822
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2241
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2820
 msgid "..."
 msgstr "..."
 
@@ -4391,8 +4394,8 @@ msgstr "Legyőzöd Aeriust"
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:546
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1096
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1351
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2009
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2658
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2007
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2656
 msgid "Death of Mehir"
 msgstr "Mehir meghal"
 
@@ -4402,8 +4405,8 @@ msgstr "Mehir meghal"
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:550
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1100
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1356
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2018
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2672
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2016
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2670
 msgid "Your units cost no upkeep during this scenario."
 msgstr ""
 
@@ -5987,7 +5990,7 @@ msgstr "Ha ugyan léteznek azok a szörnyek. Ha nemcsak a te..."
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_Southern_Nations.cfg:687
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1789
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1787
 #, fuzzy
 #| msgid "What? Me?"
 msgid "What the..."
@@ -7437,7 +7440,7 @@ msgstr "Az ördögbe!"
 #: To_Lands_Unknown/scenarios/17_Siege_of_Kharos.cfg:1724
 #: To_Lands_Unknown/scenarios/19_Sky_Kingdom.cfg:1714
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:1069
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2795
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2793
 msgid "Wonderful Jinni! Give me some advice!"
 msgstr ""
 
@@ -7452,7 +7455,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/17_Siege_of_Kharos.cfg:1730
 #: To_Lands_Unknown/scenarios/19_Sky_Kingdom.cfg:1720
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:1075
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2801
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2799
 msgid "Mystical Jinni! Give me some advice!"
 msgstr ""
 
@@ -10831,7 +10834,7 @@ msgstr "A Legfőbb Tanács hosszasan tárgyalta a témát, végül egyhangúlag.
 #. [message]: speaker=Malib
 #. [message]: speaker=Glomin
 #: To_Lands_Unknown/scenarios/13_A_New_Leader.cfg:368
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2211
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2209
 msgid "*cough*"
 msgstr "*köhint*"
 
@@ -16187,7 +16190,7 @@ msgstr ""
 #. [scenario]: id=20_Enlightenment
 #. [event]
 #: To_Lands_Unknown/scenarios/20_Enlightenment.cfg:304
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2125
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2123
 #: To_Lands_Unknown/scenarios/24_Epilogue.cfg:154
 #, fuzzy
 #| msgid "Aerius"
@@ -18171,7 +18174,7 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:690
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2460
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2458
 msgid ""
 "Target acquired. Scanning... Destroyer encountered. Threat level: extremely "
 "dangerous. Executing pacification protocols."
@@ -18179,7 +18182,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:695
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2465
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2463
 msgid ""
 "A 'Destroyer'?! Wait a minute, so the Tharis were worshiping these "
 "creatures?! What the hell have I signed up for?!"
@@ -18187,14 +18190,14 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:700
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2470
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2468
 msgid "Destroying the Destroyers... Quite ironic if I do say so myself."
 msgstr ""
 
 #. [modify_side]
 #: To_Lands_Unknown/scenarios/22_North_Pole.cfg:709
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:331
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2479
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2477
 msgid "Destroyers"
 msgstr ""
 
@@ -18568,7 +18571,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1088
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1999
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1997
 msgid "Create the teleportation circle"
 msgstr ""
 
@@ -18584,19 +18587,19 @@ msgstr ""
 
 #. [objective]: condition=win
 #: To_Lands_Unknown/scenarios/23_Ruins.cfg:1347
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1989
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1987
 msgid "Wait until the circle finishes itself"
 msgstr ""
 
 #. [message]: type=TLU_HoRashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1425
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1423
 msgid ""
 "Sister! Hear the voice of reason! These are the final moments of this last "
 "battle. It is not a good time for our quarrels. We MUST join together."
 msgstr ""
 
 #. [message]: type=TLU_DharmaRashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1429
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1427
 msgid ""
 "Maybe you are right... In our true form nothing can oppose us, even these "
 "things. I'll join you, for now... but one day I am going to return!"
@@ -18604,8 +18607,8 @@ msgstr ""
 
 #. [dummy]: id=tlu_ulimate_focus
 #. [object]
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1460
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1446
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1458
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1444
 msgid ""
 "Rashti's ultimate focus allows her to increase her movement speed by 1. "
 "Also, she cannot be destabilized again (this bonus only lasts until the end "
@@ -18613,40 +18616,40 @@ msgid ""
 msgstr ""
 
 #. [dummy]: id=tlu_ulimate_focus
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1459
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1457
 #, fuzzy
 #| msgid "ultimate circle"
 msgid "ultimate focus"
 msgstr "végső kör"
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1523
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1521
 msgid "Now everyone is in place. It’s about time we got out of here!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1735
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1733
 msgid ""
 "Huh? Where's all that darn noise comin' from? I was in the middle of a good "
 "gaming session on my steam-powered PC..."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1740
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1738
 msgid ""
 "Huh? Where's all that darn noise comin' from? Can't an old dwarf just have "
 "some rest fer goodness's sake?! I hadn't slept in days!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1747
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1745
 msgid ""
 "(looks at the battlefield, eyes wider) My wrench be damned! What is goin' on "
 "here?!"
 msgstr ""
 
 #. [message]: type=EoMa_Steam_Berserker,EoMa_Red_Steam_Ulfserker,EoMa_Steam_Turboserker
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1751
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1749
 msgid ""
 "Reporting: unknown group invaded bunker, intention: steal battery. Attempts "
 "at elimination failed. Their leader can speak our language. He introduced "
@@ -18654,7 +18657,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1755
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1753
 msgid ""
 "*to Mehir* Hey, you! Mehir, was it? Finally, someone that ain't one of 'em "
 "spawns o' darkness lurking 'round here! But why the hell do ye need my "
@@ -18662,7 +18665,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1759
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1757
 msgid ""
 "You see, well, my troops and I got separated from our nation and our "
 "families in the Abyss, so we need the battery's energy to be able to make a "
@@ -18671,7 +18674,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1765
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1763
 msgid ""
 "Look mate, tis' beauty powers the steam berserkers and plenty of other "
 "essential machinery, but most importantly she powers my runic RGB gaming "
@@ -18680,7 +18683,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1770
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1768
 msgid ""
 "Look mate, tis' beauty powers the steam berserkers and plenty of other "
 "essential machinery. She and my burnin' desire to avenge the slaughter of my "
@@ -18689,30 +18692,30 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1797
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1795
 #, fuzzy
 #| msgid "Don’t do th..."
 msgid "Don’t tell me it’s..."
 msgstr "Ne tedd, Rh..."
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1815
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1813
 msgid "You...YOU! NOT AGAIN!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1835
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1833
 msgid "Damn it, they’ve found us!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1840
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1838
 msgid ""
 "Ye brought these abominations 'ere, outsider!!! Now ye doomed us both!!!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1859
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1857
 msgid ""
 "Argh, bloody hell, stuck 'tween a hammer and an anvil... if the abominations "
 "win, we all die, if I let the outsiders take the battery, I have nothing "
@@ -18720,7 +18723,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1864
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1862
 msgid ""
 "Dwarf, whatever is your name, I know that we may be in conflict, but we have "
 "to put out our differences aside for now. Otherwise those monsters are going "
@@ -18728,7 +18731,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1869
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1867
 msgid ""
 "I've little left to lose, human, everyone I knew and loved is long dead, I'm "
 "but a dusty relic of tha past with hardly any meanin' in life, might as well "
@@ -18737,19 +18740,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1875
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1873
 #, fuzzy
 #| msgid "I DO IT!!!"
 msgid "NO!!! WAIT!!!"
 msgstr "MAJD ÉN!!!"
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1880
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1878
 msgid "What could ye possibly offer in return for tha only thing I held dear?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1885
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1883
 msgid ""
 "Look, you said you can't give away the battery because you wouldn't be able "
 "to survive without it here. What if I bring you with me and have you live "
@@ -18757,26 +18760,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1890
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1888
 msgid ""
 "And who are these mysterious 'allies' ye speak of? I still don't fully trust "
 "ya."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1895
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1893
 msgid "Well... they're basically uhh... arrogant mage scientists."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1900
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1898
 msgid ""
 "Arrogant scientific magi? Wait... don't tell me... the Magi civilization "
 "actually survived the cataclysm?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1905
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1903
 msgid ""
 "Well, it's too long to explain, just step onto the platform around the "
 "battery, I am preparing a teleportation circle around it, which should "
@@ -18784,7 +18787,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1909
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1907
 msgid ""
 "Fine, we have a deal, can't be worse than dyin' here. All these millenia of "
 "bein' trapped here and constantly hidin' from those horrors 'ave made me a "
@@ -18795,14 +18798,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1913
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1911
 msgid ""
 "I assure you that Mehir and I will do everything in our power to keep you "
 "safe."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1917
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1915
 msgid ""
 "I sure hope so, lass. Alas, I'm runnin' out of machines: yer troops smashed "
 "many beyond repair! Now gimme some hands, we'll make a combined effort to "
@@ -18810,7 +18813,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1921
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1919
 msgid ""
 "Anyway, my apologies for not introducin' myself earlier. Name's Glomin, son "
 "of Glamthasil. And now, my steam children, time for yer last stand against "
@@ -18818,72 +18821,72 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1927
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1925
 msgid "And fetch all my gaming setup components and bring them to the portal!"
 msgstr ""
 
 #. [message]: speaker=pc_carrier
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1934
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1932
 msgid ""
 "<i>Initiating gaming setup evacuation protocols *packages Glomin's gaming "
 "setup components into a box*</i>"
 msgstr ""
 
 #. [message]: speaker=pc_carrier
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1939
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1937
 msgid "PC evacuation complete."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1971
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1969
 msgid ""
 "We better stay inside the circle. I cannot leave my men, Rashti or Glomin "
 "behind. Abysmal beings except Rashti do not matter."
 msgstr ""
 
 #. [message]: type=EoMa_Wonderful_Jinni,EoMa_Mystical_Jinni,EoMa_Wonderful_Jinni_Summoner,EoMa_Mystical_Jinni_Summoner
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1976
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:1974
 msgid "Hey!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2013
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2662
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2011
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2660
 msgid "Death of Glomin (he blows up the battery before dying)"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2032
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2030
 msgid "There are more of them!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2036
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2034
 msgid ""
 "Fear not, Mehir. Just don't get yourself killed. There are so many things I "
 "want to show you in the Abyss once we get there."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2047
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2045
 msgid "Nu Kajarr En Hassam!"
 msgstr ""
 
 #. [event]
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2130
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2128
 #: To_Lands_Unknown/scenarios/24_Epilogue.cfg:146
 msgid "Antiquarius"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2196
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2194
 msgid ""
 "Oh, you have returned. How nice! We are having dinner in a moment. Mind "
 "joining us?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2201
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2199
 msgid ""
 "Yeah, why not? I am starving after slaying nightmarish beasts, defeating and "
 "allying with an army of mechanical monsters as well as bringing this battery "
@@ -18892,21 +18895,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2207
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2205
 msgid ""
 "I have slain nightmarish beasts, encountered an army of mechanical monsters, "
 "brought this damn battery along with parts..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2216
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2214
 msgid ""
 "...and one inhabitant of that accursed place back here, and the first thing "
 "you do is offer me dinner?!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2221
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2219
 msgid ""
 "Why, of course! Today we are serving a delicious kind of crab from the "
 "western cliffs of Kharos. They call it ‘Holy Crab’. And indeed, its taste is "
@@ -18914,69 +18917,69 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2227
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2225
 msgid ""
 "Ah, I've been longing for some crab since I read about it in your library. "
 "The battery may be important, but a good meal is even more so. Lead the way!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2231
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2229
 msgid "Spoken like a true gourmet! Excellent!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2238
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2236
 #, fuzzy
 #| msgid "What was that?"
 msgid "What about the battery?"
 msgstr "Mi volt ez?"
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2250
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2248
 msgid "But... the battery?"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2255
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2253
 msgid "The battery can wait; the crab cannot. Believe me."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2260
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2258
 #, fuzzy
 #| msgid "Time flies and the Abyss awaits!"
 msgid "Then lead the way!"
 msgstr "Az idő szalad, a Mélység vár rád!"
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2265
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2263
 msgid "*sigh* Fine, I will eat this... crab of yours..."
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2270
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2268
 msgid "Excellent!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2277
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2275
 msgid "What 'bout me? I ain't gonna to eat that grub!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2281
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2279
 msgid "*looks at Glomin, then at Mehir* You brought a <b>dwarf</b> here?!"
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2285
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2283
 msgid ""
 "What for? You shouldn't have bothered! But yeah, it's still a nice bonus."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2289
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2287
 msgid ""
 "“shouldn't have bothered“?! “nice bonus“?! Ye wanna taste me wrench, do ya? "
 "I'll smash yer gob straight through yer teeth! Ye can shove that crab right "
@@ -18984,14 +18987,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2293
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2291
 msgid ""
 "*shrinks back* Uhh... I mean... Uhh... it's a stroke of luck to be visited "
 "by a representative of a dead - err... of a species presumed long extinct!"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2297
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2295
 msgid ""
 "My apologies for my colleague's previous rude remarks. He doesn't appreciate "
 "history nearly as much as I do. I am honored to be able to speak to a "
@@ -19001,36 +19004,36 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2301
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2299
 msgid "<i>*to himself* Finally, someone 'ere with some manners...</i>"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2305
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2303
 msgid "By the way, I am curious, how did you manage to survive for so long?"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2310
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2308
 msgid ""
 "Hibernatin' for millenia that's how! 'cept waking up every few years to do "
 "boot up my gami- Ahem, I mean to do some repairs and such."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2315
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2313
 msgid ""
 "Hibernatin' for millenia that's how! 'cept waking up every few years to do "
 "some repairs and such."
 msgstr ""
 
 #. [message]: speaker=Mage
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2320
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2318
 msgid "*claps his hands* Now, let's treat ourselves to some fine crab meat!"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2347
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2345
 msgid ""
 "Follow me, dwarf. We have plenty of history and technology to discuss over "
 "some good beer, brewed with fresh, pure rainwater, extracted straight from "
@@ -19038,7 +19041,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2351
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2349
 msgid ""
 "I get someone I can chat 'bout technology with, AND booze? Now 'tis is "
 "paradise! Fare ye well, Mehir! Hope yer not gonna choke on that crap they're "
@@ -19046,21 +19049,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2356
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2354
 msgid ""
 "By the way, do ye happen to have a decent source of magical energy I can "
 "borrow?"
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2360
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2358
 #, fuzzy
 #| msgid "What do you want?"
 msgid "What do you need it for?"
 msgstr "Mit akarsz?"
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2364
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2362
 msgid ""
 "*points at the box with gaming pc components* For my erm, steam-powered "
 "runic computational device, packaged in that box. I need it for erm... "
@@ -19068,7 +19071,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2369
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2367
 msgid ""
 "Very well, I'll make sure to arrange that. But in return I ask for your help "
 "with completing my 'Study of Dwarvish Machinery' book, along with writing, "
@@ -19076,55 +19079,55 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2373
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2371
 #, fuzzy
 #| msgid "We have defeated them."
 msgid "We have a deal then."
 msgstr "Legyőztük őket."
 
 #. [message]: speaker=Historian
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2377
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2375
 msgid ""
 "Excellent. Speaking of your computational device, I'll have a golem carry it "
 "with us. Now let's go."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2386
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2384
 #, fuzzy
 #| msgid "Time flies and the Abyss awaits!"
 msgid "Thanks. Now lead the way."
 msgstr "Az idő szalad, a Mélység vár rád!"
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2497
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2495
 msgid "<i>Initiating combat mode, with berserk behavior active.</i>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2512
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2510
 msgid "My goodness! These things are absolutely relentless!"
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2525
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2523
 msgid ""
 "Argh! So I helped ye, and ya dumped me 'ere?! I got nothin' ta lose anymore. "
 "Activate the self-destruc..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2597
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2595
 msgid "<b>We are going to die!</b>"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2633
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2631
 msgid "Finally!!! Time to get the hell out of here!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2649
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2647
 msgid ""
 "I must call Rashti, my men and Glomin to me inside the circle before casting "
 "the activation spell! Whew, I'd never forgive myself, if someone was left "
@@ -19132,35 +19135,35 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2654
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2652
 msgid "Gather all your human units, Rashti and Glomin inside the circle"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2809
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2807
 msgid ""
 "My Master, this place will turn itself into a blazing battlezone in no time!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2814
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2812
 msgid "Your advice is killing me, you know? What else?! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2818
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2816
 msgid "I am accessing parallel universes..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2829
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2827
 msgid ""
 "Strange seemingly sentient humanoid metallic objects keep attacking us from "
 "all directions. Heavy losses. But at some point... a small human appears."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2835
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2833
 msgid ""
 "In this timeline you will discover the battery in a large hall behind the "
 "door. I see strange seemingly sentient humanoid metallic objects attacking "
@@ -19169,12 +19172,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2841
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2839
 msgid "A small human? Do you mean a child?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2845
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2843
 msgid ""
 "Not really, more like a short elder. Then the enemy finds us and surrounds "
 "us from north and south. This is pretty much inevitable as it happens in "
@@ -19182,7 +19185,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2851
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2849
 msgid ""
 "So we need to hurry up. The Destroyers' skeletal minions are actively "
 "looking for us, and I highly doubt that sealing the entrance will hold them "
@@ -19190,7 +19193,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2857
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2855
 msgid ""
 "So we need to hurry up. Those abominations are actively looking for us, and "
 "I highly doubt that sealing the entrance will hold them off forever. What "
@@ -19198,19 +19201,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2863
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2861
 msgid ""
 "I see noise. So many factors... Wait... In 6.7% of the outcomes the small "
 "human wants to help us."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2867
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2865
 msgid "And what if he does not?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2871
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2869
 msgid ""
 "He destroys the battery and blows the whole place up, vaporizing everything "
 "in range of about 3017 and a half stone throws. The area turns into a "
@@ -19219,14 +19222,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2875
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2873
 msgid ""
 "Well, that didn't make much sense. Looks like I forced you to look too far "
 "away in time. Thanks anyway. Let's hope we get lucky..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2884
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2882
 msgid ""
 "My Master! A small human will appear quite soon. He will either offer his "
 "help or will try to kill us. In most of the possibilities, he will choose "
@@ -19234,13 +19237,13 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2889
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2887
 msgid ""
 "Excellent! Sounds like I am going to meet another psychopath! Tell me more!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2893
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2891
 msgid ""
 "Then the enemy appears from north and south. We are completely surrounded. "
 "Heavy losses, and in the 93.6% of the outcomes where the small human doesn't "
@@ -19250,21 +19253,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2899
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2897
 msgid ""
 "My Master! The enemy is going to quickly swarm this place. We really need to "
 "hurry up, or we're as good as dead!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2919
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:2917
 msgid ""
 "Uh... It's getting hot in here. I should use as few Fire Elementals as "
 "possible. It's hard to breath in this place already."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3049
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3047
 msgid ""
 "*gasps* I can hardly breathe... One Fire Elemental more and we will "
 "suffocate in here. The heat coming from these lava pools is already "
@@ -19274,21 +19277,21 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3114
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3112
 msgid ""
 "I don't sense any more foes near us. It would seem we repelled these "
 "abominations' onslaught for now."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3118
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3116
 msgid ""
 "I fought all sorts of foes before, but few even come close to how deadly "
 "these ones were..."
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3123
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3121
 msgid ""
 "We did it! We actually did it! I must say, ye are quite the fine warriors. "
 "Ah, brings back the memories of my kind's valiant last stand against those "
@@ -19296,7 +19299,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glomin
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3127
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3125
 msgid ""
 "But don't relax just yet, friends. Tis' horde we have just destroyed was "
 "only a small fraction of the all the filth roaming the remains of my "
@@ -19305,26 +19308,26 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3133
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3131
 msgid "Glomin is right. We must hurry up and leave this place now."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3137
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3135
 msgid ""
 "Agreed. It is time to finally gather all people inside this circle and "
 "activate it!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3143
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3141
 msgid ""
 "Glomin is right. We must hurry up and finish the portal while we can do it "
 "undisturbed."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3147
+#: To_Lands_Unknown/scenarios/23_Ruins.cfg:3145
 msgid "Agreed. It is time to finally finish this circle!"
 msgstr ""
 
