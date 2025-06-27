@@ -1,6 +1,19 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.12.1
+
+- Units & Abilities
+	* the Jinn Philosophy AMLA no longer stacks with Meditation (it replaces it entirely instead)
+	* the Jinn Philosophy AMLA early finish bonus XP value changed from 1 to 3
+
+- Code
+	* fixed broken achievement icon ("Leader")
+
+- Translations
+	* updated the translation template file and all .po files
+	* updated the Polish translation
+
 Version 3.12
 
 - General
