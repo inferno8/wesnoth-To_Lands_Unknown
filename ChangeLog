@@ -1,6 +1,19 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.13.1
+
+- Graphics
+	* improved Reficul's Sphere halo animation
+
+- Code
+    * fixed incorrect Reficul's Sphere description
+
+- Translations
+	* updated the translation template file and all .po files
+	* updated the Polish translation
+	* updated the Spanish translation
+
 Version 3.13
 
 - General
