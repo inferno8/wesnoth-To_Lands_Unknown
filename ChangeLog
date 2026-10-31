@@ -1,6 +1,35 @@
 To Lands Unknown - ChangeLog
 * * * * * * * * * * * * * * 
 
+Version 3.13.2
+
+- Scenarios
+    > scenario 00 - Morning on al-Kamija:
+        * disabled movie_border for 1.19
+    > scenario 06 - Fire Canyon:
+        * improved badass victory code to take some edge cases into account
+    > scenario 11 - Message:
+        * use [item] instead of animhack for swimmers (1.19)
+    > scenario 12 - Siege of Mag-Magar:
+        * removed missing sound file
+    > scenario 21 - Sky Dock:
+        * removed redundant code
+        * dropped ai_algorithm=idle_ai in favor of controller=null
+
+- Graphics
+    * reduced image size for terrain: m04a.png, m05light.png, m08light.png
+
+- Code
+    * the campaign description is now centered
+    * replaced IS_HERO and IS_LOYAL macros with TLU_IS_HERO_NOTRAIT and TLU_IS_LOYAL_NOTRAIT
+    * replace barred_fence terrain with PLACE_HALO/PLACE_IMAGE for 1.19+
+    * animation compatibility tweaks for animhack (1.19)
+    * set Jaffar's movement to 0 (unit)
+    * updated about.cfg
+
+- Translations
+    * updated the translation template file and all .po files
+
 Version 3.13.1
 
 - Graphics
